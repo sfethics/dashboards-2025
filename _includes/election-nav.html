@@ -10,7 +10,7 @@
                 {% if forloop.last %}
                     <li class="breadcrumb-item active" aria-current="page">{{ crumb[0] | truncate: 30  }}</li>
                 {% else %}
-                    <li class="breadcrumb-item"><a class="" href="{{site.baseurl}}/{{crumb[1]}}/">{{crumb[0]}}</a></li>
+                    <li class="breadcrumb-item"><a class="" href="{{site.baseurl}}/{{crumb[1]}}">{{crumb[0]}}</a></li>
                 {% endif %}
             {% endfor %}
         </ol>
