@@ -1,7 +1,7 @@
-<div class="card {{include.css}}">
+<div class="card {{include.css}} border-1 shadow-sm rounded-4 h-100">
   <div class="card-body">
     {%- if include.index -%}
-    <h3 class="card-title hover-link fs-5" id="fact-{{include.index}}">{{include.title}}
+    <h3 class="card-title hover-link fs-6" id="fact-{{include.index}}">{{include.title}}
       <a class="icon d-none" href="#fact-{{include.index}}"><i class="fa-regular fa-link" aria-hidden="true"></i></a>
     </h3>
     {%- else -%}

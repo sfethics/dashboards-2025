@@ -1,13 +1,16 @@
-<nav class="navbar navbar-expand-md bg-danger">
+<nav class="navbar navbar-expand-md bg-gray">
     <div class="container-fluid">
-            <div class="mx-auto text-light">This site is under development - accurate figures are not represented.</div>
+            <div class="mx-auto text-dark">This site is under development - accurate figures are not represented.</div>
     </div>
 </nav>
 
-<nav id="main-nav" class="navbar navbar-expand-md bg-body-tertiary d-print-none bg-dark"  data-bs-theme="dark" aria-label="Main Site Navbar">
+<nav id="main-nav" class="navbar navbar-expand-md bg-body-septenary d-print-none bg-primary"  data-bs-theme="dark" aria-label="Main Site Navbar">
     <div class="container d-flex justify-content-between align-items-center">
-
-        <a class="navbar-brand" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        <img src="{{ '/assets/images/sf_cseal_2022.svg' | relative_url }}" alt="Seal of the City and County of San Francisco" height="48" width="48" class="me-3" />
+    <a class="navbar-brand d-flex flex-column lh-sm text-white" rel="author" href=""{{ '/' | relative_url }}">
+  <span class="sf-top">San Francisco Ethics Commission</span>
+  <span class="sf-bottom">Campaign Disclosures</span>
+</a>
         <button class="ms-auto navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSiteCollapse" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle site navigation">
                 <span class="navbar-toggler-icon"></span>
         </button>
@@ -32,7 +35,7 @@
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         <i class="fa-regular fa-language"></i>
                     </a>
-                    <ul class="dropdown-menu dropdown-menu-dark">
+                    <ul class="dropdown-menu dropdown-menu-light">
                         <li><a class="dropdown-item" href="#">English</a></li>
                         <li><a class="dropdown-item" href="#">Español</a></li>
                         <li><a class="dropdown-item" href="#">Filipino</a></li>
