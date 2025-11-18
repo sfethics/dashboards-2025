@@ -275,7 +275,8 @@ table {
 }
 .factoid-text {
     text-align: center;
-    font-size: 2.5rem;
+    @extend .display-6; 
+    @extend .fw-semibold;
 }
 .hover-link:hover .icon,
 .hover-link:focus-within .icon {

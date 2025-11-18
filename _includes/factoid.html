@@ -13,8 +13,8 @@
       <p class="{{include.info_css}}">{{include.info}}</p>
     </div>
     {%- endif -%}    
-    <div class="card-text factoid-text fw-semibold">
-        <p class="{{include.data_css}}">{{include.data}}</p>
+    <div class="card-text factoid-text">
+        <span class="{{include.data_css}}">{{include.data}}</span>
     </div>
     {%- if include.link -%}
     <a href="{{include.link}}" class="btn btn-primary">More Info</a>
