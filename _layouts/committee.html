@@ -2,13 +2,19 @@
 layout: default
 electionnav: true
 ---
-{% if page.committee_type == 'general' %}
-    {% assign bgclass = 'quaternary' %}
-{%- else -%}
+{% if page.committee_type == 'ballot measure' %}
     {% assign bgclass = 'primary' %}
+    {% assign cmte_type_text = 'Ballot Measure Committee' %}
+{%- else -%}
+    {% assign bgclass = 'thirdparty' %}
+    {% if page.committee_type == 'general' %}
+        {% assign cmte_type_text = 'General Purpose Committee' %}
+    {% elsif page.committee_type == 'candidate ie' %}
+        {% assign cmte_type_text = 'Independent Expenditure Committee' %}
+    {%- endif -%}
 {%- endif -%}
 <div class="container-md light-border-se">
-    <div class="row bg-{{bgclass}} text-light">
+    <div class="row">
         <div class="col-12">
             <h1 class="page-heading text-center d-flex flex-column my-3">
                 {% if page.filer_name.size > 30 %}
@@ -17,11 +23,14 @@ electionnav: true
                     <span>{{ page.filer_name }}</span>
                 {% endif %}
             </h1>
-            <div class="bg-gradient-line-{{bgclass}}"></div>
+            <div class="">
+                <span class="badge bg-{{bgclass}} text-light px-3 py-1 rounded-pill">
+                                {{ cmte_type_text }}</span>
+            </div>
         </div>
     </div>
     <!-- Summary Info -->
-    <div class="row bg-{{bgclass}} text-light py-3 eth-shadow eth-border-bottom" data="general information">
+    <div class="row" data="general information">
         <div class="col-md-6">
             <div class="info-summary mx-3">
                 <h2 id="summary-totals" class="hover-link">Fundraising & Spending Summary
