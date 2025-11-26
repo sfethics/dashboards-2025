@@ -8,10 +8,10 @@ breadcrumbs:
   - /elections/2025-09-16/
 measures:
 - contest_nid: '214331636'
-  contest_name: 'TBD: Measure to Recall BoS D4 Joel Engardio'
-  contest_link: measuretbd
-  funds: 836884.5
-  expenses: 561756.46
+  contest_name: 'A: Measure A'
+  contest_link: measurea
+  expenses: 1033449.71
+  funds: 1110493.69
 contributors:
 - - Chris Larsen
   - 200000.0
@@ -19,10 +19,10 @@ contributors:
   - 175000.0
 - - John Wolthuis
   - 100000.0
+- - Northern California Carpenters Regional Council Power PAC
+  - 50000.0
 - - San Francisco Police Officers Association PAC
   - 50000.0
-- - Ron Conway
-  - 25000.0
 
 ---
 
