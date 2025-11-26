@@ -383,3 +383,7 @@ thead th:last-child, tfoot th:last-child {
   --bs-table-striped-bg: $tablerowcolor;
   --bs-table-accent-bg: var(--bs-table-striped-bg);
 }
+
+.link-subtle {
+    color: tint-color($dark, 80%);
+}
