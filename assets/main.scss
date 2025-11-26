@@ -387,3 +387,65 @@ thead th:last-child, tfoot th:last-child {
 .link-subtle {
     color: tint-color($dark, 80%);
 }
+// Slightly lighter than $primary for hover/active pill
+$nav-pill-bg: tint-color($primary, 20%); // adjust % to taste
+
+// Slightly lighter pill background on hover
+$nav-pill-bg: tint-color($primary, 20%);
+
+// Accessible inactive text color on dark primary background
+$nav-inactive-text: rgba(255, 255, 255, 0.85);
+
+//Nav Pill Background
+#main-nav .nav-link {
+    position: relative;
+    border-radius: 999px;
+    padding-inline: 0.9rem;
+    padding-block: 0.4rem;
+
+    color: $nav-inactive-text;
+    transition:
+        background-color 0.4s ease,
+        color 0.4s ease,
+        box-shadow 0.4s ease;
+}
+
+#main-nav .nav-link:hover,
+#main-nav .nav-link:focus {
+    background-color: $nav-pill-bg;
+    color: white;  
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.12);
+}
+
+#main-nav .nav-link.active,
+#main-nav .nav-link.show {
+    background-color: $nav-pill-bg;
+    color: white !important;
+    box-shadow:
+        inset 0 0 0 1px rgba(255,255,255,0.2),
+        0 0 4px rgba(0,0,0,0.2);
+}
+
+//Nav Drop-down color
+/* Make the Elections dropdown white with slight transparency */
+#main-nav .dropdown-menu {
+    background-color: rgba(255, 255, 255, 0.9); 
+    color: $dark; 
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    backdrop-filter: blur(4px); 
+}
+
+/* Dropdown items: dark text */
+#main-nav .dropdown-item {
+    color: $dark !important;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Hover/focus state: light grey pill-style hover */
+#main-nav .dropdown-item:hover,
+#main-nav .dropdown-item:focus {
+    background-color: rgba(0, 0, 0, 0.06);
+    color: $dark;
+}
+
+
