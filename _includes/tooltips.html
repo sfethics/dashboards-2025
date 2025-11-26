@@ -1,3 +1,107 @@
+<div class="offcanvas offcanvas-end" tabindex="-1" id="electedOffices" aria-labelledby="electedOfficesLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="electedOfficesLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Elected Offices</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
+        </div>
+        <div class="mt-3">
+            <ul class="list-group">
+                {%- assign candidate_pages = current_pages | where: "layout", "contest_candidate" -%}
+                {%- for p in candidate_pages -%}
+                <li class="list-group-item">
+                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }} </a>
+                </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="offcanvas offcanvas-end" tabindex="-1" id="ballotMeasures" aria-labelledby="ballotMeasuresLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="ballotMeasuresLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Ballot Measures</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
+        </div>
+        <div class="mt-3">
+            <ul class="list-group">
+                {%- assign bm_pages = current_pages | where: "layout", "contest_bmc" -%}
+                {%- for p in bm_pages -%}
+                <li class="list-group-item">
+                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+                </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="about-candidateTT" aria-labelledby="about-candidateTTLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="ballotMeasuresLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>About candidate committee</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+            <p class="text-secondary">
+                        State and local laws require candidates to publicly report the financial activity of their
+                        campaign committees,
+                        including the names of individuals who contribute more than set thresholds in a calendar year
+                        and how funds
+                        are spent. Candidates in San Francisco's Public Financing Program may receive matching City
+                        funds for
+                        contributions from local residents. Third-party committees may raise and spend money to support
+                        or oppose a
+                        candidate, so long as their activity is not coordinated with the candidate's campaign.
+            </p>
+            <h5>Committee details</h5>
+            <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
+                <div>
+                    <small class="text-secondary d-block">Committee Name</small>
+                    <span class="fw-semibold">{{page.filer_name}}</span>
+                </div>
+                <div>
+                    <small class="text-secondary d-block">FPPC ID</small>
+                    <span class="fw-semibold">{{page.filer_id}}</span>
+                </div>
+            </div>
+            {%- if page.pubfi.participant == 'True' -%}
+                <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
+                    <div>
+                        <small class="text-secondary d-block">Public Funds Received To Date</small>
+                        <span class="fw-semibold currency">{{ page.pubfi.total }}</span>
+                    </div>
+                </div>
+            {%- endif -%}
+
+            <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
+                <div>
+                    {%- if page.jurisdiction == "sf" -%}
+                    <span>Data on this page is derived from the committee's electronic filings with the San Francisco Ethics Commission.</span>
+                    {%- elsif page.jurisdiction == "ca" -%}
+                    <span>
+                        This committee files with the California Secretary of State. Data on this page is derived from electronic filings with the San Francisco Ethics Commission and a nightly download of data from the Secretary of State's office.
+                    </span>
+                    {%- endif -%}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="cmte-detailsTT" aria-labelledby="cmte-detailsTTLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="ballotMeasuresLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Committee Details</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+        </div>
+    </div>
+</div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="contributorsTT" aria-labelledby="contributorsTTLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="contributorsTTLabel">About the contributors table</h5>

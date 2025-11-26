@@ -23,16 +23,25 @@ $primary: #004A80;
 // $secondary: #005A56;
 // $tertiary: #3D408B;
 $tertiary: #005A56;
-$quaternary: #3D408B;
-$quinary: #000A80;
-$senary: #008076;
+// $quaternary: #3D408B;
+// $quinary: #000A80;
+// $senary: #008076;
+// $septenary: white;
+$contributions: #2E7D32;
+$expenditures: #D1031B;
+$thirdparty: #3D408B;
+$tableheadcolor: #edf1f4;
+$tablerowcolor: #fefeff;
 
+$gray: #F8FAFC;
 $dark: #212529;
 $red: #771a1a;
+$contributions-subtle: tint-color($contributions, 90%);
+$expenditures-subtle: tint-color($expenditures, 90%);
 $tertiary-subtle: tint-color($tertiary, 80%);
-$quaternary-subtle: tint-color($quaternary, 80%);
-$quinary-subtle: tint-color($quinary, 80%);
-$senary-subtle: tint-color($senary, 80%);
+// $quaternary-subtle: tint-color($quaternary, 90%);
+// $quinary-subtle: tint-color($quinary, 80%);
+// $senary-subtle: tint-color($senary, 80%);
 $theme-colors-text: (
   "tertiary": white,
   "quaternary": white,
@@ -44,14 +53,16 @@ $theme-colors-text: (
 
 // Create custom color map
 $custom-colors: (
-  "tertiary": $tertiary,
-  "tertiary-subtle": $tertiary-subtle,
-  "quaternary": $quaternary,
-  "quaternary-subtle": $quaternary-subtle,
-  "quinary": $quinary,
-  "quinary-subtle": $quinary-subtle,
-  "senary": $senary,
-  "senary-subtle": $senary-subtle
+    "tableheadcolor": $tableheadcolor,
+    "tablerowcolor": $tablerowcolor,
+    "gray": $gray,
+    "expenditures": $expenditures,  
+    "contributions": $contributions,
+    "thirdparty": $thirdparty,
+    "expenditures-subtle": $expenditures-subtle,
+    "contributions-subtle": $contributions-subtle,
+    "tertiary": $tertiary,
+    "tertiary-subtle": $tertiary-subtle
 );
 // Merge the maps
 $theme-colors: map-merge($theme-colors, $custom-colors);
@@ -102,7 +113,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // end bootstrap import
 
-
+/*
 $utilities: map-merge(
   $utilities,
   (
@@ -117,7 +128,7 @@ $utilities: map-merge(
       )
     )
   )
-);
+);*/
 
 /* Put any custom CSS here */
 // body {
@@ -142,9 +153,9 @@ h6 {
     h5 {
         font-size: 1rem;
     }
-    .cm-contributors.col-table-6 .dt-container, .cm-expenditures.col-table-6 .dt-container {
+    .cm-contributors .dt-container, .cm-expenditures .dt-container {
         //targets the dt table search box
-        margin-top: -2.5rem;
+        margin-top: -3.75rem;
     }
 
 }
@@ -152,11 +163,15 @@ h6 {
     .cm-contributors.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(1),
     .cm-expenditures.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(1) {
         //left aligns the search box
-        display: none !important;
+        //display: none !important;
     }
-    .cm-contributors.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(2),
-    .cm-expenditures.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(2) {
-        //left aligns the search box
+    .cm-contributors .dt-container, .cm-expenditures .dt-container {
+        //top margin on mobile for search box
+        margin-top: -1.5rem;
+    }
+    .cm-contributors .dt-container > div:nth-child(1) > div:nth-child(2),
+    .cm-expenditures .dt-container > div:nth-child(1) > div:nth-child(2) {
+        //left aligns the search box on mobile
         margin: 0 !important;
         .dt-search {
             text-align: left;
@@ -169,13 +184,16 @@ h6 {
         border-right: 1px solid $light-border-subtle;
    }
 }
-.cm-contributors h2, .cm-expenditures h2 {
+.cm-contributors h3, .cm-expenditures h3 {
     position: relative;
     z-index: 2;
     display: inline;
 }
 .bg-red {
     background-color: $red !important;
+}
+.bg-gray {
+    background-color: $gray !important;
 }
 .offcanvas.offcanvas-start {
     width: 600px;
@@ -187,14 +205,17 @@ h6 {
     text-decoration: none;
 }
 .breadcrumb-item+.breadcrumb-item::before {
-    color: white;
+    color: rgb(100, 116, 139);
 }
 .breadcrumb-item a {
-    color: white;
+    color: rgb(100, 116, 139);
 }
 .breadcrumb-item.active {
-    color: white;
+    color: rgb(100, 116, 139);
     font-weight: bold;
+}
+.breadcrumb {
+  --bs-breadcrumb-divider: "\203A"; /* › character */
 }
 img.profile {
     border-radius: 50%;
@@ -203,7 +224,7 @@ img.profile {
 }
 table {
     th {
-        background-color: var(--bs-dark-bg-subtle) !important;
+        background-color: $tableheadcolor !important;
         white-space: nowrap;
     }
 }
@@ -228,15 +249,15 @@ table {
 }
 
 // use these together with card
-.money-card {
-    text-align: center;
+//.money-card {
+    //text-align: center;
     // .card-text {
     //     font-size: 1.5rem;
     // }
     // .card-title {
     //     font-size: 1rem;
     // }
-}
+//}
 // .money-card-1 {
 //     background-color: mix(white, $secondary, 50%);
 // }
@@ -251,7 +272,8 @@ table {
 }
 .factoid-text {
     text-align: center;
-    font-size: 2.5rem;
+    @extend .display-6; 
+    @extend .fw-semibold;
 }
 .hover-link:hover .icon,
 .hover-link:focus-within .icon {
@@ -262,6 +284,15 @@ table {
     z-index: 2;
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3);
 }
+.box-shadow-contributions {
+    box-shadow: 0 0 0.15rem $contributions;
+}
+.box-shadow-expenditures {
+    box-shadow: 0 0 0.15rem $expenditures;
+}
+.box-shadow-thirdparty {
+    box-shadow: 0 0 0.15rem $thirdparty;
+}
 .eth-border-top {
     border-top: 7px solid $red;
 }
@@ -270,12 +301,13 @@ table {
 }
 thead th:first-child, tfoot th:first-child {
   border-top-left-radius: 6px;
-  border-bottom-left-radius: 6px;
+  
 }
 thead th:last-child, tfoot th:last-child {
   border-top-right-radius: 6px;
-  border-bottom-right-radius: 6px;
+  
 }
+/*
 .bg-gradient-line-primary {
     background: linear-gradient(90deg, $primary 0%, rgba(255, 255, 255, 1) 40%, rgba(255, 255, 255, 1) 60%, $primary 100%);
     height: 2px;
@@ -305,4 +337,49 @@ thead th:last-child, tfoot th:last-child {
     height: 2px;
     margin: auto;
     width: 15rem;
+}*/
+
+.navbar-brand {
+    line-height: 1.1;
+    align-items: flex-start; /* aligns left edge of both lines */
+}
+
+.navbar-brand .sf-top {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;     /* spreads top line */
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.navbar-brand .sf-bottom {
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.custom-card-header {
+    background-color: transparent !important;
+    border-bottom: none !important;
+    padding-top: 1rem;  /* optional for spacing */
+    padding-bottom: 0;  /* optional for spacing */
+}
+/* Bootstrap’s nth-of-type striping */
+#contributors_table.table.table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: $tablerowcolor !important;
+}
+
+/* DataTables’ own odd-row class (if its CSS is overriding) */
+#contributors_table.dataTable tbody tr.odd > * {
+  background-color: $tablerowcolor !important;
+}
+
+/* Optional: keep the “accent” variable aligned for other effects */
+#contributors_table {
+  --bs-table-striped-bg: $tablerowcolor;
+  --bs-table-accent-bg: var(--bs-table-striped-bg);
 }

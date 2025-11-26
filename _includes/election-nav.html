@@ -1,10 +1,10 @@
-<nav aria-label="Navbar for Election pages" class="py-2 text-bg-dark">
+<nav aria-label="Navbar for Election pages" class="py-2 text-bg-septenary">
     {%- assign election = page.election -%}
     {%- if election == nil -%}
     {%- assign election = '2024-11-05'-%}
     {%- endif -%}
     {%- assign current_pages = site.pages | where: "election", election -%}
-    <div class="container-md d-flex justify-content-between align-items-center flex-wrap row-gap-3">
+    <div class="container-md d-flex justify-content-between flex-wrap row-gap-1">
         <ol class="breadcrumb m-0">
             {% for crumb in page.breadcrumbs %}
                 {% if forloop.last %}
@@ -15,63 +15,21 @@
             {% endfor %}
         </ol>
 
-        <div class="mx-auto mx-lg-0">
+        <div class="mx-lg-0">
             {%- assign contributors_page = current_pages | where: "layout", "contributors" | first -%}
-            <a href="{{ contributors_page.url | relative_url }}" class="btn btn-sm btn-light btn-outline-secondary {%- if page.layout == 'contributors' %} active" aria-current="page{% endif -%}" type="button">
-                Contributors
-            </a>
+            <!-- <a href="{{ contributors_page.url | relative_url }}" class="btn btn-sm btn-light btn-outline-primary {%- if page.layout == 'contributors' %} active" aria-current="page{% endif -%}" type="button">
+                <i class="fa-regular fa-user-magnifying-glass me-2" aria-hidden="true"></i>Contributors
+            </a> -->
             <div class="btn-group">
-                <button class="btn btn-sm btn-light btn-outline-secondary" type="button" data-bs-toggle="offcanvas" data-bs-target="#electedOffices"
+                <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#electedOffices"
                     aria-controls="electedOffices">
-                    Elected Offices
+                    <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Elected Offices
                 </button>
-                <button class="btn btn-sm btn-light btn-outline-secondary" type="button" data-bs-toggle="offcanvas" data-bs-target="#ballotMeasures"
+                <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#ballotMeasures"
                     aria-controls="ballotMeasures">
-                    Ballot Measures
+                    <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Ballot Measures
                 </button>
             </div>
         </div>
     </div>
 </nav>
-<div class="offcanvas offcanvas-end" tabindex="-1" id="electedOffices" aria-labelledby="electedOfficesLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="electedOfficesLabel">Elected Offices</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-        <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
-        </div>
-        <div class="mt-3">
-            <ul class="list-group">
-                {%- assign candidate_pages = current_pages | where: "layout", "contest_candidate" -%}
-                {%- for p in candidate_pages -%}
-                <li class="list-group-item">
-                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }} </a>
-                </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="offcanvas offcanvas-end" tabindex="-1" id="ballotMeasures" aria-labelledby="ballotMeasuresLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="ballotMeasuresLabel">Ballot Measures</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-        <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
-        </div>
-        <div class="mt-3">
-            <ul class="list-group">
-                {%- assign bm_pages = current_pages | where: "layout", "contest_bmc" -%}
-                {%- for p in bm_pages -%}
-                <li class="list-group-item">
-                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
-                </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-    </div>
-</div>
