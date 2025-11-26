@@ -115,10 +115,24 @@ function formatAllCurrencyElements(containerId) {
   });
 }
 
+function formatAllDateElements() {
+  document.querySelectorAll('.formatted-date').forEach(el => {
+    const [year, month, day] = el.textContent.split("-").map(Number);
+    const dateObj = new Date(year, month - 1, day);
+    el.textContent = new Intl.DateTimeFormat("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric"
+        }).format(dateObj);
+  });
+}
+
 window.addEventListener('DOMContentLoaded', () => {
   // Format ALL `.currency` elements 
   formatAllCurrencyElements();
   
   // Format ALL `.percentage` elements 
-  formatAllPercentageElements()
+  formatAllPercentageElements();
+
+  formatAllDateElements();
 });

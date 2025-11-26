@@ -153,9 +153,9 @@ h6 {
     h5 {
         font-size: 1rem;
     }
-    .cm-contributors.col-table-6 .dt-container, .cm-expenditures.col-table-6 .dt-container {
+    .cm-contributors .dt-container, .cm-expenditures .dt-container {
         //targets the dt table search box
-        margin-top: -2.5rem;
+        margin-top: -3.75rem;
     }
 
 }
@@ -163,11 +163,15 @@ h6 {
     .cm-contributors.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(1),
     .cm-expenditures.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(1) {
         //left aligns the search box
-        display: none !important;
+        //display: none !important;
     }
-    .cm-contributors.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(2),
-    .cm-expenditures.col-table-6 .dt-container > div:nth-child(1) > div:nth-child(2) {
-        //left aligns the search box
+    .cm-contributors .dt-container, .cm-expenditures .dt-container {
+        //top margin on mobile for search box
+        margin-top: -1.5rem;
+    }
+    .cm-contributors .dt-container > div:nth-child(1) > div:nth-child(2),
+    .cm-expenditures .dt-container > div:nth-child(1) > div:nth-child(2) {
+        //left aligns the search box on mobile
         margin: 0 !important;
         .dt-search {
             text-align: left;
@@ -180,7 +184,7 @@ h6 {
         border-right: 1px solid $light-border-subtle;
    }
 }
-.cm-contributors h2, .cm-expenditures h2 {
+.cm-contributors h3, .cm-expenditures h3 {
     position: relative;
     z-index: 2;
     display: inline;

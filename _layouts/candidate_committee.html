@@ -52,8 +52,9 @@ electionnav: true
 <div class="container my-4" aria-label="Campaign finance summary">
     <div class="row g-4">
         <h2 class="mb-0">Summary Totals</h2>
-         <p class="text-secondary mb-0 mt-1 small">
-                        Covers disclosed activity between {{page.dates[0]}} and {{page.dates[1]}}
+         <p class="mb-0 mt-1">
+                        Covers disclosed activity between <span class="formatted-date">{{page.dates[0]}}</span>
+                         and <span class="formatted-date">{{page.dates[1]}}</span>
                     </p>
         <!-- Total Contributions -->
         <div class="col-lg-6">
@@ -133,10 +134,9 @@ electionnav: true
     <h2>Activity Details</h2>
     <div class="row g-4">
         <!-- Contributors -->
-        <div class="col-12 col-lg-6">
+        <div class="col-lg-6 cm-contributors">
             <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-
-                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
+                <div class="card-header custom-card-header">
                     <h3 id="contributors" class="hover-link mb-0">
                         <span class=""><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Contributors</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#contributorsTT"
@@ -148,7 +148,7 @@ electionnav: true
                     </h3>
                 </div>
                 <div class="card-body p-3 p-sm-4">
-                    <div class="table-responsive">
+                    
                         <table id="contributors_table" class="table align-middle mb-0 w-100"
                             data-page-length="10" data-ordering="false">
                             <thead class="table-light">
@@ -177,16 +177,16 @@ electionnav: true
                                 {% endfor %}
                             </tbody>
                         </table>
-                    </div>
+                    
                 </div>
 
             </div>
         </div>
         <!-- Expenditures -->
-        <div class="col-12 col-lg-6">
+        <div class="col-lg-6 cm-expenditures">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
 
-                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
+                <div class="card-header custom-card-header">
                     <h3 id="expenditures" class="hover-link mb-0">
                         <span class=""><i class="fa-solid fa-money-check " aria-hidden="true"></i> Expenditures</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#expendituresTT"
@@ -198,7 +198,7 @@ electionnav: true
                     </h3>
                 </div>
                 <div class="card-body p-3 p-sm-4">
-                    <div class="table-responsive mt-4">
+                    
                         <table id="expenditures_table" class="table align-middle mb-0 w-100" data-page-length="10"
                             data-ordering="false">
                             <thead class="table-light">
@@ -216,7 +216,7 @@ electionnav: true
                                 {% endfor %}
                             </tbody>
                         </table>
-                    </div>
+                    
                 </div>
 
             </div>
@@ -298,22 +298,22 @@ electionnav: true
 </div>-->
 
 <!-- IEs -->
-<div class="container my-5" aria-label="Independent Expenditures">
-    <div class="row g-4">
+<div class="container" aria-label="Independent Expenditures">
+    <div class="row">
 
         {% if page.ie_measures -%}
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-                    <h2 id="ie-measures" class="hover-link mb-0 h5">
-                        <span class="text-expenditures"><i class="fa-solid fa-money-check text-expenditures" aria-hidden="true"></i> Independent Expenditures Regarding Ballot Measures</span>
+                    <h3 id="ie-measures" class="hover-link mb-0">
+                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Independent Expenditures Regarding Ballot Measures</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#ie-measuresTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Independent Expenditures Regarding Ballot Measures"></i>
                         <a class="icon d-none link-dark" href="#ie-measures">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
-                    </h2>
+                    </h3>
                 </div>
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="ie-measures_table">
@@ -337,21 +337,22 @@ electionnav: true
                 </div>
             </div>
         </div>
+        <div class="mt-5"></div>
         {%- endif %}
 
         {%- if page.ie_candidates -%}
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-                    <h2 id="ie-candidates" class="hover-link mb-0 h5">
-                        <span class="text-expenditures"><i class="fa-solid fa-money-check text-expenditures" aria-hidden="true"></i> Independent Expenditures Regarding Candidates</span>
+                    <h3 id="ie-candidates" class="hover-link mb-0">
+                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Independent Expenditures Regarding Candidates</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#ie-candidatesTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Independent Expenditures Regarding Candidates"></i>
                         <a class="icon d-none link-dark" href="#ie-candidates">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
-                    </h2>
+                    </h3>
                 </div>
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="ie-candidates_table">
@@ -377,21 +378,22 @@ electionnav: true
                 </div>
             </div>
         </div>
+        <div class="mt-5"></div>
         {%- endif %}
 
         {%- if page.F497P2 -%}
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-                    <h2 id="f497p2" class="hover-link mb-0 h5">
-                        <span class="text-contributions"><i class="fa-solid fa-money-check text-contributions" aria-hidden="true"></i> Late Period Contributions Made</span>
+                    <h3 id="f497p2" class="hover-link mb-0">
+                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Late Period Contributions Made</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#f497p2TT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Late Period Contributions Made"></i>
                         <a class="icon d-none link-dark" href="#f497p2">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
-                    </h2>
+                    </h3>
                 </div>
                 <div class="card-body">
                     <table class="table caption-top dt_f497p2 mb-0" id="f497p2_table">
@@ -423,21 +425,22 @@ electionnav: true
                 </div>
             </div>
         </div>
+        <div class="mt-5"></div>
         {%- endif %}
 
         {%- if page.ies -%}
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-                    <h2 id="schedule-d" class="hover-link mb-0 h5">
-                        <span class="text-expenditures"><i class="fa-solid fa-money-check text-expenditures" aria-hidden="true"></i> Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
+                    <h3 id="schedule-d" class="hover-link mb-0">
+                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#schedule-dTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Expenditures Supporting/Opposing Other Candidates, Measures and Committees"></i>
                         <a class="icon d-none link-dark" href="#schedule-d">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
-                    </h2>
+                    </h3>
                 </div>
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="schedule-d_table">
@@ -469,6 +472,7 @@ electionnav: true
                 </div>
             </div>
         </div>
+        <div class="mt-5"></div>
         {%- endif %}
 
     </div>
@@ -588,7 +592,13 @@ filings=page.filings
                 }
             }
         ],
-        pagingType: 'simple_numbers',
+        layout: {
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
         language: {
             search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
             searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
@@ -617,7 +627,13 @@ filings=page.filings
                 }
             }
         ],
-        pagingType: 'simple_numbers',
+        layout: {
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
         language: {
             search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
             searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
@@ -631,9 +647,16 @@ filings=page.filings
         }
     });
     new DataTable('#filings_table', {
-        pageLength: 5,
+        pageLength: 10,
         lengthChange: false,
-        searching: false
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        }
     });
     new DataTable('#third_party_table', {
         displayLength: -1,
@@ -673,6 +696,14 @@ filings=page.filings
                 }
             }
         ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        }
     });
 
     new DataTable('table.dt_f497p2', {
@@ -689,5 +720,13 @@ filings=page.filings
                 }
             }
         ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        }
     });
 </script>
