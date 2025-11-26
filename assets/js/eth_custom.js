@@ -120,7 +120,7 @@ function formatAllDateElements() {
     const [year, month, day] = el.textContent.split("-").map(Number);
     const dateObj = new Date(year, month - 1, day);
     el.textContent = new Intl.DateTimeFormat("en-US", {
-        month: "short",
+        month: "long",
         day: "numeric",
         year: "numeric"
         }).format(dateObj);
