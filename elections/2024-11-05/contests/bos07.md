@@ -19,7 +19,7 @@ candidates:
   filer_id: '1461157'
   committee_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
   candidate_name: STEPHEN MARTIN-PINTO
-  funds: 188227.42
+  funds: 186227.42
   expenses: 156522.42
 - filer_nid: '208447120'
   filer_id: '1461776'
@@ -27,7 +27,35 @@ candidates:
   candidate_name: MATTHEW BOSCHETTO
   funds: 416443.0
   expenses: 399668.41
-ie_candidates: []
+ie_candidates:
+- candidate_name: MYRNA MELGAR
+  filer_id: '1461513'
+  committees:
+  - position: SUPPORT
+    filer_id: '842018'
+    committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+    funds: ''
+    expenses: 2005.71
+  - position: SUPPORT
+    filer_id: '991525'
+    committee_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+      Political Action Committee
+    funds: ''
+    expenses: 1809.93
+- candidate_name: MATTHEW BOSCHETTO
+  filer_id: '1461776'
+  committees:
+  - position: OPPOSE
+    filer_id: '991525'
+    committee_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+      Political Action Committee
+    funds: ''
+    expenses: 55164.58
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 55031.3
 contributors:
 - - Gayle Conway
   - 1000.0

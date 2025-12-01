@@ -56,8 +56,6 @@ contributors:
   - 113000.0
 - - S.e. Owens & Company
   - 317.9
-- - Unitemized Schedule C
-  - 0.0
 
 ---
 

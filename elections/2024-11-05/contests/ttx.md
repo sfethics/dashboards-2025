@@ -14,11 +14,16 @@ candidates:
   committee_name: CISNEROS FOR TREASURER 2024
   candidate_name: JOSE CISNEROS
   funds: 37568.0
-  expenses: 19961.07
+  expenses: 20461.07
 ie_candidates:
 - candidate_name: JOSE CISNEROS
   filer_id: '1464921'
   committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.79
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON

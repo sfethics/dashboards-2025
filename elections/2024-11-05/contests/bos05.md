@@ -31,11 +31,11 @@ candidates:
   filer_id: '1469692'
   committee_name: SCOTTY JACOBS FOR SUPERVISOR 2024
   candidate_name: SCOTT JACOBS
-  funds: 272615.0
+  funds: 267655.0
   expenses: 267715.05
 ie_candidates:
 - candidate_name: DEAN PRESTON
-  filer_id: '1462498'
+  filer_id: '14624981462498'
   committees:
   - position: OPPOSE
     filer_id: '1456335'
@@ -43,9 +43,30 @@ ie_candidates:
       FOR SUPERVISOR 2024
     funds: 297346.91
     expenses: 102426.57
+  - position: SUPPORT
+    filer_id: '1471862'
+    committee_name: Building a Working SF Sponsored by Labor Organizations
+    funds: 0.0
+    expenses: 10306.2
 - candidate_name: BILAL MAHMOOD
   filer_id: '1466322'
   committees:
+  - position: OPPOSE
+    filer_id: '1469854'
+    committee_name: Fix our City SF, Sponsored by Labor Organizations
+    funds: 0.0
+    expenses: 134178.1
+  - position: OPPOSE
+    filer_id: '991525'
+    committee_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+      Political Action Committee
+    funds: 0.0
+    expenses: 65878.55
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 14939.79
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
@@ -53,7 +74,7 @@ ie_candidates:
     funds: 0.0
     expenses: 128967.67
 - candidate_name: SCOTT JACOBS
-  filer_id: '1469692'
+  filer_id: '14696921469692'
   committees:
   - position: SUPPORT
     filer_id: '1472583'

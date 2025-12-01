@@ -37,7 +37,7 @@ candidates:
   filer_id: '1468978'
   committee_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
   candidate_name: LAURANCE LEE
-  funds: 40714.04
+  funds: 25714.04
   expenses: 25714.04
 - filer_nid: '211514705'
   filer_id: '1469320'
@@ -67,7 +67,7 @@ candidates:
   filer_id: '1470791'
   committee_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
   candidate_name: MIN CHANG
-  funds: 101505.5
+  funds: 72505.5
   expenses: 72005.0
 - filer_nid: '211746745'
   filer_id: '1471701'
@@ -76,36 +76,94 @@ candidates:
   funds: 15715.0
   expenses: 15715.0
 ie_candidates:
+- candidate_name: MATT ALEXANDER
+  filer_id: '1468565'
+  committees:
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 15618.45
 - candidate_name: PARAG GUPTA
   filer_id: '1469320'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.82
+  - position: SUPPORT
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 3269.62
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.12
 - candidate_name: JOHN JERSIN
   filer_id: '1468546'
   committees:
   - position: SUPPORT
-    filer_id: '1456335'
-    committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
-      FOR SUPERVISOR 2024
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
     funds: ''
-    expenses: 229.22
-- candidate_name: JAIME HULING
-  filer_id: '1468481'
-  committees:
+    expenses: 14939.81
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.16
+- candidate_name: JAIME HULING
+  filer_id: '1468481'
+  committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
+  - position: SUPPORT
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 3269.62
+  - position: SUPPORT
+    filer_id: '1456335'
+    committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
+      FOR SUPERVISOR 2024
+    funds: ''
+    expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.11
 - candidate_name: SUPRYIA RAY
   filer_id: '1469269'
   committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
+  - position: SUPPORT
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 34117.79
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON

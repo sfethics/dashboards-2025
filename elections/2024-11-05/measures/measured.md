@@ -53,7 +53,7 @@ committees:
   filer_id: '1467847'
   committee_name: MAYOR MARK FARRELL FOR YES ON PROP D
   funds: 2547251.67
-  expenses: 2554110.26
+  expenses: 2560192.53
   ies: ''
 multi_committees:
 - position: MULTIPLE
@@ -69,7 +69,7 @@ multi_committees:
   filer_id: '1472007'
   committee_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
     NEIGHBORS AND AARON PESKIN
-  funds: 136381.86
+  funds: 127321.6
   expenses: 93875.73
 contributors:
 - - Michael Moritz

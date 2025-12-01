@@ -45,8 +45,6 @@ contributors:
   - 2500.0
 - - Myrna Melgar
   - 500.0
-- - Unitemized Schedule C
-  - 0.0
 
 ---
 

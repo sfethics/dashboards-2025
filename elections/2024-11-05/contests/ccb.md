@@ -19,8 +19,8 @@ candidates:
   filer_id: '1468588'
   committee_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
   candidate_name: ALIYA CHISTI
-  funds: 41154.46
-  expenses: 35918.41
+  funds: 42610.61
+  expenses: 42794.12
 - filer_nid: '211490392'
   filer_id: '1468029'
   committee_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
@@ -37,7 +37,7 @@ candidates:
   filer_id: '1469328'
   committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
   candidate_name: RUTH FERGUSON
-  funds: 70141.6
+  funds: 55141.6
   expenses: 56489.12
 - filer_nid: '211629804'
   filer_id: '1469127'
@@ -55,21 +55,36 @@ candidates:
   filer_id: '1475268'
   committee_name: JULIO RAMOS FOR COLLEGE BOARD 2024
   candidate_name: JULIO RAMOS
-  funds: 58549.0
+  funds: 21549.0
   expenses: 57191.0
 ie_candidates:
 - candidate_name: LUIS ZAMORA
   filer_id: '1468029'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '842018'
+    committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+    funds: ''
+    expenses: 1375.65
 - candidate_name: ALIYA CHISTI
   filer_id: '1468588'
   committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
@@ -80,6 +95,11 @@ ie_candidates:
   filer_id: '1469328'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
@@ -88,6 +108,11 @@ ie_candidates:
 - candidate_name: HEATHER MCCARTY
   filer_id: '1469127'
   committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.81
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
@@ -99,12 +124,12 @@ contributors:
   - 15299.0
 - - Ruth E. Ferguson
   - 11917.7
+- - David Thornton
+  - 2500.0
 - - Carrie Barnes
   - 2000.0
-- - David Thornton
-  - 2000.0
 - - Heather Mccarty
-  - 1500.0
+  - 2000.0
 - - Re-elect Scott Wiener for State Senate 2024
   - 1500.0
 - - Chasel Lee
