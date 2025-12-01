@@ -5,11 +5,10 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
+            <p>Use the list below to navigate between all candidate contests in the {{election}} election.</p>
         </div>
         <div class="mt-3">
             <ul class="list-group">
-                {%- assign candidate_pages = current_pages | where: "layout", "contest_candidate" -%}
                 {%- for p in candidate_pages -%}
                 <li class="list-group-item">
                     <a href="{{ p.url | relative_url }}">{{ p.title | escape }} </a>
@@ -26,11 +25,10 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.
+            <p>Use the list below to navigate between all ballot measure contests in the {{election}} election.</p>
         </div>
         <div class="mt-3">
             <ul class="list-group">
-                {%- assign bm_pages = current_pages | where: "layout", "contest_bmc" -%}
                 {%- for p in bm_pages -%}
                 <li class="list-group-item">
                     <a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>

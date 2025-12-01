@@ -1,9 +1,8 @@
 <nav aria-label="Navbar for Election pages" class="py-2 text-bg-septenary">
     {%- assign election = page.election -%}
-    {%- if election == nil -%}
-    {%- assign election = '2024-11-05'-%}
-    {%- endif -%}
     {%- assign current_pages = site.pages | where: "election", election -%}
+    {%- assign candidate_pages = current_pages | where: "layout", "contest_candidate" -%}
+    {%- assign bm_pages = current_pages | where: "layout", "contest_bmc" -%}
     <div class="container-md d-flex justify-content-between flex-wrap row-gap-1">
         <ol class="breadcrumb m-0">
             {% for crumb in page.breadcrumbs %}
@@ -14,22 +13,27 @@
                 {% endif %}
             {% endfor %}
         </ol>
-
+        {%- if election != nil -%}
         <div class="mx-lg-0">
-            {%- assign contributors_page = current_pages | where: "layout", "contributors" | first -%}
-            <!-- <a href="{{ contributors_page.url | relative_url }}" class="btn btn-sm btn-light btn-outline-primary {%- if page.layout == 'contributors' %} active" aria-current="page{% endif -%}" type="button">
+            <!--{%- assign contributors_page = current_pages | where: "layout", "contributors" | first -%}
+             <a href="{{ contributors_page.url | relative_url }}" class="btn btn-sm btn-light btn-outline-primary {%- if page.layout == 'contributors' %} active" aria-current="page{% endif -%}" type="button">
                 <i class="fa-regular fa-user-magnifying-glass me-2" aria-hidden="true"></i>Contributors
             </a> -->
             <div class="btn-group">
+                {%- if candidate_pages.size > 0 -%}
                 <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#electedOffices"
                     aria-controls="electedOffices">
                     <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Elected Offices
                 </button>
+                {%- endif -%}
+                {%- if bm_pages.size > 0 -%}
                 <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#ballotMeasures"
                     aria-controls="ballotMeasures">
                     <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Ballot Measures
                 </button>
+                {%- endif -%}
             </div>
         </div>
+        {%- endif -%}
     </div>
 </nav>
