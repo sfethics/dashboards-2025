@@ -6,6 +6,7 @@
     <div class="offcanvas-body">
         <div>
             <p>Only the "Latest" versions of filings are used to compute the values on this site. To see original filings, please visit the Ethics Commission's website</p>
+            <p>The statements shown in the table below were filed by {% if include.filer_name -%} {{include.filer_name}} {%- else -%} the committee {%- endif %}.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.</p>
         </div>
         <table id="filings_table" class="table caption-top">
