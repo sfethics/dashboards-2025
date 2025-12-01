@@ -66,6 +66,13 @@ $custom-colors: (
 );
 // Merge the maps
 $theme-colors: map-merge($theme-colors, $custom-colors);
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1400px //overrides bs default of 1320px
+);
 
 @import "bootstrap/maps";
 @import "bootstrap/mixins";
