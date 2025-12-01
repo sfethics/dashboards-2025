@@ -19,12 +19,17 @@ candidates:
   filer_id: '1466416'
   committee_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
   candidate_name: RYAN KHOJASTEH
-  funds: 120623.85
+  funds: 111423.85
   expenses: 121461.67
 ie_candidates:
 - candidate_name: BROOKE JENKINS
   filer_id: '1460998'
   committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 14939.79
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON

@@ -19,7 +19,7 @@ candidates:
   filer_id: '1460473'
   committee_name: JACKIE FIELDER FOR SUPERVISOR 2024
   candidate_name: JACKIE FIELDER
-  funds: 484124.96
+  funds: 480647.36
   expenses: 472623.24
 - filer_nid: '208201996'
   filer_id: '1462017'
@@ -50,10 +50,15 @@ ie_candidates:
   filer_id: '1459563'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 55031.3
+  - position: SUPPORT
     filer_id: '1469825'
     committee_name: FAMILIES FOR A VIBRANT SAN FRANCISCO SUPPORTING TREVOR CHANDLER
       FOR SUPERVISOR, SPONSORED BY EFFECTIVE GOVERNMENT
-    funds: 59911.0
+    funds: 60511.0
     expenses: 2750.0
 - candidate_name: JACKIE FIELDER
   filer_id: '1460473'
@@ -64,6 +69,17 @@ ie_candidates:
       FOR SUPERVISOR, SPONSORED BY EFFECTIVE GOVERNMENT
     funds: 0.0
     expenses: 38500.0
+  - position: SUPPORT
+    filer_id: '1464882'
+    committee_name: YES ON B, COMMITTEE TO RESTORE POLICE MINIMUM STAFFING AND PUBLIC
+      SAFETY, SPONSORED BY LABOR ORGANIZATIONS
+    funds: 0.0
+    expenses: 29600.0
+  - position: SUPPORT
+    filer_id: '1471862'
+    committee_name: Building a Working SF Sponsored by Labor Organizations
+    funds: 0.0
+    expenses: 54306.2
 - candidate_name: ROBERTO HERNANDEZ
   filer_id: '1463378'
   committees:
@@ -73,6 +89,11 @@ ie_candidates:
       FOR SUPERVISOR, SPONSORED BY EFFECTIVE GOVERNMENT
     funds: 0.0
     expenses: 2750.0
+  - position: SUPPORT
+    filer_id: '842018'
+    committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+    funds: 0.0
+    expenses: 1983.24
 contributors:
 - - Chris Larsen
   - 50000.0
@@ -90,9 +111,9 @@ contributors:
   - 2200.0
 - - Jonathan Lax
   - 1500.0
+- - Families for a Vibrant SF, Sponsored by Abundance Network
+  - 1411.0
 - - Art Agnos
-  - 1000.0
-- - Geoffrey Bauman
   - 1000.0
 
 ---

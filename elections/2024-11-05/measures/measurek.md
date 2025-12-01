@@ -22,8 +22,8 @@ committees:
   filer_nid: '211875154'
   filer_id: '1472442'
   committee_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
-  funds: 279075.0
-  expenses: 268782.24
+  funds: 278975.0
+  expenses: 269382.24
   ies: ''
 - position: SUPPORT
   filer_nid: '201619433'

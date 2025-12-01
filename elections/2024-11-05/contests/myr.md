@@ -38,7 +38,7 @@ candidates:
   committee_name: MARK FARRELL FOR MAYOR 2024
   candidate_name: MARK FARRELL
   funds: 2187084.09
-  expenses: 2574480.15
+  expenses: 2608172.31
 - filer_nid: '210645093'
   filer_id: '1467170'
   committee_name: ELECT HONEST CHARLEY BODKIN FOR MAYOR 2024
@@ -49,7 +49,7 @@ candidates:
   filer_id: '1467508'
   committee_name: DYLAN HIRSCH-SHELL FOR MAYOR 2024
   candidate_name: DYLAN HIRSCH-SHELL
-  funds: 362103.75
+  funds: 162103.75
   expenses: 159188.65
 - filer_nid: '211430184'
   filer_id: '1468468'
@@ -98,8 +98,18 @@ ie_candidates:
   - position: OPPOSE
     filer_id: '1470219'
     committee_name: CITIZENS OPPOSING RE-ELECTION OF MAYOR LONDON BREED 2024
-    funds: 27990.0
+    funds: 26360.0
     expenses: 21815.87
+  - position: OPPOSE
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 110141.8
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 14939.79
   - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
@@ -117,6 +127,19 @@ ie_candidates:
     committee_name: OUR FUTURE, OUR SF OPPOSING LURIE & FARRELL FOR MAYOR 2024
     funds: 0.0
     expenses: 24576.54
+  - position: SUPPORT
+    filer_id: '842018'
+    committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+    funds: 0.0
+    expenses: 5809.25
+- candidate_name: DANIEL LURIE AND MARK FARRELL
+  filer_id: 0
+  committees:
+  - position: OPPOSE
+    filer_id: '1476533'
+    committee_name: OUR FUTURE, OUR SF OPPOSING LURIE & FARRELL FOR MAYOR 2024
+    funds: 250847.2
+    expenses: 0.0
 - candidate_name: DANIEL LURIE
   filer_id: '1463099'
   committees:
@@ -137,6 +160,11 @@ ie_candidates:
     funds: 0.0
     expenses: 113127.83
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 14939.79
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
@@ -147,22 +175,62 @@ ie_candidates:
     committee_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
     funds: 6726796.21
     expenses: 6175120.91
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 2500.0
 - candidate_name: AARON PESKIN
   filer_id: '1468468'
   committees:
+  - position: OPPOSE
+    filer_id: unknown
+    committee_name: TogetherSF Action
+    funds: 0.0
+    expenses: 1519.94
   - position: OPPOSE
     filer_id: '1476495'
     committee_name: RESIDENTS OPPOSING AARON PESKIN FOR MAYOR 2024
     funds: 151000.0
     expenses: 138395.1
   - position: SUPPORT
+    filer_id: '1391665'
+    committee_name: Rose Pak Democratic Club Political Action Committee
+    funds: 0.0
+    expenses: 2102.4
+  - position: SUPPORT
+    filer_id: '1448304'
+    committee_name: Tenants and Families United sponsored by Center for Empowered
+      Politics
+    funds: 0.0
+    expenses: 665.22
+  - position: SUPPORT
+    filer_id: '1448304'
+    committee_name: Tenants and Families United PAC sponsored by Center for Empowered
+      Politics
+    funds: 0.0
+    expenses: 5487.11
+  - position: SUPPORT
+    filer_id: '1438874'
+    committee_name: California Working Families Party
+    funds: 0.0
+    expenses: 4412.22
+  - position: SUPPORT
     filer_id: '1474947'
     committee_name: SAN FRANCISCO WORKING FAMILIES VOTER GUIDE SUPPORTING AARON PESKIN
       FOR MAYOR, SPONSORED BY HEALTHCARE, HOSPITALITY, AND SERVICE WORKERS UNIONS
     funds: 840700.0
-    expenses: 560626.47
+    expenses: 558354.97
+- candidate_name: AHSHA SAFAI
+  filer_id: '1460439'
+  committees:
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 2500.0
 - candidate_name: MARK FARRELL
-  filer_id: '1466726'
+  filer_id: '14667261466726'
   committees:
   - position: OPPOSE
     filer_id: '1473487'
@@ -187,6 +255,11 @@ ie_candidates:
     funds: 0.0
     expenses: 113127.83
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: 0.0
+    expenses: 14939.79
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024
@@ -197,6 +270,11 @@ ie_candidates:
     committee_name: SAFER SAN FRANCISCO FOR MARK FARRELL FOR MAYOR 2024
     funds: 3262236.08
     expenses: 379559.75
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 256386.86
 contributors:
 - - Daniel Lurie
   - 9955205.84

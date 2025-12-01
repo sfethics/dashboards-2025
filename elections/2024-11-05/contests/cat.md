@@ -20,6 +20,11 @@ ie_candidates:
   filer_id: '1466331'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: Coalition to Grow San Francisco - Grow SF PAC
+    funds: ''
+    expenses: 14939.79
+  - position: SUPPORT
     filer_id: '1456335'
     committee_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON
       FOR SUPERVISOR 2024

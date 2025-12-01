@@ -78,7 +78,7 @@ multi_committees:
   filer_id: '1472007'
   committee_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
     NEIGHBORS AND AARON PESKIN
-  funds: 136381.86
+  funds: 127321.6
   expenses: 93875.73
 contributors:
 - - Chris Larsen
