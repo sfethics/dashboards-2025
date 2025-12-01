@@ -21,7 +21,7 @@
                 <tr>
                     <td>{{ filing.filing_datetime }}</td>
                     <td>
-                        <a href="https://netfile.com/Connect2/api/public/image/{{ filing.filing_id }}">
+                        <a href="https://netfile.com/Connect2/api/public/image/{{ filing.filing_id }}" target="_blank">
                             {%- if filing.form_name=='FPPC497' -%}
                             FPPC Form 497 - 24-hour Contribution Report
                             {%- elsif filing.form_name=='FPPC460' -%}
