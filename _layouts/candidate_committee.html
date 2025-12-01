@@ -2,13 +2,10 @@
 layout: default
 electionnav: true
 ---
-<div
-    class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 bg-septenary border-bottom border-1 border-tertiary-subtle">
-    <div class="container-md">
-        <div class="container-md">
+<div class="border-bottom border-1 border-tertiary-subtle">
+    <div class="container">
             <div class="row">
-                <div
-                    class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
+                <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
                     <div>
                         <h1 class="mb-1">{{ page.candidate_name }}</h1>
                         <div class="mb-0 d-flex gap-1 flex-wrap">
@@ -16,10 +13,12 @@ electionnav: true
                                 Candidate for {{ page.breadcrumbs[1][0] }}
                             </span>
                             {%- if page.pubfi.participant == 'True' -%}
+                            {% assign col-class-totals = "col-lg-4" %}
                             <span class="badge rounded-pill bg-dark border border-dark">
                                 Publicly Financed Candidate
                             </span>
                             {%- else -%}
+                            {% assign col-class-totals = "col-lg-6" %}
                             <!-- <span class="badge rounded-pill text-success border border-success-subtle">
                                 Publicly financed: No
                             </span> -->
@@ -45,19 +44,22 @@ electionnav: true
                     </div>
                 </div>
             </div>
-        </div>
     </div>
 </div>
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Campaign finance summary">
     <div class="row g-4">
-        <h2 class="mb-0">Summary Totals</h2>
+        <h2 class="mb-0">Summary Totals 
+            <i data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"
+                            class="fs-4 fa-regular fa-circle-info ms-2" role="button"
+                            aria-label="About Contributions Overview"></i>
+        </h2>
         <p class="mb-0 mt-1">
             Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
                 and <span class="formatted-date">{{page.dates[1]}}</span>
         </p>
         <!-- Total Contributions -->
-        <div class="col-lg-6">
+        <div class="{{col-class-totals}}">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-4">
                     <div class="d-flex flex-wrap row-gap-2 align-items-start justify-content-between mb-3">
@@ -72,7 +74,7 @@ electionnav: true
             </div>
         </div>
         <!-- Total Expenses -->
-        <div class="col-lg-6">
+        <div class="{{col-class-totals}}">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-4">
                     <div class="d-flex align-items-center gap-2 mb-3">
@@ -84,6 +86,21 @@ electionnav: true
                 </div>
             </div>
         </div>
+        {%- if page.pubfi.participant == 'True' -%}
+        <!-- Total pubfi if any -->
+        <div class="{{col-class-totals}}">
+            <div class="card border-0 shadow-sm rounded-4 h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center gap-2 mb-3">
+                        <h3 class="mb-0"><i class="fa-regular fa-money-bill" aria-hidden="true"></i> Public Funds Received</h3>
+                    </div>
+                    <span class="display-6 fw-semibold text-dark currency" aria-label="Total expenses amount">
+                        {{ page.pubfi.total }}
+                    </span>
+                </div>
+            </div>
+        </div>
+        {%- endif -%}
 
     </div>
 </div>
@@ -97,12 +114,12 @@ electionnav: true
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="contributions-overview" class="hover-link mb-0">
                         <i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Contributions Overview
-                        <i data-bs-toggle="offcanvas" data-bs-target="#contributionsOverviewTT"
+                        <!-- <i data-bs-toggle="offcanvas" data-bs-target="#contributionsOverviewTT"
                             class="fs-6 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Contributions Overview"></i>
                         <a class="icon d-none link-dark" href="#contributions-overview">
                             <i class="fs-6 fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
+                        </a> -->
                     </h3>
                 </div>
 
@@ -138,12 +155,12 @@ electionnav: true
             <div class="card border-0 box-shadow-contributions rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="contributors" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Contributors</span>
+                        <span class="">Contributors</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#contributorsTT"
-                            class="fs-6 fa-regular fa-circle-info ms-2" role="button"
+                            class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Contributors"></i>
-                        <a class="icon link-subtle ps-2" href="#contributors">
-                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+                        <a class="icon link-subtle ms-2" href="#contributors" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
                 </div>
@@ -187,12 +204,12 @@ electionnav: true
 
                 <div class="card-header custom-card-header">
                     <h3 id="expenditures" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-money-check " aria-hidden="true"></i> Expenditures</span>
+                        <span class="">Expenditures</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#expendituresTT"
-                            class="fs-6 fa-regular fa-circle-info ms-2" role="button"
+                            class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Expenditures"></i>
-                        <a class="icon link-subtle ps-2" href="#expenditures">
-                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+                        <a class="icon link-subtle ms-2" href="#expenditures" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
                 </div>
@@ -304,11 +321,11 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="ie-measures" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Independent Expenditures Regarding Ballot Measures</span>
+                        <span class="">Independent Expenditures Regarding Ballot Measures</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#ie-measuresTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Independent Expenditures Regarding Ballot Measures"></i>
-                        <a class="icon d-none link-dark" href="#ie-measures">
+                        <a class="icon link-subtle ms-2" href="#ie-measures" aria-label="Share Link">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
@@ -343,11 +360,11 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="ie-candidates" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Independent Expenditures Regarding Candidates</span>
+                        <span class="">Independent Expenditures Regarding Candidates</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#ie-candidatesTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Independent Expenditures Regarding Candidates"></i>
-                        <a class="icon d-none link-dark" href="#ie-candidates">
+                        <a class="icon link-subtle ms-2" href="#ie-candidates" aria-label="Share Link">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
@@ -384,11 +401,11 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="f497p2" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Late Period Contributions Made</span>
+                        <span class="">Late Period Contributions Made</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#f497p2TT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Late Period Contributions Made"></i>
-                        <a class="icon d-none link-dark" href="#f497p2">
+                        <a class="icon link-subtle ms-2" href="#f497p2" aria-label="Share Link">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
@@ -431,11 +448,11 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="schedule-d" class="hover-link mb-0">
-                        <span class=""><i class="fa-solid fa-money-check" aria-hidden="true"></i> Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
+                        <span class="">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
                         <i data-bs-toggle="offcanvas" data-bs-target="#schedule-dTT"
                             class="fs-5 fa-regular fa-circle-info ms-2" role="button"
                             aria-label="About Expenditures Supporting/Opposing Other Candidates, Measures and Committees"></i>
-                        <a class="icon d-none link-dark" href="#schedule-d">
+                        <a class="icon link-subtle ms-2" href="#schedule-d" aria-label="Share Link">
                             <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                         </a>
                     </h3>
@@ -479,8 +496,8 @@ electionnav: true
  
 <div class="container" aria-label="Third-Party Activity">
     <h2>Third Party Activity Supporting & Opposing {{page.candidate_name}}
-        <a class="icon d-none link-dark" href="#third-party-totals">
-        <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
+        <a class="icon link-subtle" href="#third-party-totals" aria-label="Share Link">
+        <i class="fs-4 fa-regular fa-link" aria-hidden="true"></i></a>
     </h2>
     <!-- Third Party Funds (card wrapper) -->
     <section class="card border-0 box-shadow-thirdparty rounded-4 mb-4" aria-labelledby="third-party-totals">
@@ -529,7 +546,7 @@ electionnav: true
                     <div class="col-table-12">
                         <h3 id="third-party-committees" class="hover-link">
                             Third Party Committees
-                            <a class="icon d-none" href="#third-party-committees">
+                            <a class="icon link-subtle" href="#third-party-committees" aria-label="Share Link">
                                 <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                             </a>
                         </h3>
@@ -614,7 +631,7 @@ filings=page.filings
         lengthChange: false,
         order: [[1, 'desc']],
         columnDefs: [
-            { width: '35%', targets: [0, 1] },
+            { width: '75%', targets: [0] },
             {
                 targets: [1],
                 render: function (data, type, row, meta) {
@@ -646,6 +663,7 @@ filings=page.filings
     });
     new DataTable('#filings_table', {
         pageLength: 10,
+        order: [[0, 'desc']],
         lengthChange: false,
         layout: {
             topEnd: null,
