@@ -1,12 +1,12 @@
 <div class="contributions-expenses {{include.card_col}}">
     <div class="card money-card shadow-sm rounded-4 h-100 {{include.card_class}}">
         <div class="card-body">
-            <p class="card-title ">
+            <h3 class="card-title ">
                 {%- if include.card_faicon %}<i class="fa-solid {{include.card_faicon}}"></i> {% endif -%}
                 {{include.title}}
-            </p>
+            </h3>
             <p class="card-text fs-3 fw-semibold">
-                <span class="currency {{include.card_body_class}}">{{ include.text }}</span>
+                <span class="display-6 fw-semibold currency {{include.card_body_class}}">{{ include.text }}</span>
             </p>
         </div>
     </div>
