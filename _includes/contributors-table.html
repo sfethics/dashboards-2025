@@ -1,30 +1,52 @@
-<div class="{{include.div_class}}">
-    <h3 id="top-contributors" class="hover-link">
-            {%- if include.title -%}
-                {{include.title}}
-            {%- else -%}
-                Top Contributors
-            {%- endif %}
-            <i data-bs-toggle="offcanvas" data-bs-target="#top-contributorsTT" class="fs-5 fa-regular fa-circle-info"></i>
-            <a class="icon d-none" href="#top-contributors"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-        </h3>
-    {%- if include.subtitle -%}
-        <h4>{{include.subtitle}}</h4>
-    {%- endif -%}
 
-    <table class="table {{- include.table_class -}}">
-        <thead>
-            <tr>
-                <th scope="col">Name</th>
-                <th scope="col">Amount</th></tr>
-        </thead>
-        <tbody>
-            {%- for contributor in include.contributors -%}
-            <tr>
-                <td>{{contributor[0]}}</td>
-                <td class="currency">{{ contributor[1] }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
-</div>
+    <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+
+        <!-- Card Header -->
+        <div class="card-header custom-card-header">
+            <h3 id="top-contributors" class="hover-link mb-0">
+                <span>
+                    {%- if include.title -%}
+                        {{ include.title }}
+                    {%- else -%}
+                        Top Contributors
+                    {%- endif -%}
+                </span>
+                <i data-bs-toggle="offcanvas"
+                   data-bs-target="#top-contributorsTT"
+                   class="fs-5 fa-regular fa-circle-info ms-2"
+                   role="button"
+                   aria-label="About Top Contributors"></i>
+                <a class="icon link-subtle ms-2"
+                   href="#top-contributors"
+                   aria-label="Share Link">
+                    <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+                </a>
+            </h3>
+
+            {%- if include.subtitle -%}
+                <h4 class="mt-2 mb-0">{{ include.subtitle }}</h4>
+            {%- endif -%}
+        </div>
+
+        <!-- Card Body -->
+        <div class="card-body p-3 p-sm-4">
+            <table class="table {{ include.table_class }} mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th scope="col" class="text-uppercase small">Name</th>
+                        <th scope="col" class="text-uppercase small text-end">Amount</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {%- for contributor in include.contributors -%}
+                    <tr>
+                        <td class="fw-medium">{{ contributor[0] }}</td>
+                        <td class="currency text-end fw-semibold">{{ contributor[1] }}</td>
+                    </tr>
+                    {%- endfor -%}
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+

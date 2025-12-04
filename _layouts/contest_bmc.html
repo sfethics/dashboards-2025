@@ -30,24 +30,28 @@ electionnav: true
         {%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
     {%- endif -%}
 {%- endfor -%}
+<div
+    class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 bg-septenary border-bottom border-1 border-tertiary-subtle">
+    <div class="container-md">
+        <div class="container-md">
+            <div class="row">
+                <div
+                    class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
+                    <div>
+                        <h1 class="mb-1">{{page.title}}</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-<div class="container-md bg-primary">
-    <div class="row py-3 text-light">
-        <div class="col-12">
-            <h1>{{page.title}}</h1>
-        </div>
-        <div class="col-12">
-            {{ page.content }}
-        </div>
-    </div>        
-    <div class="row row-cols-2">
-        <div class="col-12 col-lg-6 py-2 ">
-            <div class="col-table-12">
-                <h2 id="summary-totals" class="hover-link">Summary
-                    <i data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none link-dark" href="#summary-totals"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                <div class="">
+    <!-- Cards: Contributions & Expenses -->
+<div class="container my-4" aria-label="Summary Totals">
+    <div class="row g-4">
+        <h2 class="mb-0">Summary Totals</h2>
+        <!-- Totals for Measures -->
+       <div class="col-12 col-lg-6">
                     {%- assign tsf = 'None' -%}
                     {%- if support_funds>0 %}{% assign tsf = support_funds %}{% endif -%}
                     {%- assign tse = 'None' -%}
@@ -96,97 +100,138 @@ electionnav: true
                         -%}
                     {% endif %}
                 </div>
-            </div>
-        </div>
-        <div class="col-12 col-lg-6 py-2">
+                    <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
-            {% include contributors-table.html title='Top 10 Contributors to This Measure' contributors=page.contributors div_class='col-table-6' %}
+            {% include contributors-table.html title='Top 10 Contributors To This Measure' contributors=page.contributors %}
             {%- endif -%}
         </div>
     </div>
-    <div class="row">
+</div>
+<div class="container my-5" aria-label="Campaign finance summary">
+    <!-- Section heading -->
+    <div class="row g-4">
+        <h2 class="mb-4">Committee Details</h2>
+    </div>
+
+    <!-- Active Committees card -->
+    <div class="row g-4">
         <div class="col-12">
-            <div class="col-table-12">
-                <h2 id="allcommittees-table" class="hover-link">Active Committees
-                    <i data-bs-toggle="offcanvas" data-bs-target="#ballot-measure-committeesTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#allcommittees-table"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                <table class="table caption-top dtify">
-                    <thead>
-                        <tr>
-                            <th scope="col">Committee</th>
-                            <th scope="col">Position</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Spending</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {%- for committee in page.committees -%}
+            <div class="card border-0 shadow-sm rounded-4 h-100">
+                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
+                    <h3 id="allcommittees-table" class="hover-link mb-0">
+                        <span class="">Active Committees</span>
+                        <i data-bs-toggle="offcanvas"
+                           data-bs-target="#ballot-measure-committeesTT"
+                           class="fs-5 fa-regular fa-circle-info ms-2"
+                           role="button"
+                           aria-label="About Active Committees"></i>
+                        <a class="icon link-subtle ms-2"
+                           href="#allcommittees-table"
+                           aria-label="Share Link">
+                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
+                    </h3>
+                </div>
+                <div class="card-body">
+                    <table class="table caption-top dtify mb-0" id="allcommittees_table">
+<thead>
+    <tr>
+        <th scope="col" data-priority="1">Committee</th>
+        <th scope="col" data-priority="10101">Position</th>
+        <th scope="col" data-priority="2">Funds</th>
+        <th scope="col" data-priority="3">Spending</th>
+    </tr>
+</thead>
+                        <tbody>
+                            {%- for committee in page.committees -%}
                             <tr>
                                 <td>
                                     <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
                                         {{ committee.committee_name }}
                                     </a>
-                                </td> 
+                                </td>
                                 <td>{{ committee.position }}</td>
                                 <td>{{ committee.funds }}</td>
                                 <td>{{ committee.expenses }}</td>
                             </tr>
-                        {%- endfor -%}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th style="text-align:right" colspan="3">Total:</th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
+                            {%- endfor -%}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th style="text-align:right" colspan="3">Total:</th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
+
     {%- if page.multi_committees and page.multi_committees != empty -%}
-    <div class="row">
+    <!-- Spacer between cards, like candidate_committe.html -->
+    <div class="mt-5"></div>
+
+    <!-- Committees Active in Multiple Measures card -->
+    <div class="row g-4">
         <div class="col-12">
-            <div class="col-table-12">
-                <h2 id="multicommittees-table" class="hover-link">Committees Active in Multiple Measures
-                    <i data-bs-toggle="offcanvas" data-bs-target="#ballot-measure-multicommitteesTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#multicommittees-table"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                <table class="table caption-top dtify">
-                    <thead>
-                        <tr>
-                            <th scope="col">Committee</th>
-                            <th scope="col">Position</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Spending</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {%- for committee in page.multi_committees -%}
+            <div class="card border-0 shadow-sm rounded-4 h-100">
+                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
+                    <h3 id="multicommittees-table" class="hover-link mb-0">
+                        <span class="">Committees Active in Multiple Measures</span>
+                        <i data-bs-toggle="offcanvas"
+                           data-bs-target="#ballot-measure-multicommitteesTT"
+                           class="fs-5 fa-regular fa-circle-info ms-2"
+                           role="button"
+                           aria-label="About Committees Active in Multiple Measures"></i>
+                        <a class="icon link-subtle ms-2"
+                           href="#multicommittees-table"
+                           aria-label="Share Link">
+                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
+                    </h3>
+                </div>
+                <div class="card-body">
+                    <table class="table caption-top dtify mb-0" id="multicommittees_table">
+<thead>
+    <tr>
+        <th scope="col" data-priority="1">Committee</th>
+        <th scope="col" data-priority="10101">Position</th>
+        <th scope="col" data-priority="2">Funds</th>
+        <th scope="col" data-priority="3">Spending</th>
+    </tr>
+</thead>
+
+                        <tbody>
+                            {%- for committee in page.multi_committees -%}
                             <tr>
                                 <td>
                                     <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
                                         {{ committee.committee_name }}
                                     </a>
-                                </td> 
+                                </td>
                                 <td>{{ committee.position }}</td>
                                 <td>{{ committee.funds }}</td>
                                 <td>{{ committee.expenses }}</td>
                             </tr>
-                        {%- endfor -%}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th style="text-align:right" colspan="3">Total:</th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
+                            {%- endfor -%}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th style="text-align:right" colspan="3">Total:</th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
     {%- endif -%}
 </div>
+
+
+
 
 
 <script>
@@ -203,6 +248,11 @@ electionnav: true
                 }
             }
         ],
+        responsive: { details: {
+            display: DataTable.Responsive.display.childRowImmediate,
+            target: 0,
+            type: 'none'
+        }},
         order: [[1, 'asc']],
         lengthChange: false,
         displayLength: -1,
