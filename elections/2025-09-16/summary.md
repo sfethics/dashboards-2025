@@ -8,7 +8,7 @@ breadcrumbs:
   - /elections/2025-09-16/
 measures:
 - contest_nid: '214331636'
-  contest_name: 'A: Measure A'
+  contest_name: 'A: Recall: BoS D4 Joel Engardio-A'
   contest_link: measurea
   expenses: 1033449.71
   funds: 1110493.69

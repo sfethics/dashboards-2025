@@ -557,10 +557,10 @@ electionnav: true
                         <table id="third_party_table" class="table caption-top ie_committee mb-0">
                             <thead>
                                 <tr>
-                                    <th scope="col" data-priority="1">Committee</th>
-                                    <th scope="col" data-priority="10101">Position</th>
+                                    <th scope="col">Committee</th>
+                                    <th scope="col">Position</th>
                                     <th scope="col">Funds</th>
-                                    <th scope="col" data-priority="2">Spending</th>
+                                    <th scope="col">Spending</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -676,7 +676,11 @@ filings=page.filings
     });
     new DataTable('#third_party_table', {
         displayLength: -1,
-        responsive: true,
+        responsive: { details: {
+            display: DataTable.Responsive.display.childRowImmediate,
+            target: 0,
+            type: 'none'
+        }},
         layout: {
             topStart: null,
             topEnd: null,
@@ -685,6 +689,7 @@ filings=page.filings
         },
         lengthChange: false,
         columnDefs: [
+            { responsivePriority: 10001, targets: [1] },
             {
                 targets: [2, 3],
                 render: function (data, type, row, meta) {
