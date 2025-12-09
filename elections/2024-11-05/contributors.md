@@ -8409,30 +8409,18 @@ contributors:
     cmte_name: SAN FRANCISCANS IN SUPPORT OF BROOKE JENKINS FOR DISTRICT ATTORNEY
       2024
     tx_amount: 100000.0
-- tx_firstname: ROSELYN
-  tx_lastname: SWIG
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 7700.0
-  transactions:
-  - cmte_fppcid: '1441599'
-    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
-    tx_amount: 500.0
-  - cmte_fppcid: '1471023'
-    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
-    tx_amount: 7200.0
 - tx_firstname: ROSELYNE
   tx_lastname: SWIG
   tx_entitycode: IND
   tx_cmteid: ''
-  tx_amount: 5500.0
+  tx_amount: 12700.0
   transactions:
   - cmte_fppcid: '1463752'
     cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
     tx_amount: 500.0
   - cmte_fppcid: '1471023'
     cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
-    tx_amount: 5000.0
+    tx_amount: 12200.0
 - tx_firstname: ROYAL
   tx_lastname: HANSEN
   tx_entitycode: IND
@@ -8475,6 +8463,33 @@ contributors:
   - cmte_fppcid: '1469328'
     cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
     tx_amount: 11917.7
+- tx_firstname: RYAN
+  tx_lastname: KHOJASTEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 7250.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 4600.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1473454'
+    cmte_name: YES ON G, THE AFFORDABLE HOUSING OPPORTUNITY FUND
+    tx_amount: 1500.0
 - tx_firstname: SACHIN
   tx_lastname: AGARWAL
   tx_entitycode: IND
