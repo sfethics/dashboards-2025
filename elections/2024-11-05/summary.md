@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '208114612'
   contest_name: District Attorney
   contest_link: dat
-  funds: 546058.08
+  funds: 550158.08
   expenses: 641781.64
   ies: ''
 - committee_type: candidate
@@ -103,7 +103,7 @@ candidate_ie:
   contest_name: Mayor
   contest_link: myr
   funds: 14934196.5
-  expenses: 13839762.82
+  expenses: 13468234.16
 - contest_nid: '206871374'
   contest_name: Board of Supervisors D01
   contest_link: bos01
@@ -163,12 +163,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 147807.0
-- contest_nid: AUTO
-  contest_name: Automatic assignment no contest applicable
-  contest_link: auto
-  funds: 0.0
-  expenses: 541682.65
+  expenses: 101333.16
 measures:
 - contest_nid: '208835441'
   contest_name: 'D: City Commissions and Mayoral Authority'
@@ -195,7 +190,7 @@ measures:
   contest_name: 'O: Supporting Reproductive Rights'
   contest_link: measureo
   expenses: 372041.95
-  funds: 355432.11
+  funds: 355978.11
 - contest_nid: '211776922'
   contest_name: 'K: Permanently Closing the Upper Great Highway to Private Vehicles
     to Establish a Public Open Recreation Space'

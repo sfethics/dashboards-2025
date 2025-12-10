@@ -19,7 +19,7 @@ candidates:
   filer_id: '1466416'
   committee_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
   candidate_name: RYAN KHOJASTEH
-  funds: 111423.85
+  funds: 115523.85
   expenses: 121461.67
 ie_candidates:
 - candidate_name: BROOKE JENKINS
@@ -49,6 +49,8 @@ contributors:
   - 10500.0
 - - Kilroy Realty
   - 10000.0
+- - Ryan Khojasteh
+  - 4600.0
 - - Richard Barker
   - 1000.0
 - - Bartholomew Murphy
@@ -61,8 +63,6 @@ contributors:
   - 750.0
 - - Stephanie Lehman
   - 750.0
-- - John Lee
-  - 650.0
 
 ---
 

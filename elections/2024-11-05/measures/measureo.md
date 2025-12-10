@@ -36,7 +36,7 @@ committees:
   filer_nid: '211703442'
   filer_id: '1471023'
   committee_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
-  funds: 355432.11
+  funds: 355978.11
   expenses: 355432.11
   ies: ''
 multi_committees: []
@@ -55,11 +55,11 @@ contributors:
   - 15000.0
 - - Yes on Prop E for a Safer SF - Mayor Breed's Ballot Measure Committee
   - 14020.56
+- - Roselyne Swig
+  - 12200.0
 - - Wisfe Aish
   - 10000.0
 - - Double Aa Corporation
-  - 10000.0
-- - Christine Luby
   - 10000.0
 
 ---
