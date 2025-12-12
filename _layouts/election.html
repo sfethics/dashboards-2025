@@ -25,14 +25,15 @@ electionnav: true
                             </ul>
                         </div>
                     -->
-<div class="container my-4" aria-label="Summary Cards">
+<div class="container my-4" aria-label="Election Summary Cards">
+    <h2>Elected Offices</h2>
     <div class="row g-4">
         {%- if page.candidate_pf -%}
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="candidate-committees" class="hover-link mb-0">
-                        <span>Candidate Controlled Committees</span>
+                        <span>Total Candidate-Controlled Committee Funds &amp; Expenses by Office</span>
                         <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
                             data-bs-target="#candidate-committeesTT" aria-label="About Candidate Controlled Committees">
                             <i class="fa-regular fa-circle-info"></i>
@@ -83,7 +84,7 @@ electionnav: true
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="candidate-ie-committees" class="hover-link mb-0">
-                        <span>Third-Party Spending by Office</span>
+                        <span>Total Third-Party Committee Funds &amp; Expenses by Office</span>
 
                         <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
                             data-bs-target="#candidate-ie-committeesTT"
@@ -135,11 +136,12 @@ electionnav: true
         {%- endif -%}
 
         {%- if page.measures -%}
-        <div class="col-lg-6 h-100">
+        <div class="col-lg-12 h-100">
+                <h2>Ballot Measures</h2>
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="ballot-measure-committees" class="hover-link mb-0">
-                        <span>Ballot Measures</span>
+                        <span>Total Committee Funds & Expenses for Ballot Measures</span>
 
                         <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
                             data-bs-target="#ballot-measure-committeesTT" aria-label="About Ballot Measures">
@@ -191,6 +193,7 @@ electionnav: true
         {%- endif -%}
         {%- if page.contributors -%}
         <div class="col-lg-6 h-100">
+                <h2>Contributors</h2>
 
             {% include contributors-table.html
             title='Top 5 Contributors Across Candidate Contests and Ballot Measures'
