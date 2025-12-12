@@ -14,21 +14,21 @@ electionnav: true
 {%- assign multi_expenses = 0 -%}
 
 {%- for committee in page.committees -%}
-    {%- if committee.position == 'SUPPORT' -%}
-        {%- assign supporters = true -%}
-        {%- assign support_funds = support_funds | plus: committee.funds -%}
-        {%- assign support_expenses = support_expenses | plus: committee.expenses -%}
-    {%- endif -%}
-    {%- if committee.position == 'OPPOSE' -%}
-        {%- assign opposition = true -%}
-        {%- assign oppose_funds = oppose_funds | plus: committee.funds -%}
-        {%- assign oppose_expenses = oppose_expenses | plus: committee.expenses -%}
-    {%- endif -%}
-    {%- if committee.position == 'MULTIPLE' -%}
-        {%- assign multiposition = true -%}
-        {%- assign multi_funds = multi_funds | plus: committee.funds -%}
-        {%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
-    {%- endif -%}
+{%- if committee.position == 'SUPPORT' -%}
+{%- assign supporters = true -%}
+{%- assign support_funds = support_funds | plus: committee.funds -%}
+{%- assign support_expenses = support_expenses | plus: committee.expenses -%}
+{%- endif -%}
+{%- if committee.position == 'OPPOSE' -%}
+{%- assign opposition = true -%}
+{%- assign oppose_funds = oppose_funds | plus: committee.funds -%}
+{%- assign oppose_expenses = oppose_expenses | plus: committee.expenses -%}
+{%- endif -%}
+{%- if committee.position == 'MULTIPLE' -%}
+{%- assign multiposition = true -%}
+{%- assign multi_funds = multi_funds | plus: committee.funds -%}
+{%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
+{%- endif -%}
 {%- endfor -%}
 <div
     class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 bg-septenary border-bottom border-1 border-tertiary-subtle">
@@ -46,63 +46,64 @@ electionnav: true
     </div>
 </div>
 
-    <!-- Cards: Contributions & Expenses -->
+<!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Summary Totals">
     <div class="row g-4">
         <h2 class="mb-0">Summary Totals</h2>
         <!-- Totals for Measures -->
-       <div class="col-12 col-lg-6">
-                    {%- assign tsf = 'None' -%}
-                    {%- if support_funds>0 %}{% assign tsf = support_funds %}{% endif -%}
-                    {%- assign tse = 'None' -%}
-                    {%- if support_expenses>0 %}{% assign tse = support_expenses %}{% endif -%}
+        <div class="col-12 col-lg-6">
+            {%- assign tsf = 'None' -%}
+            {%- if support_funds>0 %}{% assign tsf = support_funds %}{% endif -%}
+            {%- assign tse = 'None' -%}
+            {%- if support_expenses>0 %}{% assign tse = support_expenses %}{% endif -%}
 
-                    {% if supporters == true %}
-                        {%- include cards-two.html 
-                            wrap_css='row my-3'
-                            title='Totals Supporting this Measure'
-                            first_title='Funds'
-                            first_text=tsf
-                            second_title='Expenses'
-                            second_text=tse
-                        -%}
-                    {% endif %}
+            {% if supporters == true %}
+            {%- include cards-two.html
+            wrap_css='row my-3'
+            title='Totals Supporting this Measure'
+            first_title='Funds'
+            first_text=tsf
+            second_title='Expenses'
+            second_text=tse
+            -%}
+            {% endif %}
 
-                    {%- assign tof = 'None' -%}
-                    {%- if oppose_funds>0 %}{% assign tof = oppose_funds %}{% endif -%}
-                    {%- assign toe = 'None' -%}
-                    {%- if oppose_expenses>0 %}{% assign toe = oppose_expenses %}{% endif -%}
+            {%- assign tof = 'None' -%}
+            {%- if oppose_funds>0 %}{% assign tof = oppose_funds %}{% endif -%}
+            {%- assign toe = 'None' -%}
+            {%- if oppose_expenses>0 %}{% assign toe = oppose_expenses %}{% endif -%}
 
-                    {% if supporters == true %}
-                        {%- include cards-two.html 
-                            wrap_css='row my-3'
-                            title='Totals Opposing this Measure'
-                            first_title='Funds'
-                            first_text=tof
-                            second_title='Expenses'
-                            second_text=toe
-                        -%}
-                    {% endif %}
+            {% if supporters == true %}
+            {%- include cards-two.html
+            wrap_css='row my-3'
+            title='Totals Opposing this Measure'
+            first_title='Funds'
+            first_text=tof
+            second_title='Expenses'
+            second_text=toe
+            -%}
+            {% endif %}
 
-                    {%- assign tmf = 'None' -%}
-                    {%- if multi_funds>0 %}{% assign tmf = multi_funds %}{% endif -%}
-                    {%- assign tme = 'None' -%}
-                    {%- if multi_expenses>0 %}{% assign tme = multi_expenses %}{% endif -%}
+            {%- assign tmf = 'None' -%}
+            {%- if multi_funds>0 %}{% assign tmf = multi_funds %}{% endif -%}
+            {%- assign tme = 'None' -%}
+            {%- if multi_expenses>0 %}{% assign tme = multi_expenses %}{% endif -%}
 
-                    {% if multiposition == true %}
-                        {%- include cards-two.html 
-                            wrap_css='row my-3'
-                            title='Totals Supporting/Opposing these Measures'
-                            first_title='Funds'
-                            first_text=tmf
-                            second_title='Expenses'
-                            second_text=tme
-                        -%}
-                    {% endif %}
-                </div>
-                    <div class="col-12 col-lg-6 py-2">
+            {% if multiposition == true %}
+            {%- include cards-two.html
+            wrap_css='row my-3'
+            title='Totals Supporting/Opposing these Measures'
+            first_title='Funds'
+            first_text=tmf
+            second_title='Expenses'
+            second_text=tme
+            -%}
+            {% endif %}
+        </div>
+        <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
-            {% include contributors-table.html title='Top 10 Contributors To This Measure' contributors=page.contributors %}
+            {% include contributors-table.html title='Top 10 Contributors To This Measure'
+            contributors=page.contributors %}
             {%- endif -%}
         </div>
     </div>
@@ -120,33 +121,35 @@ electionnav: true
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="allcommittees-table" class="hover-link mb-0">
                         <span class="">Active Committees</span>
-                        <i data-bs-toggle="offcanvas"
-                           data-bs-target="#ballot-measure-committeesTT"
-                           class="fs-5 fa-regular fa-circle-info ms-2"
-                           role="button"
-                           aria-label="About Active Committees"></i>
-                        <a class="icon link-subtle ms-2"
-                           href="#allcommittees-table"
-                           aria-label="Share Link">
-                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#ballot-measure-committeesTT" aria-label="About Active Committees">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#allcommittees-table" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
+
                     </h3>
                 </div>
+
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="allcommittees_table">
-<thead>
-    <tr>
-        <th scope="col" data-priority="1">Committee</th>
-        <th scope="col" data-priority="10101">Position</th>
-        <th scope="col" data-priority="2">Funds</th>
-        <th scope="col" data-priority="3">Spending</th>
-    </tr>
-</thead>
+                        <thead>
+                            <tr>
+                                <th scope="col" data-priority="1">Committee</th>
+                                <th scope="col" data-priority="10101">Position</th>
+                                <th scope="col" data-priority="2">Funds</th>
+                                <th scope="col" data-priority="3">Spending</th>
+                            </tr>
+                        </thead>
                         <tbody>
                             {%- for committee in page.committees -%}
                             <tr>
                                 <td>
-                                    <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
                                         {{ committee.committee_name }}
                                     </a>
                                 </td>
@@ -179,34 +182,37 @@ electionnav: true
                 <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
                     <h3 id="multicommittees-table" class="hover-link mb-0">
                         <span class="">Committees Active in Multiple Measures</span>
-                        <i data-bs-toggle="offcanvas"
-                           data-bs-target="#ballot-measure-multicommitteesTT"
-                           class="fs-5 fa-regular fa-circle-info ms-2"
-                           role="button"
-                           aria-label="About Committees Active in Multiple Measures"></i>
-                        <a class="icon link-subtle ms-2"
-                           href="#multicommittees-table"
-                           aria-label="Share Link">
-                            <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
+
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#ballot-measure-multicommitteesTT"
+                            aria-label="About Committees Active in Multiple Measures">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#multicommittees-table" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
+
                     </h3>
                 </div>
+
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="multicommittees_table">
-<thead>
-    <tr>
-        <th scope="col" data-priority="1">Committee</th>
-        <th scope="col" data-priority="10101">Position</th>
-        <th scope="col" data-priority="2">Funds</th>
-        <th scope="col" data-priority="3">Spending</th>
-    </tr>
-</thead>
+                        <thead>
+                            <tr>
+                                <th scope="col" data-priority="1">Committee</th>
+                                <th scope="col" data-priority="10101">Position</th>
+                                <th scope="col" data-priority="2">Funds</th>
+                                <th scope="col" data-priority="3">Spending</th>
+                            </tr>
+                        </thead>
 
                         <tbody>
                             {%- for committee in page.multi_committees -%}
                             <tr>
                                 <td>
-                                    <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
                                         {{ committee.committee_name }}
                                     </a>
                                 </td>
@@ -238,8 +244,8 @@ electionnav: true
 
     new DataTable('table.dtify', {
         columnDefs: [
-            { 
-                targets: [2,3],
+            {
+                targets: [2, 3],
                 render: function (data, type, row, meta) {
                     if (type === 'display') {
                         return formatAsCurrency(data);
@@ -248,11 +254,13 @@ electionnav: true
                 }
             }
         ],
-        responsive: { details: {
-            display: DataTable.Responsive.display.childRowImmediate,
-            target: 0,
-            type: 'none'
-        }},
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
         order: [[1, 'asc']],
         lengthChange: false,
         displayLength: -1,
@@ -271,7 +279,7 @@ electionnav: true
                 .column(3)
                 .data()
                 .reduce(sumAsNum, 0);
-            
+
             // Update footer
             api.column(3).footer().innerHTML =
                 formatAsCurrency(totalExp);
