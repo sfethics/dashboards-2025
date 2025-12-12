@@ -2,72 +2,100 @@
 layout: default
 electionnav: true
 ---
-<div class="container-md bg-primary">
-    <div class="row text-light py-3">
-        <div class="col-12">
-            <h1>{{page.title}}</h1>
-        </div>
-        <div class="col-12">
-            <p>Contributors are grouped by firstname and lastname</p>
-            <p>Only those contributors who have given more than $5000 across all committees within this election appear.</p>
-            <p>Click the arrow next to a contributors name to unfold the row and see all committees contributed to</p>
-            <!-- <p>If the Contributor is a Committee, click the link to visit the committee page</p> -->
-            {{content}}
+<div class="border-bottom border-1 border-tertiary-subtle">
+    <div class="container">
+        <div class="row">
+            <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
+                <div>
+                    <h1 class="mb-1">{{page.title}}</h1>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-12 py-2">
-            <div class="col-table-6">
-                <table class="table caption-top dtify table-striped">
-                    <thead>
-                    <tr>
-                        <th scope="col">...</th>
-                        <th scope="col">Name</th>
-                        <th scope="col">Code</th>
-                        <th scope="col">Total</th>
-                        <th scope="col">Contribution Breakdown</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                        {% for contributor in page.contributors %}
+</div>
+<div class="container my-4">
+    <div class="row g-4">
+        <div class="col-lg-12 h-100">
+            <div class="card border-0 shadow-sm rounded-4 h-100">
+                <div class="card-body p-3 p-sm-4">
+                    <p>This tool lists contributors to San Francisco committees involved in the <span
+                            class="formatted-date">{{ page.election }}</span> election who have given more than $5,000
+                        in total across all committees in the current election cycle. Contributors are grouped by first
+                        and last name so you can view all of their reported contributions together.</p>
+
+                    <p>Select the arrow next to a contributor’s name to expand their record and view each committee they
+                        supported and the amount given.</p>
+                    <!-- <p>If the Contributor is a Committee, click the link to visit the committee page</p> -->
+                    {{content}}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row g-4">
+        <div class="col-12 py-4 h-100">
+            <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+                <div class="card-body p-3 p-sm-4">
+                    <table class="table caption-top dtify table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">...</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Code</th>
+                                <th scope="col">Total</th>
+                                <th scope="col">Contribution Breakdown</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for contributor in page.contributors %}
                             <tr>
                                 <td></td>
                                 <td>{{ contributor.tx_firstname }} {{ contributor.tx_lastname | truncate: 65 }}</td>
                                 <td>
-                                    {%- if contributor.tx_cmteid != '' -%}<a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{contributor.tx_cmteid}}.html">{%- endif -%}
+                                    {%- if contributor.tx_cmteid != '' -%}
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{contributor.tx_cmteid}}.html">
+                                        {%- endif -%}
                                         {{ contributor.tx_entitycode }}
-                                    {%- if contributor.tx_cmteid != '' -%}</a>{%- endif -%}
-                                    </td>
-                                <td class="">{{ contributor.tx_amount }}</td>
-                                <td class="">
+                                        {%- if contributor.tx_cmteid != '' -%}
+                                    </a>
+                                    {%- endif -%}
+                                </td>
+                                <td>{{ contributor.tx_amount }}</td>
+                                <td>
                                     <table class="table table-sm">
                                         <tbody>
                                             {% for cmte in contributor.transactions %}
                                             <tr>
-                                                <td><a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{cmte.cmte_fppcid}}.html">{{cmte.cmte_name | truncate: 65 }}</a></td>
-                                                <td class="currency table-text-right">{{cmte.tx_amount}}</td>
+                                                <td>
+                                                    <a
+                                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{cmte.cmte_fppcid}}.html">
+                                                        {{ cmte.cmte_name | truncate: 65 }}
+                                                    </a>
+                                                </td>
+                                                <td class="currency table-text-right">{{ cmte.tx_amount }}</td>
                                             </tr>
                                             {% endfor %}
                                         </tbody>
                                     </table>
                                 </td>
                             </tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+
+                </div>
+
             </div>
         </div>
     </div>
 </div>
-
-
 <script>
     let layoutOptions = {
-            topStart: null,
-            // topEnd: null,
-            bottomStart: null,
-            bottomEnd: null,
-        }
+        topStart: null,
+        // topEnd: null,
+        bottomStart: null,
+        bottomEnd: null,
+    }
     function format(d) {
         return d[4]; // this is the contents of row[4]
     }
@@ -78,18 +106,25 @@ electionnav: true
             [10, 25, 50, 100]
         ],
         // layout: layoutOptions,
-        order: [[3, 'desc'], [2, 'asc'],[1, 'asc']],
+        order: [[3, 'desc'], [2, 'asc'], [1, 'asc']],
+        layout: {
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
         columnDefs: [
             {
                 targets: [0],
                 class: 'dt-control',
                 orderable: false,
             },
-            { 
+            {
                 targets: [4],
-                visible: false,  
+                visible: false,
             },
-            { 
+            {
                 targets: [3],
                 render: function (data, type, row, meta) {
                     if (type === 'display') {
@@ -106,7 +141,7 @@ electionnav: true
     table.on('click', 'td.dt-control', function (e) {
         let tr = e.target.closest('tr');
         let row = table.row(tr);
-    
+
         if (row.child.isShown()) {
             // This row is already open - close it
             row.child.hide();
@@ -118,5 +153,5 @@ electionnav: true
         formatAllCurrencyElements()
     })
 
- 
+
 </script>
