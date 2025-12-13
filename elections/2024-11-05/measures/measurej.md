@@ -37,7 +37,7 @@ committees:
   filer_id: '1475914'
   committee_name: YES ON PROPOSITION J
   funds: 3000.0
-  expenses: 212.75
+  expenses: 2999.75
   ies: ''
 multi_committees: []
 contributors:

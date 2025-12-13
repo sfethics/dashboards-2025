@@ -100,6 +100,11 @@ ie_candidates:
     committee_name: CITIZENS OPPOSING RE-ELECTION OF MAYOR LONDON BREED 2024
     funds: 26360.0
     expenses: 21815.87
+  - position: OPPOSE
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 110141.8
   - position: SUPPORT
     filer_id: '1433436'
     committee_name: Coalition to Grow San Francisco - Grow SF PAC
@@ -170,6 +175,11 @@ ie_candidates:
     committee_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
     funds: 6726796.21
     expenses: 6175120.91
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 2500.0
 - candidate_name: AARON PESKIN
   filer_id: '1468468'
   committees:
@@ -211,6 +221,14 @@ ie_candidates:
       FOR MAYOR, SPONSORED BY HEALTHCARE, HOSPITALITY, AND SERVICE WORKERS UNIONS
     funds: 840700.0
     expenses: 558354.97
+- candidate_name: AHSHA SAFAI
+  filer_id: '1460439'
+  committees:
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 2500.0
 - candidate_name: MARK FARRELL
   filer_id: '14667261466726'
   committees:
@@ -252,6 +270,11 @@ ie_candidates:
     committee_name: SAFER SAN FRANCISCO FOR MARK FARRELL FOR MAYOR 2024
     funds: 3262236.08
     expenses: 379559.75
+  - position: SUPPORT
+    filer_id: '991828'
+    committee_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+    funds: 0.0
+    expenses: 256386.86
 contributors:
 - - Daniel Lurie
   - 9955205.84
