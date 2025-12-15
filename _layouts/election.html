@@ -191,21 +191,29 @@ electionnav: true
         </div>
 
         {%- endif -%}
-        {%- if page.contributors -%}
-        <div class="col-lg-6 h-100">
-                <h2>Contributors</h2>
-
-            {% include contributors-table.html
-            title='Top 5 Contributors Across Candidate Contests and Ballot Measures'
-            subtitle='To All Primarily Formed Committees Within This Election'
-            contributors=page.contributors
-            %}
-            <a href="{{site.baseurl}}/elections/{{page.election}}/contributors" class="mt-3 d-inline-block">
-                <button class="btn btn-primary" type="button">View More</button>
+        <div>
+        <h2>Top Contributors</h2>
+        <a href="{{site.baseurl}}/elections/{{page.election}}/contributors">
+                <button class="btn btn-primary" type="button">View all contributors</button>
             </a>
-
         </div>
-
+        {%- if page.contributors_cand -%}
+        <div class="col-lg-6 h-100">
+            {% include contributors-table.html
+            title='Top 5 Contributors Across Candidate Contests'
+            subtitle='Contributions made to Primarily Formed Committees within this Election'
+            contributors=page.contributors_cand
+            %}
+        </div>
+        {%- endif -%}
+        {%- if page.contributors_bm -%}
+        <div class="col-lg-6 h-100">
+            {% include contributors-table.html
+            title='Top 5 Contributors Across Ballot Measures'
+            subtitle='Contributions made to Ballot Measure Committees within this Election'
+            contributors=page.contributors_bm
+            %}
+        </div>
         {%- endif -%}
     </div>
 
