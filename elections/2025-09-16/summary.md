@@ -12,7 +12,7 @@ measures:
   contest_link: measurea
   expenses: 1033449.71
   funds: 1110493.69
-contributors:
+contributors_bm:
 - - Chris Larsen
   - 200000.0
 - - Jeremy Stoppelman
