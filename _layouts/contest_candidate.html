@@ -6,254 +6,281 @@ electionnav: true
 {%- assign ie_opposition = false -%}
 
 {%- for candidate in page.ie_candidates -%}
-    {%- for committee in candidate.committees -%}
-        {%- if committee.position == 'SUPPORT' -%}
-            {%- assign ie_supporters = true -%}
-        {%- endif -%}
-        {%- if committee.position == 'OPPOSE' -%}
-            {%- assign ie_opposition = true -%}
-        {%- endif -%}
-    {%- endfor -%}
+{%- for committee in candidate.committees -%}
+{%- if committee.position == 'SUPPORT' -%}
+{%- assign ie_supporters = true -%}
+{%- endif -%}
+{%- if committee.position == 'OPPOSE' -%}
+{%- assign ie_opposition = true -%}
+{%- endif -%}
 {%- endfor -%}
-
-<div class="container-md bg-primary">
-    <div class="row text-light py-3">
-        <div class="col-12">
-            <h1>{{page.title}}</h1>
-        </div>
-        <div class="col-12">
-            {{ page.content }}
-        </div>
-        <div class="col-12">
-            <p>Candidate controlled commitees are shown first</p>
-            <p>learn more about candidate controlled committees blah blah blah lorem ipsum</p>
-
-            <div class="accordion" id="accordionToc">
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#tocOne" aria-expanded="false" aria-controls="tocOne">
-                            Table of Contents
-                        </button>
-                    </h2>
-                    <div id="tocOne" class="accordion-collapse collapse" data-bs-parent="#accordionToc">
-                        <div class="accordion-body">
-                            <ul class="list-group">
-                                <li class="list-group-item"><a href="#candidate-committees" class="">Candidate Controlled Committees</a></li>
-                                {%- if page.ie_candidates %}<li class="list-group-item"><a href="#ie-activity" class="">Third Party Activity</a></li>{% endif -%}
-                                {%- if page.contributors %}<li class="list-group-item"><a href="#top-contributors" class="">Top 10 Contributors</a></li>{% endif -%}
-                            </ul>
-                        </div>
-                    </div>
+{%- endfor -%}
+<div class="border-bottom border-1 border-tertiary-subtle">
+    <div class="container">
+        <div class="row">
+            <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
+                <div>
+                    <h1 class="mb-1">{{page.title}}</h1>
                 </div>
             </div>
         </div>
     </div>
-    <div class="row row-cols-2">
-        <div class="col-12 col-lg-6 py-2">
-            <div class="col-table-6">
-                <h2 class="text-dark hover-link" id="candidate-committees">Candidate Controlled Committees
-                    <i data-bs-toggle="offcanvas" data-bs-target="#candidate-committeesTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#candidate-committees"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                <table class="table caption-top candidate_controlled">
-                    <thead>
-                        <tr>
-                            <th scope="col">Candidates</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Expenses</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for candidate in page.candidates %}
-                        <tr>
-                            <td>
-                                <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
-                                    {{ candidate.candidate_name }}
-                                </a>
-                            </td>
-                            <td>{{ candidate.funds }}</td>
-                            <td>{{ candidate.expenses }}</td>
-                        </tr>
-                        {% endfor %}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th style="text-align:right">Total:</th>
-                            <th></th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
-            </div>
-        </div>
+</div>
+<div class="container my-4" aria-label="Election Summary Cards">
+    <div class="row g-4">
+            <h2>Summary Totals</h2>
+        <div class="col-lg-6 h-100">
+            <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="candidate-committees" class="hover-link mb-0">
+                        <span>Total Funds & Expenses by Candidate</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#candidate-committeesTT" aria-label="About Candidate Controlled Committees">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+                        <a href="#candidate-committees" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link"></i>
+                        </a>
+                    </h3>
+                </div>
 
-        <div class="col-12 col-lg-6 py-2">
-            {% include contributors-table.html title='Top 10 Contributors within this Contest' subtitle='Across all Candidates and Including Primarily Formed 3rd-Party Committees' contributors=page.contributors div_class='col-table-6' %}
-        </div>
-    </div>
-
-
-    {%- if page.ie_candidates -%}
-    <div class="row row-cols-2" id="ie-activity">
-        <div class="col-12 col-lg-6 py-2">
-            <div class="col-table-6">
-                <h2 class="text-dark hover-link" id="ie-support">Third Party Support
-                    <i data-bs-toggle="offcanvas" data-bs-target="#ie-supportTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#ie-support"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                {%- if ie_supporters -%}
-                <table class="table caption-top ie_committee">
-                    <thead>
-                        <tr>
-                            <th scope="col">Candidates</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Spending</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {%- for candidate in page.ie_candidates -%}
-                            {%- assign funds = 0 -%}
-                            {%- assign expenses = 0 -%}
-                            {%- for committee in candidate.committees -%}
-                                {%- if committee.position == 'SUPPORT' -%}
-                                    {%- assign funds = funds | plus: committee.funds -%}
-                                    {%- assign expenses = expenses | plus: committee.expenses -%}
-                                {%- endif -%}
-                            {%- endfor -%}
-                            {%- if funds > 0 or expenses > 0 -%}
-                                <tr>
-                                    <td>
-                                        <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
-                                            {{ candidate.candidate_name }}
-                                        </a>
-                                    </td>
-                                    <td>{{ funds }}</td>
-                                    <td>{{ expenses }}</td>
-                                </tr>
-                            {%- endif -%}
-                        {%- endfor -%}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th></th>
-                            <th style="text-align:right">Total:</th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
-                {%- else -%}
-                <p>No third party supportive activity has been reported.</p>
-                {%- endif -%}
-            </div>
-        </div>
-
-        <div class="col-12 col-lg-6 py-2">
-           <div class="col-table-6">
-                <h2 class="text-dark hover-link" id="ie-oppose">Third Party Opposition
-                    <i data-bs-toggle="offcanvas" data-bs-target="#ie-opposeTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#ie-oppose"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                {%- if ie_opposition -%}
-                <table class="table caption-top ie_committee">
-                    <thead>
-                        <tr>
-                            <th scope="col">Candidates</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Spending</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {%- for candidate in page.ie_candidates -%}
-                        {%- assign funds = 0 -%}
-                        {%- assign expenses = 0 -%}
-                        {%- for committee in candidate.committees -%}
-                            {%- if committee.position == 'OPPOSE' -%}
-                                {%- assign funds = funds | plus: committee.funds -%}
-                                {%- assign expenses = expenses | plus: committee.expenses -%}
-                            {%- endif -%}
-                        {%- endfor -%}
-                        {%- if funds > 0 or expenses > 0 -%}
+                <div class="card-body p-3 p-sm-4">
+                    <table class="table caption-top dtify_both candidate_controlled">
+                        <thead class="table-light">
                             <tr>
-                                <td>
-                                    <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
+                                <th class="text-uppercase small">Candidates</th>
+                                <th class="text-uppercase small">Funds</th>
+                                <th class="text-uppercase small text-end">Expenses</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for candidate in page.candidates %}
+                            <tr>
+                                <td class="fw-medium">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
                                         {{ candidate.candidate_name }}
                                     </a>
                                 </td>
-                                <td>{{ funds }}</td>
-                                <td>{{ expenses }}</td>
+                                <td class="fw-medium">{{ candidate.funds }}</td>
+                                <td class="text-end fw-semibold">{{ candidate.expenses }}</td>
                             </tr>
-                        {%- endif -%}
-                        {%- endfor -%}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th></th>
-                            <th style="text-align:right">Total:</th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
-                {%- else -%}
-                <p>No third party opposition activity has been reported.</p>
-                {%- endif -%}
+                            {% endfor %}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th class="text-end">Total:</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
             </div>
         </div>
-    </div>
-    
-    <div class="row">
-        <div class="col-12 py-2">
-            <div class="col-table-12">
-                <h2 class="text-dark hover-link" id="ie-committees">Independent Expenditure Committees
-                    <i data-bs-toggle="offcanvas" data-bs-target="#ie-committeesTT" class="fs-5 fa-regular fa-circle-info"></i>
-                    <a class="icon d-none" href="#ie-committees"><i class="fs-5 fa-regular fa-link" aria-hidden="true"></i></a>
-                </h2>
-                <table class="table caption-top all_ie_committees">
-                    <thead>
-                        <tr>
-                            <th scope="col">Committee</th>
-                            <th scope="col">Candidate</th>
-                            <th scope="col">Position</th>
-                            <th scope="col">Funds</th>
-                            <th scope="col">Spending</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {%- for candidate in page.ie_candidates -%}
-                            {%- for committee in candidate.committees -%}
-                                <tr>
-                                    <td>
-                                        <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}.html">
-                                            {{- committee.committee_name -}}
-                                        </a>
-                                    </td>
-                                    <td>
-                                        <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
-                                            {{ candidate.candidate_name }}
-                                        </a>
-                                    </td>
-                                    <td>{{ committee.position }}</td>
-                                    <td>{{ committee.funds }}</td>
-                                    <td>{{ committee.expenses }}</td>
-                                </tr>
-                            {%- endfor -%}
-                        {%- endfor -%}
-                    </tbody>
-                    <tfoot>
-                        <tr>
-                            <th></th>
-                            <th></th>
-                            <th></th>
-                            <th style="text-align:right">Total:</th>
-                            <th></th>
-                        </tr>
-                    </tfoot>
-                </table>
-            </div>
+        <div class="col-lg-6 h-100">
+            {% include contributors-table.html title='Top Ten Contributors Within This Contest' subtitle='Across all
+            Candidates and Including Primarily Formed 3rd-Party Committees' contributors=page.contributors
+            div_class='col-table-6' %}
         </div>
     </div>
+    {%- if page.ie_candidates -%}
+    <div class="row g-4 mt-4" id="ie-activity">
+            <h2>Third Party Activity Supporting &amp; Opposing Candidates for {{page.title}}</h2>
+        <div class="col-lg-6 h-100">
+            <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="ie-support" class="hover-link mb-0">
+                        <span>Total Third Party Support</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#ie-supportTT" aria-label="About Third Party Support">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+                        <a href="#ie-support" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link"></i>
+                        </a>
+                    </h3>
+                </div>
 
+                <div class="card-body p-3 p-sm-4">
+                    {%- if ie_supporters -%}
+                    <table class="table caption-top dtify_both ie_committee">
+                        <thead class="table-light">
+                            <tr>
+                                <th class="text-uppercase small">Candidates</th>
+                                <th class="text-uppercase small">Funds</th>
+                                <th class="text-uppercase small text-end">Spending</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {%- for candidate in page.ie_candidates -%}
+                            {%- assign funds = 0 -%}
+                            {%- assign expenses = 0 -%}
+                            {%- for committee in candidate.committees -%}
+                            {%- if committee.position == 'SUPPORT' -%}
+                            {%- assign funds = funds | plus: committee.funds -%}
+                            {%- assign expenses = expenses | plus: committee.expenses -%}
+                            {%- endif -%}
+                            {%- endfor -%}
+                            {%- if funds > 0 or expenses > 0 -%}
+                            <tr>
+                                <td class="fw-medium">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
+                                        {{ candidate.candidate_name }}
+                                    </a>
+                                </td>
+                                <td class="fw-medium">{{ funds }}</td>
+                                <td class="text-end fw-semibold">{{ expenses }}</td>
+                            </tr>
+                            {%- endif -%}
+                            {%- endfor -%}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th class="text-end">Total:</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                    {%- else -%}
+                    <p class="mb-0">No third party supportive activity has been reported.</p>
+                    {%- endif -%}
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 h-100">
+            <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="ie-oppose" class="hover-link mb-0">
+                        <span>Total Third Party Opposition</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#ie-opposeTT" aria-label="About Third Party Opposition">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+                        <a href="#ie-oppose" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link"></i>
+                        </a>
+                    </h3>
+                </div>
+
+                <div class="card-body p-3 p-sm-4">
+                    {%- if ie_opposition -%}
+                    <table class="table caption-top dtify_both ie_committee">
+                        <thead class="table-light">
+                            <tr>
+                                <th class="text-uppercase small">Candidates</th>
+                                <th class="text-uppercase small">Funds</th>
+                                <th class="text-uppercase small text-end">Spending</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {%- for candidate in page.ie_candidates -%}
+                            {%- assign funds = 0 -%}
+                            {%- assign expenses = 0 -%}
+                            {%- for committee in candidate.committees -%}
+                            {%- if committee.position == 'OPPOSE' -%}
+                            {%- assign funds = funds | plus: committee.funds -%}
+                            {%- assign expenses = expenses | plus: committee.expenses -%}
+                            {%- endif -%}
+                            {%- endfor -%}
+                            {%- if funds > 0 or expenses > 0 -%}
+                            <tr>
+                                <td class="fw-medium">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
+                                        {{ candidate.candidate_name }}
+                                    </a>
+                                </td>
+                                <td class="fw-medium">{{ funds }}</td>
+                                <td class="text-end fw-semibold">{{ expenses }}</td>
+                            </tr>
+                            {%- endif -%}
+                            {%- endfor -%}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th class="text-end">Total:</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                    {%- else -%}
+                    <p class="mb-0">No third party opposition activity has been reported.</p>
+                    {%- endif -%}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row g-4 mt-4">
+        <div class="col-12 h-100">
+            <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="ie-committees" class="hover-link mb-0">
+                        <span>Independent Expenditure Committees Funds &amp; Spending</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#ie-committeesTT" aria-label="About Independent Expenditure Committees">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+                        <a href="#ie-committees" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link"></i>
+                        </a>
+                    </h3>
+                </div>
+
+                <div class="card-body p-3 p-sm-4">
+                    <table class="table caption-top dtify_both all_ie_committees">
+                        <thead class="table-light">
+                            <tr>
+                                <th class="text-uppercase small">Committee</th>
+                                <th class="text-uppercase small">Candidate</th>
+                                <th class="text-uppercase small">Position</th>
+                                <th class="text-uppercase small">Funds</th>
+                                <th class="text-uppercase small text-end">Spending</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {%- for candidate in page.ie_candidates -%}
+                            {%- for committee in candidate.committees -%}
+                            <tr>
+                                <td class="fw-medium">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}.html">
+                                        {{ committee.committee_name }}
+                                    </a>
+                                </td>
+                                <td class="fw-medium">
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{candidate.filer_id}}.html">
+                                        {{ candidate.candidate_name }}
+                                    </a>
+                                </td>
+                                <td class="fw-medium">{{ committee.position }}</td>
+                                <td class="fw-medium">{{ committee.funds }}</td>
+                                <td class="text-end fw-semibold">{{ committee.expenses }}</td>
+                            </tr>
+                            {%- endfor -%}
+                            {%- endfor -%}
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th></th>
+                                <th></th>
+                                <th class="text-end">Total:</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
     {%- endif -%}
 </div>
+
 
 <script>
     let layoutOptions = {
@@ -266,15 +293,15 @@ electionnav: true
         lengthChange: false,
         displayLength: -1,
         layout: layoutOptions,
-        columnDefs: [{ 
-                targets: [1, 2],
-                render: function (data, type, row, meta) {
-                    if (type === 'display') {
-                        return formatAsCurrency(data);
-                    }
-                    return data
+        columnDefs: [{
+            targets: [1, 2],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
                 }
-            },
+                return data
+            }
+        },
         ],
         footerCallback: function (row, data, start, end, display) {
             let api = this.api();
@@ -302,15 +329,15 @@ electionnav: true
         responsive: true,
         layout: layoutOptions,
         lengthChange: false,
-        columnDefs: [{ 
-                targets: [1, 2],
-                render: function (data, type, row, meta) {
-                    if (type === 'display') {
-                        return formatAsCurrency(data);
-                    }
-                    return data
+        columnDefs: [{
+            targets: [1, 2],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
                 }
-            },
+                return data
+            }
+        },
         ],
         footerCallback: function (row, data, start, end, display) {
             let api = this.api();
@@ -332,15 +359,15 @@ electionnav: true
         responsive: true,
         layout: layoutOptions,
         lengthChange: false,
-        columnDefs: [{ 
-                targets: [3,4],
-                render: function (data, type, row, meta) {
-                    if (type === 'display') {
-                        return formatAsCurrency(data);
-                    }
-                    return data
+        columnDefs: [{
+            targets: [3, 4],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
                 }
-            },
+                return data
+            }
+        },
         ],
         footerCallback: function (row, data, start, end, display) {
             let api = this.api();
