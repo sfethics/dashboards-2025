@@ -32,6 +32,13 @@ committees:
   funds: ''
   expenses: 386.98
   ies: 386.98
+- position: OPPOSE
+  filer_nid: '6673375'
+  filer_id: '742051'
+  committee_name: SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
+  funds: ''
+  expenses: 5287.79
+  ies: 5287.79
 - position: SUPPORT
   filer_nid: '161155640'
   filer_id: '1388285'

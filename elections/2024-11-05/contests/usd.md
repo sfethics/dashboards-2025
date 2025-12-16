@@ -76,6 +76,14 @@ candidates:
   funds: 15715.0
   expenses: 15715.0
 ie_candidates:
+- candidate_name: MATT ALEXANDER
+  filer_id: '1468565'
+  committees:
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 15618.45
 - candidate_name: PARAG GUPTA
   filer_id: '1469320'
   committees:
@@ -95,6 +103,11 @@ ie_candidates:
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.12
 - candidate_name: JOHN JERSIN
   filer_id: '1468546'
   committees:
@@ -109,6 +122,11 @@ ie_candidates:
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.16
 - candidate_name: JAIME HULING
   filer_id: '1468481'
   committees:
@@ -128,6 +146,11 @@ ie_candidates:
       FOR SUPERVISOR 2024
     funds: ''
     expenses: 229.22
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 10285.11
 - candidate_name: SUPRYIA RAY
   filer_id: '1469269'
   committees:

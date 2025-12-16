@@ -103,7 +103,7 @@ candidate_ie:
   contest_name: Mayor
   contest_link: myr
   funds: 14934196.5
-  expenses: 13468234.16
+  expenses: 13839762.82
 - contest_nid: '206871374'
   contest_name: Board of Supervisors D01
   contest_link: bos01
@@ -163,7 +163,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 101333.16
+  expenses: 147807.0
 measures:
 - contest_nid: '208835441'
   contest_name: 'D: City Commissions and Mayoral Authority'
@@ -238,7 +238,7 @@ measures:
 - contest_nid: '211966987'
   contest_name: 'J: Funding Programs Serving Children, Youth, and Families'
   contest_link: measurej
-  expenses: 16822.59
+  expenses: 19609.59
   funds: 3000.0
 - contest_nid: '211998609'
   contest_name: 'H: Retirement Benefits for Firefighters'
@@ -255,17 +255,28 @@ measures:
   contest_link: measurecde
   expenses: 93875.73
   funds: 127321.6
-contributors:
-- - Daniel Lurie
-  - 9955205.84
+contributors_bm:
 - - Michael Moritz
   - 3186322.64
 - - San Francisco Fire Fighters Local 798
   - 1613350.0
+- - Neighbors for a Better San Francisco Advocacy
+  - 1186000.0
+- - Uber Innovation Ballot Measure Committee, a Committee for Prop 1
+  - 833640.09
+- - Google Client Services, Llc(mark Isakowitz)
+  - 600000.0
+contributors_cand:
+- - Daniel Lurie
+  - 9955205.84
 - - Michael Bloomberg
   - 1450500.0
+- - Miriam Haas
+  - 1000000.0
 - - Chris Larsen
-  - 1277500.0
+  - 952500.0
+- - William Oberndorf
+  - 952000.0
 
 ---
 
