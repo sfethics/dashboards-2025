@@ -9,3 +9,5 @@ vendor/
 .DS_Store
 Gemfile.lock
 .vscode
+# ignore test election md files
+elections/0000-00-00/*
