@@ -76,7 +76,7 @@ ie_candidates:
     funds: 0.0
     expenses: 1000.0
 - candidate_name: CONNIE CHAN
-  filer_id: '14589871458987'
+  filer_id: '1458987'
   committees:
   - position: OPPOSE
     filer_id: '1456620'
