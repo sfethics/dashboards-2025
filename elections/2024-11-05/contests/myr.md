@@ -133,7 +133,7 @@ ie_candidates:
     funds: 0.0
     expenses: 5809.25
 - candidate_name: DANIEL LURIE AND MARK FARRELL
-  filer_id: 0
+  filer_id: '1476533'
   committees:
   - position: OPPOSE
     filer_id: '1476533'
@@ -230,7 +230,7 @@ ie_candidates:
     funds: 0.0
     expenses: 2500.0
 - candidate_name: MARK FARRELL
-  filer_id: '14667261466726'
+  filer_id: '1466726'
   committees:
   - position: OPPOSE
     filer_id: '1473487'
