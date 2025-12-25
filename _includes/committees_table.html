@@ -1,0 +1,40 @@
+<div class="offcanvas offcanvas-end" tabindex="-1" id="committeeList" aria-labelledby="committeeListLabel">
+    {%- assign data_file = "committee_list_" | append: include.election %}
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="committeeListLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
+            {{ site.data[data_file].title }}</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+    <div class="offcanvas-body">
+        <p>Search for a specific committee by name or FPPC ID. 
+            This list includes active state-level committees that may not file with the San Francisco Ethics Commission.
+            For those committees, we provide links to their profiles on the California Secretary of State's CAL-ACCESS website.
+        </p>
+        <table id="committee_list_table" class="table">
+            <thead class="table-light">
+                <tr>
+                    <th scope="col">Committee Name</th>
+                    <th scope="col">FPPC ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for cmte in site.data[data_file].committees %}
+                {% if cmte.cmte_fppcid != "unknown" %}
+                <tr>
+                    <!-- check if committee page exists locally or link to cal-access instead
+                        https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH=<FPPC ID> -->
+                    {% if cmte.cmte_nid == "unknown" %}
+                    <td><a href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ cmte.cmte_fppcid }}">
+                        {{ cmte.cmte_name }} <i class="fa-light fa-arrow-up-right-from-square"></i></a></td>
+                    {% else %}
+                    <td><a href="{{site.baseurl}}/elections/{{include.election}}/committees/CA{{ cmte.cmte_fppcid }}.html">
+                        {{ cmte.cmte_name }}</a></td>
+                    {% endif %}
+                    <td>{{ cmte.cmte_fppcid }}</td>
+                </tr>
+                {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
