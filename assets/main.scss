@@ -301,7 +301,7 @@ table {
   &::after {
     content: "";
     position: absolute;
-    inset: -0.4rem;
+    inset: 0;
     border-radius: inherit;
     pointer-events: none;
     transition: opacity 0.4s ease-in-out;
