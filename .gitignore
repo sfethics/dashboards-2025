@@ -11,3 +11,4 @@ Gemfile.lock
 .vscode
 # ignore test election md files
 elections/0000-00-00/*
+_data/committee_list_0000-00-00.yaml

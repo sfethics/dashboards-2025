@@ -255,6 +255,58 @@ electionnav: true
             </div>
         </div>
 
+        <!-- Loans received-->
+        {%- if page.loans_received -%}
+        <div class="col-lg-6 cm-loans h-100">
+            <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="loans_received" class="hover-link mb-0">
+                        <span class="">Loans Received</span>
+
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#loansTT" aria-label="About Loans Received">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#loans_received" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
+
+                    </h3>
+                </div>
+
+                <div class="card-body p-3">
+
+                    <table id="loans_received_table" class="table">
+                        <thead class="table-light">
+                            <tr>
+                                <th class="text-uppercase small">Lendor</th>
+                                <th class="text-uppercase small">Total</th>
+                                <th class="text-uppercase small">Paid</th>
+                                <th class="text-uppercase small">Forgiven</th>
+                                <th class="text-uppercase small">Outstanding</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for lendor in page.loans_received %}
+                            <tr>
+                                <td class="fw-medium">{{ lendor.fullname }}</td>
+                                <td class="fw-semibold">{{ lendor.loan_amt1 }}</td>
+                                <td class="fw-semibold">{{ lendor.loan_amt5 }}</td>
+                                <td class="fw-semibold">{{ lendor.loan_amt6 }}</td>
+                                <td class="text-end fw-semibold">
+                                    {{ lendor.loan_amt1 | minus: lendor.loan_amt5 | minus: lendor.loan_amt6 }}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+        {%- endif %}
+
     </div>
 </div>
 <!--New Code Break Line-->
@@ -534,6 +586,39 @@ new DataTable('#contributors_table', {
                 input.setAttribute('aria-label', 'Search Expenditures');   // ensures screen-reader users know what this input is for
             }
         }
+    });
+
+    new DataTable('#loans_received_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[1, 'desc']],
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
+        columnDefs: [
+            { responsivePriority: 10001, targets: [2,3] },
+            {
+                targets: [1,2,3,4],
+                render: function (data, type, row, meta) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return data;
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
     });
 
     new DataTable('#filings_table', {

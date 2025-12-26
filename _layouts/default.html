@@ -20,6 +20,10 @@
 
     {%- include tooltips.html -%}
     {%- include footer.html -%}
+    {% if page.election %}
+    {%- include committees_table.html election=page.election -%}
+    <script src="/assets/js/tables_init.js"></script>
+    {% endif %}
 
   </body>
   

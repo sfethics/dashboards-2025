@@ -90,7 +90,7 @@ function formatAsCurrency(val) {
         return ""
     }
     if (parseInt(val) == 0) {
-        return ""
+        return "N/A"
     }
     if (isNaN(val)) {
         return val

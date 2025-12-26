@@ -185,6 +185,9 @@ h6 {
         }
     }
 }
+.cm-loans .dt-container {
+    margin-top: -1.5rem;
+}
 @media (min-width: 768px) {
    .light-border-se {
         border-left: 1px solid $light-border-subtle;
@@ -298,7 +301,7 @@ table {
   &::after {
     content: "";
     position: absolute;
-    inset: -0.4rem;
+    inset: 0;
     border-radius: inherit;
     pointer-events: none;
     transition: opacity 0.4s ease-in-out;
