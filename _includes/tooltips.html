@@ -47,20 +47,21 @@
         <div>
             <h5>What is a Candidate Controlled Committee?</h5>
             <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election.</p>
-
-            <h5>How This Data is Calculated</h5>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all candidate controlled committees for each office in the current election. Funds are aggregated by summing the itemized and unitemized contributions on schedules A and C from Form 460 and contributions received on Form 497 and Form 496P3. Funds also includes Loans from Form 460 Schedule B1, and Public Funds approved by the Ethics Commission as part of the San Francisco Public Financing Program.   Expenses are aggregated by summing the itemized and unitemized expenditures on schedules E and F. Figures are rounded to the nearest thousand.  Data is updated nightly, reflecting the filings made the previous day.</p>
+            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election. Candidates running for mayor or supervisor are also eligible for Public Funds approved by the Ethics Commission as part of the San Francisco Public Financing Program.</p>
 
             <h5>Committee details</h5>
             <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
                 <div>
                     <small class="text-secondary d-block">Committee Name</small>
-                    <span class="fw-semibold">{{page.filer_name}}</span>
+                    <span class="fw-semibold" id="copyable-fname">{{page.filer_name}}</span>
+                    <button onclick="copyText('#copyable-fname')" aria-label="Copy Committee Name" class="btn btn-sm btn-light">
+                        <i class="fa-light fa-copy"></i></button>
                 </div>
                 <div>
                     <small class="text-secondary d-block">FPPC ID</small>
-                    <span class="fw-semibold">{{page.filer_id}}</span>
+                    <span class="fw-semibold" id="copyable-fid">{{page.filer_id}}</span>
+                    <button onclick="copyText('#copyable-fid')" aria-label="Copy FPPC ID" class="btn btn-sm btn-light">
+                        <i class="fa-light fa-copy"></i></button>
                 </div>
             </div>
             {%- if page.pubfi.participant == 'True' -%}
@@ -75,10 +76,10 @@
             <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
                 <div>
                     {%- if page.jurisdiction == "sf" -%}
-                    <span>Data on this page is derived from the committee's electronic filings with the San Francisco Ethics Commission.</span>
-                    {%- elsif page.jurisdiction == "ca" -%}
+                    <span>Data on this page is based on the committee's electronic filings with the San Francisco Ethics Commission.</span>
+                    {%- else -%}
                     <span>
-                        This committee files with the California Secretary of State. Data on this page is derived from electronic filings with the San Francisco Ethics Commission and a nightly download of data from the Secretary of State's office.
+                        This committee files campaign statements with the California Secretary of State. Data on this page is based on late period reports filed with the San Francisco Ethics Commission during this election cycle.
                     </span>
                     {%- endif -%}
                 </div>
@@ -93,23 +94,47 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <h5>What is a {{page.committee_type}}</h5>
-            <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election.</p>
+            {% if page.committee_type == 'candidate ie' %}
+            <h5>What is a Third-Party Committee?</h5>
+            <p class="text-secondary">A third-party committee is a political committee that raises and spends money to support or oppose candidates for local office but operates independently of those candidates and their campaigns. These committees are often called independent expenditure committees or primarily formed committees. They are prohibited from coordinating their spending decisions with any candidate or candidate controlled committee. Third-party committees are not subject to contribution limits.</p>
+            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, third-party committees must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
+            {%- endif -%}
 
-            <h5>How This Data is Calculated</h5>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all candidate controlled committees for each office in the current election. Funds are aggregated by summing the itemized and unitemized contributions on schedules A and C from Form 460 and contributions received on Form 497 and Form 496P3. Funds also includes Loans from Form 460 Schedule B1, and Public Funds approved by the Ethics Commission as part of the San Francisco Public Financing Program.   Expenses are aggregated by summing the itemized and unitemized expenditures on schedules E and F. Figures are rounded to the nearest thousand.  Data is updated nightly, reflecting the filings made the previous day.</p>
+            {% if page.committee_type == 'ballot measure' %}
+            <h5>What is a Ballot Measure Committee?</h5>
+            <p class="text-secondary">Ballot Measure Committees are primarily formed to support or oppose a specific ballot measure. Ballot Measure Committees are not subject to contribution limits.</p>
+            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, third-party committees must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
+            {%- endif -%}
+
+            {% if page.committee_type == 'general' %}
+            <h5>What is a General Purpose Committee?</h5>
+            <p class="text-secondary">A general purpose committee is a political committee that is not organized to support or oppose any specific candidate or ballot measure. These committees may engage in a variety of political activities, including supporting or opposing multiple candidates or ballot measures. General Purpose Committees are not subject to contribution limits.</p>
+            {%- endif -%}
+
+            {% if page.committee_type == 'major_donor' %}
+            <h5>What is a Major Donor?</h5>
+            {%- endif -%}
+
+            {% if page.committee_type == 'slate_mailer' %}
+            <h5>What is a Slate Mailer Committee?</h5>
+            {%- endif -%}
+            <!-- <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
+            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election.</p> -->
 
             <h5>Committee details</h5>
             <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
                 <div>
                     <small class="text-secondary d-block">Committee Name</small>
-                    <span class="fw-semibold">{{page.filer_name}}</span>
+                    <span class="fw-semibold" id="copyable-fname">{{page.filer_name}}</span>
+                    <button onclick="copyText('#copyable-fname')" aria-label="Copy Committee Name" class="btn btn-sm btn-light">
+                        <i class="fa-light fa-copy"></i></button>
                 </div>
                 
                 <div>
                     <small class="text-secondary d-block">FPPC ID</small>
-                    <span class="fw-semibold">{{page.filer_id}}</span>
+                    <span class="fw-semibold" id="copyable-fid">{{page.filer_id}}</span>
+                    <button onclick="copyText('#copyable-fid')" aria-label="Copy FPPC ID" class="btn btn-sm btn-light">
+                        <i class="fa-light fa-copy"></i></button>
                 </div>
                 <div>
                     <small class="text-secondary d-block">Purpose</small>
@@ -121,7 +146,7 @@
                         {%- else -%}
                             {% assign pos_string = 'regarding' %}
                         {%- endif -%}
-                        <span class="fw-semibold">
+                        <span>
                             Independent expenditure committee organized {{pos_string}} {{page.candidate_name}}.
                         </span>
                     {%- endif -%}
@@ -134,7 +159,7 @@
                         {%- else -%}
                             {% assign pos_string = 'regarding' %}
                         {%- endif -%}
-                        <span class="fw-semibold">
+                        <span>
                             Primarily formed committee organized {{pos_string}} Measure {{page.ballot_measure_letter}}: {{page.ballot_measure_name}}.
                         </span>
                     {%- endif -%}
@@ -147,7 +172,7 @@
                         {%- else -%}
                             {% assign pos_string = 'regarding' %}
                         {%- endif -%}
-                        <span class="fw-semibold">
+                        <span>
                             This is a general purpose committee, not organized to support or oppose any specific candidate or ballot measure. Data comes from filings over the past several years, and as such the committee's activity may not be solely regarding the designated election.
                         </span>
                     {%- endif -%}
@@ -156,10 +181,10 @@
             <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
                 <div>
                     {%- if page.jurisdiction == "sf" -%}
-                    <span>Data on this page is derived from the committee's electronic filings with the San Francisco Ethics Commission.</span>
+                    <span>Data on this page is based on the committee's electronic filings with the San Francisco Ethics Commission.</span>
                     {%- elsif page.jurisdiction == "ca" -%}
                     <span>
-                        This committee files with the California Secretary of State. Data on this page is derived from electronic filings with the San Francisco Ethics Commission and a nightly download of data from the Secretary of State's office.
+                        This committee files campaign statements with the California Secretary of State. Data on this page is based on late period reports filed with the San Francisco Ethics Commission during this election cycle.
                     </span>
                     {%- endif -%}
                 </div>
@@ -167,6 +192,29 @@
         </div>
     </div>
 </div>
+
+<div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totalsTT" aria-labelledby="summary-totalsTTLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="summary-totalsTTLabel">Summary Totals</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+            <h5>How This Data is Calculated</h5>
+            <p class="text-secondary">The totals in this section represent the combined contributions raised and funds spent by a committees in the current election. Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. 
+                {% if page.committee_type == 'candidate' %}For a candidate controlled committee participating in the Public Financing Program, the total amount of public funds received is listed separately. {% endif %}
+                Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedules E and F. Figures are rounded to the nearest thousand.</p>
+            <!-- <p>
+                A roll-up view of a committee's overall financial activity, including contributions received and expenditures made.
+            </p> -->
+            {% if page.totals[1] == 0.0 | page.totals[0] == 0.0 %}
+            <h5>Why is contributions or expendutures data not available?</h5>
+            <p>Some state-level committees that are active within an election cycle are only required to file reports with the California Secretary of State, and not the San Francisco Ethics Commission. In these cases, contributions or expenditures data may not be available.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
 <div class="offcanvas offcanvas-start" tabindex="-1" id="cmte-detailsTT" aria-labelledby="cmte-detailsTTLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="cmte-detailsTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Committee Details</h5>
@@ -184,9 +232,10 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Contributors are individuals who have made contributions to the candidate's campaign. The table lists
+            <p>Contributors are individuals or entities who have made contributions to the candidate's or committee's campaign. The table lists
                 contributors by their first and last names, along with the total amount they have contributed.</p>
             <p>Note: The data in this table is based on the most recent filings and are updated nightly.</p>
+            <p>Reporting Contributions Returned to a Contributor: Contributions returned within the same reporting period in which they were received are reported as a negative contribution on Form 460 Schedule A. Contributions returned in a different reporting period in which they were received are reported on Form 460 Schedule E as “Returned Contributions” (code = RFD).</p>
         </div>
     </div>
 </div>
@@ -197,8 +246,8 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Expenditures are the amounts spent by the candidate's campaign. The table lists expenditures by their
-                type and amount.</p>
+            <p>Expenditures are the amount spent by the candidate or committee on campaign activities. The table lists expenditures by their
+                spending type and amount.</p>
             <p>Note: The data in this table is based on the most recent filings and are updated nightly.</p>
         </div>
     </div>
@@ -223,10 +272,6 @@
     <div class="offcanvas-body">
         <div>
             <p>Candidate Controlled Committees are a candidate's primary fundraising and expense-making entity.</p>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida. </p>
-            <p>Praesent efficitur rutrum urna, ut viverra purus imperdiet at. Sed elit eros, ultricies ac consequat ac, feugiat et ante. Ut et lectus et libero ullamcorper suscipit tempor a lectus. Nulla risus ligula, pharetra quis pretium at, convallis eget nunc. Donec at metus urna. Sed sollicitudin tortor massa. </p>
-            <p>Sed augue tortor, facilisis nec elit sit amet, ultrices eleifend purus. Nullam eu odio facilisis, aliquet lorem sed, pulvinar eros. Donec in sollicitudin leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>
 
         </div>
     </div>
@@ -331,17 +376,6 @@
     </div>
 </div>
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totalsTT" aria-labelledby="summary-totalsTTLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="summary-totalsTTLabel">Summary Totals</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-        <div>
-            <p class="text-secondary">A roll-up view of a committee's overall financial activity, including contributions received and expenditures made.</p>
-        </div>
-    </div>
-</div>
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-measuresTT" aria-labelledby="ie-measuresTTLabel">
     <div class="offcanvas-header">
