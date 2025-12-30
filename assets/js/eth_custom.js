@@ -126,6 +126,12 @@ function formatAllDateElements() {
         }).format(dateObj);
   });
 }
+function copyText(selector) {
+    const element = document.querySelector(selector);
+    if (!element) return;
+
+    navigator.clipboard.writeText(element.innerText);
+}
 
 window.addEventListener('DOMContentLoaded', () => {
   // Format ALL `.currency` elements 
@@ -135,4 +141,5 @@ window.addEventListener('DOMContentLoaded', () => {
   formatAllPercentageElements();
 
   formatAllDateElements();
+
 });

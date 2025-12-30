@@ -135,7 +135,7 @@ electionnav: true
                 </div>
 
                 <div class="card-body">
-                    <table class="table caption-top dtify mb-0" id="allcommittees_table">
+                    <table class="table caption-top dtify-bmc mb-0" id="allcommittees_table">
                         <thead>
                             <tr>
                                 <th scope="col" data-priority="1">Committee</th>
@@ -148,10 +148,14 @@ electionnav: true
                             {%- for committee in page.committees -%}
                             <tr>
                                 <td>
+                                    {% if committee.filer_id == 'unknown' %}
+                                        {{ committee.committee_name }}
+                                    {%- else -%}
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}">
                                         {{ committee.committee_name }}
                                     </a>
+                                    {%- endif -%}
                                 </td>
                                 <td>{{ committee.position }}</td>
                                 <td>{{ committee.funds }}</td>
@@ -197,7 +201,7 @@ electionnav: true
                 </div>
 
                 <div class="card-body">
-                    <table class="table caption-top dtify mb-0" id="multicommittees_table">
+                    <table class="table caption-top dtify-bmc mb-0" id="multicommittees_table">
                         <thead>
                             <tr>
                                 <th scope="col" data-priority="1">Committee</th>
@@ -235,55 +239,3 @@ electionnav: true
     </div>
     {%- endif -%}
 </div>
-
-
-
-
-
-<script>
-
-    new DataTable('table.dtify', {
-        columnDefs: [
-            {
-                targets: [2, 3],
-                render: function (data, type, row, meta) {
-                    if (type === 'display') {
-                        return formatAsCurrency(data);
-                    }
-                    return data
-                }
-            }
-        ],
-        responsive: {
-            details: {
-                display: DataTable.Responsive.display.childRowImmediate,
-                target: 0,
-                type: 'none'
-            }
-        },
-        order: [[1, 'asc']],
-        lengthChange: false,
-        displayLength: -1,
-        layout: {
-            topStart: null,
-            topEnd: null,
-            bottomStart: null,
-            bottomEnd: null,
-        },
-
-        footerCallback: function (row, data, start, end, display) {
-            let api = this.api();
-
-            // Total over all pages
-            totalExp = api
-                .column(3)
-                .data()
-                .reduce(sumAsNum, 0);
-
-            // Update footer
-            api.column(3).footer().innerHTML =
-                formatAsCurrency(totalExp);
-        },
-    });
-
-</script>
