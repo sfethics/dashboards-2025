@@ -11,6 +11,10 @@ electionnav: true
 {% assign cmte_type_text = 'General Purpose Committee' %}
 {% elsif page.committee_type == 'candidate ie' %}
 {% assign cmte_type_text = 'Independent Expenditure Committee' %}
+{% elsif page.committee_type == 'major donor' %}
+{% assign cmte_type_text = 'Major Donor' %}
+{% elsif page.committee_type == 'ie committee' %}
+{% assign cmte_type_text = 'Independent Expenditure Committee' %}
 {%- endif -%}
 {%- endif -%}
 <div class="border-bottom border-1 border-tertiary-subtle">
@@ -62,11 +66,12 @@ electionnav: true
                 <i class="fa-regular fa-circle-info"></i>
             </button>
         </h2>
-
+        {% if page.dates[0] != '' and page.dates[1] != '' %}
         <p class="mb-0 mt-1">
             Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
             and <span class="formatted-date">{{page.dates[1]}}</span>
         </p>
+        {% endif %}
         <!-- Total Contributions -->
         <div class="col-12 col-md-6">
             <div class="card border-0 shadow-sm rounded-4 h-100">
@@ -77,10 +82,20 @@ electionnav: true
                                 Contributions</h3>
                         </div>
                     </div>
+                    {% if page.totals[0] == 0.0 or page.totals[0] == '' %}
+                    {% assign exp_total_string = 'None Available' %}
+                    <span
+                            class="display-6 fw-semibold text-contributions currency"
+                            aria-label="Total contributions amount">{{exp_total_string}}</span>
+                    <p class="card-text">
+                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is contribution data not available?</span></a>
+                    </p>
+                    {% else %}
                     <span class="display-6 fw-semibold text-contributions currency"
                         aria-label="Total contributions amount">
                         {{page.totals[0]}}
                     </span>
+                    {% endif %}
                 </div>
             </div>
         </div>
@@ -92,7 +107,7 @@ electionnav: true
                         <h3 class="mb-0"><i class="fa-solid fa-money-check" aria-hidden="true"></i> Total Expenditures
                         </h3>
                     </div>
-                    {% if page.totals[1] == 0.0 %}
+                    {% if page.totals[1] == 0.0 or page.totals[1] == '' %}
                     {% assign exp_total_string = 'None Available' %}
                     <span
                             class="display-6 fw-semibold text-expenditures currency"
