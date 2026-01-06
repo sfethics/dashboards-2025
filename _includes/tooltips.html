@@ -38,6 +38,7 @@
         </div>
     </div>
 </div>
+{% if page.committee_type == 'candidate' %}
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-candidateTT" aria-labelledby="about-candidateTTLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="about-candidateTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Candidate Controlled Committees</h5>
@@ -87,9 +88,16 @@
         </div>
     </div>
 </div>
+{% else %}
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-committeeTT" aria-labelledby="about-committeeTTLabel">
     <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="about-committeeTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Candidate Controlled Committees</h5>
+        <h5 class="offcanvas-title" id="about-committeeTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
+            {% if page.committee_type == 'candidate ie' %}Third-Party Committee{% endif %}
+            {% if page.committee_type == 'ballot measure' %}Ballot Measure Committee{% endif %}
+            {% if page.committee_type == 'general' %}General Purpose Committee{% endif %}
+            {% if page.committee_type == 'major donor' %}Major Donor{% endif %}
+            {% if page.committee_type == 'ie committee' %}Independent Expenditure Committee{% endif %}
+        </h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -111,12 +119,14 @@
             <p class="text-secondary">A general purpose committee is a political committee that is not organized to support or oppose any specific candidate or ballot measure. These committees may engage in a variety of political activities, including supporting or opposing multiple candidates or ballot measures. General Purpose Committees are not subject to contribution limits.</p>
             {%- endif -%}
 
-            {% if page.committee_type == 'major_donor' %}
+            {% if page.committee_type == 'major donor' %}
             <h5>What is a Major Donor?</h5>
+            <p class="text-secondary">
+            Major donors are individuals or entities who make contributions totaling $10,000 or more, in the aggregate, (including loans) to local office holders, candidates, and recipient committees in a calendar year. Major donors report contributions on the FPPC Form 461 (Committee Campaign Statement), and Form 497 if contributions are made during the 90-days before the election.</p>
             {%- endif -%}
 
-            {% if page.committee_type == 'slate_mailer' %}
-            <h5>What is a Slate Mailer Committee?</h5>
+            {% if page.committee_type == 'ie committee' %}
+            <h5>What is an Independent Expenditure Committee?</h5>
             {%- endif -%}
             <!-- <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
             <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election.</p> -->
@@ -137,8 +147,8 @@
                         <i class="fa-light fa-copy"></i></button>
                 </div>
                 <div>
-                    <small class="text-secondary d-block">Purpose</small>
                     {% if page.committee_type == 'candidate ie' %}
+                        <small class="text-secondary d-block">Purpose</small>
                         {% if page.position == 'SUPPORT' %}
                             {% assign pos_string = 'in support of' %}
                         {%- elsif page.position == 'OPPOSE' -%}
@@ -152,6 +162,7 @@
                     {%- endif -%}
 
                     {% if page.committee_type == 'ballot measure' %}
+                        <small class="text-secondary d-block">Purpose</small>
                         {% if page.position == 'SUPPORT' %}
                             {% assign pos_string = 'to support' %}
                         {%- elsif page.position == 'OPPOSE' -%}
@@ -165,6 +176,7 @@
                     {%- endif -%}
 
                     {% if page.committee_type == 'general' %}
+                        <small class="text-secondary d-block">Purpose</small>
                         {% if page.position == 'SUPPORT' %}
                             {% assign pos_string = 'to support' %}
                         {%- elsif page.position == 'OPPOSE' -%}
@@ -192,6 +204,7 @@
         </div>
     </div>
 </div>
+{% endif %}
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totalsTT" aria-labelledby="summary-totalsTTLabel">
     <div class="offcanvas-header">
@@ -207,8 +220,8 @@
             <!-- <p>
                 A roll-up view of a committee's overall financial activity, including contributions received and expenditures made.
             </p> -->
-            {% if page.totals[1] == 0.0 | page.totals[0] == 0.0 %}
-            <h5>Why is contributions or expendutures data not available?</h5>
+            {% if page.totals[1] == 0.0 or page.totals[0] == 0.0 or page.totals[0] == '' or page.totals[1] == '' %}
+            <h5>Why is contribution or expenditure data not available?</h5>
             <p>Some state-level committees that are active within an election cycle are only required to file reports with the California Secretary of State, and not the San Francisco Ethics Commission. In these cases, contributions or expenditures data may not be available.</p>
             {% endif %}
         </div>
