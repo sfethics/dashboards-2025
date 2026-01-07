@@ -19,7 +19,8 @@
             </thead>
             <tbody>
                 {% for cmte in site.data[data_file].committees %}
-                {% if cmte.cmte_fppcid != "unknown" %}
+                {% if cmte.cmte_fppcid contains "FEC_" %}
+                {% elsif cmte.cmte_fppcid != "unknown" %}
                 <tr>
                     <!-- check if committee page exists locally or link to cal-access instead
                         https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH=<FPPC ID> -->

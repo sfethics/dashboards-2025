@@ -1682,27 +1682,6 @@ committees:
     Club
   cmte_fppcid: FEC_C00002766
   cmte_nid: unknown
-- cmte_name: Affordable Housing Alliance Political Action Committee
-  cmte_fppcid: '594003'
-  cmte_nid: '11283316'
-- cmte_name: Alice B Toklas Democratic Club
-  cmte_fppcid: '1239530'
-  cmte_nid: '10381366'
-- cmte_name: Chinese American Demoracic Club PAC
-  cmte_fppcid: '588013'
-  cmte_nid: '6674037'
-- cmte_name: San Francisco Firefighters Slate Card
-  cmte_fppcid: '1342688'
-  cmte_nid: '126360920'
-- cmte_name: San Francisco League of Conservation Voters
-  cmte_fppcid: '590023'
-  cmte_nid: '6674123'
-- cmte_name: San Francisco Women's Political Committee - Slate
-  cmte_fppcid: '1342335'
-  cmte_nid: '129167089'
-- cmte_name: Sierra Club SF Bay Chapter Campaigns Slate Mailer Organization
-  cmte_fppcid: '1306869'
-  cmte_nid: '162288713'
 
 ---
 
