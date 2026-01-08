@@ -141,6 +141,11 @@ $utilities: map-merge(
 // body {
 //     background-color: mix(white, $primary, 90%);
 // }
+html, body {
+  overflow-x: clip; /* preferred */
+  /* overflow-x: hidden;  fallback if clip isn't supported */
+}
+
 h1, h2 {
     font-family: $font-family-serif;
 }
@@ -525,4 +530,111 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   #expenditures_table_filter input[type="search"] {
     font-size: 16px;  // or 1rem if your base font is 16px
   }
+}
+
+.campaign-hero {
+      position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+    background-image: url("/assets/images/pexels-photo-8850709.jpg");
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: clamp(3.5rem, 8vw, 10rem);
+    padding-bottom: 2rem;
+    margin-top: 0;
+    min-height: calc(85vh - var(--header-height, 64px));
+    display: flex;
+    align-items: flex-start; /* move content upward */
+}
+@media (max-width: 767.98px) {
+  .hero-panel {
+    margin-inline: 1rem;
+  }
+}
+
+
+
+
+/* Optional: improve text readability */
+.campaign-hero h1,
+.campaign-hero h2 {
+    color: #ffffff;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
+}
+
+/* Optional: subtle overlay if needed */
+.campaign-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0);
+}
+
+.campaign-hero {
+    position: relative;
+}
+
+.campaign-hero > .container {
+    position: relative;
+    z-index: 1;
+}
+
+.campaign-hero h1 {
+  font-size: clamp(2.25rem, 4vw, 3.25rem);
+  max-width: 100%;
+  white-space: normal;
+  text-wrap: balance;
+  margin-bottom: 3rem;
+}
+
+/* Label text: "Select an election" */
+.campaign-hero h2 {
+  font-size: clamp(1.4rem, 2.2vw, 1.9rem);
+}
+
+/* Dropdown + button */
+.campaign-hero .form-select,
+.campaign-hero .btn {
+  font-size: clamp(1.1rem, 1.6vw, 1.3rem);
+  padding: 0.5rem 0.9rem;
+}
+
+/* Extra right padding so the dropdown arrow never overlaps */
+.campaign-hero .form-select {
+  padding-right: 2.75rem;
+}
+.campaign-hero .btn {
+  font-weight: 600;
+}
+.hero-panel {
+  display: inline-block;
+  padding: 1.25rem 1.5rem;
+  border-radius: 0.75rem;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(2px);
+  width: fit-content;
+  max-width: 110ch;
+}
+
+
+
+.election-selector .form-select,
+.election-selector .btn {
+    font-size: 1.25rem; /* matches typical h2 sizing */
+    line-height: 1.2;
+    padding: 0.5rem 0.75rem;
+}
+
+.election-selector .form-select {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 2.75rem;
+}
+
+.page-content .content-wrapper > .container-md.mt-3 {
+  margin-top: 0 !important;
 }

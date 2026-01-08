@@ -4,12 +4,47 @@
 title: Home
 layout: static
 ---
-<h1>Welcome</h1>
+<div class="campaign-hero">
+    <div class="container py-4">
+        <div class="row">
+            <div class="hero-panel">
+                <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3">
+                    <h1>Before you vote, see who is funding whom in <span class="text-nowrap">San Francisco</span>
+                        elections.</h1>
+                </div>
 
-<p>This is the home page for campaign finance dashboards prepared by the San Francisco Ethics Commission.</p>
 
-<p>Start by choosing an election to browse:</p>
-<ul>
-  <li><a href="elections/2024-11-05/">November 5, 2024</a></li>
-  <li><a href="elections/2025-09-16/">September 16, 2025</a></li>
-</ul>
+                <div class="row">
+                    <div class="d-flex flex-column flex-md-row align-items-md-center gap-3 mb-3">
+                        <h2 class="mb-0">Select an election:</h2>
+
+                        <div class="election-selector d-flex align-items-center gap-2">
+                            <select id="electionSelect" class="form-select">
+                                <option value="elections/2025-09-16/" selected>
+                                    September 16, 2025
+                                </option>
+                                <option value="elections/2024-11-05/">November 5, 2024</option>
+
+                            </select>
+
+                            <button id="openElection" class="btn btn-primary">
+                                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+                                <span class="visually-hidden">View</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById("openElection").addEventListener("click", function () {
+        const select = document.getElementById("electionSelect");
+        const url = select.value;
+
+        if (url) {
+            window.location.href = url;
+        }
+    });
+</script>
