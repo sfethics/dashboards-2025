@@ -1,13 +1,13 @@
 <div class="offcanvas offcanvas-end" tabindex="-1" id="electedOffices" aria-labelledby="electedOfficesLabel">
     <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="electedOfficesLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Elected Offices</h5>
+        <h5 class="offcanvas-title" id="electedOfficesLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>All Contests</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Use the list below to navigate between all candidate contests in the {{election}} election.</p>
+            <h5>All candidate contests in the {{election}} election:</h5>
         </div>
-        <div class="mt-3">
+        <div class="mt-3 mb-3">
             <ul class="list-group">
                 {%- for p in candidate_pages -%}
                 <li class="list-group-item">
@@ -16,16 +16,8 @@
                 {%- endfor -%}
             </ul>
         </div>
-    </div>
-</div>
-<div class="offcanvas offcanvas-end" tabindex="-1" id="ballotMeasures" aria-labelledby="ballotMeasuresLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="ballotMeasuresLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Ballot Measures</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
         <div>
-            <p>Use the list below to navigate between all ballot measure contests in the {{election}} election.</p>
+            <h5>All ballot measure contests in the {{election}} election:</h5>
         </div>
         <div class="mt-3">
             <ul class="list-group">
@@ -59,9 +51,9 @@
                         <i class="fa-light fa-copy"></i></button>
                 </div>
                 <div>
-                    <small class="text-secondary d-block">FPPC ID</small>
+                    <small class="text-secondary d-block">Committee ID</small>
                     <span class="fw-semibold" id="copyable-fid">{{page.filer_id}}</span>
-                    <button onclick="copyText('#copyable-fid')" aria-label="Copy FPPC ID" class="btn btn-sm btn-light">
+                    <button onclick="copyText('#copyable-fid')" aria-label="Copy Committee ID" class="btn btn-sm btn-light">
                         <i class="fa-light fa-copy"></i></button>
                 </div>
             </div>
@@ -92,11 +84,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-committeeTT" aria-labelledby="about-committeeTTLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="about-committeeTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
-            {% if page.committee_type == 'candidate ie' %}Third-Party Committee{% endif %}
-            {% if page.committee_type == 'ballot measure' %}Ballot Measure Committee{% endif %}
-            {% if page.committee_type == 'general' %}General Purpose Committee{% endif %}
-            {% if page.committee_type == 'major donor' %}Major Donor{% endif %}
-            {% if page.committee_type == 'ie committee' %}Independent Expenditure Committee{% endif %}
+            {% if page.committee_type == 'candidate ie' %}Third-Party Committee
+            {% elsif page.committee_type == 'ballot measure' %}Ballot Measure Committee
+            {% elsif page.committee_type == 'general' %}General Purpose Committee
+            {% elsif page.committee_type == 'major donor' %}Major Donor
+            {% elsif page.committee_type == 'ie committee' %}Independent Expenditure Committee
+            {% elsif page.committee_type == 'slate mailer' %}Slate Mailer Committee{% endif %}
         </h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
@@ -128,6 +121,12 @@
             {% if page.committee_type == 'ie committee' %}
             <h5>What is an Independent Expenditure Committee?</h5>
             {%- endif -%}
+            
+            {% if page.committee_type == 'slate mailer' %}
+            <h5>What is a Slate Mailer Committee?</h5>
+            <p>A Slate Mailer Committee is an organization that receives payments for the purpose of producing slate mailers to support or oppose candidates and ballot measures.</p>
+            <p>Slate Mailers are only required to file certain statements with the San Francisco Ethics Commission. More filings by this organization may be available by visiting the San Francisco Department of Elections or by searching the California Secretary of State's <a href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{page.filer_id}}">Cal-Access website</a>.</p>
+            {%- endif -%}
             <!-- <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
             <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements   in the weeks before an election. They are prohibited from coordinating their spending decisions with third-party committees. Under San Francisco law, no person other than the candidate may contribute more than $500 to a candidate's committee for a single election.</p> -->
 
@@ -141,9 +140,9 @@
                 </div>
                 
                 <div>
-                    <small class="text-secondary d-block">FPPC ID</small>
+                    <small class="text-secondary d-block">Committee ID</small>
                     <span class="fw-semibold" id="copyable-fid">{{page.filer_id}}</span>
-                    <button onclick="copyText('#copyable-fid')" aria-label="Copy FPPC ID" class="btn btn-sm btn-light">
+                    <button onclick="copyText('#copyable-fid')" aria-label="Copy Committee ID" class="btn btn-sm btn-light">
                         <i class="fa-light fa-copy"></i></button>
                 </div>
                 <div>

@@ -20,18 +20,10 @@
                 <i class="fa-regular fa-user-magnifying-glass me-2" aria-hidden="true"></i>Contributors
             </a> -->
             <div class="btn-group">
-                {%- if candidate_pages.size > 0 -%}
                 <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#electedOffices"
                     aria-controls="electedOffices">
-                    <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Elected Offices
+                    <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>All Contests
                 </button>
-                {%- endif -%}
-                {%- if bm_pages.size > 0 -%}
-                <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#ballotMeasures"
-                    aria-controls="ballotMeasures">
-                    <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Ballot Measures
-                </button>
-                {%- endif -%}
                 <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#committeeList"
                     aria-controls="committeeList">
                     <i class="fa-regular fa-sidebar-flip me-2" aria-hidden="true"></i>Search Committees

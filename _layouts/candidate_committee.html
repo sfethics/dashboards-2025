@@ -5,12 +5,18 @@ electionnav: true
 <div class="border-bottom border-1 border-tertiary-subtle">
     <div class="container">
         <div class="row">
-            <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
-                <div>
-                    <h1 class="mb-1">{{ page.candidate_name }}</h1>
+            <div class="d-flex flex-column flex-md-row align-items-md-end justify-content-between gap-3 mb-3 mt-3">
+                <div class="flex-grow-1">
+                    <h1 class="mb-1">
+                        {% if page.candidate_name%}{{ page.candidate_name }}
+                        {% else %}{{ page.filer_name }}
+                        {% endif %}
+                    </h1>
                     <div class="mb-0 d-flex gap-1 flex-wrap">
                         <span class="badge bg-tertiary text-light px-3 py-1 rounded-pill">
-                            Candidate for {{ page.breadcrumbs[1][0] }}
+                            {% if page.candidate_name%}Candidate for {{ page.breadcrumbs[1][0] }}
+                            {% else %}Candidate Committee
+                            {% endif %}
                         </span>
                         {%- if page.pubfi.participant == 'True' -%}
                         {% assign col-class-totals = "col-lg-4" %}
@@ -19,13 +25,10 @@ electionnav: true
                         </span>
                         {%- else -%}
                         {% assign col-class-totals = "col-lg-6" %}
-                        <!-- <span class="badge rounded-pill text-success border border-success-subtle">
-                                Publicly financed: No
-                            </span> -->
                         {%- endif -%}
                     </div>
                 </div>
-                <div class="d-flex gap-2">
+                <div class="d-flex gap-2 flex-shrink-0">
                     <button data-bs-toggle="offcanvas" data-bs-target="#about-candidateTT"
                         class="btn btn-outline-tertiary" href="#">
                         <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
@@ -112,6 +115,7 @@ electionnav: true
     </div>
 </div>
 <!-- Factoids -->
+{% if page.factoids %}
 <div class="container my-5" aria-label="Contributions overview">
     <div class="row g-4">
         <div class="col-12">
@@ -153,6 +157,7 @@ electionnav: true
         </div>
     </div>
 </div>
+{% endif %}
 <!-- Contributors + Expenditures Datatables -->
 <div class="container my-5 h-100">
     <h2>Activity Details</h2>
@@ -337,48 +342,6 @@ electionnav: true
             </div>
         </div>-->
 
-<!-- Committee Details -->
-<!-- <div class="col-12 col-lg-4">
-            <div class="card border-0 shadow-sm rounded-4 h-100">
-                <div class="card-body p-4">
-                    <h2 class="h5 mb-4">Committee Details</h2>
-
-
-                    <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
-                        <div>
-                            <small class="text-secondary d-block">Committee Name</small>
-                            <span class="fw-semibold">{{page.filer_name}}</span>
-                        </div>
-                        <div>
-                            <small class="text-secondary d-block">FPPC ID</small>
-                            <span class="fw-semibold">{{page.filer_id}}</span>
-                        </div>
-                    </div>
-
-                    <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
-                        <div>
-                            <small class="text-secondary d-block">San Francisco Filer</small>
-                            {%- if page.jurisdiction == "sf" -%}
-                            <span class="fw-semibold">Yes</span>
-                            {%- elsif page.jurisdiction == "ca" -%}
-                            <span class="fw-semibold">
-                                No. This committee files with the California Secretary of State. Data on this page is
-                                derived
-                                from
-                                electronic filings with the San Francisco Ethics Commission and a nightly download of
-                                data
-                                from the
-                                Secretary of State's office.
-                            </span>
-                            {%- endif -%}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>-->
 
 <!-- IEs -->
 <div class="container" aria-label="Independent Expenditures">
