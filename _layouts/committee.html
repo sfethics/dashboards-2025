@@ -15,6 +15,8 @@ electionnav: true
 {% assign cmte_type_text = 'Major Donor' %}
 {% elsif page.committee_type == 'ie committee' %}
 {% assign cmte_type_text = 'Independent Expenditure Committee' %}
+{% elsif page.committee_type == 'slate mailer' %}
+{% assign cmte_type_text = 'Slate Mailer Committee' %}
 {%- endif -%}
 {%- endif -%}
 <div class="border-bottom border-1 border-tertiary-subtle">

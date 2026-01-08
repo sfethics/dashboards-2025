@@ -17,7 +17,7 @@ new DataTable('#committee_list_table', {
     },
     language: {
         search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
-        searchPlaceholder: 'Search by name or FPPC ID…'   // set placeholder text :contentReference[oaicite:1]{index=1}
+        searchPlaceholder: 'Search by name or Committee ID…'   // set placeholder text :contentReference[oaicite:1]{index=1}
     },
     initComplete: function () {
         // Add an aria-label if you prefer not to visually show a label but still provide accessibility
