@@ -1,0 +1,16 @@
+{
+  "name": "dashboards-2025 (Jekyll)",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "site",
+  "workspaceFolder": "/site",
+  "shutdownAction": "stopCompose",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "rebornix.ruby",
+        "shopify.ruby-lsp"
+      ]
+    }
+  }
+}
