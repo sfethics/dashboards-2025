@@ -3,7 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- SEO: Basic -->
-  <title>{{ site.title }}</title>
+    {%- if page.filer_name != nil -%}
+  {%- assign title = page.filer_name -%}
+  {%- else -%}
+  {%- assign title = page.title -%}
+  {%- endif-%}
+  <title>{{title}} | {{site.title}}</title>
   <meta name="description" content="{{ site.title }}">
   <meta name="keywords"
     content="San Francisco Ethics Commission, campaign finance dashboards, campaign finance data, election contributions, campaign spending, transparency, interactive charts, candidate committees, ballot measures, disclosure summaries, San Francisco elections, fundraising data, public finance data">
@@ -100,10 +105,4 @@
     rel="stylesheet">
   <link rel="stylesheet" href="/assets/DataTables/datatables.css">
   <link rel="stylesheet" href="/assets/main.css">
-  {%- if page.filer_name != nil -%}
-  {%- assign title = page.filer_name -%}
-  {%- else -%}
-  {%- assign title = page.title -%}
-  {%- endif-%}
-  <title>{{title}} | {{site.title}}</title>
 </head>
