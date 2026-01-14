@@ -1,0 +1,33 @@
+{% assign btn_class = include.btn_class | default: "btn-outline-tertiary" %}
+
+<button
+  type="button"
+  class="btn {{ btn_class }}"
+  id="share-btn"
+  aria-label="Share this page"
+>
+  <i class="fa-regular fa-arrow-up-from-square" aria-hidden="true"></i>
+</button>
+
+<script>
+  (function () {
+    const btn = document.getElementById("share-btn");
+    if (!btn) return;
+
+    if (!navigator.share) {
+      btn.style.display = "none";
+      return;
+    }
+
+    btn.addEventListener("click", async () => {
+      try {
+        await navigator.share({
+          title: document.title,
+          url: window.location.href
+        });
+      } catch (e) {
+        // user cancelled
+      }
+    });
+  })();
+</script>
