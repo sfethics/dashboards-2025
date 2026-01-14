@@ -1,1 +1,5 @@
-* text eol=lf
+# Default: normalize text files to LF
+* text=auto eol=lf
+ 
+# Binary files: never modify
+*.png binary
