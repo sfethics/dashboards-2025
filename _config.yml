@@ -22,7 +22,7 @@ encoding: utf-8
 title: SF Campaign Disclosure
 # email: tyler.field@sfgov.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is under development - accurate figures are not represented
+  Interactive tools showing San Francisco campaign fundraising and spending data by candidates and committees to promote election transparency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

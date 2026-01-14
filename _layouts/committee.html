@@ -53,6 +53,8 @@ electionnav: true
                         <i class="fa-regular fa-file-contract" aria-hidden="true"></i>
                         Disclosure Statements
                     </button>
+                    {% assign share_btn_class = "btn-outline-" | append: bgclass %}
+                    {% include share.html btn_class=share_btn_class %}
                 </div>
             </div>
         </div>
