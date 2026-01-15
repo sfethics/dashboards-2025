@@ -1,11 +1,12 @@
-<div class="offcanvas offcanvas-end" tabindex="-1" id="electedOffices" aria-labelledby="electedOfficesLabel">
+<div class="offcanvas offcanvas-end" tabindex="-1" id="allContests" aria-labelledby="allContestsLabel">
     <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="electedOfficesLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>All Contests</h5>
+        <h5 class="offcanvas-title" id="allContestsLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>All Contests</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
+        {% if candidate_pages.size > 0 %}
         <div>
-            <h5>All candidate contests in the {{election}} election:</h5>
+            <h5>All candidate contests in the <span class="formatted-date text-nowrap">{{election}}</span> election:</h5>
         </div>
         <div class="mt-3 mb-3">
             <ul class="list-group">
@@ -16,8 +17,9 @@
                 {%- endfor -%}
             </ul>
         </div>
+        {% endif %}
         <div>
-            <h5>All ballot measure contests in the {{election}} election:</h5>
+            <h5>All ballot measure contests in the <span class="formatted-date text-nowrap">{{election}}</span> election:</h5>
         </div>
         <div class="mt-3">
             <ul class="list-group">
@@ -433,10 +435,16 @@
         <h5 class="offcanvas-title" id="schedule-dTTLabel">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p class="text-secondary">Payments made by a committee to support or oppose candidates, ballot measures, or other committees, beyond its primary focus.</p>
-            <p class="text-secondary">Data comes from FPPC460 Schedule D.</p>
+            <p class="">Payments made by a committee to support or oppose other candidates, ballot measures, or committees, beyond its primary focus.</p>
+            <p class="">Data comes from FPPC460 Schedule D.</p>
+            <p>Payments are categorized by the following types:</p>
+            <ul>
+                <li>a monetary contribution to another committee</li>
+                <li>a non-monetary contribution to another committee</li>
+                <li>an independent expenditure supporting/opposing other candidates or ballot measures</li>
+            </ul>
         </div>
     </div>
 </div>

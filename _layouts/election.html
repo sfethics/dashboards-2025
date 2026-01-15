@@ -30,9 +30,9 @@ electionnav: true
                         </div>
                     -->
 <div class="container my-4" aria-label="Election Summary Cards">
-    <h2>Elected Offices</h2>
     <div class="row g-4">
         {%- if page.candidate_pf -%}
+        <h2 style="margin-bottom: -1rem;">Elected Offices</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
                 <div class="card-header custom-card-header">
@@ -141,7 +141,7 @@ electionnav: true
 
         {%- if page.measures -%}
         <div class="col-lg-12 h-100">
-                <h2>Ballot Measures</h2>
+            <h2>Ballot Measures</h2>
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="ballot-measure-committees" class="hover-link mb-0">

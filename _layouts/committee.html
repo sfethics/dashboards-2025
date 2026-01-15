@@ -500,6 +500,7 @@ electionnav: true
                         <thead class="table-light">
                             <tr>
                                 <th class="text-uppercase small" scope="col">Name</th>
+                                <th class="text-uppercase small" scope="col">Payment Type</th>
                                 <th class="text-uppercase small" scope="col">Position</th>
                                 <th class="text-uppercase small text-end" scope="col">Total</th>
                             </tr>
@@ -517,6 +518,7 @@ electionnav: true
                                     {{ x.name }}
                                     {%- endif -%}
                                 </td>
+                                <td class="fw-medium">{{ x.tx_descr }}</td>
                                 <td class="fw-medium">{{ x.position }}</td>
                                 <td class="currency text-end fw-semibold">{{ x.total }}</td>
                             </tr>
