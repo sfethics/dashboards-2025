@@ -145,11 +145,44 @@ new DataTable('#third_party_table', {
     ],
 });
 
-new DataTable('table.dtify', {
+new DataTable('table#ie-candidates_table', {
     pageLength: 10,
     lengthChange: false,
     order: [[2, 'desc']],
     columnDefs: [
+        {
+            targets: [-1],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
+                }
+                return data
+            }
+        }
+    ],
+    layout: {
+        topEnd: null,
+        bottomEnd: {
+            paging: {
+                type: 'full'
+            }
+        }
+    }
+});
+
+new DataTable('table#schedule-d_table', {
+    pageLength: 10,
+    lengthChange: false,
+    order: [[2, 'desc']],
+    responsive: {
+        details: {
+            display: DataTable.Responsive.display.childRowImmediate,
+            target: 0,
+            type: 'none'
+        }
+    },
+    columnDefs: [
+        { responsivePriority: 10001, targets: [1] },
         {
             targets: [-1],
             render: function (data, type, row, meta) {
@@ -195,7 +228,7 @@ new DataTable('table.dt_f497p2', {
 });
 
 // IE Measures — use same responsive approach as third_party_table
-// this table only appears on committee.html
+
 new DataTable('#ie-measures_table', {
   displayLength: -1,
   responsive: {

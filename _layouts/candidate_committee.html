@@ -517,6 +517,7 @@ electionnav: true
                         <thead>
                             <tr>
                                 <th scope="col">Name</th>
+                                <th scope="col">Payment Type</th>
                                 <th scope="col">Position</th>
                                 <th scope="col">Total</th>
                             </tr>
@@ -533,6 +534,7 @@ electionnav: true
                                     {{ x.name }}
                                     {%- endif -%}
                                 </td>
+                                <td>{{ x.tx_descr }}</td>
                                 <td>{{ x.position }}</td>
                                 <td class="currency">{{ x.total }}</td>
                             </tr>
