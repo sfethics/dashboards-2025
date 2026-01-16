@@ -2,11 +2,11 @@
 layout: contest_bmc
 election: '2025-09-16'
 candidate: false
-title: 'A: Recall: BoS D4 Joel Engardio-A'
+title: 'A: Recall: BoS D4 Joel Engardio'
 breadcrumbs:
 - - Sep 16, 2025
   - elections/2025-09-16
-- - 'A: Measure A'
+- - 'A: Recall: BoS D4 Joel Engardio'
   - elections/2025-09-16/measures/measurea
 committees:
 - position: OPPOSE

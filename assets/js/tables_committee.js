@@ -3,7 +3,8 @@ new DataTable('#contributors_table', {
     lengthChange: false,
     order: [[2, 'desc']],
     columnDefs: [
-        { width: '35%', targets: [0, 1] },
+        { width: '60%', targets: [1] },
+        { width: '20%', targets: [0, 2] },
         {
             targets: [2],
             render: function (data, type, row, meta) {
@@ -38,7 +39,7 @@ new DataTable('#expenditures_table', {
     lengthChange: false,
     order: [[1, 'desc']],
     columnDefs: [
-        { width: '75%', targets: [0] },
+        { width: '80%', targets: [0] },
         {
             targets: [1],
             render: function (data, type, row, meta) {
@@ -173,7 +174,7 @@ new DataTable('table#ie-candidates_table', {
 new DataTable('table#schedule-d_table', {
     pageLength: 10,
     lengthChange: false,
-    order: [[2, 'desc']],
+    order: [[2, 'desc'], [3, 'desc']],
     responsive: {
         details: {
             display: DataTable.Responsive.display.childRowImmediate,
@@ -182,6 +183,7 @@ new DataTable('table#schedule-d_table', {
         }
     },
     columnDefs: [
+        { width: '20%', targets: [1] },
         { responsivePriority: 10001, targets: [1] },
         {
             targets: [-1],
