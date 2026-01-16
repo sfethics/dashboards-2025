@@ -4,15 +4,17 @@
 title: Home
 layout: static
 ---
+
 <div class="campaign-hero">
     <div class="container py-4">
         <div class="row">
             <div class="hero-panel">
                 <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3">
-                    <h1>Before you vote, see who is funding whom in <span class="text-nowrap">San Francisco</span>
-                        elections.</h1>
+                    <h1>
+                        Before you vote, see who is funding whom in
+                        <span class="text-nowrap">San Francisco</span> elections.
+                    </h1>
                 </div>
-
 
                 <div class="row">
                     <div class="d-flex flex-column flex-md-row align-items-md-center gap-3 mb-3">
@@ -24,27 +26,165 @@ layout: static
                                     September 16, 2025
                                 </option>
                                 <option value="elections/2024-11-05/">November 5, 2024</option>
-
                             </select>
 
-                            <button id="openElection" class="btn btn-primary">
+                            <button id="openElection" class="btn btn-success" type="button">
                                 <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
                                 <span class="visually-hidden">View</span>
                             </button>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
 </div>
+
+<div class="home-content">
+    <div class="container">
+        <!-- Section intro to give the blue area purpose -->
+        <div class="row justify-content-center text-center mb-4">
+            <div class="col-lg-10 col-xl-9">
+                <p class="home-section-kicker mb-2">Use this site to explore campaign finance data</p>
+                <h2 class="home-section-title mb-0">
+    View contributions, spending, and independent activity
+</h2>
+            </div>
+        </div>
+
+        <!-- TWO CARDS SIDE-BY-SIDE -->
+        <div class="row justify-content-center g-4">
+            <div class="col-lg-6 col-xl-6">
+                <div class="card shadow-sm home-learn-card">
+                    <div class="home-card-header">
+                        <h2 class="h3 mb-0">What You Can Learn Here</h2>
+                    </div>
+
+                    <div class="card-body p-4">
+                        <ul class="list-unstyled mb-0 home-learn-list">
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>Who the largest contributors are to candidates and ballot measures</span>
+                            </li>
+
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>How much money campaigns are raising and spending in each contest</span>
+                            </li>
+
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>Which campaigns are funded by local San Francisco contributions</span>
+                            </li>
+
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>How campaigns fund their operations, including major sources of support</span>
+                            </li>
+
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>Which third-party organizations are influencing elections and who is funding them</span>
+                            </li>
+
+                            <li class="d-flex align-items-start home-learn-item">
+                                <i class="fa-regular fa-square-check text-success me-3 mt-1" aria-hidden="true"></i>
+                                <span>Up-to-date campaign finance information as new filings are received</span>
+                            </li>
+                        </ul>
+
+                        <div class="d-flex flex-column flex-sm-row gap-2 mt-4">
+                            <a class="btn btn-success" href="/about/">
+                                About this data
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xl-6">
+                <div class="card shadow-sm home-links-card">
+                    <div class="home-card-header">
+                        <h2 class="h3 mb-0">Helpful Resources</h2>
+                    </div>
+
+                    <div class="card-body p-4">
+                        <ul class="list-unstyled mb-0 home-links-list">
+                            <li class="home-links-item">
+                                <div class="d-flex align-items-start gap-3">
+                                    <i class="fa-solid fa-id-card text-success mt-1" aria-hidden="true"></i>
+                                    <div>
+                                        <a href="https://www.sf.gov/departments--department-elections" target="_blank" rel="noopener">
+                                            Register to vote or update your registration
+                                        </a>
+                                        <div class="home-links-desc">
+                                            San Francisco Department of Elections voter registration resources.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="home-links-item">
+                                <div class="d-flex align-items-start gap-3">
+                                    <i class="fa-solid fa-database text-success mt-1" aria-hidden="true"></i>
+                                    <div>
+                                        <a href="https://sfethics.org/disclosures/campaign-finance-disclosure/campaign-finance-disclosure-data" target="_blank" rel="noopener">
+                                            Open datasets
+                                        </a>
+                                        <div class="home-links-desc">
+                                            Query and export the campaign finance data behind this site.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="home-links-item">
+                                <div class="d-flex align-items-start gap-3">
+                                    <i class="fa-solid fa-file-lines text-success mt-1" aria-hidden="true"></i>
+                                    <div>
+                                        <a href="https://public.netfile.com/pub2/?aid=sfo" target="_blank" rel="noopener">
+                                            Campaign finance filings database
+                                        </a>
+                                        <div class="home-links-desc">
+                                            View disclosure statements filed with the Ethics Commission.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="home-links-item">
+                                <div class="d-flex align-items-start gap-3">
+                                    <i class="fa-solid fa-circle-info text-success mt-1" aria-hidden="true"></i>
+                                    <div>
+                                        <a href="https://sfethics.org/guidance/campaigns">
+                                            Guidance on local campaign finance rules
+                                        </a>
+                                        <div class="home-links-desc">
+                                            Learn the terminology, reporting schedules, and related references.
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+
+                        <div class="mt-4">
+                            <p class="mb-2"><strong>Have Questions?</strong> Reach out to the Ethics Commission via the <a href="https://sfethics.atlassian.net/servicedesk/customer/portal/14">support portal</a>.</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
 <script>
     document.getElementById("openElection").addEventListener("click", function () {
         const select = document.getElementById("electionSelect");
         const url = select.value;
-
-        if (url) {
-            window.location.href = url;
-        }
+        if (url) window.location.href = url;
     });
 </script>
