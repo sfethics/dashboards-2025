@@ -539,14 +539,14 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-    background-image: url("/assets/images/voting.jpg");
+    background-image: url("/assets/images/frank_city_hall_4.png");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
     padding-top: clamp(3.5rem, 8vw, 10rem);
     padding-bottom: 2rem;
     margin-top: 0;
-    min-height: calc(85vh - var(--header-height, 64px));
+    min-height: calc(75vh - var(--header-height, 64px));
     display: flex;
     align-items: flex-start; /* move content upward */
 }
@@ -617,10 +617,37 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   background: rgba(0, 0, 0, 0.35);
   backdrop-filter: blur(2px);
   width: fit-content;
-  max-width: 110ch;
+  max-width: 90ch;
 }
 
+.campaign-hero {
+  position: relative;   // already set
+  overflow: hidden;     // keeps the gradient from spilling out
+}
 
+/* Fade the hero image into the blue section below */
+.campaign-hero::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: clamp(160px, 18vw, 320px);   // taller fade band
+  pointer-events: none;
+  z-index: 1;
+
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 74, 128, 0) 0%,
+    rgba(0, 74, 128, 0.10) 20%,
+    rgba(0, 74, 128, 0.55) 60%,
+    rgba(0, 74, 128, 1) 100%
+  );
+}
+
+/* Keep your content above the overlay */
+.campaign-hero > .container {
+  position: relative;
+  z-index: 2;
+}
 
 .election-selector .form-select,
 .election-selector .btn {
