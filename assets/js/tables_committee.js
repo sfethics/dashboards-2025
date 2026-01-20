@@ -184,6 +184,7 @@ new DataTable('table#schedule-d_table', {
     },
     columnDefs: [
         { width: '20%', targets: [1] },
+        { width: '10%', targets: [2,3] },
         { responsivePriority: 10001, targets: [1] },
         {
             targets: [-1],
