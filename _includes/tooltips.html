@@ -99,7 +99,7 @@
         <div>
             {% if page.committee_type == 'candidate ie' %}
             <h5>What is a Primarily Formed Candidate Committee?</h5>
-            <p class="text-secondary">A Primarily Formed Candidate committee is a political committee that raises and spends money to support or oppose candidates for local office but operates independently of those candidates and their campaigns. These committees are often called independent expenditure committees or primarily formed committees. They are prohibited from coordinating their spending decisions with any candidate or candidate controlled committee. Primarily Formed Candidate committees are not subject to contribution limits.</p>
+            <p class="text-secondary">A Primarily Formed Candidate committee is a political committee that raises and spends money to support or oppose candidates for local office but operates independently of those candidates and their campaigns. They are prohibited from coordinating their spending decisions with any candidate or candidate controlled committee. Primarily Formed Candidate committees are not subject to contribution limits.</p>
             <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, the committee must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
             {%- endif -%}
 
@@ -217,7 +217,7 @@
             <h5>How This Data is Calculated</h5>
             <p class="text-secondary">The totals in this section represent the combined contributions raised and funds spent by a committees in the current election. Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. 
                 {% if page.committee_type == 'candidate' %}For a candidate controlled committee participating in the Public Financing Program, the total amount of public funds received is listed separately. {% endif %}
-                Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedules E and F. Figures are rounded to the nearest thousand.</p>
+                Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Figures are rounded to the nearest thousand.</p>
             <!-- <p>
                 A roll-up view of a committee's overall financial activity, including contributions received and expenditures made.
             </p> -->
@@ -229,16 +229,6 @@
     </div>
 </div>
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="cmte-detailsTT" aria-labelledby="cmte-detailsTTLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="cmte-detailsTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Committee Details</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-        <div>
-        </div>
-    </div>
-</div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="contributorsTT" aria-labelledby="contributorsTTLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="contributorsTTLabel">About the contributors table</h5>
@@ -246,9 +236,8 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Contributors are individuals or entities who have made contributions to the candidate's or committee's campaign. The table lists
-                contributors by their first and last names, along with the total amount they have contributed.</p>
-            <p>Note: The data in this table is based on the most recent filings and are updated nightly.</p>
+            <p>Contributors are individuals or entities who have made contributions to the candidate's or committee's campaign. The table lists contributors by their first and last names, along with the total amount they have contributed.</p>
+            <p>The data in this table is based on itemized contributions reported on Form 460 Schedules A and C. It also includes contributions received reported on Forms 496 ($100 or more) and 497 part 1 ($1000 or more) during the late report period.</p>
             <p>Reporting Contributions Returned to a Contributor: Contributions returned within the same reporting period in which they were received are reported as a negative contribution on Form 460 Schedule A. Contributions returned in a different reporting period in which they were received are reported on Form 460 Schedule E as “Returned Contributions” (code = RFD).</p>
         </div>
     </div>
@@ -260,9 +249,8 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Expenditures are the amount spent by the candidate or committee on campaign activities. The table lists expenditures by their
-                spending type and amount.</p>
-            <p>Note: The data in this table is based on the most recent filings and are updated nightly.</p>
+            <p>Expenditures are the amounts spent by the candidate or committee on campaign activities. The table lists expenditures by their spending type and amount.</p>
+            <p>The data in this table is based on itemized payments reported on Form 460 Schedule E.</p>
         </div>
     </div>
 </div>
@@ -273,8 +261,8 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>The loans table lists loans made to a committee. The table groups all loans by lendor name and sums up the amounts, and the amounts paid, forgiven, and outstanding.</p>
-            <p>Note: The data in this table is based on the most recent filings and are updated nightly.</p>
+            <p>The loans table lists loans made to a committee. The table groups all loans by lender name and sums up the amounts, and the amounts paid, forgiven, and outstanding.</p>
+            <p>The data in this table is based on the loans reported on Form 460 Schedule B1.</p>
         </div>
     </div>
 </div>
@@ -283,9 +271,17 @@
         <h5 class="offcanvas-title" id="candidate-committeesTTLabel">Candidate Controlled Committees</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p>Candidate Controlled Committees are a candidate's primary fundraising and expense-making entity.</p>
+            <p>A candidate-controlled committee is a campaign committee established, financed, or controlled by a candidate for local office.</p>
+            {% if page.layout == 'contest_candidate' %}
+            <p>The table sums up the total funds and expenses by each candidate-controlled committee in this candidate contest.</p>
+            {% elsif page.layout == 'election' %}
+            <p>The table sums up the total funds and expenses by candidate-controlled committees for each candidate contest in this election.</p>
+            {% endif %}
+
+            <h5>How This Data is Calculated</h5>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Figures are rounded to the nearest thousand.</p>
 
         </div>
     </div>
@@ -298,11 +294,12 @@
     <div class="offcanvas-body">
         <div>
             <h5>What is a Third-Party Committee?</h5>
-            <p class="text-secondary">A third-party committee is a political committee that raises and spends money to support or oppose candidates for local office but operates independently of those candidates and their campaigns. These committees are often called independent expenditure committees or primarily formed committees. They are prohibited from coordinating their spending decisions with any candidate or candidate controlled committee. Third-party committees are not subject to contribution limits.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, third-party committees must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
+            <p class="text-secondary">A third-party committee is a political committee that raises and spends money to support or oppose candidates for local office but operates independently of those candidates and their campaigns. These committees can include general purpose committees, independent expenditure committees and primarily formed candidate committees. They are prohibited from coordinating their spending decisions with any candidate or candidate controlled committee. Third-party committees are not subject to contribution limits.</p>
+
+            <p class="text-secondary">The table sums up the total funds and expenses by third-party committees for each candidate contest in this election.</p>
             
             <h5>How This Data is Calculated</h5>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all third-party committees for each office in the current election. Data is aggregated by summing the itemized and unitemized contributions on Form 460 schedules A and C, and late period contributions received on Form 497. Figures are rounded to the nearest thousand.</p>
+            <p class="text-secondary">Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
@@ -315,10 +312,28 @@
         <div>
             <h5>What is a Ballot Measure Committee?</h5>
             <p class="text-secondary">Ballot Measure Committees are primarily formed to support or oppose a specific ballot measure.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, third-party committees must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
+
+            <p class="text-secondary">The table sums up the total funds and expenses by committees for each ballot measure in this election. Independent expenditures from general purpose committees and independent expenditure committees are also included in the total expenses.</p>
 
             <h5>How This Data is Calculated</h5>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all ballot measure committees for each office in the current election. Data is aggregated by summing the itemized and unitemized contributions on Form 460 schedules A and C, and contributions received on Form 497. Figures are rounded to the nearest thousand.</p>
+            <p class="text-secondary">The totals shown represent the combined funds raised and spent by committees seeking to influence a ballot measure. Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
+        </div>
+    </div>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="ballot-measure-activesTT" aria-labelledby="ballot-measure-activesTTLabel">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="ballot-measure-activesTTLabel">Active Committees</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div>
+            <h5>What is an "Active Committee"?</h5>
+            <p class="text-secondary">Active committees are committees seeking to influence the ballot measure. This can include Primarily Formed Committees, general purpose committees, and independent expenditure committees.</p>
+
+            <p class="text-secondary">The table sums up the total funds and expenses by each committee seeking to influence the ballot measure. Independent expenditures from general purpose committees and independent expenditure committees are also included.</p>
+
+            <h5>How This Data is Calculated</h5>
+            <p class="text-secondary">The totals shown represent the combined funds raised and spent by a committee seeking to influence the ballot measure. Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
@@ -331,10 +346,9 @@
         <div>
             <h5>What is a "Multi-Ballot Measure" Committee?</h5>
             <p class="text-secondary">"Multi-Ballot Measure" Committees are primarily formed to support or oppose more than one ballot measure.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of January and July, and three pre-election statements in the weeks before an election. In addition, third-party committees must disclose independent expenditures (Form 496) and contributions made or received (Form 497) within 24 hours during the 90-days before the election.</p>
 
             <h5>How This Data is Calculated</h5>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all multi-ballot measure committees in the current election. Data is aggregated by summing the itemized and unitemized contributions on Form 460 schedules A and C, and contributions received on Form 497. Figures are rounded to the nearest thousand.</p>
+            <p class="text-secondary">The totals shown represent the combined funds raised and spent by all multi-ballot measure committees in the current election. Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Figures are rounded to the nearest thousand.</p>
     </div>
 </div>
 </div>
@@ -344,11 +358,16 @@
         <h5 class="offcanvas-title" id="top-contributorsTTLabel">Top Contributors</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p class="text-secondary">The individuals or entities who have given the largest total monetary support to a committee.</p>
-            <p class="text-secondary">Top Contributors are scoped within the page. For an election, the top contributors include all contributors to primarily formed committees within the election.</p>
-            <p class="text-secondary">Visit the Contributors page for an election to search contributors across committees and see all committees within an election that a contributor has given to.</p>
+            <p>The individuals or entities who have given the largest total monetary support to a committee or multiple committees.</p>
+            <p>Top Contributors are specific to the context of the page.</p>
+            <ul>
+                <li>For an election, the top five contributors are calculated across Candidate Contests and Ballot Measures.</li>
+                <li>For a candidate contest, the top ten contributors are based on contributions received by candidate-controlled committees and committees primarily formed to support or oppose the candidate.</li>
+                <li>For a ballot measure, the top ten contributors are based on contributions received by committees primarily formed to support or oppose the measure.</li>
+            </ul>
+            <p>Visit the <a href="/elections/{{page.election}}/contributors">Contributors</a> page for an election to search for contributors across committees and see all committees within an election that a contributor has given to.</p>
         </div>
     </div>
 </div>
@@ -358,9 +377,11 @@
         <h5 class="offcanvas-title" id="ie-supportTTLabel">Third Party Support</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p class="text-secondary">Contributions or expenditures made by a committee or individual in support of a candidate or measure, independent of the candidate's own campaign. </p>
+            <p>This table sums up the total supportive funds and expenses for each candidate, from committees that are not candidate-controlled committees. These committees raise funds and make expenditures independently of any candidate's campaign.</p>
+            <h5>How This Data is Calculated</h5>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the expenditures reported on Form 460 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
@@ -370,9 +391,11 @@
         <h5 class="offcanvas-title" id="ie-opposeTTLabel">Third Party Opposition</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p class="text-secondary">Contributions or expenditures made by a committee or individual in opposition to a candidate or measure, independent of the candidate's own campaign.</p>
+            <p>This table sums up the total opposing funds and expenses for each candidate, from committees that are not candidate-controlled committees. These committees raise funds and make expenditures independently of any candidate's campaign.</p>
+            <h5>How This Data is Calculated</h5>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the expenditures reported on Form 460 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
@@ -382,9 +405,11 @@
         <h5 class="offcanvas-title" id="ie-committeesTTLabel">Independent Expenditure Committees</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
-            <p class="text-secondary">Committees that spend money to advocate for or against candidates or ballot measures but do so independently of any candidate's campaign.</p>
+            <p>This table summarizes activities from Committees that spend money to support or oppose the candidates in this contest independently of any candidate's campaign.</p>
+            <h5>How This Data is Calculated</h5>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the expenditures reported on Form 460 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
@@ -398,7 +423,7 @@
     <div class="offcanvas-body">
         <div>
             <p class="text-secondary">Spending made independently of any campaign to support or oppose a ballot measure.</p>
-            <p class="text-secondary">Data comes from FPPC496 and 460 schedule D</p>
+            <p class="text-secondary">Data comes from Form 496, with total expenditures aggregated by ballot measure and position reported on the form.</p>
         </div>
     </div>
 </div>
@@ -411,7 +436,7 @@
     <div class="offcanvas-body">
         <div>
             <p class="text-secondary">Spending made independently of any campaign to support or oppose a candidate for office.</p>
-            <p class="text-secondary">Data comes from FPPC496 and 460 schedule D</p>
+            <p class="text-secondary">Data comes from Form 496, with total expenditures aggregated by name of candidate and position reported on the form.</p>
         </div>
     </div>
 </div>
@@ -423,8 +448,8 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p class="text-secondary">Contributions of $100 or more made during the late reporting period (within 90 days before an election) that must be disclosed promptly.</p>
-            <p class="text-secondary">Data comes from FPPC497 P2.</p>
+            <p class="text-secondary">Contributions of $1000 or more made during the late reporting period (within 90 days before an election) that committees are required to disclose promptly.</p>
+            <p class="text-secondary">Data comes from Form 497 Part 2.</p>
         </div>
     </div>
 </div>
@@ -437,7 +462,7 @@
     <div class="offcanvas-body text-secondary">
         <div>
             <p class="">Payments made by a committee to support or oppose other candidates, ballot measures, or committees, beyond its primary focus.</p>
-            <p class="">Data comes from FPPC460 Schedule D.</p>
+            <p class="">Data comes from Form 460 Schedule D.</p>
             <p>Payments are categorized by the following types:</p>
             <ul>
                 <li>a monetary contribution to another committee</li>
