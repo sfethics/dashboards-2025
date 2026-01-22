@@ -16,15 +16,16 @@ new DataTable('#committee_list_table', {
         }
     },
     language: {
-        search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
-        searchPlaceholder: 'Search by Committee name or ID'   // set placeholder text :contentReference[oaicite:1]{index=1}
+        // Provide label text (HTML is allowed here) and keep placeholder for visual users
+        search: '<span class="visually-hidden">Search Committees</span>',
+        searchPlaceholder: 'Search by committee name or ID'
     },
     initComplete: function () {
-        // Add an aria-label if you prefer not to visually show a label but still provide accessibility
+        // No need to set aria-label on the input when the <label> has text;
+        // remove or comment out the aria-label line to avoid duplicate announcement.
         const input = document.querySelector('#committee_list_table_wrapper input[type=search]');
         if (input) {
-            input.setAttribute('aria-label', 'Search Committees');   // ensures screen-reader users know what this input is for
-            input.setAttribute('style', 'width: 15rem');            // ensures the input field is full width
+            input.style.width = '15rem';
         }
     }
 });
