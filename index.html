@@ -11,17 +11,17 @@ layout: static
             <div class="hero-panel">
                 <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3">
                     <h1>
-                        Before you vote, see who is funding whom in
+                        Before you vote, get a bird's-eye view of money in
                         <span class="text-nowrap">San Francisco</span> elections.
                     </h1>
                 </div>
 
                 <div class="row">
                     <div class="d-flex flex-column flex-md-row align-items-md-center gap-3 mb-3">
-                        <h2 class="mb-0">Select an election:</h2>
+                        <h2 id="electionLabel" class="mb-0">Select an election:</h2>
 
                         <div class="election-selector d-flex align-items-center gap-2">
-                            <select id="electionSelect" class="form-select">
+                            <select id="electionSelect" class="form-select" aria-labelledby="electionLabel" name="election">
                                 <option value="elections/2025-09-16/" selected>
                                     September 16, 2025
                                 </option>

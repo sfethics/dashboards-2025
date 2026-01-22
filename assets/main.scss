@@ -400,17 +400,17 @@ thead th:last-child, tfoot th:last-child {
 }
 
 .navbar-brand .sf-top {
-    font-size: 0.6rem;
+    font-size: 1rem;          /* slightly larger */
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.07em;     /* spreads top line */
-    display: inline-block;
-    width: 100%;
-    text-align: left;
+    letter-spacing: 0.35em;      /* wider tracking */
+    display: block;              /* full line, but content-sized */
+    white-space: nowrap;         /* prevents wrapping */
+    line-height: 1;
 }
 
 .navbar-brand .sf-bottom {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     display: inline-block;
     width: 100%;
@@ -539,7 +539,7 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-    background-image: url("/assets/images/frank_city_hall_4.png");
+    background-image: url("/assets/images/Frankbg2.png");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -731,10 +731,6 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 
     .home-links-list .home-links-item:last-child {
         border-bottom: 0;
-    }
-
-    .home-links-list a {
-        text-decoration: none;
     }
 
     .home-links-list a:hover,

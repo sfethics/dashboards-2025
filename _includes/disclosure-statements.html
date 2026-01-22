@@ -1,13 +1,16 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="disclosure-statementsTT" aria-labelledby="disclosure-statementsTTLabel">
     <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="disclosure-statementsTTLabel">Disclosure Statements</h5>
+        <h4 class="offcanvas-title" id="disclosure-statementsTTLabel">Disclosure Statements</h4>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>Only the "Latest" versions of filings are used to compute the values on this site. To see original filings, please visit the Ethics Commission's website</p>
+            <p>Only the "Latest" versions of FPPC Form 460, 496, and 497 filings are used to compute the values on this site. To see original and other required disclosure filings, please visit the Ethics Commission's campaign finance statements database.</p>
+            <p><a href="https://public.netfile.com/Pub2/Default.aspx?aid=SFO" class="btn btn-outline-primary" target="_blank" rel="noopener">
+                                <i class="fa fa-external-link-alt" aria-hidden="true"></i>
+                                Campaign Finance Filings Database
+                            </a></p>
             <p>The statements shown in the table below were filed by {% if include.filer_name -%} {{include.filer_name}} {%- else -%} the committee {%- endif %}.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at dolor a nisi accumsan egestas. Suspendisse facilisis risus a felis tincidunt, sit amet sollicitudin lectus porta. Integer porta faucibus est et gravida.</p>
         </div>
         <table id="filings_table" class="table caption-top">
             <thead>

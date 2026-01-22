@@ -88,11 +88,11 @@ electionnav: true
                     </div>
                     {% if page.totals[0] == 0.0 or page.totals[0] == '' %}
                     {% assign exp_total_string = 'None Available' %}
-                    <span
-                            class="display-6 fw-semibold text-contributions currency"
-                            aria-label="Total contributions amount">{{exp_total_string}}</span>
+                    <span class="display-6 fw-semibold text-contributions currency"
+                        aria-label="Total contributions amount">{{exp_total_string}}</span>
                     <p class="card-text">
-                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is contribution data not available?</span></a>
+                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
+                                contribution data not available?</span></a>
                     </p>
                     {% else %}
                     <span class="display-6 fw-semibold text-contributions currency"
@@ -113,11 +113,11 @@ electionnav: true
                     </div>
                     {% if page.totals[1] == 0.0 or page.totals[1] == '' %}
                     {% assign exp_total_string = 'None Available' %}
-                    <span
-                            class="display-6 fw-semibold text-expenditures currency"
-                            aria-label="Total expenses amount">{{exp_total_string}}</span>
+                    <span class="display-6 fw-semibold text-expenditures currency"
+                        aria-label="Total expenses amount">{{exp_total_string}}</span>
                     <p class="card-text">
-                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is expenditure data not available?</span></a>
+                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
+                                expenditure data not available?</span></a>
                     </p>
                     {% else %}
                     <span class="display-6 fw-semibold text-expenditures currency" aria-label="Total expenses amount">
@@ -137,15 +137,18 @@ electionnav: true
             <div class="card border-0 box-shadow-contributions rounded-4">
 
                 <!-- Card Header -->
-                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
+                <div class="card-header custom-card-header">
                     <h3 id="contributions-overview" class="hover-link mb-0">
-                        Contributions Overview
-                        <!-- <i data-bs-toggle="offcanvas" data-bs-target="#contributionsOverviewTT"
-                            class="fs-6 fa-regular fa-circle-info ms-2" role="button"
-                            aria-label="About Contributions Overview"></i>
-                        <a class="icon d-none link-dark" href="#contributions-overview">
-                            <i class="fs-6 fa-regular fa-link" aria-hidden="true"></i>
-                        </a> -->
+                        <span>Contributions Overview</span>
+
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#contributionsOverviewTT" aria-label="About Contributions Overview">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#contributions-overview" class="icon-btn ms-2" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
                     </h3>
                 </div>
 
@@ -282,8 +285,8 @@ electionnav: true
                     <h3 id="loans_received" class="hover-link mb-0">
                         <span class="">Loans Received</span>
 
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#loansTT" aria-label="About Loans Received">
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas" data-bs-target="#loansTT"
+                            aria-label="About Loans Received">
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
 
@@ -481,7 +484,8 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="schedule-d" class="hover-link mb-0">
-                        <span class="fs-5">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
+                        <span class="fs-5">Expenditures Supporting/Opposing Other Candidates, Measures and
+                            Committees</span>
 
                         <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
                             data-bs-target="#schedule-dTT"
@@ -536,4 +540,3 @@ electionnav: true
 {%- include disclosure-statements.html
 filings=page.filings
 -%}
-
