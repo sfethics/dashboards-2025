@@ -23,7 +23,7 @@ new DataTable('#contributors_table', {
         }
     },
     language: {
-        search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
+        search: '<span class="visually-hidden">Search...</span>',
         searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
     },
     initComplete: function () {
@@ -58,7 +58,7 @@ new DataTable('#expenditures_table', {
         }
     },
     language: {
-        search: '',                     // remove visible label text :contentReference[oaicite:0]{index=0}
+        search: '<span class="visually-hidden">Search...</span>',
         searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
     },
     initComplete: function () {
@@ -271,7 +271,7 @@ new DataTable('#ie-measures_table', {
     }
   ],
   language: {
-    search: '',
+    search: '<span class="visually-hidden">Search...</span>',
     searchPlaceholder: 'Search…'
   },
   initComplete: function () {

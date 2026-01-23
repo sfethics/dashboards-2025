@@ -41,7 +41,11 @@ let table = new DataTable('table.dtify', {
                 return data
             }
         },
-    ]
+    ],
+    language: {
+    search: '<span class="visually-hidden">Search...</span>',
+    searchPlaceholder: 'Search…'
+  }
 });
 
 // Add event listener for opening and closing details

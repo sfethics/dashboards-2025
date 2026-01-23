@@ -1,8 +1,8 @@
 <div class="offcanvas offcanvas-end" tabindex="-1" id="committeeList" aria-labelledby="committeeListLabel">
     {%- assign data_file = "committee_list_" | append: include.election %}
     <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="committeeListLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
-            {{ site.data[data_file].title }}</h5>
+        <h2 class="offcanvas-title fs-5" id="committeeListLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
+            {{ site.data[data_file].title }}</h2>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
     <div class="offcanvas-body">
