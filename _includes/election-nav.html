@@ -15,10 +15,6 @@
         </ol>
         {%- if election != nil -%}
         <div class="mx-lg-0">
-            <!--{%- assign contributors_page = current_pages | where: "layout", "contributors" | first -%}
-             <a href="{{ contributors_page.url | relative_url }}" class="btn btn-sm btn-light btn-outline-primary {%- if page.layout == 'contributors' %} active" aria-current="page{% endif -%}" type="button">
-                <i class="fa-regular fa-user-magnifying-glass me-2" aria-hidden="true"></i>Contributors
-            </a> -->
             <div class="btn-group">
                 <button class="btn btn-sm btn-light btn-outline-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#allContests"
                     aria-controls="allContests">
