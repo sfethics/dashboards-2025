@@ -7,11 +7,13 @@
 <nav id="main-nav" class="navbar navbar-expand-md bg-body-septenary d-print-none bg-primary" data-bs-theme="dark"
     aria-label="Main Site Navbar">
     <div class="container d-flex justify-content-between align-items-center row-gap-1">
+        <a rel="author" href="{{ '/' | relative_url }}" class="d-flex align-items-center">
         <img src="{{ '/assets/images/bluedashboard.svg' | relative_url }}" alt="Site logo" height="64" width="64"
             class="me-3" />
-        <a class="navbar-brand d-flex flex-column lh-sm text-white" rel="author" href="{{ '/' | relative_url }}">
-            <span class="sf-top">San Francisco</span>
-            <span class="sf-bottom">Campaign Watch</span>
+            <div class="navbar-brand d-flex flex-column lh-sm text-white">
+                <span class="sf-top">San Francisco</span>
+                <span class="sf-bottom">Campaign Watch</span>
+            </div>
         </a>
         <button class="ms-auto navbar-toggler" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarSiteCollapse" aria-controls="navbarNav" aria-expanded="false"
