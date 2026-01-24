@@ -407,6 +407,7 @@ thead th:last-child, tfoot th:last-child {
     display: block;              /* full line, but content-sized */
     white-space: nowrap;         /* prevents wrapping */
     line-height: 1;
+    font-family: 'Roboto Slab';
 }
 
 .navbar-brand .sf-bottom {
@@ -415,6 +416,7 @@ thead th:last-child, tfoot th:last-child {
     display: inline-block;
     width: 100%;
     text-align: left;
+    font-family: 'Roboto Slab';
 }
 
 .custom-card-header {

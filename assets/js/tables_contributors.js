@@ -14,7 +14,7 @@ let table = new DataTable('table.dtify', {
         [10, 25, 50, 100]
     ],
     // layout: layoutOptions,
-    order: [[3, 'desc'], [2, 'asc'], [1, 'asc']],
+    // order: [[3, 'desc'], [2, 'asc'], [1, 'asc']],
     layout: {
         bottomEnd: {
             paging: {
