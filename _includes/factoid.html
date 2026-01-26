@@ -1,23 +1,73 @@
-<div class="card {{include.css}} border-1 shadow-sm rounded-4 h-100">
+<div class="card {{ include.css }} border-1 shadow-sm rounded-4 h-100">
   <div class="card-body">
-    {%- if include.index -%}
-    <h3 class="card-title hover-link fs-6" id="fact-{{include.index}}">{{include.title}}
-      <a class="icon link-subtle" href="#fact-{{include.index}}" aria-label="Share Link"><i class="fa-regular fa-link" aria-hidden="true"></i></a>
-    </h3>
-    {%- else -%}
-    <h3 class="card-title fs-4">{{include.title}}</h3>
-    {%- endif -%}    
 
-    {%- if include.info -%}
-    <div class="card-subtitle mb-2 text-muted">
-      <p class="{{include.info_css}}">{{include.info}}</p>
-    </div>
-    {%- endif -%}    
-    <div class="card-text factoid-text">
-        <span class="{{include.data_css}}">{{include.data}}</span>
-    </div>
-    {%- if include.link -%}
-    <a href="{{include.link}}" class="btn btn-primary">More Info</a>
+    {%- assign display_title = include.title -%}
+
+    {%- case include.title -%}
+
+    {%- when "Unitemized Contributions" -%}
+
+  {%- if include.info | to_f == 0 -%}
+    {%- capture display_title -%}
+      There were <strong>no small contributions</strong> of less than $100 reported.
+    {%- endcapture -%}
+  {%- else -%}
+    {%- capture display_title -%}
+      Small contributions of less than $100 totaled
+      <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+      and represented
+      <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+      of all contributions.
+    {%- endcapture -%}
+  {%- endif -%}
+
+    {%- when "Contributions within San Francisco" -%}
+    {%- capture display_title -%}
+    Contributions from
+    <span class="text-nowrap">San Francisco</span>
+    totaled
+    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    and represented
+    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    of all contributions.
+    {%- endcapture -%}
+
+    {%- when "Contributions within California" -%}
+    {%- capture display_title -%}
+    Contributions from California totaled
+    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    and represented
+    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    of all contributions.
+    {%- endcapture -%}
+
+    {%- when "Contributions from Individuals" -%}
+    {%- capture display_title -%}
+    Contributions from individuals totaled
+    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    and represented
+    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    of all contributions.
+    {%- endcapture -%}
+
+    {%- endcase -%}
+
+    {%- if include.index -%}
+    <p class="card-title fs-6 fw-normal mb-2" id="fact-{{ include.index }}">
+      {{ display_title | strip }}
+      <a class="icon link-subtle ms-1" href="#fact-{{ include.index }}" aria-label="Share Link">
+        <i class="fa-regular fa-link" aria-hidden="true"></i>
+      </a>
+    </p>
+    {%- else -%}
+    <p class="card-title fs-5 fw-normal mb-2">
+      {{ display_title | strip }}
+    </p>
     {%- endif -%}
+
+    {%- if include.link -%}
+    <a href="{{ include.link }}" class="btn btn-primary">More Info</a>
+    {%- endif -%}
+
   </div>
 </div>
