@@ -6,47 +6,40 @@
     {%- case include.title -%}
 
     {%- when "Unitemized Contributions" -%}
-
-  {%- if include.info | to_f == 0 -%}
     {%- capture display_title -%}
-      There were <strong>no small contributions</strong> of less than $100 reported.
-    {%- endcapture -%}
-  {%- else -%}
-    {%- capture display_title -%}
-      Small contributions of less than $100 totaled
+      Unitemized contributions of less than $100 totaled
       <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
       and represented
       <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
       of all contributions.
     {%- endcapture -%}
-  {%- endif -%}
 
     {%- when "Contributions within San Francisco" -%}
     {%- capture display_title -%}
     Contributions from
     <span class="text-nowrap">San Francisco</span>
     totaled
-    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    <span class="{{ include.info_css }} fw-bold text-nowrap">{{ include.info }}</span>
     and represented
-    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    <span class="{{ include.data_css }} fw-bold text-nowrap">{{ include.data }}</span>
     of all contributions.
     {%- endcapture -%}
 
     {%- when "Contributions within California" -%}
     {%- capture display_title -%}
     Contributions from California totaled
-    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    <span class="{{ include.info_css }} fw-bold text-nowrap">{{ include.info }}</span>
     and represented
-    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    <span class="{{ include.data_css }} fw-bold text-nowrap">{{ include.data }}</span>
     of all contributions.
     {%- endcapture -%}
 
     {%- when "Contributions from Individuals" -%}
     {%- capture display_title -%}
     Contributions from individuals totaled
-    <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
+    <span class="{{ include.info_css }} fw-bold text-nowrap">{{ include.info }}</span>
     and represented
-    <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
+    <span class="{{ include.data_css }} fw-bold text-nowrap">{{ include.data }}</span>
     of all contributions.
     {%- endcapture -%}
 

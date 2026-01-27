@@ -51,7 +51,7 @@ electionnav: true
         <h2 class="mb-0">
             Summary Totals
             <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"
-                aria-label="About Contributions Overview">
+                aria-label="Campaign finance summary">
                 <i class="fa-regular fa-circle-info"></i>
             </button>
         </h2>
@@ -112,7 +112,7 @@ electionnav: true
 </div>
 <!-- Factoids -->
 {% if page.factoids %}
-<div class="container my-5" aria-label="Contributions overview">
+<div class="container my-5" aria-label="Contributions Overview">
     <div class="row g-4">
         <div class="col-12">
             <div class="card border-0 box-shadow-contributions rounded-4">
@@ -135,20 +135,38 @@ electionnav: true
 
                 <!-- Card Body -->
                 <div class="card-body">
-                    <div class="row g-4">
-                        {% for factoid in page.factoids %}
-                        <div class="col-12 col-sm-6 col-lg-3">
-                            {%- include factoid.html
-                            index=forloop.index
-                            title=factoid.title
-                            about=factoid.about
-                            data=factoid.data
-                            data_css=factoid.data_classes
-                            info=factoid.info
-                            info_css=factoid.info_classes
-                            -%}
+                    <div class="factoids-row-wrapper position-relative" role="region"
+                        aria-labelledby="contributions-overview">
+
+                        <!-- Left arrow (mobile/tablet only) -->
+                        <button class="scroll-btn scroll-btn-left btn btn-light shadow-sm d-lg-none" type="button"
+                            aria-label="Scroll contributions overview left" aria-controls="factoidsScroller">
+                            <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+                        </button>
+
+                        <!-- Scroller -->
+                        <div id="factoidsScroller" class="row g-4 factoids-row" tabindex="0">
+                            {% for factoid in page.factoids %}
+                            <div class="col-12 col-sm-6 col-lg-3">
+                                {%- include factoid.html
+                                index=forloop.index
+                                title=factoid.title
+                                about=factoid.about
+                                data=factoid.data
+                                data_css=factoid.data_classes
+                                info=factoid.info
+                                info_css=factoid.info_classes
+                                -%}
+                            </div>
+                            {% endfor %}
                         </div>
-                        {% endfor %}
+
+                        <!-- Right arrow (mobile/tablet only) -->
+                        <button class="scroll-btn scroll-btn-right btn btn-light shadow-sm d-lg-none" type="button"
+                            aria-label="Scroll contributions overview right" aria-controls="factoidsScroller">
+                            <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+                        </button>
+
                     </div>
                 </div>
 
@@ -521,14 +539,14 @@ electionnav: true
 
 <div class="container" aria-label="Third-Party Activity">
     <h2 id="third-party-activity-title">
-        Third Party Activity Supporting & Opposing {{ page.candidate_name }}
+        Third-Party Activity Supporting & Opposing {{ page.candidate_name }}
 
         <a href="#third-party-activity-title" class="icon-btn ms-2" aria-label="Share Link">
             <i class="fa-regular fa-link" aria-hidden="true"></i>
         </a>
     </h2>
 
-    <!-- Third Party Funds (card wrapper) -->
+    <!-- Third-Party Funds (card wrapper) -->
     <section class="card border-0 box-shadow-thirdparty rounded-4 mb-4" aria-labelledby="third-party-activity-title">
         <div class="card-body">
             <div class="row g-4">
@@ -563,19 +581,19 @@ electionnav: true
                 </div>
             </div>
 
-            <!-- Third Party Committees -->
+            <!-- Third-Party Committees -->
             <div class="row mt-4">
                 <div class="col-12">
                     <div class="col-table-12">
                         <h3 id="third-party-committees" class="hover-link">
-                            Third Party Committees
+                            Third-Party Committees
                             <a class="icon link-subtle" href="#third-party-committees" aria-label="Share Link">
                                 <i class="fs-5 fa-regular fa-link" aria-hidden="true"></i>
                             </a>
                         </h3>
 
                         {% if page.third_party[3] == empty %}
-                        <div>No third party committee activity reported</div>
+                        <div>No third-party committee activity reported</div>
                         {% else %}
                         <table id="third_party_table" class="table caption-top ie_committee mb-0">
                             <thead>

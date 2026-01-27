@@ -759,3 +759,83 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
         transform: translateY(-1px);
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     }
+/* =========================
+   FACTOIDS SCROLLER CSS
+   Add to your site stylesheet (once).
+========================= */
+
+/* Wrapper creates the "lane" between arrows */
+.factoids-row-wrapper {
+  --arrow-gutter: 3.25rem; /* space reserved for arrows on each side */
+  padding-left: var(--arrow-gutter);
+  padding-right: var(--arrow-gutter);
+}
+
+/* Strong, visible focus (WCAG 2.1 AA) */
+.factoids-row:focus-visible,
+.scroll-btn:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+
+/* Default: keep normal Bootstrap layout on lg+ */
+@media (min-width: 992px) {
+  .factoids-row-wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .scroll-btn {
+    display: none !important;
+  }
+}
+
+/* Mobile/tablet: turn the row into a horizontal scroller */
+@media (max-width: 991.98px) {
+  .factoids-row {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 1rem;                    /* must match JS gapPx */
+    padding-bottom: 0.5rem;
+    padding-left: 0;
+    padding-right: 0;
+
+    scroll-snap-type: x mandatory;
+    scroll-snap-stop: always;
+
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;          /* allow vertical page scroll */
+  }
+
+  /* Cards use explicit pixel width set by JS via --card-width */
+  .factoids-row > [class*="col-"] {
+    flex: 0 0 var(--card-width, 84%);
+    max-width: var(--card-width, 84%);
+    scroll-snap-align: start;
+  }
+
+  /* Arrow buttons */
+  .scroll-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .scroll-btn-left { left: 0.5rem; }
+  .scroll-btn-right { right: 0.5rem; }
+
+  /* Disabled is visible and focus-safe (no display:none while focused) */
+  .scroll-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+}
