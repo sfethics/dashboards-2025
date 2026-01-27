@@ -243,7 +243,7 @@ measures:
 - contest_nid: '211998609'
   contest_name: 'H: Retirement Benefits for Firefighters'
   contest_link: measureh
-  expenses: 4290919.08
+  expenses: 3468569.08
   funds: 2527703.53
 - contest_nid: MULTI-1
   contest_name: 'D,E: Measures D and E'
