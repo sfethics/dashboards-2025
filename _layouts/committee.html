@@ -154,20 +154,38 @@ electionnav: true
 
                 <!-- Card Body -->
                 <div class="card-body">
-                    <div class="row g-4">
-                        {% for factoid in page.factoids %}
-                        <div class="col-12 col-sm-6 col-lg-3">
-                            {%- include factoid.html
-                            index=forloop.index
-                            title=factoid.title
-                            about=factoid.about
-                            data=factoid.data
-                            data_css=factoid.data_classes
-                            info=factoid.info
-                            info_css=factoid.info_classes
-                            -%}
+                    <div class="factoids-row-wrapper position-relative" role="region"
+                        aria-labelledby="contributions-overview">
+
+                        <!-- Left arrow (mobile/tablet only) -->
+                        <button class="scroll-btn scroll-btn-left btn btn-light shadow-sm d-lg-none" type="button"
+                            aria-label="Scroll contributions overview left" aria-controls="factoidsScroller">
+                            <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+                        </button>
+
+                        <!-- Scroller -->
+                        <div id="factoidsScroller" class="row g-4 factoids-row" tabindex="0">
+                            {% for factoid in page.factoids %}
+                            <div class="col-12 col-sm-6 col-lg-3">
+                                {%- include factoid.html
+                                index=forloop.index
+                                title=factoid.title
+                                about=factoid.about
+                                data=factoid.data
+                                data_css=factoid.data_classes
+                                info=factoid.info
+                                info_css=factoid.info_classes
+                                -%}
+                            </div>
+                            {% endfor %}
                         </div>
-                        {% endfor %}
+
+                        <!-- Right arrow (mobile/tablet only) -->
+                        <button class="scroll-btn scroll-btn-right btn btn-light shadow-sm d-lg-none" type="button"
+                            aria-label="Scroll contributions overview right" aria-controls="factoidsScroller">
+                            <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+                        </button>
+
                     </div>
                 </div>
 
