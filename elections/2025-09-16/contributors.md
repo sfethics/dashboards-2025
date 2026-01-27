@@ -6,7 +6,7 @@ breadcrumbs:
   - elections/2025-09-16/
 - - Contributors
 title: Table of Contributors
-threshold: 2000
+threshold: 1000
 contributors:
 - tx_firstname: CHRIS
   tx_lastname: LARSEN
@@ -576,6 +576,420 @@ contributors:
   - cmte_fppcid: '1477256'
     cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
     tx_amount: 2000.0
+- tx_firstname: DALE
+  tx_lastname: CARLSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1850.0
+- tx_firstname: ANGELA
+  tx_lastname: WILHELM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1782.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1782.0
+- tx_firstname: LUKE
+  tx_lastname: PERKOCHA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1750.0
+- tx_firstname: LISA
+  tx_lastname: ARJES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1540.18
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1540.18
+- tx_firstname: PATRICIA H.
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1501.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1501.0
+- tx_firstname: JOHN L.
+  tx_lastname: MOLINARI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1500.0
+- tx_firstname: LOUIS
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1500.0
+- tx_firstname: MARTIN
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1500.0
+- tx_firstname: DIMITRIOS
+  tx_lastname: PHILLIOU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1450.0
+- tx_firstname: ''
+  tx_lastname: FAMILIES FOR A VIBRANT SF, SPONSORED BY ABUNDANCE NETWORK
+  tx_entitycode: COM
+  tx_cmteid: '1460412'
+  tx_amount: 1372.5
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1372.5
+- tx_firstname: DENNIS
+  tx_lastname: RICHARDS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1250.0
+- tx_firstname: CLAIRE
+  tx_lastname: MILLS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1250.0
+- tx_firstname: JULIE
+  tx_lastname: PITTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1250.0
+- tx_firstname: LAUREN
+  tx_lastname: DOYLE KERINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1250.0
+- tx_firstname: YUMI
+  tx_lastname: SAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1250.0
+- tx_firstname: KATHERINE
+  tx_lastname: HOWARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1150.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1406838'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: TERESA
+  tx_lastname: OLLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: PAUSANG
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: MICHAEL
+  tx_lastname: SULLIVAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: VICTOR
+  tx_lastname: SEETO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: ALBERT
+  tx_lastname: WANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: ROBERT
+  tx_lastname: CHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: STUART
+  tx_lastname: FONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: TOM
+  tx_lastname: PERRAULT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: ANDREW
+  tx_lastname: WHALLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: PATRICK
+  tx_lastname: WOLFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: ANGELA
+  tx_lastname: TICKLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: BENJAMIN
+  tx_lastname: EVERSOLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: MARGARET
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: JERRY
+  tx_lastname: DRATLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: LAWRENCE
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: LILLIAN
+  tx_lastname: SING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: DWIGHT
+  tx_lastname: CROW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: DAPHNE
+  tx_lastname: ALDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: JEFFREY
+  tx_lastname: PANZER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: GREGORY P.
+  tx_lastname: HOWARD MILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: JOHN
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: DAVID
+  tx_lastname: DAVIES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: DONALD
+  tx_lastname: REID
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
+- tx_firstname: PETER ALLEN
+  tx_lastname: BOSMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: LUKE
+  tx_lastname: MINER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: KATHRYN
+  tx_lastname: GRANTHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: KEVIN
+  tx_lastname: STARR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: KEVIN
+  tx_lastname: GRAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477355'
+    cmte_name: NO ON A, STOP THE ENGARDIO RECALL
+    tx_amount: 1000.0
+- tx_firstname: GEORGIA
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1477256'
+    cmte_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR ENGARDIO
+    tx_amount: 1000.0
 
 ---
 

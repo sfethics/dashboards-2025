@@ -6,7 +6,7 @@ breadcrumbs:
   - elections/2024-11-05/
 - - Contributors
 title: Table of Contributors
-threshold: 2000
+threshold: 1000
 contributors:
 - tx_firstname: DANIEL
   tx_lastname: LURIE
@@ -19057,6 +19057,23027 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1463752'
     cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: FUNK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1975.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 475.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: AMY
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1975.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: MIKE
+  tx_lastname: WHITMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1960.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 490.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 490.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 490.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 490.0
+- tx_firstname: DAN
+  tx_lastname: ZHU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1960.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 260.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+- tx_firstname: MARTHA
+  tx_lastname: GOLDIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: DEMOCRACY MATTERS
+  tx_entitycode: OTH
+  tx_cmteid: C00443705
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1950.0
+- tx_firstname: QUINCY
+  tx_lastname: YU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: MONIQUE
+  tx_lastname: GUIDRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: KATE
+  tx_lastname: LAZARUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+- tx_firstname: ''
+  tx_lastname: FAMILIES FOR A VIBRANT SF, SPONSORED BY ABUNDANCE NETWORK
+  tx_entitycode: COM
+  tx_cmteid: '1460412'
+  tx_amount: 1911.0
+  transactions:
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469825'
+    cmte_name: FAMILIES FOR A VIBRANT SAN FRANCISCO SUPPORTING TREVOR CHANDLER FOR
+      SUPERVISOR, SPONSORED BY EFFECTIVE GOVERNMENT
+    tx_amount: 1411.0
+- tx_firstname: MEREDITH
+  tx_lastname: DODSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JONATHAN
+  tx_lastname: MEADE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: DUCKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: DAVID
+  tx_lastname: CHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+- tx_firstname: YVONNE
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAM
+  tx_lastname: MOGANNAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GAYLE
+  tx_lastname: CAPLAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1474947'
+    cmte_name: SAN FRANCISCO WORKING FAMILIES VOTER GUIDE SUPPORTING AARON PESKIN
+      FOR MAYOR, SPONSORED BY HEALTHCARE, HOSPITALITY, AND SERVICE WORKERS UNIONS
+    tx_amount: 1000.0
+- tx_firstname: LAURA
+  tx_lastname: GOLDIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1900.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROY
+  tx_lastname: BAHAT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1860.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 360.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHEW
+  tx_lastname: ROTHSCHILD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1854.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 118.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 118.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 118.0
+- tx_firstname: FORREST
+  tx_lastname: LIU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1853.45
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 153.45
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: KEVIN
+  tx_lastname: REED
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRIAN
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 100.0
+- tx_firstname: MARK
+  tx_lastname: GLEASON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 350.0
+- tx_firstname: DAVID
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 650.0
+- tx_firstname: JANELLE
+  tx_lastname: CAYWOOD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1850.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PABLO
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1825.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: STEPHEN
+  tx_lastname: SANGER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1809.06
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1309.06
+- tx_firstname: ALISON
+  tx_lastname: SANGER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1809.06
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1309.06
+- tx_firstname: BARBARA
+  tx_lastname: ATTARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+- tx_firstname: STANLEY
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: NICK
+  tx_lastname: DEWILDE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 800.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARJAN
+  tx_lastname: PHILHOUR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: MICHAEL
+  tx_lastname: SCHRADER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALICE
+  tx_lastname: GUIDRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BOBAK
+  tx_lastname: ESFANDIARI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1775.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: KEN
+  tx_lastname: YEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1774.79
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462942'
+    cmte_name: YES ON H FOR FIREFIGHTERS HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+    tx_amount: 24.79
+- tx_firstname: ''
+  tx_lastname: ACLU OF NORTHERN CALIFORNIA ISSUES COMMITTEE
+  tx_entitycode: COM
+  tx_cmteid: '1423278'
+  tx_amount: 1759.6
+  transactions:
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 1759.6
+- tx_firstname: STANLEY
+  tx_lastname: HAYES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: SANCHEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KANISHKA
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHARON
+  tx_lastname: OWSLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: LESLIE
+  tx_lastname: SIMON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: TAMARA
+  tx_lastname: GREENBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SANTINO
+  tx_lastname: DEROSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SANDRA
+  tx_lastname: MORI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: DAMON
+  tx_lastname: KNOX
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HAROLD
+  tx_lastname: ZLOT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: PHILLIP
+  tx_lastname: RAISER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DIANA
+  tx_lastname: TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAREN
+  tx_lastname: MCNULTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: MIGUEL
+  tx_lastname: GALARZA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: JOHNS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PIUS
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 0.0
+- tx_firstname: KEVIN
+  tx_lastname: RYAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: RING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: REVETRIA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: SUTTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPHINE
+  tx_lastname: ZHAO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 100.0
+- tx_firstname: JEFF
+  tx_lastname: MAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: JASON
+  tx_lastname: GEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RONALD
+  tx_lastname: KAUFMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHANELL
+  tx_lastname: WILLIAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: ERIC
+  tx_lastname: POTASHNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 650.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 100.0
+- tx_firstname: DANTE
+  tx_lastname: BRIONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 100.0
+- tx_firstname: JIRO
+  tx_lastname: YAMAMOTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOEL
+  tx_lastname: ENGARDIO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: WADE
+  tx_lastname: WARRENS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: DON
+  tx_lastname: MISUMI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANU
+  tx_lastname: MENON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: MACO
+  tx_lastname: STEWART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: LAU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 700.0
+- tx_firstname: IVY
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: PEARSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 250.0
+- tx_firstname: WENDY
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: COURTNEY
+  tx_lastname: WELCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: PRADO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: JANELLE
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: JANE
+  tx_lastname: KIM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: DENNIS
+  tx_lastname: RICHARDS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: BROWN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DENIS
+  tx_lastname: MOSGOFIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DENIS
+  tx_lastname: SHANAGHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1700.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: PRODAN
+  tx_lastname: STATEV
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1675.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467508'
+    cmte_name: DYLAN HIRSCH-SHELL FOR MAYOR 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 325.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 100.0
+- tx_firstname: LEE
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1668.0
+  transactions:
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 168.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: CASTEEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: NATE
+  tx_lastname: HOUGHTELING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: PANGILINAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: MAX
+  tx_lastname: RHODES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 150.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: TIFFANY
+  tx_lastname: LOEWENBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: TYLER
+  tx_lastname: CLEMONS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 375.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468193'
+    cmte_name: BOEHNER FOR D1 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 125.0
+- tx_firstname: DENNIS
+  tx_lastname: KELLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EILEEN
+  tx_lastname: MARKOFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANCO
+  tx_lastname: CIRELLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: SEAN
+  tx_lastname: SULLIVAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 500.0
+- tx_firstname: ADAM
+  tx_lastname: KEATS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NADIA
+  tx_lastname: RAHMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: CHRIS
+  tx_lastname: CHANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1470841'
+    cmte_name: BEN KAPLAN FOR COMMUNITY COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ROB
+  tx_lastname: GOLDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JONATHEN
+  tx_lastname: MENJIVAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: HOWLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1641.75
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1641.75
+- tx_firstname: MICHAEL
+  tx_lastname: HANKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1625.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 275.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: PARKER
+  tx_lastname: DAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1605.0
+  transactions:
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1005.0
+- tx_firstname: JAMES
+  tx_lastname: HAAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1602.45
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 402.45
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JANICE
+  tx_lastname: LI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1602.42
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 102.42
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 500.0
+- tx_firstname: ARJUN
+  tx_lastname: SODHANI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469206'
+    cmte_name: OSCAR FLORES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1470166'
+    cmte_name: WENDY CHAU FOR DISTRICT SUPERVISOR 2024
+    tx_amount: 300.0
+- tx_firstname: GEORGE
+  tx_lastname: SUNCIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: STEVEN
+  tx_lastname: FEINBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: REBECCA
+  tx_lastname: SCHUMACHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: CARLOTA
+  tx_lastname: DEL PORTILLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: RODDIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: NANCY
+  tx_lastname: YU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CYNTHIA
+  tx_lastname: WANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ''
+  tx_lastname: SAN FRANCISCO MARIN MEDICAL SOCIETY PAC
+  tx_entitycode: COM
+  tx_cmteid: '881748'
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LORI
+  tx_lastname: LIEDERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: GAGE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 350.0
+- tx_firstname: SCOTT
+  tx_lastname: FAIRGRIEVE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: BROOKS
+  tx_lastname: WALKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 100.0
+- tx_firstname: JULIE
+  tx_lastname: TANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GEORGE
+  tx_lastname: MAK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: ABRAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: SWEET
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GLEN
+  tx_lastname: VAN LEHN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 600.0
+- tx_firstname: JOHN
+  tx_lastname: BAKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: FIEBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: DOUGLAS
+  tx_lastname: WALL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 600.0
+- tx_firstname: ADRIENNE
+  tx_lastname: SIMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1574.77
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462942'
+    cmte_name: YES ON H FOR FIREFIGHTERS HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+    tx_amount: 24.77
+- tx_firstname: MAUREEN
+  tx_lastname: WHITE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1570.99
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1570.99
+- tx_firstname: ''
+  tx_lastname: S.E. OWENS & COMPANY
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1563.8000000000002
+  transactions:
+  - cmte_fppcid: '1473456'
+    cmte_name: SUPPORT OUR FIRST RESPONDERS NOW! YES ON N
+    tx_amount: 1245.9
+  - cmte_fppcid: '1473458'
+    cmte_name: IMPROVE EMERGENCY RESPONSES TIMES - YES ON I
+    tx_amount: 317.9
+- tx_firstname: GRANT
+  tx_lastname: STAVELY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1562.78
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1062.78
+- tx_firstname: EVAN
+  tx_lastname: MATTEO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1550.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: DAVID
+  tx_lastname: ROMANO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1550.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: CHRIS
+  tx_lastname: ARVIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1550.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+- tx_firstname: CLAUDINE
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1550.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 300.0
+- tx_firstname: JOHN
+  tx_lastname: TRASVINA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1550.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ALLYN
+  tx_lastname: BELTRAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1545.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 520.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 50.0
+- tx_firstname: BIXBY
+  tx_lastname: JAMISON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1541.98
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1041.98
+- tx_firstname: PATRICIA
+  tx_lastname: GIBBS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1541.98
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1041.98
+- tx_firstname: VIKRAM
+  tx_lastname: GUPTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1525.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: ''
+  tx_lastname: COALITION TO GROW SAN FRANCISCO - GROW SF
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1524.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 173.0
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 1351.0
+- tx_firstname: AUROS
+  tx_lastname: HARMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1522.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 472.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: DIANE
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1510.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 510.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VALERIE
+  tx_lastname: BLOCK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BART
+  tx_lastname: FRIEDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: BARTHOLOMEW
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARRY
+  tx_lastname: ALTSHULER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARRY
+  tx_lastname: KANE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARBARA
+  tx_lastname: OLEKSIW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 500.0
+- tx_firstname: DANIEL
+  tx_lastname: LEVINE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: JOHNSTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: MARKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DARIAN
+  tx_lastname: SHIRAZI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: ACT TWO HOLDING LLC(KERRY EGAN)
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1473456'
+    cmte_name: SUPPORT OUR FIRST RESPONDERS NOW! YES ON N
+    tx_amount: 1500.0
+- tx_firstname: JOE
+  tx_lastname: JABER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARAK
+  tx_lastname: GILA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GISELLE
+  tx_lastname: HALE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: SUMYEE
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ASCANIO
+  tx_lastname: PIOMELLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: STEPHEN
+  tx_lastname: SHERRILL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALLAN
+  tx_lastname: YARKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUOSDEY
+  tx_lastname: PENN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: MICHELLE
+  tx_lastname: LEONARD-BELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIDORI
+  tx_lastname: TAKEDA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DILIP
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: GIBBS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ALEX
+  tx_lastname: MATHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TIMOTHY
+  tx_lastname: SIMON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GRAHAM
+  tx_lastname: GREEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GORDON
+  tx_lastname: WINTROB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOE
+  tx_lastname: LASKA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: FAMILIES FOR A VIBRANT SF SPONSORED BY ABUNDANCE NETWORK
+  tx_entitycode: COM
+  tx_cmteid: '1460412'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KIMBERLY
+  tx_lastname: BRANDON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DOUGLAS
+  tx_lastname: DURKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHELA
+  tx_lastname: ALIOTO-PIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DONALD
+  tx_lastname: GRAVES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: MICHELLE
+  tx_lastname: HARRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HENE
+  tx_lastname: KELLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: STEPHEN
+  tx_lastname: RICHARDSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: SCHULMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: PAINTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: KIRCHHOFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIKHAIL
+  tx_lastname: SEREGINE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MILA
+  tx_lastname: LAZAREVSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: OKEEFFE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TRICIA
+  tx_lastname: GREGORY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANTONIO
+  tx_lastname: FLORES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRIS
+  tx_lastname: HALLACY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUNSHINE
+  tx_lastname: POWERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: DEAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: RICARDO
+  tx_lastname: VELEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1500.0
+- tx_firstname: RICHARD
+  tx_lastname: ALEXANDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: BARKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEX
+  tx_lastname: FISHMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WALTER
+  tx_lastname: BACZKOWSKI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: IRENE
+  tx_lastname: SUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WALTER
+  tx_lastname: HAAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RAYMOND
+  tx_lastname: MAH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: COLLEEN
+  tx_lastname: MCCARTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KATHERINE
+  tx_lastname: HARBIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: IDA
+  tx_lastname: ZOUBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEVIN
+  tx_lastname: STARR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1500.0
+- tx_firstname: MICHAEL
+  tx_lastname: ADAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: SIU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: ROTHMANN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JONATHAN
+  tx_lastname: LAX
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 1500.0
+- tx_firstname: MICHAEL
+  tx_lastname: FELDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: GREGORY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: KIM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: DIGNITY CA SEIU LOCAL 2015
+  tx_entitycode: COM
+  tx_cmteid: '1357256'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KALPANA
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: 'INTERNATIONAL UNION OF ELEVATOR CONSTRUCTORS LOCAL #8 PAC'
+  tx_entitycode: COM
+  tx_cmteid: '1220653'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: HOBSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ROBERT
+  tx_lastname: ELLINTHORPE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: HERR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXANDER
+  tx_lastname: DANIELS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: LIM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: VIVIAN
+  tx_lastname: WU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXANDER
+  tx_lastname: TOM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROGER
+  tx_lastname: CHOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: DUTKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: SIMMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHANG WEI
+  tx_lastname: ZHAO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBIN
+  tx_lastname: DONOHOE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: DAVIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JILL
+  tx_lastname: YEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: JERSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES S
+  tx_lastname: DIENST
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: MENDELSOHN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: MCGETTIGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 1500.0
+- tx_firstname: EDWARD
+  tx_lastname: CONLON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM S.
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: COHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: MELISSA
+  tx_lastname: HERNANDEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: EILEEN
+  tx_lastname: MICHAEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEIRDRE
+  tx_lastname: HOCKETT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MIMI
+  tx_lastname: KLAUSNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: DEVON
+  tx_lastname: PROCTOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ADRIAN
+  tx_lastname: DOLLARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MOISE
+  tx_lastname: COHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEREK
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HOLLY
+  tx_lastname: PETERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CLAUDE
+  tx_lastname: ZINNGRABE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: PETER
+  tx_lastname: SUTHERLAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: WAYNE
+  tx_lastname: BAUTISTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER ALLEN
+  tx_lastname: BOSMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JUSTIN
+  tx_lastname: OSOFSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: JADE TU FOR DEMOCRATIC COUNTY CENTRAL COMMITTEE 2024
+  tx_entitycode: COM
+  tx_cmteid: '1463357'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1500.0
+- tx_firstname: RODNEY
+  tx_lastname: DIEHL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RONNY
+  tx_lastname: CONWAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROSA
+  tx_lastname: CHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEAN
+  tx_lastname: SERENI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NARMADABEN
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MORGAN
+  tx_lastname: METCALF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PHIL
+  tx_lastname: GINSBURG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 250.0
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 250.0
+- tx_firstname: CRISTINA
+  tx_lastname: CORDOVA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ALEC
+  tx_lastname: BASH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: HARRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1500.0
+- tx_firstname: JILL
+  tx_lastname: MCINERNEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KARI
+  tx_lastname: ROCCA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KURT
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KYLE
+  tx_lastname: SMEALLIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MEERA
+  tx_lastname: GUPTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MEHRDAD
+  tx_lastname: HADJIANFARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATT
+  tx_lastname: PAIGE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: LARRY
+  tx_lastname: WASSERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: HIRSCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: MONAHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472583'
+    cmte_name: FRIENDS OF SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: SUSAN
+  tx_lastname: REINHART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: SHAIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: ANNE
+  tx_lastname: KAISER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELLEN
+  tx_lastname: PRICE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROSS
+  tx_lastname: CHANIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ROZINA
+  tx_lastname: POON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RONALD
+  tx_lastname: MALLIA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EFRAIN
+  tx_lastname: PEREZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIA
+  tx_lastname: GAEHWILER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAUREEN
+  tx_lastname: DUGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: EVERDELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARRIE
+  tx_lastname: BUCHANAN GOODMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EMMA
+  tx_lastname: HEIKEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: KROLL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: DAVID
+  tx_lastname: WASSERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NEVA
+  tx_lastname: PESKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEITH
+  tx_lastname: WETMORE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KELLY
+  tx_lastname: YEUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KENNY
+  tx_lastname: LAU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: MILLSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: LOOMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICK
+  tx_lastname: NOVITSKI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICOLAS
+  tx_lastname: FIGONE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NATHANIEL
+  tx_lastname: LANEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: MACDONALD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HEIDI
+  tx_lastname: SIECK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALLAN
+  tx_lastname: CASALOU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TYLER
+  tx_lastname: GREGORY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: ADAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ASTON
+  tx_lastname: MOTES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAKURAKO DANIEL
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: SAMANTHA
+  tx_lastname: DUVALL BECHTEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: VICTOR
+  tx_lastname: PESKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BUTCH
+  tx_lastname: HAZE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: BUTTERFOSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIE
+  tx_lastname: FELDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468193'
+    cmte_name: BOEHNER FOR D1 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+- tx_firstname: JENCKYN
+  tx_lastname: GOOSBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIKA
+  tx_lastname: REINHARDT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: FINN
+  tx_lastname: MCCARTHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARCUS
+  tx_lastname: LIM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VICTOR
+  tx_lastname: SEETO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: VICTORIA
+  tx_lastname: DELK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: PETER
+  tx_lastname: MICHAEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: RAGONE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: TONELLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: KEENAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: CLERICO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NINA
+  tx_lastname: HATVANY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: FRIEDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: NONIE
+  tx_lastname: GREENE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: WILLIAM
+  tx_lastname: EVERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DALE
+  tx_lastname: CARLSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFERY
+  tx_lastname: WOO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: CHUONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: GOODFELLOW BROS. CALIFORNIA LLC(DARREN WILHOIT)
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468626'
+    cmte_name: GREAT SCHOOLS FOR ALL SF KIDS - YES ON PROP A
+    tx_amount: 1500.0
+- tx_firstname: AMY
+  tx_lastname: LEDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: IFPTE LOCAL 21 TJ ANTHONY PAC FUND
+  tx_entitycode: COM
+  tx_cmteid: '881248'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANITA
+  tx_lastname: FRIEDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TERESA
+  tx_lastname: EWINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TERESA
+  tx_lastname: OLLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL POLITICAL ORGANIZATION
+    OF WORKERS FOR EMPLOYEE RIGHTS (POWER PAC)
+  tx_entitycode: COM
+  tx_cmteid: '1237101'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAYESHKUMAR
+  tx_lastname: DEVDHARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAYSHREE
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOYCE
+  tx_lastname: NEWSTAT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: VICKI
+  tx_lastname: HENNESSY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: FAWAZ
+  tx_lastname: ALRIASHI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION, AFL-CIO CLC
+    (FEC ID:#C00002766)
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL CANDIDATE
+    PAC
+  tx_entitycode: SCC
+  tx_cmteid: '910874'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: FRAN
+  tx_lastname: MOLETTIERI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: MARC
+  tx_lastname: FREED-FINNEGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: UNITED EDUCATORS OF SAN FRANCICSO CANDIDATE PAC
+  tx_entitycode: COM
+  tx_cmteid: '1311218'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO - CANDIDATE PAC
+  tx_entitycode: COM
+  tx_cmteid: '1311218'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: LEANNA
+  tx_lastname: DAWYDIAK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEE
+  tx_lastname: HOUSKEEPER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DALE
+  tx_lastname: SCHROEDEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: DALE
+  tx_lastname: SWARTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: PAWAN
+  tx_lastname: GUPTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: DEMEESTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: MIYAMOTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KATIE
+  tx_lastname: ALBRIGHT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: KEIKO
+  tx_lastname: SAKAMOTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAN
+  tx_lastname: FELDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JESSICA
+  tx_lastname: VERRILLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1500.0
+- tx_firstname: ANDREW
+  tx_lastname: METCALF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STACEY
+  tx_lastname: CASE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SARAN
+  tx_lastname: CHARI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAVITRIBEN
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: IBEW LOCAL 6 POLITICAL ACCOUNT
+  tx_entitycode: COM
+  tx_cmteid: '921730'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: LISA
+  tx_lastname: RIVERA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL 856 PAC
+  tx_entitycode: COM
+  tx_cmteid: '943044'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: 'TEAMSTERS LOCAL UNION #350 PAC'
+  tx_entitycode: COM
+  tx_cmteid: '1406838'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: CHAVEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: FRITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANK
+  tx_lastname: WOODS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN A.
+  tx_lastname: DUGGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN J.
+  tx_lastname: DUGGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: OMRAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: PRITZKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRADY
+  tx_lastname: MCCOLLUM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SERGIO
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VENESSA
+  tx_lastname: BOSMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHAILENDRA
+  tx_lastname: DEVDHARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: CONSTRUCTION MANAGEMENT WEST INC.
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1500.0
+- tx_firstname: FRANCIS
+  tx_lastname: SO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICIA
+  tx_lastname: GREGORY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BENJAMIN
+  tx_lastname: MANTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SIMONA
+  tx_lastname: AGNOLUCCI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ANGELA
+  tx_lastname: ANTENORE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LISA
+  tx_lastname: PRESTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: CAWLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: MESSINA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TSIPORA
+  tx_lastname: PESKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: HULING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: KOVACS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILL
+  tx_lastname: PARISH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PALLAVI
+  tx_lastname: SHARMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GINA
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: YVONNE
+  tx_lastname: MCCARTHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: HARLEEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BENJAMIN
+  tx_lastname: LANDAU-TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JON
+  tx_lastname: NOVOTNY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMOS
+  tx_lastname: ELLISTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 500.0
+- tx_firstname: JEFF
+  tx_lastname: SCHLARB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: THOMAS
+  tx_lastname: SCHIAVONE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: ROCCA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AUSTIN
+  tx_lastname: HUNTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: MEI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: KROOT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BAM
+  tx_lastname: AZIZI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1500.0
+- tx_firstname: SIG
+  tx_lastname: ANDERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GIANMATTEO
+  tx_lastname: COSTANZA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+- tx_firstname: LISA
+  tx_lastname: ACREE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: GREG
+  tx_lastname: SLOVACEK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GREG
+  tx_lastname: SUHR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JON
+  tx_lastname: HENRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ANABELL
+  tx_lastname: IBANEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EIHWAY
+  tx_lastname: SU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1499.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 499.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: LAU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1499.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 499.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAUNCE
+  tx_lastname: GAMBLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1490.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 490.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  tx_entitycode: COM
+  tx_cmteid: '1374879'
+  tx_amount: 1489.5
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 331.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 331.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 165.5
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 662.0
+- tx_firstname: GEOFFREY
+  tx_lastname: GORDON-CREED
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 200.0
+- tx_firstname: FRANCISCO
+  tx_lastname: HARVEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNIE
+  tx_lastname: YANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETRA
+  tx_lastname: DEJESUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: KATH
+  tx_lastname: TSAKALAKIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 450.0
+- tx_firstname: JOSEPH
+  tx_lastname: BLECKMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468193'
+    cmte_name: BOEHNER FOR D1 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469206'
+    cmte_name: OSCAR FLORES FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+- tx_firstname: LORRAINE
+  tx_lastname: PETTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEE
+  tx_lastname: HEPNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LI
+  tx_lastname: LOVETT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1469771'
+    cmte_name: DELDELP MEDINA FOR SAN FRANCISCO SCHOOL BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: ''
+  tx_lastname: UNITEMIZED SCHEDULE C
+  tx_entitycode: ''
+  tx_cmteid: ''
+  tx_amount: 1429.84
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 65.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 145.22
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 44.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 34.0
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 168.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 95.22
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 0.02
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 277.88
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 44.04
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 41.46
+  - cmte_fppcid: '1472252'
+    cmte_name: MORALES FOR SUPERVISOR 2024
+    tx_amount: 320.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 195.0
+- tx_firstname: BIANCA
+  tx_lastname: POLOVINA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1425.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 275.0
+- tx_firstname: KATHERINE
+  tx_lastname: HOWARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1420.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 370.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EVAN
+  tx_lastname: OWSKI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1410.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 310.0
+- tx_firstname: JOHN
+  tx_lastname: CALDON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: SAMUEL
+  tx_lastname: PEDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TED
+  tx_lastname: JANUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: JOHN PHILIP
+  tx_lastname: COGHLAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ERIC
+  tx_lastname: CHUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: AHMED
+  tx_lastname: ABOZAYD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: OLGA
+  tx_lastname: EBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: ROTHMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 100.0
+- tx_firstname: ANITA
+  tx_lastname: MARTINEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: DANIEL
+  tx_lastname: ANDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CATARINA
+  tx_lastname: SCHWAB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: RICHARD
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: ROBERTO
+  tx_lastname: HERNANDEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: DUDA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 425.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 475.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEROME
+  tx_lastname: WILLIAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1400.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ERICA
+  tx_lastname: ZWEIG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1375.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: REZWANA ALIYA
+  tx_lastname: CHISTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1356.15
+  transactions:
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 956.15
+- tx_firstname: JORDAN
+  tx_lastname: LUTTRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1352.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 118.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 234.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RODGER
+  tx_lastname: SCOTT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ED
+  tx_lastname: HARRINGTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 500.0
+- tx_firstname: NING
+  tx_lastname: HO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: HOMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: AMIE
+  tx_lastname: FISHMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: SHABNAM
+  tx_lastname: BHASKARAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 250.0
+- tx_firstname: DANIEL
+  tx_lastname: CARROLL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: PRENTICE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 600.0
+- tx_firstname: PAUL
+  tx_lastname: SIMPSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1465078'
+    cmte_name: JAIME GUTIERREZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: PATRICIA
+  tx_lastname: TAMURA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: MAIREAD
+  tx_lastname: HOMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: JAMES
+  tx_lastname: WHITAKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: JULIE
+  tx_lastname: TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: GREG HARDEMAN FOR DCCC MEMBER 2024
+  tx_entitycode: COM
+  tx_cmteid: '1463638'
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHLEEN
+  tx_lastname: DALY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RANDALL
+  tx_lastname: GOETZL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 600.0
+- tx_firstname: JULIE
+  tx_lastname: IVERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1340.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1040.0
+- tx_firstname: GIA
+  tx_lastname: DANILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1330.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 180.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOYCE
+  tx_lastname: LINKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1310.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 460.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: MARC
+  tx_lastname: DANTONA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1305.5
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 495.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 160.5
+- tx_firstname: ROSE
+  tx_lastname: CHUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1304.42
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 204.42
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: STANLEY
+  tx_lastname: LANDFAIR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1303.45
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 503.45
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANKLIN
+  tx_lastname: RICARTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+- tx_firstname: JASON
+  tx_lastname: KRUTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+- tx_firstname: YVETTE
+  tx_lastname: CORKREAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468193'
+    cmte_name: BOEHNER FOR D1 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: DAVID
+  tx_lastname: COUNTRYMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 200.0
+- tx_firstname: WILLIAM
+  tx_lastname: HANNAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NATHANIEL
+  tx_lastname: GREEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: OBO
+  tx_lastname: HELP
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+- tx_firstname: JOHN
+  tx_lastname: LUMPKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALBANY
+  tx_lastname: AROYAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: AUTUMN
+  tx_lastname: LOOIJEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: JOEL
+  tx_lastname: LUEBKEMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: SIU YUEN
+  tx_lastname: CHUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SANTIAGO
+  tx_lastname: RUIZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMANDA
+  tx_lastname: SCHAPEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: 'CONNOLLY HOLDINGS LLC(RESPONSIBLE OFFICER: BRIAN PATRICK CONNOLLY
+    )'
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1300.0
+- tx_firstname: FRANCIS
+  tx_lastname: TSANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 200.0
+- tx_firstname: GUS
+  tx_lastname: MURAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: GREG
+  tx_lastname: HARDEMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 0.0
+- tx_firstname: ANDREW
+  tx_lastname: YANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: AISLING
+  tx_lastname: FERGUSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LILY
+  tx_lastname: LO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: YENYY
+  tx_lastname: SIHAPANYA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: ROSTOV
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1300.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VANESSA
+  tx_lastname: PIMENTEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1283.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 433.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOANNE
+  tx_lastname: LOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1258.32
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 258.32
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: MICHAEL
+  tx_lastname: CHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1251.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 151.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALISON
+  tx_lastname: PINCUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SONIA
+  tx_lastname: MELARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+- tx_firstname: BRENDA
+  tx_lastname: JEWETT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: VICTORIA
+  tx_lastname: STEWART DAVIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAMILLE
+  tx_lastname: MARKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 550.0
+- tx_firstname: TYLER
+  tx_lastname: FOSTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SCOTT
+  tx_lastname: KEPNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRUCE
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 250.0
+- tx_firstname: BENJAMIN
+  tx_lastname: FRIEND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: HERNANDEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: DOUGLAS
+  tx_lastname: MANDELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: CERCHIAI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEVON
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MITCHELL
+  tx_lastname: BEARG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANTHONY
+  tx_lastname: CLIFFORD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: ORTIZ-CARTAGENA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: DON
+  tx_lastname: CECIL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: DIJON
+  tx_lastname: JERSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: SAXE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: WILLIAM
+  tx_lastname: HART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEBORAH
+  tx_lastname: CULLINAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 250.0
+- tx_firstname: STEPHEN
+  tx_lastname: SUTRO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: SWIG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CATHERINE
+  tx_lastname: SANGER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VIOLA
+  tx_lastname: MAESTAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RINGO
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: STEPHEN
+  tx_lastname: WILLIAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: GUGGENHIME
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: RICHARD
+  tx_lastname: TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 250.0
+- tx_firstname: COLETTE
+  tx_lastname: FUJIMOTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CYNTHIA
+  tx_lastname: GUERRERO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CLARA
+  tx_lastname: SHIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: NUBIA
+  tx_lastname: MENDOZA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: DAVID
+  tx_lastname: BUCHANAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: MARY
+  tx_lastname: ZLOT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: YASMIN
+  tx_lastname: DHILLON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNA
+  tx_lastname: VONGVIXAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: ELIAS
+  tx_lastname: ZAMARIA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1000.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 250.0
+- tx_firstname: ''
+  tx_lastname: DAVID CANEPA FOR SUPERVISOR 2024
+  tx_entitycode: COM
+  tx_cmteid: '1399463'
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: MELINDA
+  tx_lastname: EVERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: EDWARD
+  tx_lastname: TOPHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: ANGELA
+  tx_lastname: ALANIZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: FRANCIS
+  tx_lastname: FERNANDEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: FREDERICK
+  tx_lastname: JORDAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: GEN
+  tx_lastname: FUJIOKA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: LINDSAY
+  tx_lastname: BOLTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRED
+  tx_lastname: LEVINSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FADI
+  tx_lastname: SHIHADEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: EMILIO
+  tx_lastname: CRUZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARLAYNE
+  tx_lastname: MORGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: HALBRECHT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: RILEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEITH
+  tx_lastname: BELLING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: JAIME
+  tx_lastname: HULING DELAYE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JEN
+  tx_lastname: SNYDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: KIT
+  tx_lastname: CODIK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 750.0
+- tx_firstname: KEVIN
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JACK
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HAE MIN
+  tx_lastname: CHO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HARRY
+  tx_lastname: STERN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HALA K.
+  tx_lastname: HIJAZI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: 'KDP 1301 LA PLAYA LLC(RESPONSIBLE OFFICER: MAX ZEFF )'
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1250.0
+- tx_firstname: JASON
+  tx_lastname: FLYNN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ZOE
+  tx_lastname: GIRAUDO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: ''
+  tx_lastname: 1000 OAK STREET
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1250.0
+- tx_firstname: ''
+  tx_lastname: '940 GUERRERO LLC(RESPONSIBLE OFFICER: MAX ZEFF )'
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1250.0
+- tx_firstname: JACKIE
+  tx_lastname: FIELDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1240.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 490.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: GLADYS
+  tx_lastname: SOTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1225.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 425.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 300.0
+- tx_firstname: JOE
+  tx_lastname: LITEHISER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1220.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 320.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468497'
+    cmte_name: KEITH FREEDMAN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: GWENN
+  tx_lastname: CRAIG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: TOMASITA
+  tx_lastname: MEDAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: JANET
+  tx_lastname: CARTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: YOUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: BETSY
+  tx_lastname: BLUMENTHAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+- tx_firstname: LANCE
+  tx_lastname: CARNES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHUNG
+  tx_lastname: PARK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DANIEL
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SONIA
+  tx_lastname: DELEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNDA
+  tx_lastname: BERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 200.0
+- tx_firstname: JAMES
+  tx_lastname: LAZARUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 250.0
+- tx_firstname: DAVID
+  tx_lastname: STRAUSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHERINE A.
+  tx_lastname: MILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1474947'
+    cmte_name: SAN FRANCISCO WORKING FAMILIES VOTER GUIDE SUPPORTING AARON PESKIN
+      FOR MAYOR, SPONSORED BY HEALTHCARE, HOSPITALITY, AND SERVICE WORKERS UNIONS
+    tx_amount: 1200.0
+- tx_firstname: MICHAEL
+  tx_lastname: TONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 450.0
+- tx_firstname: JENNIFER
+  tx_lastname: BOLEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ROBERT
+  tx_lastname: SAKAI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KENNETH
+  tx_lastname: ANDERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+- tx_firstname: CAROLYN
+  tx_lastname: POMERANTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 250.0
+- tx_firstname: DOLORES
+  tx_lastname: HEILBRON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 700.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: DANIEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 200.0
+- tx_firstname: RANON
+  tx_lastname: ROSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: ADLAH
+  tx_lastname: CHISTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1465078'
+    cmte_name: JAIME GUTIERREZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: JULIE D.
+  tx_lastname: SOO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: ERIC
+  tx_lastname: SAFIRE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: STEPHEN
+  tx_lastname: VAN HELDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: ANDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 700.0
+- tx_firstname: BRUCE
+  tx_lastname: WOLFE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICHOLAS
+  tx_lastname: BERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468193'
+    cmte_name: BOEHNER FOR D1 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ALEX
+  tx_lastname: LANTSBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1200.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: LEFTERIS
+  tx_lastname: ELEFTHERIOU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1188.3899999999999
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 240.0
+  - cmte_fppcid: '1469611'
+    cmte_name: ELEFTHERIOU FOR SCHOOL BOARD 2024
+    tx_amount: 248.39
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: DIANA
+  tx_lastname: PANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1188.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 188.0
+- tx_firstname: JULIENNE
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1165.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 465.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 175.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 525.0
+- tx_firstname: KEVIN
+  tx_lastname: HICKEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1165.0
+  transactions:
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 265.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 100.0
+- tx_firstname: MARILY
+  tx_lastname: MONDEJAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1160.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 160.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RUN MAN
+  tx_lastname: SHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: BAUTISTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 650.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAT
+  tx_lastname: ANDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 100.0
+- tx_firstname: JESSICA
+  tx_lastname: BRANSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: RICHARD
+  tx_lastname: ARMANINO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 650.0
+- tx_firstname: JORDAN
+  tx_lastname: HYMOWITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: JOSEPH
+  tx_lastname: PHAIR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JUDY
+  tx_lastname: IRVING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: MARINI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: JASON
+  tx_lastname: SHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 550.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: LOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 150.0
+- tx_firstname: MEREDITH W.
+  tx_lastname: DODSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468029'
+    cmte_name: LUIS ZAMORA FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: MUZZY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: BRIGITTE
+  tx_lastname: DAVILA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 550.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: IAN
+  tx_lastname: RATZER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 500.0
+- tx_firstname: HILLARY
+  tx_lastname: RONEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ABBY
+  tx_lastname: FANLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: RYAN
+  tx_lastname: OKSENHORN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: SARAH
+  tx_lastname: HYMOWITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: VITTORIO
+  tx_lastname: ANASTASIO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1472252'
+    cmte_name: MORALES FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1470059'
+    cmte_name: MICHAEL JUAN FOR SHERIFF 2024
+    tx_amount: 300.0
+- tx_firstname: DING BONG
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+- tx_firstname: HANS
+  tx_lastname: HANSSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICHOLAS
+  tx_lastname: COLLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MEI MEI
+  tx_lastname: CHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: ALAN
+  tx_lastname: LEVINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1472583'
+    cmte_name: FRIENDS OF SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ROBERTO
+  tx_lastname: EVANGELISTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: ASHLEY
+  tx_lastname: DALZELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 150.0
+- tx_firstname: VERONICA
+  tx_lastname: HUNNICUTT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: MARKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: MARTIN
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 600.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 100.0
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 100.0
+- tx_firstname: SEPTEMBER
+  tx_lastname: JARRETT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 250.0
+- tx_firstname: KARI
+  tx_lastname: RUDD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 550.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LILY
+  tx_lastname: HO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: EMILY
+  tx_lastname: BOSCHETTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: AUZIE
+  tx_lastname: MIRHASHEMI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 650.0
+- tx_firstname: LORI
+  tx_lastname: BROOKE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: BARBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: BROWN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: JASON
+  tx_lastname: PELLEGRINI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1145.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 145.0
+- tx_firstname: LEON
+  tx_lastname: DROZD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1125.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 525.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRIAN
+  tx_lastname: HOFER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1125.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 325.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 550.0
+- tx_firstname: OLIVIA
+  tx_lastname: STOBO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1125.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 125.0
+- tx_firstname: SUHEIL
+  tx_lastname: SHATARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1125.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 625.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1124.77
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462942'
+    cmte_name: YES ON H FOR FIREFIGHTERS HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+    tx_amount: 24.77
+- tx_firstname: PETER
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1124.76
+  transactions:
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 1000.0
+  - cmte_fppcid: '1469611'
+    cmte_name: ELEFTHERIOU FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462942'
+    cmte_name: YES ON H FOR FIREFIGHTERS HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+    tx_amount: 24.76
+- tx_firstname: LEANNA
+  tx_lastname: LOUIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1122.17
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 522.17
+  - cmte_fppcid: '1469611'
+    cmte_name: ELEFTHERIOU FOR SCHOOL BOARD 2024
+    tx_amount: 200.0
+- tx_firstname: ZACHARY
+  tx_lastname: ROSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1117.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 287.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 180.0
+- tx_firstname: EVELYN
+  tx_lastname: GRAHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1110.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 510.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHLEEN
+  tx_lastname: COURTNEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1110.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 310.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LINDA
+  tx_lastname: CALHOUN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1103.45
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 103.45
+- tx_firstname: ROBERTA
+  tx_lastname: GUISE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1103.45
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 103.45
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTINE
+  tx_lastname: LINNENBACH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: MICHAEL
+  tx_lastname: MUSLEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: JEFFREY
+  tx_lastname: MORI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+- tx_firstname: CRAIG
+  tx_lastname: ETLIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: HERBST
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 800.0
+- tx_firstname: KATE
+  tx_lastname: MONICO KLEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAWRENCE
+  tx_lastname: SIMI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+- tx_firstname: RICH
+  tx_lastname: WALLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: RICHARD
+  tx_lastname: FRANKEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: BRITT
+  tx_lastname: MILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUNNY
+  tx_lastname: SHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CIMERAN
+  tx_lastname: KAPUR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEX
+  tx_lastname: LEMBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: SARA
+  tx_lastname: BYRNE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HARVEY
+  tx_lastname: HACKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: AUSMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARTHUR
+  tx_lastname: SLEPIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 750.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: ADRIANA
+  tx_lastname: TOROSIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472442'
+    cmte_name: GREAT HIGHWAY FOR ALL - NO ON K, A MATT BOSCHETTO COMMITTEE
+    tx_amount: 100.0
+- tx_firstname: THOMAS
+  tx_lastname: LI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: THOR
+  tx_lastname: KASLOFSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: KEVIN
+  tx_lastname: BIRMINGHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALISON
+  tx_lastname: HENRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+- tx_firstname: SHEILA
+  tx_lastname: TULLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: FAYNE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: ANN
+  tx_lastname: HSU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ILONA
+  tx_lastname: YANEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 600.0
+- tx_firstname: DAVE
+  tx_lastname: COLLINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1100.0
+- tx_firstname: WENDY
+  tx_lastname: NELSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: BRIAN
+  tx_lastname: QUAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+- tx_firstname: HUNTER
+  tx_lastname: WALK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PHILIP
+  tx_lastname: BOWLES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: CAROL
+  tx_lastname: BETTENCOURT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KIMBERLEE
+  tx_lastname: HOWLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 100.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: LILY
+  tx_lastname: CHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: NANCY
+  tx_lastname: SIHAPANYA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: WILLIAM
+  tx_lastname: GARGANO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 600.0
+- tx_firstname: TEDDY
+  tx_lastname: KRAMER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: JOANNE
+  tx_lastname: DESMOND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: HEATHER
+  tx_lastname: GONZALEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TINISCH
+  tx_lastname: HOLLINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: CAROLYN
+  tx_lastname: KENADY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOMERSET
+  tx_lastname: PERRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: GARRET
+  tx_lastname: TOM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: GARRETT
+  tx_lastname: O'REILLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RISHAV
+  tx_lastname: ROUT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 100.0
+- tx_firstname: MIKE
+  tx_lastname: FITZGERALD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYN
+  tx_lastname: WERBACH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: SHOAIB
+  tx_lastname: MAKANI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEVIN
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: LARA
+  tx_lastname: WITTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: ELLIOTT
+  tx_lastname: ROBBINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: REBECCA
+  tx_lastname: YOUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CYNTHIA
+  tx_lastname: WHITE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 600.0
+- tx_firstname: HENRY
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1465078'
+    cmte_name: JAIME GUTIERREZ FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: CATHAY
+  tx_lastname: BI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: JORDON
+  tx_lastname: WING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: LAI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469449'
+    cmte_name: LOUIE FOR CCSF BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: ALBERT
+  tx_lastname: WANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: IMELDA
+  tx_lastname: CARRASCO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1095.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 275.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 260.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1467649'
+    cmte_name: EDUARD NAVARRO FOR SUPERVISOR 2024
+    tx_amount: 60.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: ''
+  tx_lastname: CENTER FOR EMPOWERED POLITICS
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1083.15
+  transactions:
+  - cmte_fppcid: '1466523'
+    cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SUPPORTING PROP E, SPONSORED
+      BY CENTER FOR EMPOWERED POLITICS
+    tx_amount: 1083.15
+- tx_firstname: SUSAN
+  tx_lastname: ABBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1078.03
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 128.03
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 950.0
+- tx_firstname: QUINTIN
+  tx_lastname: MECKE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1060.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 410.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: ARTHUR
+  tx_lastname: FEINSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEE
+  tx_lastname: EDWARDS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 150.0
+- tx_firstname: PATRICK
+  tx_lastname: MALEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: SANJAY
+  tx_lastname: GARLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: IAN
+  tx_lastname: JAMES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 550.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHEW
+  tx_lastname: MILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: KHALIL
+  tx_lastname: SWEIDY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: DENA
+  tx_lastname: ASLANIAN-WILLIAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+- tx_firstname: AARON
+  tx_lastname: FENTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: MALONEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+- tx_firstname: CALVIN
+  tx_lastname: LOUIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1470166'
+    cmte_name: WENDY CHAU FOR DISTRICT SUPERVISOR 2024
+    tx_amount: 200.0
+- tx_firstname: MARGAUX
+  tx_lastname: KELLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: JEFFREY
+  tx_lastname: HOLL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: TOM
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: NEIL
+  tx_lastname: SHAH-QUINN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 300.0
+- tx_firstname: ANDREW
+  tx_lastname: SCHWAB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1050.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: SUSAN CELIA
+  tx_lastname: SWAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1049.85
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 499.85
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 150.0
+- tx_firstname: ''
+  tx_lastname: RPM MANAGEMENT GROUP LLC(DIPAK PATEL)
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1041.98
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1041.98
+- tx_firstname: JAMES
+  tx_lastname: TRACY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1025.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 125.0
+- tx_firstname: MARK
+  tx_lastname: RYSER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1025.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 450.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 475.0
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 100.0
+- tx_firstname: LIONEL
+  tx_lastname: TRUFANT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1025.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 525.0
+- tx_firstname: BONNIE
+  tx_lastname: SPINDLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1025.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 275.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: SALLY
+  tx_lastname: ROSENBLATT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1020.99
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 520.99
+- tx_firstname: SASHA
+  tx_lastname: GAONA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1020.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 520.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BENJAMIN
+  tx_lastname: GONZALES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1015.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 205.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 10.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 450.0
+- tx_firstname: WILLIAM
+  tx_lastname: JACKSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1005.36
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1469206'
+    cmte_name: OSCAR FLORES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1472252'
+    cmte_name: MORALES FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1470791'
+    cmte_name: MIN CHANG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1470841'
+    cmte_name: BEN KAPLAN FOR COMMUNITY COLLEGE BOARD 2024
+    tx_amount: 105.36
+- tx_firstname: TIMOTHY
+  tx_lastname: DURNING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1005.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 475.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 180.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 225.0
+- tx_firstname: PHILIP
+  tx_lastname: LARSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NATASHA
+  tx_lastname: DOLBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARTURO
+  tx_lastname: BECERRA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CECILIA
+  tx_lastname: HERBERT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: ANDY LI FOR COLLEGE BOARD 2018
+  tx_entitycode: COM
+  tx_cmteid: '1403013'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOANNE
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBINA
+  tx_lastname: RICCITIELLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: WILEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIELLE
+  tx_lastname: DELEON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: BASS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOE
+  tx_lastname: OLLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: HOOPER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: MAYER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: BRINTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AVERY
+  tx_lastname: YU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: LEVERONI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MORT
+  tx_lastname: FRIEDKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SARAH
+  tx_lastname: BAUM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 300.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 350.0
+- tx_firstname: STEPHEN
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: BRAGINSKY BLOOMIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: BRIGITTA
+  tx_lastname: WHITING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: HERBSTMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CELINE
+  tx_lastname: MACTAGGART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DENNIS
+  tx_lastname: SONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: WAHID
+  tx_lastname: TADROS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: GRAHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PHIL
+  tx_lastname: ARNAUTOU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ASHOK
+  tx_lastname: BHATT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: SHWARTS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SARVENAZ
+  tx_lastname: FAHIMI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: BRIAN
+  tx_lastname: SPIERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERTO
+  tx_lastname: DI GRANDE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STANLEY
+  tx_lastname: HERZSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ATHENA
+  tx_lastname: KARSANT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEBBIE
+  tx_lastname: MESLOH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: TOM
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIELLE
+  tx_lastname: MEISTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DEEPA
+  tx_lastname: VARMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 100.0
+- tx_firstname: BRITT
+  tx_lastname: WENZLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMIR
+  tx_lastname: SARRESHTEHDARY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: SCHUTTISH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHAD
+  tx_lastname: THORNTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHANIE
+  tx_lastname: TROLLOPE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SARA
+  tx_lastname: AMINZADEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHANIE
+  tx_lastname: STAFFORD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: AUDREY
+  tx_lastname: JERSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CORAETTA
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TOM
+  tx_lastname: COATES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: TYLER
+  tx_lastname: KINGSLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 500.0
+- tx_firstname: PAMELA I.
+  tx_lastname: UBERTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1474947'
+    cmte_name: SAN FRANCISCO WORKING FAMILIES VOTER GUIDE SUPPORTING AARON PESKIN
+      FOR MAYOR, SPONSORED BY HEALTHCARE, HOSPITALITY, AND SERVICE WORKERS UNIONS
+    tx_amount: 1000.0
+- tx_firstname: PAMELA
+  tx_lastname: VENKATESAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ALEXANDER
+  tx_lastname: MOENING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TOM
+  tx_lastname: BALTIMORE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAN
+  tx_lastname: BOAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: HIRTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: DENNING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: AURELIO
+  tx_lastname: ESPINOSA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXANDER
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BROOK
+  tx_lastname: TURNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: COURTNEY
+  tx_lastname: GIRAUDO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHANIE
+  tx_lastname: JENSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANNY
+  tx_lastname: HABER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WAYEE
+  tx_lastname: CHU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: V.ROY
+  tx_lastname: LEFCOURT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: SARAH
+  tx_lastname: GILLIGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: COURTNEY
+  tx_lastname: DALLAIRE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AVA
+  tx_lastname: DECKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMY
+  tx_lastname: BUSCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NIELS
+  tx_lastname: LARSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANH
+  tx_lastname: TRANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: DEFFARGES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALISTAIR
+  tx_lastname: THORNTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: CHIGNELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: HOOPER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: SARAH
+  tx_lastname: DUNLEAVY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MONICA
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DEREK
+  tx_lastname: JACOBSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: COLLINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DEREK
+  tx_lastname: SCHRIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: MOONEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: BRESSIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALFRED
+  tx_lastname: FONTES JR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ADRIEL
+  tx_lastname: HAMPTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DESMOND
+  tx_lastname: TAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DHRUV
+  tx_lastname: AMIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: MITCHELL
+  tx_lastname: OMERBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MING LIAN
+  tx_lastname: ZHOU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NEIL
+  tx_lastname: SHAH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DIANE
+  tx_lastname: GRAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 400.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 100.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: RILLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DIANA
+  tx_lastname: WILD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: WILLIAM
+  tx_lastname: O'KEEFFE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ADITYA
+  tx_lastname: BHUMBLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 250.0
+- tx_firstname: ADITYA
+  tx_lastname: AGARWAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MILES
+  tx_lastname: FLORENCE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRUCE
+  tx_lastname: CALLANDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DICK
+  tx_lastname: GROSBOLL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472007'
+    cmte_name: REAL REFORM, YES ON C, NO ON D, YES ON E, A COALITION OF SMALL BUSINESSES,
+      NEIGHBORS AND AARON PESKIN
+    tx_amount: 500.0
+- tx_firstname: MILAN
+  tx_lastname: CHAVARKAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: OBERNDORF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: CRAIG
+  tx_lastname: BERENDT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CRAIG
+  tx_lastname: ASHTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SANDRO
+  tx_lastname: SANGIACOMO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARBARA
+  tx_lastname: ENGMANN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TOM
+  tx_lastname: PERRAULT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TOM
+  tx_lastname: PAPER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIKE
+  tx_lastname: MUZZY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: DIMITRI
+  tx_lastname: CHARALAMBOUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIKE
+  tx_lastname: HOUSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SPENCER
+  tx_lastname: WARDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MIKE
+  tx_lastname: HEATON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SPENCER
+  tx_lastname: HUGRET
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DIVYA
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DIVAKAR
+  tx_lastname: GUPTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MIGUEL ANTONIO
+  tx_lastname: GALARZA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DON
+  tx_lastname: EMMONS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: NAUGHTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: ROTHMANN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DON
+  tx_lastname: WILLENBURG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TINA
+  tx_lastname: ALCANTARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHELLE
+  tx_lastname: ROBERTS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOPHIE
+  tx_lastname: MAXWELL PERSONAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DONALD
+  tx_lastname: MISUMI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRUCE
+  tx_lastname: LIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRUCE
+  tx_lastname: KEENE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOPHIE
+  tx_lastname: HAHN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMY
+  tx_lastname: WU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHELE
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: RORICK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHELE
+  tx_lastname: MEANY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: SHERRILL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500.0
+- tx_firstname: DONNY
+  tx_lastname: FRIEND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARBARA
+  tx_lastname: KAUFMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: TOROSIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TIMOTHY
+  tx_lastname: HOLSMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: REBECCA
+  tx_lastname: MENNE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 142.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 143.0
+- tx_firstname: SANDRA
+  tx_lastname: SHORENSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: SIDLOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: TOM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: STIGLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHARLES
+  tx_lastname: SPALDING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: SCRIBNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: IRMER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DOUGLAS
+  tx_lastname: ABBEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AL
+  tx_lastname: CLIFFORD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: MICHAEL
+  tx_lastname: REDMOND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: PRIOLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ADAM
+  tx_lastname: PENSACK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOPHIE
+  tx_lastname: ALPERT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ADAM
+  tx_lastname: MCDONOUGH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DOUGLAS
+  tx_lastname: MACMAHON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: REBECCA
+  tx_lastname: HENDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DOUGLAS
+  tx_lastname: HORNGRAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DREW
+  tx_lastname: HAMLIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARON
+  tx_lastname: SUEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: MODESTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: MARSTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: MAFFEI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: KROUSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM H
+  tx_lastname: RUSSELL-SHAPIRO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ADAM
+  tx_lastname: GASNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ED
+  tx_lastname: FISCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: HINCKLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: HARRINGTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: HALL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOON OK
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MICHAEL
+  tx_lastname: GRISSO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SOON
+  tx_lastname: KIM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ROBERT
+  tx_lastname: LOBACK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: LILLIANFELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1467508'
+    cmte_name: DYLAN HIRSCH-SHELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: EDALINE
+  tx_lastname: SARMIENTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDDIE
+  tx_lastname: KO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDUARDO
+  tx_lastname: SANTACANA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM S
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARRY
+  tx_lastname: REDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: TIFFANY
+  tx_lastname: WAUGH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BARRY
+  tx_lastname: HERMANSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM LANEY
+  tx_lastname: THORNTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLA KATHLEEN
+  tx_lastname: BUDGE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: POOLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EDWARD
+  tx_lastname: MORAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: SAMUEL
+  tx_lastname: LESSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 1000.0
+- tx_firstname: MEREDITH
+  tx_lastname: DUNN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MELISSA
+  tx_lastname: MA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: NICOLE
+  tx_lastname: MURRAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MEHRAN
+  tx_lastname: ESMAILI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ELENA
+  tx_lastname: DUGGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELENA
+  tx_lastname: ASTURIAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1475268'
+    cmte_name: JULIO RAMOS FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: RAYMOND
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILL
+  tx_lastname: STOCKWELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREAS
+  tx_lastname: KATZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MEGAN
+  tx_lastname: POTENTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREA DEW
+  tx_lastname: STEELE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 500.0
+- tx_firstname: MEDET
+  tx_lastname: ZIRA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CRAIGE
+  tx_lastname: BERTERO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 125.0
+- tx_firstname: VANCE
+  tx_lastname: YOSHIDA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MEAGAN
+  tx_lastname: LEVITAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAYUR
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ABBY
+  tx_lastname: TURIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WYLIE
+  tx_lastname: PETERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: C.C.
+  tx_lastname: YIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MAYA
+  tx_lastname: SEGAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAY
+  tx_lastname: SAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALISON
+  tx_lastname: GEBALLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MAX
+  tx_lastname: SIMKOFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NANCY
+  tx_lastname: KIVELSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: CALLANDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: BALL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: ACH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RAYMOND
+  tx_lastname: MARTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAURICE
+  tx_lastname: CASEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: FARRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: SKELLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ELIZABETH
+  tx_lastname: HEMERY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHIAS
+  tx_lastname: WABL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: AARON
+  tx_lastname: STONE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHEW
+  tx_lastname: NICHOLS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHEW
+  tx_lastname: HOLTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468497'
+    cmte_name: KEITH FREEDMAN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATTHEW
+  tx_lastname: GOLDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATT
+  tx_lastname: NESSIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATT
+  tx_lastname: KELLY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ELSA
+  tx_lastname: BIRCH MORGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: RAYMOND
+  tx_lastname: CARMIGNANI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: MATT
+  tx_lastname: KAMKAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXIS
+  tx_lastname: LEVY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 500.0
+- tx_firstname: MATT
+  tx_lastname: CROFT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: SCHUTTISH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MATT
+  tx_lastname: CORVI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: RAY ELLEN
+  tx_lastname: YARKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EMAN
+  tx_lastname: ATEYEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: EMILY
+  tx_lastname: ALGIRE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: BYRNE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: VICTOR
+  tx_lastname: CUSTODIO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WAYNE
+  tx_lastname: LEW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: BASSERY
+  tx_lastname: ALRIASHI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RAY
+  tx_lastname: YARKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: PIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: PERRAULT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EMILY
+  tx_lastname: PAXHIA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: RAY
+  tx_lastname: CHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: EMILY
+  tx_lastname: LEUNG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MARYANNE
+  tx_lastname: SANGIACOMO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 0.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARYANN
+  tx_lastname: RAINEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RAY
+  tx_lastname: BAIR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARY BETH
+  tx_lastname: SHIMMON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: GORENCE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIEL
+  tx_lastname: FRIEDLAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: AARON
+  tx_lastname: DARSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: DAI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: YAT-PANG
+  tx_lastname: AU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARY
+  tx_lastname: LIU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHUCK
+  tx_lastname: FLOYD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: EOGHAN
+  tx_lastname: MCCABE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: NOREEN
+  tx_lastname: FARRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: LANE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAIGE
+  tx_lastname: HENCHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ENRIQUE
+  tx_lastname: ASMAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BEN
+  tx_lastname: BLUMENFELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: ANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: ALT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARY
+  tx_lastname: CRANSTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: HENDEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: SZETO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAM
+  tx_lastname: TADESSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: SKAIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: GUERIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: JAYE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1470841'
+    cmte_name: BEN KAPLAN FOR COMMUNITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: SAM
+  tx_lastname: SINGER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: RIES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIC
+  tx_lastname: MENDELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SLOANE
+  tx_lastname: LEHMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: KOLTUNIAK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SLOAN
+  tx_lastname: LARSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW
+  tx_lastname: KIRTLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MARTIN
+  tx_lastname: SCHWARTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: ''
+  tx_lastname: WOODS FAMILY INVESTMENTS, LP
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: WICKLOW MANAGEMENT CO
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: WEI
+  tx_lastname: DENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARTHA EHMANN
+  tx_lastname: CONTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: ESCHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: DOUDIET
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARTHA
+  tx_lastname: DARSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARTHA
+  tx_lastname: COHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARTHA
+  tx_lastname: BAER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARTA
+  tx_lastname: SANDERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARSHA
+  tx_lastname: ROSENBAUM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BEN
+  tx_lastname: EISLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1472583'
+    cmte_name: FRIENDS OF SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: MARK
+  tx_lastname: WHITING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: YES ON H FOR FIREFIGHTER HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+  tx_entitycode: COM
+  tx_cmteid: '1462942'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: ROBERT
+  tx_lastname: FEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: SEILER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1472583'
+    cmte_name: FRIENDS OF SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: ENRIGHT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THOMAS
+  tx_lastname: COSTELLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: PARRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAMERON
+  tx_lastname: POETZSCHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERICK
+  tx_lastname: BARTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: MOLUMPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: HOOSHMAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: HICKMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: CAMELLIA
+  tx_lastname: PEABODY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAM
+  tx_lastname: LESSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ERIN
+  tx_lastname: DAVIDSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: GAGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: CONROE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARK
+  tx_lastname: BREITBARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARITA
+  tx_lastname: DALY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 142.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 143.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 143.0
+- tx_firstname: ''
+  tx_lastname: UNITED FOOD AND COMMERCIAL WORKERS ACTIVE BALLOT CLUB (CALIFORNIA )
+    (FED PAC ID# C00002766)
+  tx_entitycode: COM
+  tx_cmteid: '1247000'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: SIMON
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: YOLA
+  tx_lastname: OZTURK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARISA
+  tx_lastname: HEDGPETH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARIANNE
+  tx_lastname: HINCKLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: KENNEDY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: EVAN
+  tx_lastname: MARWELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARIA
+  tx_lastname: WABL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARIA
+  tx_lastname: CANIZALES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: MARGI
+  tx_lastname: HELDFOND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: BENJAMIN
+  tx_lastname: BOLOGNA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: F. MONTGOMERY
+  tx_lastname: WOODS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARGARET
+  tx_lastname: MANGOT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 700.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 300.0
+- tx_firstname: FAIQ
+  tx_lastname: RAZA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: FENG
+  tx_lastname: HAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: AMANDA
+  tx_lastname: HOENIGMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARCUS
+  tx_lastname: KRAUSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: MARCUS
+  tx_lastname: DUPLESSIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAMILLE
+  tx_lastname: RICKETTS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500.0
+- tx_firstname: MARCO
+  tx_lastname: ZAPPACOSTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAMILLA
+  tx_lastname: FIELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROBERT
+  tx_lastname: CHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: FINBARR
+  tx_lastname: TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARCIA
+  tx_lastname: FUDGE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 1000.0
+- tx_firstname: MARC
+  tx_lastname: VAN DER HOUT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MARC
+  tx_lastname: LIBARLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO CANDIDATE PAC
+  tx_entitycode: SCC
+  tx_cmteid: '1311218'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: MARC
+  tx_lastname: GELLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 400.0
+- tx_firstname: DAVID
+  tx_lastname: SHELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1467508'
+    cmte_name: DYLAN HIRSCH-SHELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: MARC
+  tx_lastname: DICKOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+- tx_firstname: FRANCES
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: MALCOLM
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CANDY
+  tx_lastname: SO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: UNITE HERE LOCAL 2 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1243324'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAL
+  tx_lastname: KNOX
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANCISCO
+  tx_lastname: UGARTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANK
+  tx_lastname: BILLANTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: MAGDALENA
+  tx_lastname: GRYKO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: FRANK
+  tx_lastname: PITRE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 250.0
+- tx_firstname: SALLY
+  tx_lastname: MCCARTHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNNET
+  tx_lastname: SPIEGEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DARBY
+  tx_lastname: THOMAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SALLY
+  tx_lastname: FAY COTTINGHAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNNE NEWHOUSE
+  tx_lastname: SEGAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: THAO
+  tx_lastname: DODSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: POOLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: MOHRFELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: JURICH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PETER
+  tx_lastname: BAUMANN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: BENJAMIN
+  tx_lastname: MCCANN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: EBARLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDREW M
+  tx_lastname: CASTEEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: SIGMUND
+  tx_lastname: ANDERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: JEFFERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: TERRY
+  tx_lastname: HOULIHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: LIEB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: SAJITH
+  tx_lastname: WICKRAMASEKARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 1000.0
+- tx_firstname: SAIKAT
+  tx_lastname: CHAKRABARTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SAIF
+  tx_lastname: MAKABLEH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNN
+  tx_lastname: ALTSHULER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNDSEY
+  tx_lastname: CORZINE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYNA
+  tx_lastname: LAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GABRIEL
+  tx_lastname: GOFFMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYLA
+  tx_lastname: AGNAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LYDIA
+  tx_lastname: SO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 550.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: LYDIA
+  tx_lastname: SHORENSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALICIA
+  tx_lastname: NOYOLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDY
+  tx_lastname: HANSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GABRIELA
+  tx_lastname: PARCELLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANDY
+  tx_lastname: BENJAMIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: LUKE
+  tx_lastname: OGELSBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WALTER
+  tx_lastname: HAYS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LUKAS
+  tx_lastname: BIEWALD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: HSU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TERESA
+  tx_lastname: PALMER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANGEL
+  tx_lastname: DAVIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LUIS ANTHONY
+  tx_lastname: BELMONTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 1000.0
+- tx_firstname: GARLAND MILLER
+  tx_lastname: LASTER III
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DANIEL
+  tx_lastname: LEDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GANG
+  tx_lastname: LI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: GARY
+  tx_lastname: BAUER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GARY
+  tx_lastname: FILIZETTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: GARY
+  tx_lastname: PRAGLIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: LOUISA
+  tx_lastname: RITTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BENJAMIN
+  tx_lastname: SCHRIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RITA
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: OWSLEY
+  tx_lastname: BROWN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GAYLE
+  tx_lastname: SCHMITT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GAY
+  tx_lastname: GRUNFELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL 853
+  tx_entitycode: COM
+  tx_cmteid: '1250157'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS UNION LOCAL NO.665 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1280975'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1000.0
+- tx_firstname: ANGELA
+  tx_lastname: FREE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS UNION LOCAL 665 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1280975'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LORETTA
+  tx_lastname: LYNCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHYLA
+  tx_lastname: HENDRICKSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIEL
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 1000.0
+- tx_firstname: TEDDY
+  tx_lastname: FANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GEORGE
+  tx_lastname: BORGES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LOIUS SPENCER
+  tx_lastname: WELLS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DAVID
+  tx_lastname: SCHLEIFER-LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: LAZAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: NOA
+  tx_lastname: CLARK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RALPH
+  tx_lastname: DRYBROUGH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: LIZANNE
+  tx_lastname: WITTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LIZA
+  tx_lastname: CANNATA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL UNION NO. 2785
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: OTTO
+  tx_lastname: PIPPENGER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GEORGE
+  tx_lastname: HUME
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GEORGE
+  tx_lastname: MORRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LISA
+  tx_lastname: RATNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: LISA
+  tx_lastname: JACKSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GERALD
+  tx_lastname: MCMAHON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GERMAINE
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: LISA
+  tx_lastname: BAKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PEJMAN
+  tx_lastname: NOWZAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: LINDSEY
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RAJ
+  tx_lastname: GOKAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: GALVIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LINDSEY
+  tx_lastname: COONAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GIMMY
+  tx_lastname: PARK LI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: DOWD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LINDA
+  tx_lastname: SHAFFER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARLENE
+  tx_lastname: RUTTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TED
+  tx_lastname: ANSTEDT JR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: TAYLOR
+  tx_lastname: WALKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 500.0
+- tx_firstname: PEIHONG
+  tx_lastname: YAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GINA
+  tx_lastname: PELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: TAYLOR
+  tx_lastname: REYES-SIHAPANYA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARLA
+  tx_lastname: MCKAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHIREE
+  tx_lastname: TENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 250.0
+- tx_firstname: CHING-YEE
+  tx_lastname: HU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PEGGY
+  tx_lastname: GALEB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GINA
+  tx_lastname: PASSANISI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LINDA
+  tx_lastname: GALLIHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LINDA
+  tx_lastname: DELAG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 500.0
+- tx_firstname: CYNTHIA
+  tx_lastname: MAGNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GISEL
+  tx_lastname: KORDESTANI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GIOVANNI
+  tx_lastname: TORACCA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: SPRINKLER FITTERS & APPRENTICES LOCAL 483 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1298012'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LILY
+  tx_lastname: BECKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LIJUN
+  tx_lastname: LI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CLAIRE
+  tx_lastname: ALT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GORDON
+  tx_lastname: CHIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LIAM
+  tx_lastname: RILEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LETICIA
+  tx_lastname: LUNA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LESLIE
+  tx_lastname: CAMERON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LESLIE
+  tx_lastname: ALSPACH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GREG
+  tx_lastname: KUHN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: LEONA
+  tx_lastname: BRIDGES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 200.0
+- tx_firstname: GREG
+  tx_lastname: VAUGHAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ONA
+  tx_lastname: KELLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: GREGG
+  tx_lastname: BROCKWAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEIGH
+  tx_lastname: KIMBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TARA
+  tx_lastname: MORIARTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+- tx_firstname: RICKY
+  tx_lastname: HO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: OMID
+  tx_lastname: KORDESTANI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GREGORY
+  tx_lastname: MANUEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANISYA
+  tx_lastname: FRITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RACHEL
+  tx_lastname: SHEINBEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEE
+  tx_lastname: HICKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LEAH
+  tx_lastname: SOLIVAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+- tx_firstname: ANGUS
+  tx_lastname: SCOTT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: YUHE
+  tx_lastname: WANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: SAN FRANCISCO LABORERS LOCAL 261 PAC
+  tx_entitycode: COM
+  tx_cmteid: '981076'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TANGUY
+  tx_lastname: SERRA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VISHAL
+  tx_lastname: SALUJA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GUS
+  tx_lastname: D'ANGELO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: GUS
+  tx_lastname: CANO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 500.0
+- tx_firstname: PATRICK
+  tx_lastname: BLAKE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 500.0
+- tx_firstname: LAWRENCE
+  tx_lastname: TOBINI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: PEARL
+  tx_lastname: KO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAWRENCE
+  tx_lastname: NGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+- tx_firstname: GWENDOLYN
+  tx_lastname: BROWN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HAFEDH
+  tx_lastname: MANSOURI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CLAIRE
+  tx_lastname: WHITMER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ALEXANDER
+  tx_lastname: BERNSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAURIE
+  tx_lastname: THOMAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: SHEILA
+  tx_lastname: MCCARTHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAURIE
+  tx_lastname: GHIELMETTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAURIE
+  tx_lastname: FITZGERALD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXA RADUCANU
+  tx_lastname: FRANCHOT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: CLAIRE
+  tx_lastname: MILLS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BEVERLEY
+  tx_lastname: TALBOTT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: HAIM
+  tx_lastname: ZALTZMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HAIG
+  tx_lastname: MARDIKIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464767'
+    cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+      OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+    tx_amount: 1000.0
+- tx_firstname: CLAIRE
+  tx_lastname: LAWLESS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HANNAH
+  tx_lastname: WARDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HANNAH
+  tx_lastname: STENMARK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467847'
+    cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+    tx_amount: 500.0
+- tx_firstname: HARLAN
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: FERRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARLOTA
+  tx_lastname: DELPORTILLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: LAURA
+  tx_lastname: SKELTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461866'
+    cmte_name: JEN NOSSOKOFF FOR DISTRICT 1 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: LAURA
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: DARREN
+  tx_lastname: SCHULTE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIEL
+  tx_lastname: OLASKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAURA
+  tx_lastname: MORALES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: HARRY
+  tx_lastname: ROBERTSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CHRIS
+  tx_lastname: DONOHOE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NEVIN
+  tx_lastname: VANGALA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANN
+  tx_lastname: PERRELLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: LAURA
+  tx_lastname: LAUDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAURA
+  tx_lastname: LARSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BIANCA
+  tx_lastname: GATES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DARREN
+  tx_lastname: BECHTEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HEATH
+  tx_lastname: HOGLUND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: CYNTHIA
+  tx_lastname: PESTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HEIDI
+  tx_lastname: LANDERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 250.0
+- tx_firstname: CHRIS
+  tx_lastname: COLLINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HEIDI
+  tx_lastname: CASTELEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNA
+  tx_lastname: FRANCO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: HELEN
+  tx_lastname: HAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNA
+  tx_lastname: BROCKWAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VELMA
+  tx_lastname: MAYEDA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HELEN
+  tx_lastname: CALDWELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAKSH
+  tx_lastname: BHASIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TRACY
+  tx_lastname: MCCRAY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRIS
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HENRIK
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: HENRY
+  tx_lastname: LOUBET
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RUSTY
+  tx_lastname: AREIAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: LAELA
+  tx_lastname: STURDY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KYLE VAN
+  tx_lastname: ESSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1000.0
+- tx_firstname: HERBERT
+  tx_lastname: MINTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: PETER HO LIK LEE FOR DEMOCRATIC COUNTY CENTRAL COMMITTEE 2024
+  tx_entitycode: COM
+  tx_cmteid: '1463420'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: PEGUS PROPERTIES
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: KUNAL
+  tx_lastname: MODI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: HILLARY
+  tx_lastname: HOGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KRISTINE
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAROL
+  tx_lastname: KOCIVAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 250.0
+- tx_firstname: KRISTINA
+  tx_lastname: LAWSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CAROL
+  tx_lastname: HERBSTMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: KRISTINA
+  tx_lastname: CONNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HUA
+  tx_lastname: HE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRIS
+  tx_lastname: HARNEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KIRANSINH
+  tx_lastname: THAKOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NETSANET
+  tx_lastname: ALEMAYEHU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KINSON
+  tx_lastname: WONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KIMBERLY
+  tx_lastname: MORRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: SHARON
+  tx_lastname: WILENSKY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RUPAL
+  tx_lastname: GUPTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KIMBERLY
+  tx_lastname: LEMIEUX
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: PAULINE
+  tx_lastname: HEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HYDE
+  tx_lastname: PATTERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: HYIAT
+  tx_lastname: AISH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NINA
+  tx_lastname: TANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: YUN-FANG
+  tx_lastname: JUAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RUDY
+  tx_lastname: GONZALEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CAROL
+  tx_lastname: WILSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARDSON
+  tx_lastname: WATKINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 375.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 125.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 125.0
+- tx_firstname: BILL
+  tx_lastname: PREZANT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: KEVIN
+  tx_lastname: PERKINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEVIN
+  tx_lastname: LYONS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: IMMAD
+  tx_lastname: AKHUND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: PATRICK BELL FOR DEMOCRATIC COUNTY CENTRAL COMMITTEE 2024
+  tx_entitycode: COM
+  tx_cmteid: '1464106'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RUBY
+  tx_lastname: HUANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RUBEN
+  tx_lastname: SANTANA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: YUEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 50.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 50.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: OWOW
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463715'
+    cmte_name: FORWARD ACTION SF, SUPPORTING LONDON BREED FOR MAYOR 2024, SPONSORED
+      BY ABUNDANCE NETWORK
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: OPERATING ENGINEERS LOCAL UNION NO. 3 DISTRICT 01, 02, 03 PAC
+  tx_entitycode: SCC
+  tx_cmteid: '891394'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ISABELLA
+  tx_lastname: SANGIACOMO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: MADDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KENNETH
+  tx_lastname: FONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KEN
+  tx_lastname: MCNEELY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CYRUS
+  tx_lastname: SANANDAJI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: CLAUDE
+  tx_lastname: PERASSO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS ISSUES COMMITTEE FOR QUALITY PATIENT
+    CARE
+  tx_entitycode: COM
+  tx_cmteid: '1401024'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY
+    PATIENT CARE
+  tx_entitycode: COM
+  tx_cmteid: '1318200'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: OFR GROUP
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: KEN
+  tx_lastname: FREEMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PATRICIA
+  tx_lastname: PLUDE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KELSIE
+  tx_lastname: COSTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: LYON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ANNE
+  tx_lastname: KIEVE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: KENSOK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KELLY
+  tx_lastname: WEIL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JACK
+  tx_lastname: HU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469839'
+    cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: KEITH
+  tx_lastname: TOM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: YVES
+  tx_lastname: BEHAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: KEITH
+  tx_lastname: GOLDSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JACLYN
+  tx_lastname: GALLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: WAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAZUKO
+  tx_lastname: MORGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: RICHARD
+  tx_lastname: WALKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAY
+  tx_lastname: KIMPTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JACQUELINE
+  tx_lastname: PRITZKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469692'
+    cmte_name: SCOTTY JACOBS FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: PRITZKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATIE
+  tx_lastname: PRIOLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: RYAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NAITRY
+  tx_lastname: MARINI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAULA
+  tx_lastname: TREAT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: PEDRERO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATIE
+  tx_lastname: DUPLESSIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAIME
+  tx_lastname: COHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAKE
+  tx_lastname: WELCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHRYN
+  tx_lastname: IJAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICK
+  tx_lastname: HEYMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: SPENCER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHRYN
+  tx_lastname: DURYEA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: MCBAINE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DALE
+  tx_lastname: ALLEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHRYN
+  tx_lastname: BACHE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: WATTIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICK
+  tx_lastname: GIOVANNI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: BARLOW
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BOAZ
+  tx_lastname: MARILES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: WHITNEY
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: TAUPIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: VICTORIA
+  tx_lastname: WASSERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: NAYAN
+  tx_lastname: MEHTA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: OLIVER
+  tx_lastname: MAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: MIKE FONG FOR ASSEMBLY 2024
+  tx_entitycode: COM
+  tx_cmteid: '1456970'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: BOB
+  tx_lastname: TANDLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHLEEN
+  tx_lastname: MCINTOSH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: BUCKLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHLEEN
+  tx_lastname: JANUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: JERSIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: LEE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KATHERINE
+  tx_lastname: MILLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXANDRA
+  tx_lastname: LUTNICK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNE MARIE
+  tx_lastname: MURPHY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PAULA
+  tx_lastname: COLLINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: WENDY
+  tx_lastname: ACKRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CLEVE
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: KETTLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JAMES
+  tx_lastname: MCCARTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CLEMENT
+  tx_lastname: KONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 1000.0
+- tx_firstname: ALAN
+  tx_lastname: PRESTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: MEI ARCHITECTS
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: ROSS
+  tx_lastname: MCKENNA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: HOPKINSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CLAYTON
+  tx_lastname: TIMBRELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNETTE
+  tx_lastname: ROCCA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: MCCLURE ELECTRIC, INC.
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: KATHERINE
+  tx_lastname: HICKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: OTOOLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: MORALES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: KATHERINE
+  tx_lastname: DUH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: LABORERS LOCAL 67 PAC
+  tx_entitycode: COM
+  tx_cmteid: '1358486'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JAMES
+  tx_lastname: WAUGH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: LANIER COLES FOR DEMOCRATIC COUNTY CENTRAL COMMITTEE 2024
+  tx_entitycode: COM
+  tx_cmteid: '1463382'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468978'
+    cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: KARLA
+  tx_lastname: ELLIS-DAVIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KARL
+  tx_lastname: HASZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PRISCILLA
+  tx_lastname: MCCARTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: LERRY
+  tx_lastname: SOLOMON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DENISE
+  tx_lastname: KATZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: KAREN
+  tx_lastname: WRIGHT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAREN
+  tx_lastname: NIBBI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: KAREN
+  tx_lastname: KREIDER YODER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: JAMIE
+  tx_lastname: SUTHERLAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456620'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING CHAN FOR SUPERVISOR
+      2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: FISCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1467898'
+    cmte_name: LOOIJEN FOR D5 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANNIE
+  tx_lastname: WOODS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMIE
+  tx_lastname: HUGHES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BORA
+  tx_lastname: OZTURK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAMILEH
+  tx_lastname: AISH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: 'INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LU #6'
+  tx_entitycode: COM
+  tx_cmteid: '921730'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: VIVIAN
+  tx_lastname: TSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: VIVIAN
+  tx_lastname: SHEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: INTERNATIONAL UNION OF OPERATING ENGINEERS STATIONARY ENGINEERS LOCAL
+    39
+  tx_entitycode: COM
+  tx_cmteid: '861517'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: ELLENBERG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: INTERNATIONAL UNION OF ELEVATOR CONSTRUCTORS LOCAL 8 PAC SPONSORED
+    BY INTERNATIONAL UNION OF ELEVATOR CONSTRUCTORS LOCAL 8
+  tx_entitycode: COM
+  tx_cmteid: '1220653'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHAHIN
+  tx_lastname: SANEINEJAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 300.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 100.0
+- tx_firstname: PRASHANT
+  tx_lastname: CHAVARKAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JANIE
+  tx_lastname: FRIEND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHAHIL
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JULIEN
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHADI
+  tx_lastname: ZUGHAYAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JULIE
+  tx_lastname: PURNELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASMINA
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS- LOCAL
+    21 TJ ANTHONY PAC FUND
+  tx_entitycode: COM
+  tx_cmteid: '881248'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JARRETT
+  tx_lastname: MAO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: HENDERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SHAAN
+  tx_lastname: PATEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JASON
+  tx_lastname: NORDBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: HAHN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JULIANNE
+  tx_lastname: CHUANROONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JULIAN
+  tx_lastname: GROSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALBERT
+  tx_lastname: ZECHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JUDITH
+  tx_lastname: BRASS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAWAD
+  tx_lastname: SWEIDAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUSAN
+  tx_lastname: ANDERSON-NORBY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JUAN
+  tx_lastname: GARRIDO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 350.0
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 150.0
+- tx_firstname: JP
+  tx_lastname: COGHLAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRACE
+  tx_lastname: BELDEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAY
+  tx_lastname: XU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 800.0
+- tx_firstname: JAY
+  tx_lastname: WALLACE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JAYLA
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSHUA
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSHUA
+  tx_lastname: JENKINS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: JOSHUA
+  tx_lastname: HERZSTEIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANTHONY
+  tx_lastname: CHONG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEANINE
+  tx_lastname: NICHOLSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 500.0
+- tx_firstname: ALEXANDRA
+  tx_lastname: CONRAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: IBEW LOCAL 6 POLITICAL ACCOUNT
+  tx_entitycode: SCC
+  tx_cmteid: '921730'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SETH
+  tx_lastname: SPALDING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ALEXANDRA
+  tx_lastname: BOWES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: POLLY
+  tx_lastname: MARSHALL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH P
+  tx_lastname: GRUBB
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: JOSEPH O.
+  tx_lastname: TOBIN II
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTIAN
+  tx_lastname: KROPFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTIAN
+  tx_lastname: GAINSLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463986'
+    cmte_name: STEPHEN TORRES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFF
+  tx_lastname: COLUMBINI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEDER
+  tx_lastname: SARMIENTO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: GRUBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PJ
+  tx_lastname: JOHNSTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ANTHONY
+  tx_lastname: PASSANISI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRADEN
+  tx_lastname: EDWARDS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: TOBENER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFF
+  tx_lastname: FARBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: SCHMITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: MANSO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: JOSEPH
+  tx_lastname: PERRELLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JEFF
+  tx_lastname: LAWSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: GFC COURAGE COMMITTEE EAST BAY CHAPTER
+  tx_entitycode: COM
+  tx_cmteid: '1416434'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL ISAO
+  tx_lastname: OSAKI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: NICK
+  tx_lastname: COLLA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARYL
+  tx_lastname: HART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUMMER
+  tx_lastname: WALKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: GALLO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUMEDH
+  tx_lastname: CHAVARKAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: NABILAH
+  tx_lastname: HOSSAIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JEFF
+  tx_lastname: WOZNIAK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: COLE
+  tx_lastname: BRINSFIELD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: GPMSF INC. DBA GORDON PROPERTY MANAGEMENT
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
+  tx_entitycode: COM
+  tx_cmteid: '1416440'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ANTHONY
+  tx_lastname: WU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471701'
+    cmte_name: ANN HSU FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: ANTHONY
+  tx_lastname: WINNICKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: NIKOLAI
+  tx_lastname: KAESTNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 500.0
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 500.0
+- tx_firstname: COBURN
+  tx_lastname: EVERDELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CARRIE
+  tx_lastname: WHEELER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSEPH
+  tx_lastname: DELUCCHI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: DENISE
+  tx_lastname: HIRSCH-SHELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1467508'
+    cmte_name: DYLAN HIRSCH-SHELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JEFFREY
+  tx_lastname: BURKE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1471023'
+    cmte_name: MAYOR BREED'S COMMITTEE FOR REPRODUCTIVE FREEDOM, YES ON O
+    tx_amount: 500.0
+- tx_firstname: BRADLEY
+  tx_lastname: WIEDMAIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSE
+  tx_lastname: ESPINOSA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: SUHAIL
+  tx_lastname: DOSHI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: TRADELIUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SUEY LING
+  tx_lastname: LAU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466924'
+    cmte_name: CHYANNE CHEN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTINA
+  tx_lastname: GWATKIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: NEBEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PHYLLIS
+  tx_lastname: SCHROBSDORFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOSE
+  tx_lastname: CARTAGENA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: SHOPOFF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: ROCCA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAMES
+  tx_lastname: SHOUMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JORDANNA
+  tx_lastname: THIGPEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: WEBER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RONALD
+  tx_lastname: CHU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STUART
+  tx_lastname: PETERSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ZACHARY
+  tx_lastname: BOOKMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: GFC COURAGE COMMITTEE BAY AREA CHAPTER
+  tx_entitycode: COM
+  tx_cmteid: '1423911'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JEFFREY
+  tx_lastname: VARACALLI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JORDAN
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENN
+  tx_lastname: WILCOX THOMAS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: COLIN
+  tx_lastname: DAVITIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500.0
+- tx_firstname: WADE
+  tx_lastname: ROSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ANTOINE
+  tx_lastname: LAGARDE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468565'
+    cmte_name: MATT ALEXANDER FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ANTOINE
+  tx_lastname: ABDULMASSIH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: SUTTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1456335'
+    cmte_name: COALITION TO GROW SAN FRANCISCO - GROW SF PAC OPPOSING PRESTON FOR
+      SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JONATHAN
+  tx_lastname: WEAVER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: BETTI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEWART
+  tx_lastname: MCDOWELL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: VOJTECH
+  tx_lastname: MIKSU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: C LAI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: ENGEO INCORPORATED
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: BRANDON
+  tx_lastname: LIU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: 'GAEHWILER FAMILY LLC(RESPONSIBLE OFICER: MARILYN DOBBAS )'
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: FUND HER PAC
+  tx_entitycode: COM
+  tx_cmteid: '1398107'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1469328'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469127'
+    cmte_name: HEATHER MCCARTY FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ANTON
+  tx_lastname: JABER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 250.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 250.0
+- tx_firstname: JENNIFER
+  tx_lastname: LASKA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRANDON
+  tx_lastname: CHILD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: THE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: TAYLOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RON
+  tx_lastname: HIRSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRANDON
+  tx_lastname: BOZE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JONATHAN
+  tx_lastname: GANS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: NAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JONATHAN
+  tx_lastname: D'AGOSTIN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: PAHLKA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: GROSBOLL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JONAH
+  tx_lastname: HOROTAKE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SEAN
+  tx_lastname: TITUS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JON
+  tx_lastname: XU
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JENNIFER
+  tx_lastname: ROWLAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: SEAN
+  tx_lastname: SELEGUE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464921'
+    cmte_name: CISNEROS FOR TREASURER 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JON
+  tx_lastname: HANDLERY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JON
+  tx_lastname: BORTZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SEAN
+  tx_lastname: MCBRIDE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468481'
+    cmte_name: JAIME HULING FOR SAN FRANCISCO BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JOHNNY
+  tx_lastname: CHENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SEAN
+  tx_lastname: JOHNSTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEREMIAH
+  tx_lastname: HALLISEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ALLISON
+  tx_lastname: SPARKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SEAN
+  tx_lastname: HARVEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: ALLISON
+  tx_lastname: JOHNSON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN J
+  tx_lastname: DUGGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEREMY
+  tx_lastname: BLATTEIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN A
+  tx_lastname: DUGGAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROMANA
+  tx_lastname: BRACCO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JEREMY
+  tx_lastname: LUI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: WALKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ZACHARY
+  tx_lastname: STOBO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: CUMBELICH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: ALEX
+  tx_lastname: AINSLIE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: ZACHARY
+  tx_lastname: SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ARA
+  tx_lastname: MAKASDJIAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ZACHARY
+  tx_lastname: PUMPHREY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JESSE
+  tx_lastname: FELDMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JESSE
+  tx_lastname: POLLAK
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: MARKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JESSE
+  tx_lastname: MAINARDI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: CIMARELLI PROPERTIES
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: JOHN
+  tx_lastname: PIMENTEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463554'
+    cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: SEAN
+  tx_lastname: BARRETT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1464249'
+    cmte_name: YES ON PROP E FOR A SAFER SF - MAYOR BREED'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1000.0
+- tx_firstname: JOHN
+  tx_lastname: PEABODY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRENDAN
+  tx_lastname: ROCKS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JESSICA
+  tx_lastname: DENNING
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRENDAN
+  tx_lastname: O'CONNOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARASH
+  tx_lastname: GHANADAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: O'CONNOR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DECLAN
+  tx_lastname: FLYNN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: LAVORGNA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PASHA D.
+  tx_lastname: THORNTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROISIN
+  tx_lastname: ISNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: KEKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: GANZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PHOEBE
+  tx_lastname: MAFFEI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: JWEINAT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461157'
+    cmte_name: STEPHEN MARTIN-PINTO FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: CLAYMORE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: HORTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIAN
+  tx_lastname: ZHANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: HEALY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1475206'
+    cmte_name: SAN FRANCISCANS FOR RESPONSIBLE HOUSING, NO ON PROPOSITION B, SPONSORED
+      BY RENTAL HOUSING PROVIDERS
+    tx_amount: 1000.0
+- tx_firstname: JIANQING
+  tx_lastname: ZHANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIE
+  tx_lastname: TANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: FRENCH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468797'
+    cmte_name: YES ON L, FUND THE BUS
+    tx_amount: 1000.0
+- tx_firstname: SCOTT
+  tx_lastname: SELIGMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: FEWER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: CALIFORNIA IATSE COUNCIL PAC
+  tx_entitycode: COM
+  tx_cmteid: '1398390'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1464456'
+    cmte_name: ALAN WONG FOR COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: HERBERT
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: GONZALEZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: BUSS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: ARJUN
+  tx_lastname: BANKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 100.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROGER
+  tx_lastname: HUANG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466075'
+    cmte_name: ELLEN LEE ZHOU FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: FISHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: SCOPA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROGER
+  tx_lastname: ENG
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: COGHLAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1459563'
+    cmte_name: TREVOR CHANDLER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRENT
+  tx_lastname: KASPAR
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 1000.0
+- tx_firstname: JOHN
+  tx_lastname: COEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: STEELE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: ABRAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: CLIFFORD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466041'
+    cmte_name: SUSK FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: CLEARY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: WASSERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: WUNDERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: RICHARD
+  tx_lastname: BOCCI
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JIM
+  tx_lastname: STAFFORD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: BURTON
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463378'
+    cmte_name: ROBERTO HERNANDEZ FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOHN
+  tx_lastname: BRISCOE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: SEVERAID
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRETT
+  tx_lastname: SKALE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466510'
+    cmte_name: ADLAH CHISTI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468588'
+    cmte_name: ALIYA CHISTI FOR CITY COLLEGE BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: JOAN
+  tx_lastname: BINDER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: PHILLIPS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOACHIM
+  tx_lastname: BECHTLE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: NGO
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOANNA HUI JUN
+  tx_lastname: JIA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462151'
+    cmte_name: MIYAMOTO FOR SHERIFF 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOANNA
+  tx_lastname: PFEISTER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: JOCELYN
+  tx_lastname: BLUMENROSE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466322'
+    cmte_name: BILAL MAHMOOD FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: JOE
+  tx_lastname: TOTTEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1468546'
+    cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: AMERICAN FEDERATION OF TEACHERS 2121 COPE CANDIDATES
+  tx_entitycode: COM
+  tx_cmteid: '890972'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: MALOUF
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTINE
+  tx_lastname: HINCKLEY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ZEA
+  tx_lastname: MALAWA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1461513'
+    cmte_name: RE-ELECT MYRNA MELGAR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: DAVID
+  tx_lastname: BECKER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SCOTT
+  tx_lastname: HIBBARD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: STEVE
+  tx_lastname: JONES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: BRETT AND COMPANY LLC(STEPHEN BRETT)
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: CHRISTINE
+  tx_lastname: FARZAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PARISA
+  tx_lastname: SADEGHIAN DARY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: SCOTT
+  tx_lastname: GENTNER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEVE
+  tx_lastname: BOWDRY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: VINAYA
+  tx_lastname: FERRIS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: CATHERINE A. COCKRUM
+  tx_lastname: DEAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1469269'
+    cmte_name: RAY FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1469320'
+    cmte_name: PARAG GUPTA FOR SCHOOL BOARD 2024
+    tx_amount: 500.0
+- tx_firstname: BRETT
+  tx_lastname: STEVENSON
+  tx_entitycode: OTH
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471151'
+    cmte_name: HEALTHY, VIBRANT SF, YES ON B
+    tx_amount: 1000.0
+- tx_firstname: SCOTT
+  tx_lastname: EGGERS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TRISTON
+  tx_lastname: WILLIAMS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460749'
+    cmte_name: ERNEST 'EJ' JONES FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRIAN
+  tx_lastname: DANITZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: PAOLA
+  tx_lastname: SANDOVAL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460439'
+    cmte_name: AHSHA SAFAI FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1461776'
+    cmte_name: MATT BOSCHETTO FOR D7 SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARTEM
+  tx_lastname: IVANOV
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: STEPHEN
+  tx_lastname: YODER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: YES ON K, OCEAN BEACH PARK FOR ALL SPONSORED BY COMMUNITY NONPROFITS
+    tx_amount: 1000.0
+- tx_firstname: STEPHEN
+  tx_lastname: WASSERMAN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARTHUR PAUL
+  tx_lastname: CARTIER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ARTHUR
+  tx_lastname: WACHTEL
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: BRIAN
+  tx_lastname: HALE
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1466331'
+    cmte_name: DAVID CHIU FOR CITY ATTORNEY 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: RICARDO
+  tx_lastname: LARA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1441599'
+    cmte_name: RE-ELECT MAYOR LONDON BREED 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1460998'
+    cmte_name: BROOKE JENKINS FOR DISTRICT ATTORNEY 2024
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHE
+  tx_lastname: BERTRAND
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1462803'
+    cmte_name: MOE JAMIL FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: DANIELLE
+  tx_lastname: GRAM
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463350'
+    cmte_name: SHARON LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468472'
+    cmte_name: MICHAEL LAI FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: TYLER
+  tx_lastname: BREISACHER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1460473'
+    cmte_name: JACKIE FIELDER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1462498'
+    cmte_name: DEAN PRESTON FOR SUPERVISOR 2024
+    tx_amount: 500.0
+- tx_firstname: SCOTT
+  tx_lastname: BLUMENKRANZ
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: LOEFFLER
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463752'
+    cmte_name: VOTE MARJAN PHILHOUR FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466726'
+    cmte_name: MARK FARRELL FOR MAYOR 2024
+    tx_amount: 500.0
+- tx_firstname: ROD
+  tx_lastname: FREEBAIRN-SMITH
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1458987'
+    cmte_name: CONNIE CHAN FOR SUPERVISOR 2024
+    tx_amount: 200.0
+  - cmte_fppcid: '1463746'
+    cmte_name: DANNY SAUTER FOR SUPERVISOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1468468'
+    cmte_name: AARON PESKIN FOR MAYOR 2024
+    tx_amount: 300.0
+- tx_firstname: CONNIE
+  tx_lastname: NIELSEN
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1463099'
+    cmte_name: DANIEL LURIE FOR MAYOR 2024
+    tx_amount: 500.0
+  - cmte_fppcid: '1466416'
+    cmte_name: RYAN KHOJASTEH FOR SF DISTRICT ATTORNEY 2024
     tx_amount: 500.0
 
 ---
