@@ -541,7 +541,7 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-    background-image: url("/assets/images/voting.jpg");
+    background-image: url("/assets/images/bkgroundlilghter150x.png");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -838,4 +838,205 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
     opacity: 0.4;
     cursor: not-allowed;
   }
+}
+
+/* =========================================================
+   Committee List Offcanvas (FULL REPLACEMENT)
+   ========================================================= */
+
+.committee-offcanvas {
+  /* Responsive width */
+
+
+  /* ---------- Header ---------- */
+  .offcanvas-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem 1rem 0.9rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .icon-badge {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 0.65rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: tint-color($primary, 88%);
+    color: $primary;
+    flex-shrink: 0;
+  }
+
+  .offcanvas-title {
+    font-family: $font-family-serif;
+    font-size: 1.1rem;
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  .offcanvas-subtitle {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 0.15rem;
+  }
+
+  /* ---------- Body layout ---------- */
+  .offcanvas-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem;
+
+    /* Required for proper scrolling behavior */
+    min-height: 0;
+  }
+
+  .offcanvas-help {
+    font-size: 0.95rem;
+    color: rgba(0, 0, 0, 0.75);
+    margin: 0;
+  }
+
+  /* ---------- Sticky search ---------- */
+  .committee-search {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(6px);
+    padding: 0.35rem 0 0.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+
+    .input-group-text {
+      background: $gray;
+      border-color: rgba(0, 0, 0, 0.12);
+      color: rgba(0, 0, 0, 0.6);
+    }
+
+    input[type="search"] {
+      border-color: rgba(0, 0, 0, 0.12);
+      font-size: 1rem;
+    }
+
+    .committee-meta {
+      font-size: 0.85rem;
+      color: rgba(0, 0, 0, 0.6);
+      margin-top: 0.35rem;
+    }
+  }
+
+  /* ---------- Scroll container ---------- */
+  .committee-table-wrap {
+    flex: 1 1 auto;
+    min-height: 0;
+
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 0.65rem;
+    background: #fff;
+
+    /* KEY FIX: vertical scroll only */
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* ---------- Table ---------- */
+  #committee_list_table {
+    width: 100% !important;
+    margin: 0;
+
+    /* Prevent horizontal expansion */
+    table-layout: fixed;
+
+    &.dataTable {
+      min-width: 0 !important;
+    }
+
+    thead th {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+
+      background-color: $tableheadcolor !important;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+      font-weight: 700;
+      white-space: nowrap;
+      padding: 0.65rem 0.75rem;
+    }
+
+    tbody td {
+      padding: 0.6rem 0.75rem;
+      border-top: 1px solid rgba(0, 0, 0, 0.06);
+
+      /* Allow wrapping instead of horizontal scroll */
+      white-space: normal !important;
+      word-break: break-word;
+      overflow-wrap: anywhere;
+    }
+
+    tbody tr:hover > * {
+      background-color: tint-color($primary, 92%);
+    }
+
+    /* Column sizing */
+    .col-name {
+      width: auto;
+    }
+
+    .col-id {
+      width: 1%;
+      white-space: nowrap;
+      text-align: right;
+    }
+
+    /* Links */
+    .committee-link {
+      display: block;
+      font-weight: 600;
+      line-height: 1.25;
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+
+    /* ID badge */
+    .committee-id {
+      display: inline-block;
+      max-width: 7.5rem;
+      padding: 0.15rem 0.4rem;
+      border-radius: 0.35rem;
+      background: $gray;
+      border: 1px solid rgba(0, 0, 0, 0.08);
+
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 0.9rem;
+    }
+  }
+}
+
+/* ---------- Mobile refinements ---------- */
+@media (max-width: 767.98px) {
+  .committee-offcanvas {
+    #committee_list_table {
+      font-size: 0.95rem;
+    }
+  }
+}
+
+/* ---------- Optional: soften backdrop ---------- */
+.offcanvas-backdrop.show {
+  opacity: 0.6;
+}
+
+.committee-offcanvas .committee-table-wrap .list-group-item:hover {
+  background-color: tint-color($primary, 92%);
 }

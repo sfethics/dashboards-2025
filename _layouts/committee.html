@@ -41,17 +41,12 @@ electionnav: true
                     <button data-bs-toggle="offcanvas" data-bs-target="#about-committeeTT"
                         class="btn btn-outline-{{bgclass}}" href="#">
                         <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
-                        About This Committee
+                        Committee Details
                     </button>
-                    <!-- <button data-bs-toggle="offcanvas" data-bs-target="#cmte-detailsTT"
-                            class="btn btn-outline-tertiary" href="#">
-                            <i class="fa-regular fa-address-card" aria-hidden="true"></i>
-                            Committee Details
-                        </button> -->
                     <button data-bs-toggle="offcanvas" data-bs-target="#disclosure-statementsTT"
                         class="btn btn-outline-{{bgclass}}" href="#">
                         <i class="fa-regular fa-file-contract" aria-hidden="true"></i>
-                        Disclosure Statements
+                        Filings
                     </button>
                     {% assign share_btn_class = "btn-outline-" | append: bgclass %}
                     {% include share.html btn_class=share_btn_class %}

@@ -1,41 +1,120 @@
-<div class="offcanvas offcanvas-end" tabindex="-1" id="committeeList" aria-labelledby="committeeListLabel">
-    {%- assign data_file = "committee_list_" | append: include.election %}
-    <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="committeeListLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>
-            {{ site.data[data_file].title }}</h2>
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-    <div class="offcanvas-body">
-        <p>Search for a specific committee by name or Committee ID. 
-            This list includes active state-level committees that may not file with the San Francisco Ethics Commission.
-            For those committees, we provide links to their profiles on the California Secretary of State's CAL-ACCESS website.
-        </p>
-        <table id="committee_list_table" class="table">
-            <thead class="table-light">
-                <tr>
-                    <th scope="col">Committee Name</th>
-                    <th scope="col">Committee ID</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for cmte in site.data[data_file].committees %}
-                {% if cmte.cmte_fppcid contains "FEC_" %}
-                {% elsif cmte.cmte_fppcid != "unknown" %}
-                <tr>
-                    <!-- check if committee page exists locally or link to cal-access instead
-                        https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH=<Committee ID> -->
-                    {% if cmte.cmte_nid == "unknown" %}
-                    <td><a target="_blank" href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ cmte.cmte_fppcid }}">
-                        {{ cmte.cmte_name }} <i class="fa-light fa-arrow-up-right-from-square"></i></a></td>
-                    {% else %}
-                    <td><a href="{{site.baseurl}}/elections/{{include.election}}/committees/CA{{ cmte.cmte_fppcid }}.html">
-                        {{ cmte.cmte_name }}</a></td>
-                    {% endif %}
-                    <td>{{ cmte.cmte_fppcid }}</td>
-                </tr>
-                {% endif %}
-                {% endfor %}
-            </tbody>
-        </table>
+<div class="offcanvas offcanvas-end committee-offcanvas"
+     tabindex="-1"
+     id="committeeList"
+     aria-labelledby="committeeListLabel">
+
+  {%- assign data_file = "committee_list_" | append: include.election %}
+
+  <div class="offcanvas-header">
+    <div class="d-flex align-items-start gap-2">
+      <div class="icon-badge" aria-hidden="true">
+        <i class="fa-regular fa-sidebar-flip" aria-hidden="true"></i>
+      </div>
+
+      <div>
+        <h2 class="offcanvas-title" id="committeeListLabel">
+          {{ site.data[data_file].title }}
+        </h2>
+        <div class="offcanvas-subtitle">Search by committee name or ID</div>
+      </div>
     </div>
+
+    <button type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"></button>
+  </div>
+
+  <div class="offcanvas-body">
+    <p class="offcanvas-help">
+      Search for a specific committee by name or Committee ID.
+      This list includes active state-level committees that may not file with the San Francisco Ethics Commission.
+      For those committees, we provide links to their profiles on the California Secretary of State&#39;s CAL-ACCESS website.
+    </p>
+
+    <!-- Sticky search -->
+    <div class="committee-search sticky-top" role="search" aria-label="Search committees">
+      <label id="committeeSearchLabel" class="visually-hidden" for="committeeSearch">
+        Search committees by name or committee ID
+      </label>
+
+      <div class="input-group" aria-describedby="committeeSearchDesc">
+        <span class="input-group-text" aria-hidden="true">
+          <i class="fa-regular fa-magnifying-glass" aria-hidden="true"></i>
+        </span>
+
+        <input id="committeeSearch"
+               type="search"
+               class="form-control"
+               placeholder="Search by committee name or ID"
+               autocomplete="off"
+               aria-labelledby="committeeSearchLabel"
+               aria-controls="committee_list_table"
+               aria-describedby="committeeSearchDesc">
+
+        <button class="btn btn-outline-secondary"
+                type="button"
+                id="committeeSearchClear"
+                aria-label="Clear committee search">
+          Clear
+        </button>
+      </div>
+
+      <!-- Live region for result count -->
+      <div id="committeeSearchDesc" class="committee-meta" aria-live="polite"></div>
+    </div>
+
+    <!-- Scroll container -->
+    <div class="committee-table-wrap" aria-label="Committee results">
+      <table id="committee_list_table"
+             class="table table-sm table-hover align-middle"
+             aria-describedby="committeeSearchDesc">
+
+        <caption class="visually-hidden">
+          List of active committees for this election
+        </caption>
+
+        <thead class="table-light">
+          <tr>
+            <th scope="col" class="col-name">Committee</th>
+            <th scope="col" class="col-id">Committee ID</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          {% for cmte in site.data[data_file].committees %}
+            {% if cmte.cmte_fppcid contains "FEC_" %}
+              {% comment %} skip FEC committees {% endcomment %}
+            {% elsif cmte.cmte_fppcid != "unknown" %}
+              <tr>
+                {% if cmte.cmte_nid == "unknown" %}
+                  <td>
+                    <a class="committee-link"
+                       target="_blank"
+                       rel="noopener"
+                       href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ cmte.cmte_fppcid }}">
+                      {{ cmte.cmte_name }}
+                      <i class="fa-light fa-arrow-up-right-from-square ms-1" aria-hidden="true"></i>
+                    </a>
+                    <span class="badge text-bg-light ms-2">CAL-ACCESS</span>
+                  </td>
+                {% else %}
+                  <td>
+                    <a class="committee-link"
+                       href="{{site.baseurl}}/elections/{{include.election}}/committees/CA{{ cmte.cmte_fppcid }}.html">
+                      {{ cmte.cmte_name }}
+                    </a>
+                  </td>
+                {% endif %}
+
+                <td class="col-id">
+                  <code class="committee-id">{{ cmte.cmte_fppcid }}</code>
+                </td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>

@@ -1,39 +1,65 @@
-<div class="offcanvas offcanvas-end" tabindex="-1" id="allContests" aria-labelledby="allContestsLabel">
-    <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="allContestsLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>All Contests
-        </h2>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+<div class="offcanvas offcanvas-end committee-offcanvas"
+     tabindex="-1"
+     id="allContests"
+     aria-labelledby="allContestsLabel">
+
+  <div class="offcanvas-header">
+    <div class="d-flex align-items-start gap-2">
+      <div class="icon-badge" aria-hidden="true">
+        <i class="fa-regular fa-sidebar-flip" aria-hidden="true"></i>
+      </div>
+
+      <div>
+        <h2 class="offcanvas-title" id="allContestsLabel">All Contests</h2>
+        <div class="offcanvas-subtitle">Browse candidate and ballot measure contests</div>
+      </div>
     </div>
-    <div class="offcanvas-body">
-        {% if candidate_pages.size > 0 %}
-        <div>
-            <h2 class="fs-5">All candidate contests in the <span class="formatted-date text-nowrap">{{election}}</span> election:
-            </h2>
+
+    <button type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"></button>
+  </div>
+
+  <div class="offcanvas-body">
+    {% if candidate_pages.size > 0 %}
+      <section class="mb-3" aria-labelledby="allCandidateContestsLabel">
+        <h3 class="fs-6 fw-semibold mb-2" id="allCandidateContestsLabel">
+          All candidate contests in the <span class="formatted-date text-nowrap">{{ election }}</span> election
+        </h3>
+
+        <div class="committee-table-wrap" aria-label="Candidate contests list">
+          <ul class="list-group list-group-flush">
+            {%- for p in candidate_pages -%}
+              <li class="list-group-item">
+                <a class="committee-link" href="{{ p.url | relative_url }}">
+                  {{ p.title | escape }}
+                </a>
+              </li>
+            {%- endfor -%}
+          </ul>
         </div>
-        <div class="mt-3 mb-3">
-            <ul class="list-group">
-                {%- for p in candidate_pages -%}
-                <li class="list-group-item">
-                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }} </a>
-                </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-        {% endif %}
-        <div>
-            <h2 class="fs-5">All ballot measure contests in the <span class="formatted-date text-nowrap">{{election}}</span>
-                election:</h2>
-        </div>
-        <div class="mt-3">
-            <ul class="list-group">
-                {%- for p in bm_pages -%}
-                <li class="list-group-item">
-                    <a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
-                </li>
-                {%- endfor -%}
-            </ul>
-        </div>
-    </div>
+      </section>
+    {% endif %}
+
+    <section aria-labelledby="allBallotMeasureContestsLabel">
+      <h3 class="fs-6 fw-semibold mb-2" id="allBallotMeasureContestsLabel">
+        All ballot measure contests in the <span class="formatted-date text-nowrap">{{ election }}</span> election
+      </h3>
+
+      <div class="committee-table-wrap" aria-label="Ballot measure contests list">
+        <ul class="list-group list-group-flush">
+          {%- for p in bm_pages -%}
+            <li class="list-group-item">
+              <a class="committee-link" href="{{ p.url | relative_url }}">
+                {{ p.title | escape }}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </section>
+  </div>
 </div>
 {% if page.committee_type == 'candidate' %}
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-candidateTT" aria-labelledby="about-candidateTTLabel">
