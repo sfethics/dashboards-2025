@@ -5,17 +5,14 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>This page displays campaign finance summary information calculated using only the most recent (“Latest”) versions of FPPC Forms 460, 496, and 497 filed by this committee.</p>
+            <p>This page displays campaign finance summary information calculated using only the most recent (“Latest”) versions of FPPC Forms 460, 496, and 497 filed by this committee. The table below lists the specific campaign statements used to calculate the totals shown on this page.</p>
 
-            <p>The table below lists the specific campaign statements used to calculate the totals shown on this page.</p>
-
-            <p>Campaigns may file additional disclosure statements or amendments that are not used to calculate the summary figures shown here. To view all required campaign finance filings for this committee, including older statements and other form types, visit the Ethics Commission’s campaign finance statements database.</p>
+            <p>Campaigns may file additional disclosure statements or amendments that are not used to calculate the summary figures shown here. To view all required campaign finance filings for this committee, including older statements and other form types, visit the Ethics Commission's campaign finance statements database.</p>
             
             <p><a href="https://public.netfile.com/Pub2/Default.aspx?aid=SFO" class="btn btn-outline-primary" target="_blank" rel="noopener">
                                 <i class="fa fa-external-link-alt" aria-hidden="true"></i>
                                 View Statements in Database
                             </a></p>
-            <p>The statements shown in the table below were filed by {% if include.filer_name -%} {{include.filer_name}} {%- else -%} the committee {%- endif %}.</p>
         </div>
         <table id="filings_table" class="table caption-top">
             <thead>
