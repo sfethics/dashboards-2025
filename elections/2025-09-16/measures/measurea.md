@@ -1,6 +1,7 @@
 ---
 layout: contest_bmc
 election: '2025-09-16'
+last_updated: '2026-02-03'
 candidate: false
 title: 'A: Recall: BoS D4 Joel Engardio'
 breadcrumbs:
@@ -13,8 +14,8 @@ committees:
   filer_nid: '212872841'
   filer_id: '1477355'
   committee_name: NO ON A, STOP THE ENGARDIO RECALL
-  funds: 836763.5
-  expenses: 799202.78
+  funds: 838524.5
+  expenses: 826772.83
   ies: ''
 - position: OPPOSE
   filer_nid: '6673011'
@@ -28,8 +29,8 @@ committees:
   filer_id: '1477256'
   committee_name: OUR NEIGHBORHOOD, OUR FUTURE SUPPORTING THE RECALL OF SUPERVISOR
     ENGARDIO
-  funds: 273730.19
-  expenses: 232515.99
+  funds: 294117.19
+  expenses: 290424.04
   ies: ''
 multi_committees: []
 contributors:
@@ -44,7 +45,7 @@ contributors:
 - - San Francisco Police Officers Association PAC
   - 50000.0
 - - Chinese American Democratic Club
-  - 27000.0
+  - 32000.0
 - - Ron Conway
   - 25000.0
 - - Nicholas Josefowitz
