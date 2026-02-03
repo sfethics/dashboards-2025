@@ -1,6 +1,7 @@
 ---
 layout: contest_bmc
 election: '2024-11-05'
+last_updated: '2026-02-02'
 candidate: false
 title: 'L: Additional Business Tax on Transportation Network Companies and Autonomous
   Vehicle Businesses to Fund Public Transportation'

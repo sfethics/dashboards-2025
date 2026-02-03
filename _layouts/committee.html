@@ -351,8 +351,8 @@ electionnav: true
 
 <!-- IEs -->
 <div class="container my-5 h-100">
-    {% if page.ie_measures -%}
     <div class="row g-4">
+        {% if page.ie_measures -%}
         <div class="col-lg-12 cm-expenditures search-box h-100">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header custom-card-header">
@@ -545,8 +545,8 @@ electionnav: true
                 </div>
             </div>
         </div>
+        {%- endif %}
     </div>
-    {%- endif %}
 </div><!-- end IEs -->
 
 

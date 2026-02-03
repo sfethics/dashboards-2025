@@ -1,6 +1,7 @@
 ---
 layout: contest_bmc
 election: '2024-11-05'
+last_updated: '2026-02-02'
 candidate: false
 title: 'E: Creating a Task Force to Recommend Changing, Eliminating, or Combining
   City Commissions'

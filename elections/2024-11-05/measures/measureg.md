@@ -1,6 +1,7 @@
 ---
 layout: contest_bmc
 election: '2024-11-05'
+last_updated: '2026-02-02'
 candidate: false
 title: 'G: Funding Rental Subsidies for Affordable Housing Developments Serving Low
   Income Seniors, Families, and Persons with Disabilities'
