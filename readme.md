@@ -1,8 +1,8 @@
 # Campaign Finance Dashboards — San Francisco Ethics Commission
 
-This repository contains the source code and latest data files for the San Francisco Ethics Commission’s Campaign Watch website, [https://campaign.sfethics.org/](https://campaign.sfethics.org/).
+This repository contains the source code and latest data files for the San Francisco Ethics Commission’s Campaign Dashboards website, [https://campaign.sfethics.org/](https://campaign.sfethics.org/).
 
-The Campaign Watch website summarizes San Francisco political campaign fundraising and spending data by candidates and committees in local elections. The goal of the website is to promote election transparency by presenting campaign data in a user-friendly and mobile-accessible format.
+The Campaign Dashboards website summarizes San Francisco political campaign fundraising and spending data by candidates and committees in local elections. The goal of the website is to promote election transparency by presenting campaign data in a user-friendly and mobile-accessible format.
 
 
 ## About the San Francisco Ethics Commission
@@ -14,7 +14,7 @@ The San Francisco Ethics Commission is the city department responsible for admin
 
 ## What’s in This Repository
 
-This repository supports the development and publication of the Campaign Watch website, which is built on Jekyll and deployed to GitHub pages. Files in this repository include:
+This repository supports the development and publication of the Campaign Dashboards website, which is built on Jekyll and deployed to GitHub pages. Files in this repository include:
 
 - **HTML layout templates** to display the various types of pages such as committee, contest, election, etc.
 - **Markdown data files** used to populate data elements in HTML templates
