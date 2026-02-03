@@ -377,9 +377,6 @@ committees:
 - cmte_name: San Francisco Democratic Socialists of America Electoral Fund
   cmte_fppcid: '1405407'
   cmte_nid: '169933698'
-- cmte_name: San Francisco Fire Fighters Local 798
-  cmte_fppcid: '1476535'
-  cmte_nid: '212230554'
 - cmte_name: San Francisco Parent Action PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'

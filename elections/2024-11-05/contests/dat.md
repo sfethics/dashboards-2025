@@ -1,6 +1,7 @@
 ---
 layout: contest_candidate
 election: '2024-11-05'
+last_updated: '2026-02-02'
 candidate: true
 title: District Attorney
 breadcrumbs:
