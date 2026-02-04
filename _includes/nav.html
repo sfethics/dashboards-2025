@@ -34,6 +34,19 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-light">
                         <li>
+                            {% if page.election == "2026-06-02" %}
+                            <!-- Current election -->
+                            <button type="button" class="dropdown-item" aria-current="page"
+                                onclick="window.location.href='{{ '/elections/' | relative_url }}2026-06-02/'">
+                                June 2, 2026
+                            </button>
+                            {% else %}
+                            <a class="dropdown-item" href="{{ '/elections/' | relative_url }}2026-06-02/">
+                                June 2, 2026
+                            </a>
+                            {% endif %}
+                        </li>
+                        <li>
                             {% if page.election == "2025-09-16" %}
                             <!-- Current election -->
                             <button type="button" class="dropdown-item" aria-current="page"
