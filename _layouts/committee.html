@@ -77,20 +77,20 @@ electionnav: true
                 <div class="card-body p-4">
                     <div class="d-flex flex-wrap row-gap-2 align-items-start justify-content-between mb-3">
                         <div class="d-flex align-items-center gap-2">
-                            <h3 class="mb-0"><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Total
+                            <h3 class="mb-0 text-contributions"><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Total
                                 Contributions</h3>
                         </div>
                     </div>
                     {% if page.totals[0] == 0.0 or page.totals[0] == '' %}
                     {% assign exp_total_string = 'None Available' %}
-                    <span class="display-6 fw-semibold text-contributions currency"
+                    <span class="display-6 fw-semibold currency"
                         aria-label="Total contributions amount">{{exp_total_string}}</span>
                     <p class="card-text">
                         <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
                                 contribution data not available?</span></a>
                     </p>
                     {% else %}
-                    <span class="display-6 fw-semibold text-contributions currency"
+                    <span class="display-6 fw-semibold currency"
                         aria-label="Total contributions amount">
                         {{page.totals[0]}}
                     </span>
@@ -103,19 +103,19 @@ electionnav: true
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-4">
                     <div class="d-flex align-items-center gap-2 mb-3">
-                        <h3 class="mb-0"><i class="fa-solid fa-money-check" aria-hidden="true"></i> Total Expenditures
+                        <h3 class="mb-0 text-expenditures"><i class="fa-solid fa-money-check" aria-hidden="true"></i> Total Expenditures
                         </h3>
                     </div>
                     {% if page.totals[1] == 0.0 or page.totals[1] == '' %}
                     {% assign exp_total_string = 'None Available' %}
-                    <span class="display-6 fw-semibold text-expenditures currency"
+                    <span class="display-6 fw-semibold currency"
                         aria-label="Total expenses amount">{{exp_total_string}}</span>
                     <p class="card-text">
                         <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
                                 expenditure data not available?</span></a>
                     </p>
                     {% else %}
-                    <span class="display-6 fw-semibold text-expenditures currency" aria-label="Total expenses amount">
+                    <span class="display-6 fw-semibold currency" aria-label="Total expenses amount">
                         {{page.totals[1]}}
                     </span>
                     {% endif %}
