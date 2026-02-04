@@ -66,12 +66,12 @@ electionnav: true
                 <div class="card-body p-4">
                     <div class="d-flex flex-wrap row-gap-2 align-items-start justify-content-between mb-3">
                         <div class="d-flex align-items-center gap-2">
-                            <h3 class="mb-0"><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Total
+                            <h3 class="mb-0 text-contributions"><i class="fa-solid fa-hand-holding-dollar"
+                                    aria-hidden="true"></i> Total
                                 Contributions</h3>
                         </div>
                     </div>
-                    <span class="display-6 fw-semibold text-contributions currency"
-                        aria-label="Total contributions amount">
+                    <span class="display-6 fw-semibold currency no-round" aria-label="Total amount">
                         {{page.totals[0]}}
                     </span>
                 </div>
@@ -82,10 +82,11 @@ electionnav: true
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-4">
                     <div class="d-flex align-items-center gap-2 mb-3">
-                        <h3 class="mb-0"><i class="fa-solid fa-money-check" aria-hidden="true"></i> Total Expenditures
+                        <h3 class="mb-0 text-expenditures"><i class="fa-solid fa-money-check" aria-hidden="true"></i>
+                            Total Expenditures
                         </h3>
                     </div>
-                    <span class="display-6 fw-semibold text-expenditures currency" aria-label="Total expenses amount">
+                    <span class="display-6 fw-semibold currency no-round" aria-label="Total expenses amount">
                         {{page.totals[1]}}
                     </span>
                 </div>
@@ -100,7 +101,7 @@ electionnav: true
                         <h3 class="mb-0"><i class="fa-regular fa-money-bill" aria-hidden="true"></i> Public Funds
                             Received</h3>
                     </div>
-                    <span class="display-6 fw-semibold text-dark currency" aria-label="Total expenses amount">
+                    <span class="display-6 fw-semibold text-dark currency no-round" aria-label="Total expenses amount">
                         {{ page.pubfi.total }}
                     </span>
                 </div>
@@ -562,6 +563,8 @@ electionnav: true
                     first_text=tsf
                     second_title='Spending'
                     second_text=tse
+                    first_card_body_class='no-round'
+                    second_card_body_class='no-round'
                     -%}
                 </div>
 
@@ -577,6 +580,8 @@ electionnav: true
                     first_text=tof
                     second_title='Spending'
                     second_text=toe
+                    first_card_body_class='no-round'
+                    second_card_body_class='no-round'
                     -%}
                 </div>
             </div>

@@ -2,12 +2,14 @@
   <div class="card money-card shadow-sm rounded-4 h-100 {{include.card_class}}">
     <div class="card-body">
       <dl class="mb-0">
-        <dt class="card-title mb-1">
+        <dt class="card-title mb-1 {{ include.card_title_class }}">
           {%- if include.card_faicon %}<i class="fa-solid {{include.card_faicon}}" aria-hidden="true"></i> {% endif -%}
           {{include.title}}
         </dt>
         <dd class="card-text fs-3 fw-semibold mb-0">
-          <span class="currency {{include.card_body_class}}">{{ include.text }}</span>
+          <span class="currency{% if include.card_body_class %} {{ include.card_body_class }}{% endif %}">
+  {{ include.text }}
+</span>
         </dd>
       </dl>
     </div>

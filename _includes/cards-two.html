@@ -1,22 +1,27 @@
+<div class="row {{include.wrap_css}}">
+{%- if include.title and include.title != '' -%}
+  <h3 class="mt-3 mb-2">{{ include.title }}</h3>
+{%- endif -%}
 
-    <div class="row {{include.wrap_css}}">
-        {%- if include.title -%}
-        <h3>{{include.title}}</h3>
-        {%- endif -%}
-        {%- include card-n.html
-            title=include.first_title
-            text=include.first_text
-            card_col='col-12 col-md-6'
-            card_class='money-card-1'
-            card_body_class='text-contributions'
-            card_faicon='fa-hand-holding-dollar'
-        -%}
-        {%- include card-n.html
-            title=include.second_title
-            text=include.second_text
-            card_col='col-12 col-md-6'
-            card_class='money-card-2'
-            card_body_class='text-expenditures'
-            card_faicon='fa-money-check'
-        -%}
-    </div>
+<div class="row g-3 {{ include.wrap_css }}">
+  {%- include card-n.html
+    title=include.first_title
+    text=include.first_text
+    card_col='col-12 col-md-6'
+    card_class='money-card-1'
+    card_title_class='text-contributions'
+    card_faicon='fa-hand-holding-dollar'
+    card_body_class=include.first_card_body_class
+  -%}
+
+  {%- include card-n.html
+    title=include.second_title
+    text=include.second_text
+    card_col='col-12 col-md-6'
+    card_class='money-card-2'
+    card_title_class='text-expenditures'
+    card_faicon='fa-money-check'
+    card_body_class=include.second_card_body_class
+  -%}
+</div>
+</div>

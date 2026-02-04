@@ -279,11 +279,16 @@ table {
 // .money-card-2 {
 //     background-color: mix(white, $red, 50%);
 // }
+/* Default: let Bootstrap control the layout (stacks on mobile) */
 .contributions-expenses {
+  flex: 0 0 auto;
+}
+
+/* md+ only: allow the two cards to sit side-by-side nicely */
+@media (min-width: 768px) {
+  .contributions-expenses {
     flex: 1 0 0;
-    // flex-grow: 1;
-    // min-width: 13rem;
-    // max-width: 13rem;
+  }
 }
 .factoid-text {
     text-align: center;
@@ -664,6 +669,18 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
     padding-right: 2.75rem;
 }
 
+/* Full-bleed divider under breadcrumbs on mobile/tablet */
+@media (max-width: 991.98px) {
+  .election-breadcrumb-divider {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+
+    /* keep it a simple 1px rule */
+    border-top-width: 1px;
+  }
+}
+
 .page-content .content-wrapper > .container-md.mt-3 {
   margin-top: 0 !important;
 }
@@ -1039,4 +1056,23 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 
 .committee-offcanvas .committee-table-wrap .list-group-item:hover {
   background-color: tint-color($primary, 92%);
+}
+
+/* iPhone SE / very small phones: shrink site title so it fits */
+@media (max-width: 375px) {
+  #main-nav .navbar-brand .sf-top {
+    font-size: 0.82rem;
+    
+  }
+
+  #main-nav .navbar-brand .sf-bottom {
+    font-size: 0.95rem;
+  }
+
+  /* Optional: slightly smaller logo + less gap */
+  #main-nav a[rel="author"] img {
+    width: 52px;
+    height: 52px;
+    margin-right: 0.75rem !important; /* overrides .me-3 */
+  }
 }

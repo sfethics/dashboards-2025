@@ -85,22 +85,6 @@ function formatAllPercentageElements(containerId) {
   });
 }
 
-function formatAsCurrency(val) {
-    if (val == "") {
-        return ""
-    }
-    if (parseInt(val) == 0) {
-        return "N/A"
-    }
-    if (isNaN(val)) {
-        return val
-    }
-
-    val = parseFloat(val)
-    let round = getRounding(val)
-    return "$"+abbrNum(val, round)
-}
-
 function formatAllCurrencyElements(containerId) {
   const container = containerId
     ? document.getElementById(containerId)
@@ -133,13 +117,48 @@ function copyText(selector) {
     navigator.clipboard.writeText(element.innerText);
 }
 
-window.addEventListener('DOMContentLoaded', () => {
-  // Format ALL `.currency` elements 
+function formatAsCurrency(val) {
+  if (val == "") return "";
+  if (parseInt(val) == 0) return "N/A";
+  if (isNaN(val)) return val;
+
+  val = parseFloat(val);
+  let round = getRounding(val);
+  return "$" + abbrNum(val, round);
+}
+
+// no-abbreviation, no-decimals, WITH commas (and WITH $ since you said currency)
+function formatAsCurrencyNoAbbrNoDecimals(val) {
+  if (val == "") return "";
+  if (parseInt(val) == 0) return "N/A";
+
+  const raw = (typeof val === "string") ? val.replace(/[\$,]/g, "") : val;
+  if (isNaN(raw) || raw === null) return val;
+
+  const n = Math.round(parseFloat(raw)); // or Math.trunc(...) if you prefer
+  return "$" + new Intl.NumberFormat("en-US", {
+    maximumFractionDigits: 0,
+    minimumFractionDigits: 0
+  }).format(n);
+}
+
+function formatAllCurrencyElements(containerId) {
+  const container = containerId ? document.getElementById(containerId) : document;
+  if (!container) return;
+
+  container.querySelectorAll(".currency").forEach(el => {
+    const original = el.textContent.trim();
+
+    if (el.classList.contains("no-round")) {
+      el.textContent = formatAsCurrencyNoAbbrNoDecimals(original);
+    } else {
+      el.textContent = formatAsCurrency(original);
+    }
+  });
+}
+
+window.addEventListener("DOMContentLoaded", () => {
   formatAllCurrencyElements();
-  
-  // Format ALL `.percentage` elements 
   formatAllPercentageElements();
-
   formatAllDateElements();
-
 });
