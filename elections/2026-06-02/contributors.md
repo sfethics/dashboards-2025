@@ -1,7 +1,7 @@
 ---
 layout: contributors
 election: '2026-06-02'
-last_updated: '2026-02-03'
+last_updated: '2026-02-04'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -13,22 +13,22 @@ contributors:
   tx_lastname: LARSEN
   tx_entitycode: IND
   tx_cmteid: ''
-  tx_amount: 4000000.0
+  tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1485633'
     cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 4000000.0
+    tx_amount: 500000.0
 - tx_firstname: ''
   tx_lastname: KILROY REALTY, L.P.
   tx_entitycode: OTH
   tx_cmteid: ''
-  tx_amount: 200000.0
+  tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1485633'
     cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 200000.0
+    tx_amount: 25000.0
 - tx_firstname: HEATHER
   tx_lastname: DAVIES
   tx_entitycode: IND
