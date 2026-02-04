@@ -1,0 +1,69 @@
+---
+layout: committee_list
+election: '2026-06-02'
+breadcrumbs:
+- - Jun 02, 2026
+  - elections/2026-06-02/
+- - Committee List
+title: Active committees in the Jun 02, 2026 election
+committees:
+- cmte_name: Alan Wong for Supervisor 2026
+  cmte_fppcid: '1485709'
+  cmte_nid: '215112140'
+- cmte_name: Albert Chow for Supervisor 2026
+  cmte_fppcid: '1485609'
+  cmte_nid: '215019694'
+- cmte_name: Brandee Marckmann for Board of Education 2026
+  cmte_fppcid: unknown
+  cmte_nid: '215120587'
+- cmte_name: Daniel Genduso for Supervisor 2026
+  cmte_fppcid: unknown
+  cmte_nid: '214927978'
+- cmte_name: David Lee for Supervisor 2026
+  cmte_fppcid: '1484957'
+  cmte_nid: '214929589'
+- cmte_name: Jeremy Greco for Supervisor 2026
+  cmte_fppcid: '1485253'
+  cmte_nid: '214951144'
+- cmte_name: Jeremy Kirshner for San Francisco Supervisor 2026
+  cmte_fppcid: '1484600'
+  cmte_nid: '214896333'
+- cmte_name: Joe Sangirardi for San Francisco Democratic County Central Committee
+    2024
+  cmte_fppcid: '1463427'
+  cmte_nid: '208632535'
+- cmte_name: Kim for School Board June 2026
+  cmte_fppcid: '1483649'
+  cmte_nid: '214769736'
+- cmte_name: Lori Brooke for Supervisor 2026
+  cmte_fppcid: '1484332'
+  cmte_nid: '214820258'
+- cmte_name: Monthanus Ratanapakdee for Distrcit 2 Supervisor 2026
+  cmte_fppcid: '1484703'
+  cmte_nid: '214895723'
+- cmte_name: Natalie Gee for Supervisor 2026
+  cmte_fppcid: '1484806'
+  cmte_nid: '214896050'
+- cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored
+    by San Francisco Civic Organizations
+  cmte_fppcid: '1485633'
+  cmte_nid: '215118470'
+- cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored
+    by San Francisco Civic Organizations
+  cmte_fppcid: '1485633'
+  cmte_nid: '215118470'
+- cmte_name: San Franciscans for Term Limit Reform
+  cmte_fppcid: '1485878'
+  cmte_nid: '215271192'
+- cmte_name: Govern for California Courage Committee
+  cmte_fppcid: '1392639'
+  cmte_nid: unknown
+- cmte_name: Matt Haney for Assembly 2026
+  cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Re-elect Scott Wiener for State Senate 2024
+  cmte_fppcid: '1434666'
+  cmte_nid: unknown
+
+---
+
