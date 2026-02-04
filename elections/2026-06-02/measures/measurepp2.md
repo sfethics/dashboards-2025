@@ -3,14 +3,13 @@ layout: contest_bmc
 election: '2026-06-02'
 last_updated: '2026-02-04'
 candidate: false
-title: 'PENDING: Small Business and Economic Recovery Act'
+title: 'P,P2: Measures Pending and Pending2'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'PENDING: Small Business and Economic Recovery Act'
-  - elections/2026-06-02/measures/measurepending
-committees: []
-multi_committees:
+- - 'P,P2: Measures Pending and Pending2'
+  - elections/2026-06-02/measures/measurepp2
+committees:
 - position: MULTIPLE
   filer_nid: '215118470'
   filer_id: '1485633'
@@ -18,6 +17,13 @@ multi_committees:
     SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   funds: 525000.0
   expenses: 401592.34
+  ies: ''
+multi_committees: []
+contributors:
+- - Chris Larsen
+  - 500000.0
+- - Kilroy Realty, L.p.
+  - 25000.0
 
 ---
 

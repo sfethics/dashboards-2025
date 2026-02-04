@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-03'
+last_updated: '2026-02-04'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
