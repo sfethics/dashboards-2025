@@ -406,7 +406,9 @@
             <h3 class="fs-5">Why is contribution or expenditure data not available?</h3>
             <p>Some state-level committees that are active within an election cycle are only required to file reports
                 with the California Secretary of State, and not the San Francisco Ethics Commission. In these cases,
-                contributions or expenditures data may not be available.</p>
+                contributions or expenditures data may not be available. Please refer to this committee's campaign statements in CAL-access.</p>
+            <a href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ page.filer_id }}"
+                    class="btn btn-outline-primary" target="_blank" rel="noopener"><i class="fa fa-external-link-alt" aria-hidden="true"></i> View Statements in CAL-access</a>
             {% endif %}
         </div>
     </div>
@@ -483,7 +485,7 @@
     </div>
     <div class="offcanvas-body text-secondary">
         <div>
-            <p>A candidate-controlled committee is a campaign committee established, financed, or controlled by a
+            <p>A candidate-controlled committee is a campaign committee that is controlled directly or indirectly by a
                 candidate for local office.</p>
             {% if page.layout == 'contest_candidate' %}
             <p>The table sums up the total funds and expenses by each candidate-controlled committee in this candidate
@@ -503,48 +505,57 @@
         </div>
     </div>
 </div>
-<div class="offcanvas offcanvas-start" tabindex="-1" id="candidate-ie-committeesTT"
-    aria-labelledby="candidate-ie-committeesTTLabel">
+<div class="offcanvas offcanvas-start" tabindex="-1" id="candidate-ie-summaryTT"
+    aria-labelledby="candidate-ie-summaryTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="candidate-ie-committeesTTLabel">Third-Party Committees</h2>
+        <h2 class="offcanvas-title fs-5" id="candidate-ie-summaryTTLabel">Candidate Contests</h2>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
+            <h3 class="fs-5">What is a Candidate-controlled Committee?</h3>
+            <p>A candidate-controlled committee is a campaign committee that is controlled directly or indirectly by a
+                candidate for local office.</p>
+            <h3 class="fs-5">What is a Primarily Formed Committee?</h3>
+            <p>A committee is “primarily formed” when it makes or initially plans to make more than 70% of its contributions and 
+                expenditures to support or oppose a specific candidate or measure, or a group of measures or specific local 
+                candidates all being voted upon in the same election on the same date.</p>
             <h3 class="fs-5">What is a Third-Party Committee?</h3>
-            <p class="text-secondary">A third-party committee is a political committee that raises and spends money to
+            <p>A third-party committee is a political committee that raises and spends money to
                 support or oppose candidates for local office but operates independently of those candidates and their
                 campaigns. These committees can include general purpose committees, independent expenditure committees
                 and primarily formed candidate committees. They are prohibited from coordinating their spending
                 decisions with any candidate or candidate controlled committee. Third-party committees are not subject
                 to contribution limits.</p>
-            <p class="text-secondary">The table sums up the total funds and expenses by third-party committees for each
-                candidate contest in this election.</p>
+            <p>This table sums up the total funds and expenses of candidate-controlled committees and primarily formed committees for each
+                candidate contest in this election. Independent expenditures from third-party committees (such as general purpose committees and independent
+                expenditure committees) are also included in the total expenses.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p class="text-secondary">Funds are aggregated by summing the itemized and unitemized contributions reported
-                on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. Expenses are
-                aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. Figures
-                are rounded to the nearest thousand.</p>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported
+                on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. 
+                Only funds from primarily formed committees are included. Expenses are aggregated by summing the
+                itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
+                independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
         </div>
     </div>
 </div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ballot-measure-committeesTT"
     aria-labelledby="ballot-measure-committeesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ballot-measure-committeesTTLabel">Ballot Measure Committees</h2>
+        <h2 class="offcanvas-title fs-5" id="ballot-measure-committeesTTLabel">Ballot Measure Contests</h2>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
-    <div class="offcanvas-body">
+    <div class="offcanvas-body text-secondary">
         <div>
             <h3 class="fs-5">What is a Ballot Measure Committee?</h3>
-            <p class="text-secondary">Ballot Measure Committees are primarily formed to support or oppose a specific
-                ballot measure.</p>
-            <p class="text-secondary">The table sums up the total funds and expenses by committees for each ballot
-                measure in this election. Independent expenditures from general purpose committees and independent
-                expenditure committees are also included in the total expenses.</p>
+            <p>A Ballot Measure Committee is primarily formed to support or oppose a specific
+                ballot measure or a group of ballot measures.</p>
+            <p>This table sums up the total funds and expenses of primarily formed committees for each ballot
+                measure in this election. Independent expenditures from third-party committees (such as general purpose committees and independent
+                expenditure committees) are also included in the total expenses.</p>
 
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p class="text-secondary">The totals shown represent the combined funds raised and spent by committees
+            <p>The totals shown represent the combined funds raised and spent by committees
                 seeking to influence a ballot measure. Funds are aggregated by summing the itemized and unitemized
                 contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form
                 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the

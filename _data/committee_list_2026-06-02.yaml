@@ -44,6 +44,9 @@ committees:
 - cmte_name: Natalie Gee for Supervisor 2026
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
+- cmte_name: Stephen Sherrill for Supervisor 2026
+  cmte_fppcid: '1479700'
+  cmte_nid: '213987622'
 - cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored
     by San Francisco Civic Organizations
   cmte_fppcid: '1485633'
@@ -51,6 +54,24 @@ committees:
 - cmte_name: San Franciscans for Term Limit Reform
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
+- cmte_name: California Professional Firefighters Political Action Committee
+  cmte_fppcid: '744058'
+  cmte_nid: '6673076'
+- cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
+  cmte_fppcid: '891394'
+  cmte_nid: '121720608'
+- cmte_name: San Francisco Apartment Association Political Action Committee
+  cmte_fppcid: '840002'
+  cmte_nid: '6673342'
+- cmte_name: San Francisco Democratic County Central Committee
+  cmte_fppcid: '742051'
+  cmte_nid: '6673375'
+- cmte_name: Teamsters Union Local No. 665
+  cmte_fppcid: '1280975'
+  cmte_nid: '6673543'
+- cmte_name: U.a. Local 38 Cope Fund
+  cmte_fppcid: '746875'
+  cmte_nid: '6673561'
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
@@ -60,6 +81,12 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
+- cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
+  cmte_fppcid: '910874'
+  cmte_nid: unknown
+- cmte_name: San Francisco Laborer's Local 261 P.a.c.
+  cmte_fppcid: '981076'
+  cmte_nid: '6673776'
 
 ---
 

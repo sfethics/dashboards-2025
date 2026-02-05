@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-04'
+last_updated: '2026-02-05'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -10,6 +10,12 @@ breadcrumbs:
 - - Board of Supervisors D02
   - elections/2026-06-02/contests/bos02
 candidates:
+- filer_nid: '213987622'
+  filer_id: '1479700'
+  committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+  candidate_name: STEPHEN SHERRILL
+  funds: 283278.7
+  expenses: 54972.81
 - filer_nid: '214820258'
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026
@@ -30,25 +36,25 @@ candidates:
   expenses: 2329.64
 ie_candidates: []
 contributors:
+- - Christopher Conway
+  - 1000.0
+- - Jennifer Emerson
+  - 1000.0
+- - Patricia Ishiyama
+  - 1000.0
+- - Danny Conway
+  - 750.0
+- - Marlayne Morgan
+  - 725.0
+- - Nancy Abbey
+  - 500.0
 - - Kenneth Akizuki
   - 500.0
-- - Dennis Antenore
+- - Vinkey Allen
   - 500.0
-- - Lisa Arjes
+- - Donna Ames Heldfond
   - 500.0
-- - Craig Ashton
-  - 500.0
-- - Jacquelyn Avila
-  - 500.0
-- - John Balen
-  - 500.0
-- - Cheryl Bancroft
-  - 500.0
-- - David Bancroft
-  - 500.0
-- - Louise Carlos Bea
-  - 500.0
-- - Charlotte Bertrand
+- - Julia Amory
   - 500.0
 
 ---

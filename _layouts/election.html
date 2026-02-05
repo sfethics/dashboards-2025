@@ -21,13 +21,13 @@ electionnav: true
     <div class="row g-4">
         {%- if page.candidate_pf -%}
         <h2 style="margin-bottom: -1rem;">Elected Offices</h2>
-        <div class="col-lg-6 h-100">
+        <div class="col-lg-12 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="candidate-committees" class="hover-link mb-0">
-                        <span>Candidate-Controlled Committee Funds &amp; Expenses by Office</span>
+                        <span>Committee Funds &amp; Expenses for Elected Offices</span>
                         <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#candidate-committeesTT" aria-label="About Candidate Controlled Committees">
+                            data-bs-target="#candidate-ie-summaryTT" aria-label="About Candidate Controlled Committees">
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
                         <a href="#candidate-committees" class="icon-btn ms-2" aria-label="Share Link">
@@ -46,6 +46,14 @@ electionnav: true
                         </thead>
                         <tbody>
                             {%- for contest in page.candidate_pf -%}
+                            {% assign cand_ie = page.candidate_ie | find: "contest_nid", contest.contest_nid %}
+                            {% if cand_ie %}
+                            {% assign total_funds = contest.funds | plus: cand_ie.funds %}
+                            {% assign total_expenses = contest.expenses | plus: cand_ie.expenses %}
+                            {% else %}
+                            {% assign total_funds = contest.funds %}
+                            {% assign total_expenses = contest.expenses %}
+                            {% endif %}
                             <tr>
                                 <td class="fw-medium">
                                     <a
@@ -53,8 +61,8 @@ electionnav: true
                                         {{ contest.contest_name }}
                                     </a>
                                 </td>
-                                <td class="fw-medium">{{ contest.funds }}</td>
-                                <td class="text-end fw-semibold">{{ contest.expenses }}</td>
+                                <td class="fw-medium">{{ total_funds }}</td>
+                                <td class="text-end fw-semibold">{{ total_expenses }}</td>                                
                             </tr>
                             {%- endfor -%}
                         </tbody>
@@ -72,6 +80,7 @@ electionnav: true
 
         {%- endif -%}
         {%- if page.candidate_ie -%}
+        <!--
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
                 <div class="card-header custom-card-header">
@@ -123,7 +132,7 @@ electionnav: true
                     </table>
                 </div>
             </div>
-        </div>
+        </div>-->
 
         {%- endif -%}
 
