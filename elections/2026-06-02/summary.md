@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-02-04'
+last_updated: '2026-02-05'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -12,8 +12,8 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 164711.73
-  expenses: 39050.48
+  funds: 447990.43
+  expenses: 94023.29
   ies: 0.0
 - committee_type: candidate
   contest_nid: '214769647'
@@ -32,8 +32,9 @@ candidate_pf:
 candidate_ie: []
 measures:
 - contest_nid: MULTI-1
-  contest_name: 'P,P2: Measures Pending and Pending2'
-  contest_link: measurepp2
+  contest_name: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery
+    Act'
+  contest_link: measurep1p2
   expenses: 401592.34
   funds: 525000.0
 contributors_bm:
@@ -42,15 +43,15 @@ contributors_bm:
 - - Kilroy Realty, L.p.
   - 25000.0
 contributors_cand:
-- - Heather Davies
-  - 1000.0
-- - Heather Mccarty
-  - 1000.0
-- - Paul Melbostad
-  - 1000.0
-- - Mark Leno
-  - 1000.0
+- - Chasel Lee
+  - 1500.0
 - - Steven Lee
+  - 1150.0
+- - Esther Marks
+  - 1000.0
+- - Jason Fish
+  - 1000.0
+- - Todd David
   - 1000.0
 
 ---

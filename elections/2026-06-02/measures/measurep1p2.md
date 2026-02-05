@@ -1,14 +1,14 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-02-04'
+last_updated: '2026-02-05'
 candidate: false
-title: 'P,P2: Measures Pending and Pending2'
+title: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'P,P2: Measures Pending and Pending2'
-  - elections/2026-06-02/measures/measurepp2
+- - 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
+  - elections/2026-06-02/measures/measurep1p2
 committees:
 - position: MULTIPLE
   filer_nid: '215118470'

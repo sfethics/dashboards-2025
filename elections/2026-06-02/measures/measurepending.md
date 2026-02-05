@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-02-04'
+last_updated: '2026-02-05'
 candidate: false
 title: 'PENDING: Small Business and Economic Recovery Act'
 breadcrumbs:
