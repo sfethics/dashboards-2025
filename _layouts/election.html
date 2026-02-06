@@ -172,7 +172,7 @@ electionnav: true
                                 <td class="fw-medium">
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/measures/{{contest.contest_link}}.html">
-                                        {{ contest.contest_name }}
+                                        {{ contest.contest_name | truncate: 70 }}
                                     </a>
                                 </td>
                                 <td class="fw-medium">{{ contest.funds }}</td>

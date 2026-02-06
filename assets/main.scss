@@ -245,8 +245,12 @@ table {
 }
 .dt-layout-full {
     overflow-x: auto;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+}
+div.dt-container .dt-paging .dt-paging-button {
+  background: rgba(0, 74, 128, 0.25);
+}
+div.dt-container .dt-paging .dt-paging-button.disabled, div.dt-container .dt-paging .dt-paging-button.disabled:hover, div.dt-container .dt-paging .dt-paging-button.disabled:active {
+  background: #edf1f4;
 }
 .table-row {
     row-gap: 1rem;
