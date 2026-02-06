@@ -14,22 +14,31 @@ electionnav: true
 {%- assign multi_expenses = 0 -%}
 
 {%- for committee in page.committees -%}
-{%- if committee.position == 'SUPPORT' -%}
-{%- assign supporters = true -%}
-{%- assign support_funds = support_funds | plus: committee.funds -%}
-{%- assign support_expenses = support_expenses | plus: committee.expenses -%}
-{%- endif -%}
-{%- if committee.position == 'OPPOSE' -%}
-{%- assign opposition = true -%}
-{%- assign oppose_funds = oppose_funds | plus: committee.funds -%}
-{%- assign oppose_expenses = oppose_expenses | plus: committee.expenses -%}
-{%- endif -%}
-{%- if committee.position == 'MULTIPLE' -%}
-{%- assign multiposition = true -%}
-{%- assign multi_funds = multi_funds | plus: committee.funds -%}
-{%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
-{%- endif -%}
+    {%- if committee.position == 'SUPPORT' -%}
+    {%- assign supporters = true -%}
+    {%- assign support_funds = support_funds | plus: committee.funds -%}
+    {%- assign support_expenses = support_expenses | plus: committee.expenses -%}
+    {%- endif -%}
+    {%- if committee.position == 'OPPOSE' -%}
+    {%- assign opposition = true -%}
+    {%- assign oppose_funds = oppose_funds | plus: committee.funds -%}
+    {%- assign oppose_expenses = oppose_expenses | plus: committee.expenses -%}
+    {%- endif -%}
+    {%- if committee.position == 'MULTIPLE' -%}
+    {%- assign multiposition = true -%}
+    {%- assign multi_funds = multi_funds | plus: committee.funds -%}
+    {%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
+    {%- endif -%}
 {%- endfor -%}
+
+{%- if page.multi_committees and page.multi_committees != empty -%}
+    {%- for committee in page.multi_committees -%}
+    {%- assign multi_funds = multi_funds | plus: committee.funds -%}
+    {%- assign multi_expenses = multi_expenses | plus: committee.expenses -%}
+    {%- endfor -%}
+    {%- assign multiposition = true -%}
+{%- endif -%}
+
 <div class="border-bottom border-1 border-tertiary-subtle bg-septenary">
   <div class="container-md">
     <div class="row">
@@ -59,7 +68,7 @@ electionnav: true
 
             {% if supporters == true %}
             {%- include cards-two.html
-            wrap_css='row my-3'
+            wrap_css=''
             title='Totals Supporting this Measure'
             first_title='Funds'
             first_text=tsf
@@ -77,7 +86,7 @@ electionnav: true
 
             {% if supporters == true %}
             {%- include cards-two.html
-            wrap_css='row my-3'
+            wrap_css=''
             title='Totals Opposing this Measure'
             first_title='Funds'
             first_text=tof
@@ -95,12 +104,13 @@ electionnav: true
 
             {% if multiposition == true %}
             {%- include cards-two.html
-            wrap_css='row my-3'
-            title='Totals Supporting/Opposing these Measures'
+            wrap_css=''
+            title='Totals from Committees with Multiple Positions'
             first_title='Funds'
             first_text=tmf
             second_title='Expenses'
             second_text=tme
+            first_card_body_class='no-round'
             second_card_body_class='no-round'
             -%}
             {% endif %}
