@@ -27,7 +27,7 @@
       {%- include committees_table.html election=page.election -%}
       <script src="/assets/js/tables_committees_list.js"></script>
     {% endif %}
-    <!-- Conditional script loading based on layout type: election, contest_candidate, contest_bmc, contributors, 
+    <!-- Conditional script loading based on layout type: election, contest_candidate, contest_bmc, contributors, committee_expenses 
      (candidate_committee, committee, major_donor, slate_mailer) -->
     {% if page.layout == "election" %}
       <script src="/assets/js/tables_election.js"></script>
@@ -37,6 +37,8 @@
       <script src="/assets/js/tables_contest_bmc.js"></script>
     {% elsif page.layout == "contributors" %}
       <script src="/assets/js/tables_contributors.js"></script>
+    {% elsif page.layout == "committee_expenses" %}
+      <script src="/assets/js/tables_committee_expenses.js"></script>
     {% else %}
       <script src="/assets/js/tables_committee.js"></script>
       <script src="/assets/js/card_carousel.js"></script>

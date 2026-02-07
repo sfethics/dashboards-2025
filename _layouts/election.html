@@ -21,7 +21,7 @@ electionnav: true
     <div class="row g-4">
         {%- if page.candidate_pf -%}
         <h2 style="margin-bottom: -1rem;">Elected Offices</h2>
-        <div class="col-lg-12 h-100">
+        <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="candidate-committees" class="hover-link mb-0">
@@ -74,6 +74,18 @@ electionnav: true
                             </tr>
                         </tfoot>
                     </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 h-100">
+            <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="candidate-committees" class="hover-link mb-0">
+                        <span>Top Spending Committees for Elected Offices</span>
+                    </h3>
+                </div>
+                <div class="card-body p-3 p-sm-4">
+                    <a href="cmte_expenses">View all committee expenses for this election</a>
                 </div>
             </div>
         </div>
@@ -137,8 +149,8 @@ electionnav: true
         {%- endif -%}
 
         {%- if page.measures -%}
-        <div class="col-lg-12 h-100">
-            <h2>Ballot Measures</h2>
+        <h2>Ballot Measures</h2>
+        <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
                 <div class="card-header custom-card-header">
                     <h3 id="ballot-measure-committees" class="hover-link mb-0">
@@ -190,13 +202,22 @@ electionnav: true
                 </div>
             </div>
         </div>
+        <div class="col-lg-6 h-100">
+            <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
+                <div class="card-header custom-card-header">
+                    <h3 id="candidate-committees" class="hover-link mb-0">
+                        <span>Top Spending Committees for Ballot Measures</span>
+                    </h3>
+                </div>
+                <div class="card-body p-3 p-sm-4">
+                    <a href="cmte_expenses">View all committee expenses for this election</a>
+                </div>
+            </div>
+        </div>
 
         {%- endif -%}
         <div>
         <h2>Top Contributors</h2>
-        <a href="{{site.baseurl}}/elections/{{page.election}}/contributors">
-                <button class="btn btn-primary" type="button">View all contributors</button>
-            </a>
         </div>
         {%- if page.contributors_cand -%}
         <div class="col-lg-6 h-100">
@@ -216,6 +237,11 @@ electionnav: true
             %}
         </div>
         {%- endif -%}
+        <div>
+            <a href="{{site.baseurl}}/elections/{{page.election}}/contributors">
+                    <button class="btn btn-primary" type="button">View all contributors</button>
+                </a>
+        </div>
     </div>
 
     {{content}}

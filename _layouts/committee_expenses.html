@@ -1,0 +1,72 @@
+---
+layout: default
+electionnav: true
+---
+<div class="border-bottom border-1 border-tertiary-subtle">
+  <div class="container">
+    <div class="row">
+      <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
+        <div class="flex-grow-1">
+          <h1 class="mb-1">{{ page.title }}</h1>
+        </div>
+
+        <div class="d-flex gap-2 flex-shrink-0">
+          {% include share.html btn_class="btn-outline-primary" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container my-4">
+    <div class="row g-4">
+        <div class="col-lg-12 h-100">
+            <div class="card border-0 shadow-sm rounded-4 h-100">
+                <div class="card-body p-3 p-sm-4">
+                    <p>The table below lists total expenses by local and state committees involved in the <span
+                            class="formatted-date">{{ page.election }}</span> election. The total expense amount for each committee is based on transactions reported to
+                        the Ethics Commission within the two-year period prior to the election date. Click on any committee's link to view more details about that committee.</p>
+
+                    <p>** indicates that the committee is either a candidate-controlled committee or a primarily formed committee for this election. 
+                        A committee is “primarily formed” when it makes or initially plans to make more than 70% of its contributions and 
+                        expenditures to support or oppose a specific candidate or measure, or a group of measures or specific local 
+                        candidates all being voted upon in the same election on the same date.</p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row g-4">
+        <div class="col-12 py-4 h-100">
+            <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+                <div class="card-body p-3 p-sm-4">
+                    <table class="table caption-top dtify table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">Committee Name</th>
+                                <th scope="col">Total Expense</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for committee in page.committees %}
+                            <tr>
+                                <td>
+                                    {% if committee.cmte_fppcid == 'unknown' or committee.cmte_nid == 'unknown' %}
+                                    {{ committee.cmte_name }}
+                                    {% else %}
+                                    <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ committee.cmte_fppcid }}.html">
+                                        {{ committee.cmte_name }}
+                                    </a>
+                                    {% endif %}
+                                </td>
+                                <td>{{ committee.total_expense }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
