@@ -1,6 +1,6 @@
 let table = new DataTable('table.dtify', {
     pageLength: 20,
-    order: [[1, 'desc']],
+    order: [[2, 'desc']],
     layout: {
         topStart: null,
         bottomEnd: {
@@ -11,7 +11,7 @@ let table = new DataTable('table.dtify', {
     },
     columnDefs: [
         {
-            targets: [1],
+            targets: [2],
             render: function (data, type, row, meta) {
                 if (type === 'display') {
                     return formatAsCurrency(data);

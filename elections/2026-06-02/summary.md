@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-02-05'
+last_updated: '2026-02-09'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -53,6 +53,33 @@ contributors_cand:
   - 1000.0
 - - Todd David
   - 1000.0
+top_cand_spends:
+- cmte_nid: '213987622'
+  cmte_fppcid: '1479700'
+  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 54972.81
+- cmte_nid: '214820258'
+  cmte_fppcid: '1484332'
+  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+  total_expense: 35455.84
+- cmte_nid: '214769736'
+  cmte_fppcid: '1483649'
+  cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+  total_expense: 13455.63
+- cmte_nid: '214896050'
+  cmte_fppcid: '1484806'
+  cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+  total_expense: 12027.9
+- cmte_nid: '214896333'
+  cmte_fppcid: '1484600'
+  cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
+  total_expense: 2329.64
+top_bm_spends:
+- cmte_nid: '215118470'
+  cmte_fppcid: '1485633'
+  cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
+    BY SAN FRANCISCO CIVIC ORGANIZATIONS
+  total_expense: 401592.34
 
 ---
 
