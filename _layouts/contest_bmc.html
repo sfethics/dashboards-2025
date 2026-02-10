@@ -118,7 +118,7 @@ electionnav: true
         <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
             {% include contributors-table.html title='Top 10 Contributors To This Measure'
-            contributors=page.contributors %}
+            contributors=page.contributors link="bmc" %}
             {%- endif -%}
         </div>
     </div>
@@ -142,7 +142,7 @@ electionnav: true
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
 
-                        <a href="#allcommittees-table" class="icon-btn ms-2" aria-label="Share Link">
+                        <a href="#allcommittees-table" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
                             <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
 
@@ -208,7 +208,7 @@ electionnav: true
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
 
-                        <a href="#multicommittees-table" class="icon-btn ms-2" aria-label="Share Link">
+                        <a href="#multicommittees-table" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
                             <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
 
