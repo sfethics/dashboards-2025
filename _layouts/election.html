@@ -30,12 +30,12 @@ electionnav: true
                             data-bs-target="#candidate-ie-summaryTT" aria-label="About Candidate Controlled Committees">
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
-                        <a href="#candidate-committees" class="icon-btn ms-2" aria-label="Share Link">
+                        <a href="#candidate-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
                             <i class="fa-regular fa-link"></i>
                         </a>
                     </h3>
                 </div>
-                <div class="card-body p-3 p-sm-4">
+                <div class="card-body p-3">
                     <table id="table_candidate" class="table caption-top dtify_both">
                         <thead class="table-light">
                             <tr>
@@ -78,13 +78,32 @@ electionnav: true
             </div>
         </div>
         <div class="col-lg-6 h-100">
-            <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
+            {%- if page.contributors_cand -%}
+            <div>
+                {% include contributors-table.html
+                title='Top Contributors Across Candidate Contests'
+                subtitle='Contributions made to Candidate Committees & Primarily Formed Committees'
+                contributors=page.contributors_cand
+                election=page.election
+                link="cand"
+                %}
+            </div>
+            {%- endif -%}            
+            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header custom-card-header">
-                    <h3 id="candidate-committees" class="hover-link mb-0">
+                    <h3 id="top-committees-cand" class="hover-link mb-0">
                         <span>Top Committees Spending on Elected Offices</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#top-spending-committeesTT" aria-label="Top Spending on Elected Offices">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#top-committees-cand" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
                     </h3>
                 </div>
-                <div class="card-body p-3 p-sm-4">
+                <div class="card-body p-3">
                     <table id="table_candidate_committees" class="table caption-top dtify_topcand">
                         <thead class="table-light">
                             <tr>
@@ -133,7 +152,7 @@ electionnav: true
                 </div>
 
 
-                <div class="card-body p-3 p-sm-4">
+                <div class="card-body p-3">
                     <table id="table_candidate_thirdparty" class="table caption-top dtify_exp">
                         <thead class="table-light">
                             <tr>
@@ -170,7 +189,7 @@ electionnav: true
         {%- endif -%}
 
         {%- if page.measures -%}
-        <h2>Ballot Measures</h2>
+        <h2 style="margin-bottom:-1rem">Ballot Measures</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
                 <div class="card-header custom-card-header">
@@ -182,7 +201,7 @@ electionnav: true
                             <i class="fa-regular fa-circle-info"></i>
                         </button>
 
-                        <a href="#ballot-measure-committees" class="icon-btn ms-2" aria-label="Share Link">
+                        <a href="#ballot-measure-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
                             <i class="fa-regular fa-link" aria-hidden="true"></i>
                         </a>
 
@@ -190,7 +209,7 @@ electionnav: true
                 </div>
 
 
-                <div class="card-body p-3 p-sm-4">
+                <div class="card-body p-3">
                     <table id="table_ballotmeasure" class="table caption-top dtify_exp">
                         <thead class="table-light">
                             <tr>
@@ -224,13 +243,32 @@ electionnav: true
             </div>
         </div>
         <div class="col-lg-6 h-100">
-            <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
+            {%- if page.contributors_bm -%}
+            <div>
+                {% include contributors-table.html
+                title='Top Contributors Across Ballot Measures'
+                subtitle='Contributions made to Primarily Formed Ballot Measure Committees'
+                contributors=page.contributors_bm
+                election=page.election
+                link="bm"
+                %}
+            </div>
+            {%- endif -%}            
+            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
                 <div class="card-header custom-card-header">
-                    <h3 id="candidate-committees" class="hover-link mb-0">
+                    <h3 id="top-committees-bm" class="hover-link mb-0">
                         <span>Top Committees Spending on Ballot Measures</span>
+                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
+                            data-bs-target="#top-spending-committeesTT" aria-label="Top Spending on Ballot Measures">
+                            <i class="fa-regular fa-circle-info"></i>
+                        </button>
+
+                        <a href="#top-committees-bm" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
+                            <i class="fa-regular fa-link" aria-hidden="true"></i>
+                        </a>
                     </h3>
                 </div>
-                <div class="card-body p-3 p-sm-4">
+                <div class="card-body p-3">
                     <table id="table_ballotmeasure_committees" class="table caption-top dtify_topbm">
                         <thead class="table-light">
                             <tr>
@@ -258,32 +296,9 @@ electionnav: true
         </div>
 
         {%- endif -%}
-        <div>
+        <!-- <div>
         <h2>Top Contributors</h2>
-        </div>
-        {%- if page.contributors_cand -%}
-        <div class="col-lg-6 h-100">
-            {% include contributors-table.html
-            title='Top 5 Contributors Across Candidate Contests'
-            subtitle='Contributions made to Primarily Formed Committees within this Election'
-            contributors=page.contributors_cand
-            %}
-        </div>
-        {%- endif -%}
-        {%- if page.contributors_bm -%}
-        <div class="col-lg-6 h-100">
-            {% include contributors-table.html
-            title='Top 5 Contributors Across Ballot Measures'
-            subtitle='Contributions made to Ballot Measure Committees within this Election'
-            contributors=page.contributors_bm
-            %}
-        </div>
-        {%- endif -%}
-        <div>
-            <a href="{{site.baseurl}}/elections/{{page.election}}/contributors">
-                    <button class="btn btn-primary" type="button">View all contributors</button>
-                </a>
-        </div>
+        </div> -->
     </div>
 
     {{content}}
