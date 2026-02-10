@@ -3,7 +3,7 @@ layout: election
 title: November 05, 2024 Election
 permalink: /elections/2024-11-05/
 election: '2024-11-05'
-last_updated: '2026-02-02'
+last_updated: '2026-02-09'
 breadcrumbs:
 - - Nov 05, 2024
   - /elections/2024-11-05/
@@ -278,6 +278,50 @@ contributors_cand:
   - 952500.0
 - - William Oberndorf
   - 952000.0
+top_cand_spends:
+- cmte_nid: '208599394'
+  cmte_fppcid: '1463099'
+  cmte_name: DANIEL LURIE FOR MAYOR 2024
+  total_expense: 10816112.85
+- cmte_nid: '208769508'
+  cmte_fppcid: '1463554'
+  cmte_name: BELIEVE IN SF, LURIE FOR MAYOR 2024
+  total_expense: 6649503.9
+- cmte_nid: '208688469'
+  cmte_fppcid: '1463715'
+  cmte_name: FORWARD ACTION SF, SUPPORTING LONDON BREED FOR MAYOR 2024, SPONSORED
+    BY ABUNDANCE NETWORK
+  total_expense: 3157367.07
+- cmte_nid: '211765770'
+  cmte_fppcid: '1471628'
+  cmte_name: SAFER SAN FRANCISCO FOR MARK FARRELL FOR MAYOR 2024
+  total_expense: 3136809.03
+- cmte_nid: '210489481'
+  cmte_fppcid: '1466726'
+  cmte_name: MARK FARRELL FOR MAYOR 2024
+  total_expense: 2608172.31
+top_bm_spends:
+- cmte_nid: '208835453'
+  cmte_fppcid: '1464767'
+  cmte_name: COMMITTEE TO FIX SAN FRANCISCO GOVERNMENT, YES ON D, NO ON E, A COALITION
+    OF SAN FRANCISCO CIVIC ORGANIZATIONS DEDICATED TO IMPROVING THE CITY'S FUTURE
+  total_expense: 6714707.54
+- cmte_nid: '211998686'
+  cmte_fppcid: '1462942'
+  cmte_name: YES ON H FOR FIREFIGHTERS HEALTH & SAFETY, SF FIRE FIGHTERS LOCAL 798
+  total_expense: 2630009.82
+- cmte_nid: '211027210'
+  cmte_fppcid: '1467847'
+  cmte_name: MAYOR MARK FARRELL FOR YES ON PROP D
+  total_expense: 2560192.53
+- cmte_nid: '211514770'
+  cmte_fppcid: '1469143'
+  cmte_name: REVITALIZE SAN FRANCISCO, YES ON M
+  total_expense: 2061653.53
+- cmte_nid: '212230554'
+  cmte_fppcid: '1476535'
+  cmte_name: 'Yes on H, San Francisco Fire Fighters Local #798 (Nonprofit 501(c)(5))'
+  total_expense: 1613350.0
 
 ---
 

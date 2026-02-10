@@ -68,3 +68,36 @@ new DataTable('table.dtify_exp', {
             formatAsCurrency(totalExp);
     }
 });
+
+new DataTable('table.dtify_topbm', {
+    order: [],
+    columnDefs: [
+        {
+            targets: [1],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
+                }
+                return data
+            }
+        }
+    ],
+    displayLength: -1,
+    layout: layoutOptions
+});
+new DataTable('table.dtify_topcand', {
+    order: [],
+    columnDefs: [
+        {
+            targets: [1],
+            render: function (data, type, row, meta) {
+                if (type === 'display') {
+                    return formatAsCurrency(data);
+                }
+                return data
+            }
+        }
+    ],
+    displayLength: -1,
+    layout: layoutOptions
+});
