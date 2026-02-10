@@ -1080,3 +1080,53 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
     margin-right: 0.75rem !important; /* overrides .me-3 */
   }
 }
+
+.page-last-updated-callout {
+  margin-top: 1.25rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 0.4rem 0.75rem;
+  border-radius: 999px;
+
+  background: $gray; // matches your bg palette
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  color: rgba(0, 0, 0, 0.70);
+  font-size: 0.95rem;
+}
+
+.page-last-updated-label {
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.page-last-updated-callout .formatted-date {
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+/* Kill the extra space between the last card/section and the footer area */
+.page-content .content-wrapper {
+  padding-bottom: 0 !important;
+}
+
+.page-content .content-wrapper > :last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Keep the "last updated" area tight */
+.page-last-updated-wrap {
+  margin-top: 0.75rem !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 1.25rem !important;
+}
+
+.card-title-actions {
+  line-height: 1;
+  flex-wrap: wrap; /* helpful on narrow widths */
+}
+
+.card-title-text {
+  display: block;
+}

@@ -15,9 +15,14 @@
       {%- endif -%}
       <div class="content-wrapper">
         {{ content }}
-        {% if page.last_updated %}
-          <div class="container">Information on this page was last updated on <span class="formatted-date">{{ page.last_updated }}</span>.</div>
-        {% endif %}
+{% if page.last_updated %}
+  <div class="container page-last-updated-wrap">
+    <div class="page-last-updated-callout">
+      <span class="page-last-updated-label">Page last updated</span>
+      <span class="formatted-date">{{ page.last_updated }}</span>
+    </div>
+  </div>
+{% endif %}
       </div>
     </main>
 
