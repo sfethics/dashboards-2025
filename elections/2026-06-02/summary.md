@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-02-09'
+last_updated: '2026-02-10'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -35,11 +35,17 @@ measures:
   contest_name: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery
     Act'
   contest_link: measurep1p2
-  expenses: 401592.34
-  funds: 525000.0
+  expenses: 674426.34
+  funds: 809400.01
 contributors_bm:
 - - Chris Larsen
   - 500000.0
+- - Michael Moritz
+  - 125000.0
+- - SF Forward Sponsored by San Francisco Chamber of Commerce
+  - 99400.0
+- - Neighbors for a Better San Francisco Advocacy
+  - 50000.0
 - - Kilroy Realty, L.p.
   - 25000.0
 contributors_cand:
@@ -79,7 +85,11 @@ top_bm_spends:
   cmte_fppcid: '1485633'
   cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
     BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  total_expense: 401592.34
+  total_expense: 674426.34
+- cmte_nid: '157756164'
+  cmte_fppcid: '1381090'
+  cmte_name: HOTEL COUNCIL PAC
+  total_expense: 20000.0
 
 ---
 

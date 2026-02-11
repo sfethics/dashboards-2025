@@ -57,6 +57,12 @@ committees:
 - cmte_name: California Professional Firefighters Political Action Committee
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
+- cmte_name: Hotel Council PAC
+  cmte_fppcid: '1381090'
+  cmte_nid: '157756164'
+- cmte_name: Neighbors for a Better San Francisco Advocacy
+  cmte_fppcid: '1431167'
+  cmte_nid: '193427405'
 - cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
   cmte_fppcid: '891394'
   cmte_nid: '121720608'
@@ -66,6 +72,9 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: SF Forward Sponsored by San Francisco Chamber of Commerce
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
 - cmte_name: Teamsters Union Local No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'

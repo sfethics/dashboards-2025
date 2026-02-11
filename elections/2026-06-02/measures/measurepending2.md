@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-02-05'
+last_updated: '2026-02-10'
 candidate: false
 title: 'PENDING2: Protect Local Jobs Act'
 breadcrumbs:
@@ -16,8 +16,8 @@ multi_committees:
   filer_id: '1485633'
   committee_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY,
     SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 525000.0
-  expenses: 401592.34
+  funds: 809400.01
+  expenses: 674426.34
 
 ---
 
