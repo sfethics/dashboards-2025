@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2025-09-16'
-last_updated: '2026-02-09'
+last_updated: '2026-02-11'
 breadcrumbs:
 - - Sep 16, 2025
   - elections/2025-09-16/
