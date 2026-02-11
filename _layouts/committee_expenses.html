@@ -18,35 +18,48 @@ electionnav: true
   </div>
 </div>
 <div class="container my-4">
-    <div class="row g-4">
+    <div class="accordion accordion-flush" id="accordion">
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                About the committee expenses table
+            </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion">
+            <div class="accordion-body">
+                <p>The table below lists total expenses by local and state committees involved in the <span
+                        class="formatted-date">{{ page.election }}</span> election. The total expense amount for each committee is based on transactions reported to
+                    the Ethics Commission within the two-year period prior to the election date. Click on any committee's link to view more details about that committee.</p>
+
+                <p>The table includes the following types of committees:</p>
+                <ul>
+                    <li>Candidate-Controlled Committee: A committee that is controlled by a candidate running in this election.
+                        Total expense for a candidate-controlled committee is based on transactions reported on Form 496 and Form 460 Schedule E.</li>
+                    </li>
+                    <li>Primarily Formed Candidate/Measure: A committee is “primarily formed” when it makes or initially plans to make more than 70% of its contributions and 
+                    expenditures to support or oppose a specific candidate or measure, or a group of measures or specific local 
+                    candidates all being voted upon in the same election on the same date.
+                        Total expense for a primarily formed committee is based on transactions reported on Form 496 and Form 460 Schedule E.</li>
+                    <li>General Purpose Committee: A committee is “general purpose" if its principal activity is supporting or opposing
+                        a variety of candidates or measures voted on in different elections. 
+                        Total expense for a general purpose committee is based on transactions reported on Form 496 and Form 460 Schedule D.</li>
+                    <li>Independent Expenditure Committee: An individual or entity that makes independent expenditures from their own funds to support or oppose candidates or measures.
+                        Total expense for an independent expenditure committee is based on transactions reported on Form 461.
+                    </li>
+                </ul>            
+            </div>
+        </div>
+    </div>
+    <!-- <div class="row g-4">
         <div class="col-lg-12 h-100">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-3 p-sm-4">
-                    <p>The table below lists total expenses by local and state committees involved in the <span
-                            class="formatted-date">{{ page.election }}</span> election. The total expense amount for each committee is based on transactions reported to
-                        the Ethics Commission within the two-year period prior to the election date. Click on any committee's link to view more details about that committee.</p>
 
-                    <p>The table includes the following types of committees:</p>
-                    <ul>
-                        <li>Candidate-Controlled Committee: A committee that is controlled by a candidate running in this election.
-                            Total expense for a candidate-controlled committee is based on transactions reported on Form 496 and Form 460 Schedule E.</li>
-                        </li>
-                        <li>Primarily Formed Candidate/Measure: A committee is “primarily formed” when it makes or initially plans to make more than 70% of its contributions and 
-                        expenditures to support or oppose a specific candidate or measure, or a group of measures or specific local 
-                        candidates all being voted upon in the same election on the same date.
-                            Total expense for a primarily formed committee is based on transactions reported on Form 496 and Form 460 Schedule E.</li>
-                        <li>General Purpose Committee: A committee is “general purpose" if its principal activity is supporting or opposing
-                             a variety of candidates or measures voted on in different elections. 
-                             Total expense for a general purpose committee is based on transactions reported on Form 496 and Form 460 Schedule D.</li>
-                        <li>Independent Expenditure Committee: An individual or entity that makes independent expenditures from their own funds to support or oppose candidates or measures.
-                            Total expense for an independent expenditure committee is based on transactions reported on Form 461.
-                        </li>
-                    </ul>
                     
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="row g-4">
         <div class="col-12 py-4 h-100">
             <div class="card border-0 box-shadow-contributions rounded-4 h-100">
@@ -64,10 +77,10 @@ electionnav: true
                             <tr>
                                 <td>
                                     {% if committee.cmte_fppcid == 'unknown' or committee.cmte_nid == 'unknown' %}
-                                    {{ committee.cmte_name }}
+                                    {{ committee.cmte_name | truncate: 70 }}
                                     {% else %}
                                     <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ committee.cmte_fppcid }}.html">
-                                        {{ committee.cmte_name }}
+                                        {{ committee.cmte_name | truncate: 70 }}
                                     </a>
                                     {% endif %}
                                 </td>
