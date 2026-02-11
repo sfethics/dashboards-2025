@@ -23,18 +23,39 @@ electionnav: true
         <h2 style="margin-bottom: -1rem;">Elected Offices</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="candidate-committees" class="hover-link mb-0">
-                        <span>Committee Funds &amp; Expenses for Elected Offices</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#candidate-ie-summaryTT" aria-label="About Candidate Controlled Committees">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-                        <a href="#candidate-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link"></i>
-                        </a>
-                    </h3>
-                </div>
+                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="candidate-committees" class="hover-link mb-0">
+    <span>Committee Funds &amp; Expenses for Elected Offices</span>
+  </h3>
+
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#candidate-ie-summaryTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#candidate-committees">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
                 <div class="card-body p-3">
                     <table id="table_candidate" class="table caption-top dtify_both">
                         <thead class="table-light">
@@ -90,19 +111,39 @@ electionnav: true
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="top-committees-cand" class="hover-link mb-0">
-                        <span>Top Committees Spending on Elected Offices</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#top-spending-committeesTT" aria-label="Top Spending on Elected Offices">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="top-committees-cand" class="hover-link mb-0">
+    <span>Top Committees Spending on Elected Offices</span>
+  </h3>
 
-                        <a href="#top-committees-cand" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#top-spending-committeesTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#top-committees-cand">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
                 <div class="card-body p-3">
                     <table id="table_candidate_committees" class="table caption-top dtify_topcand">
                         <thead class="table-light">
@@ -192,21 +233,39 @@ electionnav: true
         <h2 style="margin-bottom:-1rem">Ballot Measures</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ballot-measure-committees" class="hover-link mb-0">
-                        <span>Committee Funds & Expenses for Ballot Measures</span>
+               <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="ballot-measure-committees" class="hover-link mb-0">
+    <span>Committee Funds &amp; Expenses for Ballot Measures</span>
+  </h3>
 
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ballot-measure-committeesTT" aria-label="About Ballot Measures">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
 
-                        <a href="#ballot-measure-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-
-                    </h3>
-                </div>
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#ballot-measure-committeesTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#ballot-measure-committees">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
 
                 <div class="card-body p-3">
@@ -255,19 +314,39 @@ electionnav: true
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="top-committees-bm" class="hover-link mb-0">
-                        <span>Top Committees Spending on Ballot Measures</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#top-spending-committeesTT" aria-label="Top Spending on Ballot Measures">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="top-committees-bm" class="hover-link mb-0">
+    <span>Top Committees Spending on Ballot Measures</span>
+  </h3>
 
-                        <a href="#top-committees-bm" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#top-spending-committeesTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#top-committees-bm">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
                 <div class="card-body p-3">
                     <table id="table_ballotmeasure_committees" class="table caption-top dtify_topbm">
                         <thead class="table-light">

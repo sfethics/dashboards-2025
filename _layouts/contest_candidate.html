@@ -35,18 +35,30 @@ electionnav: true
             <h2>Summary Totals</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="candidate-committees" class="hover-link mb-0">
-                        <span>Funds & Expenses by Candidate</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#candidate-committeesTT" aria-label="About Candidate Controlled Committees">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-                        <a href="#candidate-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link"></i>
-                        </a>
-                    </h3>
-                </div>
+               <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="candidate-committees" class="mb-0">
+    Funds &amp; Expenses by Candidate
+  </h3>
+
+  <div class="dropdown">
+    <button class="icon-btn" data-bs-toggle="dropdown" aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button class="dropdown-item" data-bs-toggle="offcanvas"
+          data-bs-target="#candidate-committeesTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a class="dropdown-item copy-anchor" href="#candidate-committees">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
                 <div class="card-body p-3 p-sm-4">
                     <table class="table caption-top dtify_both candidate_controlled">
@@ -93,18 +105,39 @@ electionnav: true
             <h2>Third-Party Activity Supporting &amp; Opposing Candidates for {{page.title}}</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ie-support" class="hover-link mb-0">
-                        <span>Third-Party Support</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ie-supportTT" aria-label="About Third-Party Support">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-                        <a href="#ie-support" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link"></i>
-                        </a>
-                    </h3>
-                </div>
+<div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="ie-support" class="hover-link mb-0">
+    <span>Third-Party Support</span>
+  </h3>
+
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#ie-supportTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#ie-support">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
                 <div class="card-body p-3 p-sm-4">
                     {%- if ie_supporters -%}
@@ -156,18 +189,39 @@ electionnav: true
         </div>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ie-oppose" class="hover-link mb-0">
-                        <span>Third-Party Opposition</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ie-opposeTT" aria-label="About Third-Party Opposition">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-                        <a href="#ie-oppose" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link"></i>
-                        </a>
-                    </h3>
-                </div>
+                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="ie-oppose" class="hover-link mb-0">
+    <span>Third-Party Opposition</span>
+  </h3>
+
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#ie-opposeTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#ie-oppose">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
 
                 <div class="card-body p-3 p-sm-4">
                     {%- if ie_opposition -%}
@@ -221,19 +275,39 @@ electionnav: true
     <div class="row g-4 mt-4">
         <div class="col-12 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ie-committees" class="hover-link mb-0">
-                        <span>Independent Expenditure Committees Funds &amp; Spending</span>
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ie-committeesTT" aria-label="About Independent Expenditure Committees">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-                        <a href="#ie-committees" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link"></i>
-                        </a>
-                    </h3>
-                </div>
+               <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+  <h3 id="ie-committees" class="hover-link mb-0">
+    <span>Independent Expenditure Committees Funds &amp; Spending</span>
+  </h3>
 
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#ie-committeesTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#ie-committees">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
                 <div class="card-body p-3 p-sm-4">
                     <table class="table caption-top dtify_both all_ie_committees">
                         <thead class="table-light">

@@ -19,538 +19,650 @@ electionnav: true
 {% assign cmte_type_text = 'Slate Mailer Committee' %}
 {%- endif -%}
 {%- endif -%}
+
 <div class="border-bottom border-1 border-tertiary-subtle">
-    <div class="container">
-        <div class="row">
-            <div class="d-flex flex-column flex-md-row align-items-md-end justify-content-between gap-3 mb-3 mt-3">
-                <div class="flex-grow-1">
-                    <h1 class="mt-3 mt-md-0 mb-1">
-                        {% if page.filer_name.size > 30 %}
-                        <span class="fs-2">{{ page.filer_name }}</span>
-                        {% else %}
-                        <span>{{ page.filer_name }}</span>
-                        {% endif %}
-                    </h1>
-                    <div class="mb-3 mb-md-0 d-flex gap-1 flex-wrap">
-                        <span class="badge bg-{{bgclass}} text-light px-3 py-1 rounded-pill">
-                            {{ cmte_type_text }}
-                        </span>
-                    </div>
-                </div>
-                <div class="d-flex gap-2 flex-shrink-0">
-                    <button data-bs-toggle="offcanvas" data-bs-target="#about-committeeTT"
-                        class="btn btn-outline-{{bgclass}}" href="#">
-                        <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
-                        Committee Details
-                    </button>
-                    <button data-bs-toggle="offcanvas" data-bs-target="#disclosure-statementsTT"
-                        class="btn btn-outline-{{bgclass}}" href="#">
-                        <i class="fa-regular fa-file-contract" aria-hidden="true"></i>
-                        Filings
-                    </button>
-                    {% assign share_btn_class = "btn-outline-" | append: bgclass %}
-                    {% include share.html btn_class=share_btn_class %}
-                </div>
-            </div>
+  <div class="container">
+    <div class="row">
+      <div class="d-flex flex-column flex-md-row align-items-md-end justify-content-between gap-3 mb-3 mt-3">
+        <div class="flex-grow-1">
+          <h1 class="mt-3 mt-md-0 mb-1">
+            {% if page.filer_name.size > 30 %}
+            <span class="fs-2">{{ page.filer_name }}</span>
+            {% else %}
+            <span>{{ page.filer_name }}</span>
+            {% endif %}
+          </h1>
+          <div class="mb-3 mb-md-0 d-flex gap-1 flex-wrap">
+            <span class="badge bg-{{bgclass}} text-light px-3 py-1 rounded-pill">
+              {{ cmte_type_text }}
+            </span>
+          </div>
         </div>
+
+        <div class="d-flex gap-2 flex-shrink-0">
+          <button data-bs-toggle="offcanvas" data-bs-target="#about-committeeTT"
+              class="btn btn-outline-{{bgclass}}" href="#">
+            <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            Committee Details
+          </button>
+          <button data-bs-toggle="offcanvas" data-bs-target="#disclosure-statementsTT"
+              class="btn btn-outline-{{bgclass}}" href="#">
+            <i class="fa-regular fa-file-contract" aria-hidden="true"></i>
+            Filings
+          </button>
+          {% assign share_btn_class = "btn-outline-" | append: bgclass %}
+          {% include share.html btn_class=share_btn_class %}
+        </div>
+
+      </div>
     </div>
+  </div>
 </div>
+
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Campaign finance summary">
-    <div class="row g-4">
-        <h2 class="mb-0">
-            Summary Totals
-            <button type="button" class="icon-btn ms-2 copy-anchor" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"
-                aria-label="About Contributions Overview">
-                <i class="fa-regular fa-circle-info"></i>
+  <div class="row g-4">
+
+    <h2 id="summary-totals" class="mb-0 d-inline-flex align-items-center">
+      <span>Summary Totals</span>
+
+      <div class="dropdown ms-2">
+        <button
+          class="icon-btn icon-btn-sm"
+          data-bs-toggle="dropdown"
+          aria-label="Section actions">
+          <i class="fa-solid fa-ellipsis-vertical"></i>
+        </button>
+
+        <ul class="dropdown-menu">
+          <li>
+            <button
+              type="button"
+              class="dropdown-item"
+              data-bs-toggle="offcanvas"
+              data-bs-target="#summary-totalsTT">
+              About this data
             </button>
-        </h2>
-        {% if page.dates[0] != '' and page.dates[1] != '' %}
-        <p class="mb-0 mt-1">
-            Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
-            and <span class="formatted-date">{{page.dates[1]}}</span>
-        </p>
-        {% endif %}
-        <!-- Total Contributions -->
-        <div class="col-12 col-md-6">
-            <div class="card border-0 shadow-sm rounded-4 h-100">
-                <div class="card-body p-4">
-                    <div class="d-flex flex-wrap row-gap-2 align-items-start justify-content-between mb-3">
-                        <div class="d-flex align-items-center gap-2">
-                            <h3 class="mb-0 text-contributions"><i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i> Total
-                                Contributions</h3>
-                        </div>
-                    </div>
-                    {% if page.totals[0] == 0.0 or page.totals[0] == '' %}
-                    {% assign exp_total_string = 'None Available' %}
-                    <span class="display-6 fw-semibold currency"
-                        aria-label="Total contributions amount">{{exp_total_string}}</span>
-                    <p class="card-text">
-                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
-                                contribution data not available?</span></a>
-                    </p>
-                    {% else %}
-                    <span class="display-6 fw-semibold currency"
-                        aria-label="Total contributions amount">
-                        {{page.totals[0]}}
-                    </span>
-                    {% endif %}
-                </div>
+          </li>
+          <li>
+            <a class="dropdown-item copy-anchor" href="#summary-totals">
+              Copy link
+            </a>
+          </li>
+        </ul>
+      </div>
+    </h2>
+
+    {% if page.dates[0] != '' and page.dates[1] != '' %}
+    <p class="mb-0 mt-1">
+      Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
+      and <span class="formatted-date">{{page.dates[1]}}</span>
+    </p>
+    {% endif %}
+
+    <!-- Total Contributions -->
+    <div class="col-12 col-md-6">
+      <div class="card border-0 shadow-sm rounded-4 h-100">
+        <div class="card-body p-4">
+          <div class="d-flex flex-wrap row-gap-2 align-items-start justify-content-between mb-3">
+            <div class="d-flex align-items-center gap-2">
+              <h3 class="mb-0 text-contributions">
+                <i class="fa-solid fa-hand-holding-dollar" aria-hidden="true"></i>
+                Total Contributions
+              </h3>
             </div>
+          </div>
+
+          {% if page.totals[0] == 0.0 or page.totals[0] == '' %}
+          {% assign exp_total_string = 'None Available' %}
+          <span class="display-6 fw-semibold currency" aria-label="Total contributions amount">
+            {{exp_total_string}}
+          </span>
+          <p class="card-text">
+            <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT">
+              <span>Why is contribution data not available?</span>
+            </a>
+          </p>
+          {% else %}
+          <span class="display-6 fw-semibold currency" aria-label="Total contributions amount">
+            {{page.totals[0]}}
+          </span>
+          {% endif %}
         </div>
-        <!-- Total Expenses -->
-        <div class="col-12 col-md-6">
-            <div class="card border-0 shadow-sm rounded-4 h-100">
-                <div class="card-body p-4">
-                    <div class="d-flex align-items-center gap-2 mb-3">
-                        <h3 class="mb-0 text-expenditures"><i class="fa-solid fa-money-check" aria-hidden="true"></i> Total Expenditures
-                        </h3>
-                    </div>
-                    {% if page.totals[1] == 0.0 or page.totals[1] == '' %}
-                    {% assign exp_total_string = 'None Available' %}
-                    <span class="display-6 fw-semibold currency"
-                        aria-label="Total expenses amount">{{exp_total_string}}</span>
-                    <p class="card-text">
-                        <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT"><span>Why is
-                                expenditure data not available?</span></a>
-                    </p>
-                    {% else %}
-                    <span class="display-6 fw-semibold currency" aria-label="Total expenses amount">
-                        {{page.totals[1]}}
-                    </span>
-                    {% endif %}
-                </div>
-            </div>
-        </div>
+      </div>
     </div>
+
+    <!-- Total Expenses -->
+    <div class="col-12 col-md-6">
+      <div class="card border-0 shadow-sm rounded-4 h-100">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-center gap-2 mb-3">
+            <h3 class="mb-0 text-expenditures">
+              <i class="fa-solid fa-money-check" aria-hidden="true"></i>
+              Total Expenditures
+            </h3>
+          </div>
+
+          {% if page.totals[1] == 0.0 or page.totals[1] == '' %}
+          {% assign exp_total_string = 'None Available' %}
+          <span class="display-6 fw-semibold currency" aria-label="Total expenses amount">
+            {{exp_total_string}}
+          </span>
+          <p class="card-text">
+            <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT">
+              <span>Why is expenditure data not available?</span>
+            </a>
+          </p>
+          {% else %}
+          <span class="display-6 fw-semibold currency" aria-label="Total expenses amount">
+            {{page.totals[1]}}
+          </span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+  </div>
 </div>
+
 {%- if page.factoids -%}
 <!-- Factoids -->
 <div class="container my-5" aria-label="Contributions overview">
-    <div class="row g-4">
-        <div class="col-12">
-            <div class="card border-0 box-shadow-contributions rounded-4">
+  <div class="row g-4">
+    <div class="col-12">
+      <div class="card border-0 box-shadow-contributions rounded-4">
 
-                <!-- Card Header -->
-                <div class="card-header custom-card-header">
-                    <h3 id="contributions-overview" class="hover-link mb-0">
-                        <span>Contributions Overview</span>
+        <!-- Card Header -->
+        <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+          <h3 id="contributions-overview" class="hover-link mb-0">
+            <span>Contributions Overview</span>
+          </h3>
 
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#contributionsOverviewTT" aria-label="About Contributions Overview">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+          <div class="dropdown">
+            <button class="icon-btn" data-bs-toggle="dropdown" aria-label="Card actions">
+              <i class="fa-solid fa-ellipsis-vertical"></i>
+            </button>
 
-                        <a href="#contributions-overview" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
-
-                <!-- Card Body -->
-                <div class="card-body">
-                    <div class="factoids-row-wrapper position-relative" role="region"
-                        aria-labelledby="contributions-overview">
-
-                        <!-- Left arrow (mobile/tablet only) -->
-                        <button class="scroll-btn scroll-btn-left btn btn-light shadow-sm d-lg-none" type="button"
-                            aria-label="Scroll contributions overview left" aria-controls="factoidsScroller">
-                            <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
-                        </button>
-
-                        <!-- Scroller -->
-                        <div id="factoidsScroller" class="row g-4 factoids-row" tabindex="0">
-                            {% for factoid in page.factoids %}
-                            <div class="col-12 col-sm-6 col-lg-3">
-                                {%- include factoid.html
-                                index=forloop.index
-                                title=factoid.title
-                                about=factoid.about
-                                data=factoid.data
-                                data_css=factoid.data_classes
-                                info=factoid.info
-                                info_css=factoid.info_classes
-                                -%}
-                            </div>
-                            {% endfor %}
-                        </div>
-
-                        <!-- Right arrow (mobile/tablet only) -->
-                        <button class="scroll-btn scroll-btn-right btn btn-light shadow-sm d-lg-none" type="button"
-                            aria-label="Scroll contributions overview right" aria-controls="factoidsScroller">
-                            <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
-                        </button>
-
-                    </div>
-                </div>
-
-            </div>
+            <ul class="dropdown-menu dropdown-menu-end">
+              <li>
+                <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                  data-bs-target="#contributionsOverviewTT">
+                  About this data
+                </button>
+              </li>
+              <li>
+                <a class="dropdown-item copy-anchor" href="#contributions-overview">
+                  Copy link
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
+
+        <!-- Card Body -->
+        <div class="card-body">
+          <div class="factoids-row-wrapper position-relative" role="region" aria-labelledby="contributions-overview">
+
+            <!-- Left arrow (mobile/tablet only) -->
+            <button class="scroll-btn scroll-btn-left btn btn-light shadow-sm d-lg-none" type="button"
+              aria-label="Scroll contributions overview left" aria-controls="factoidsScroller">
+              <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+            </button>
+
+            <!-- Scroller -->
+            <div id="factoidsScroller" class="row g-4 factoids-row" tabindex="0">
+              {% for factoid in page.factoids %}
+              <div class="col-12 col-sm-6 col-lg-3">
+                {%- include factoid.html
+                  index=forloop.index
+                  title=factoid.title
+                  about=factoid.about
+                  data=factoid.data
+                  data_css=factoid.data_classes
+                  info=factoid.info
+                  info_css=factoid.info_classes
+                -%}
+              </div>
+              {% endfor %}
+            </div>
+
+            <!-- Right arrow (mobile/tablet only) -->
+            <button class="scroll-btn scroll-btn-right btn btn-light shadow-sm d-lg-none" type="button"
+              aria-label="Scroll contributions overview right" aria-controls="factoidsScroller">
+              <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+            </button>
+
+          </div>
+        </div>
+
+      </div>
     </div>
+  </div>
 </div>
 {%- endif -%}
+
 <!-- Contributors + Expenditures Datatables -->
 <div class="container my-5 h-100">
-    <h2>Activity Details</h2>
-    <div class="row g-4">
-        <!-- Contributors -->
-        <div class="col-lg-6 cm-contributors search-box h-100">
-            <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="contributors" class="hover-link mb-0">
-                        <span class="">Contributors</span>
+  <h2>Activity Details</h2>
+  <div class="row g-4">
 
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#contributorsTT" aria-label="About Contributors">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+    <!-- Contributors -->
+    <div class="col-lg-6 cm-contributors search-box h-100">
+      <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="contributors" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Contributors</span>
 
-                        <a href="#contributors" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
 
-                    </h3>
-                </div>
-
-                <div class="card-body p-3 p-sm-4">
-
-                    <table id="contributors_table" class="table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small">First Name</th>
-                                <th class="text-uppercase small">Last Name</th>
-                                <th class="text-uppercase small text-end">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for contributor in page.contributors %}
-                            <tr>
-                                <td class="fw-medium">{{ contributor[0] }}</td>
-                                <td class="fw-medium">
-                                    {%- if contributor[2] != "" -%}
-                                    <a
-                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{contributor[2]}}.html">
-                                        {{ contributor[1] }}
-                                    </a>
-                                    {%- else -%}
-                                    {{ contributor[1] }}
-                                    {%- endif -%}
-                                </td>
-                                <td class="text-end fw-semibold">{{ contributor[3] }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-
-                </div>
-
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#contributorsTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#contributors">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
             </div>
-        </div>
-        <!-- Expenditures -->
-        <div class="col-lg-6 cm-expenditures search-box h-100">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-
-                <div class="card-header custom-card-header">
-                    <h3 id="expenditures" class="hover-link mb-0">
-                        <span class="">Expenditures</span>
-
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#expendituresTT" aria-label="About Expenditures">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-
-                        <a href="#expenditures" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-
-                    </h3>
-                </div>
-
-                <div class="card-body p-3 p-sm-4">
-
-                    <table id="expenditures_table" class="table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small">Category</th>
-                                <th class="text-uppercase small text-end">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for exp in page.expenditures %}
-                            <tr>
-                                <td>{{ exp[0] }}</td>
-                                <td class="text-end fw-semibold">{{ exp[1] }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-
-                </div>
-
-            </div>
+          </h3>
         </div>
 
-        <!-- Loans received-->
-        {%- if page.loans_received -%}
-        <div class="col-lg-6 cm-loans h-100">
-            <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="loans_received" class="hover-link mb-0">
-                        <span class="">Loans Received</span>
-
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas" data-bs-target="#loansTT"
-                            aria-label="About Loans Received">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-
-                        <a href="#loans_received" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-
-                    </h3>
-                </div>
-
-                <div class="card-body p-3">
-
-                    <table id="loans_received_table" class="table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small">Lendor</th>
-                                <th class="text-uppercase small">Total</th>
-                                <th class="text-uppercase small">Paid</th>
-                                <th class="text-uppercase small">Forgiven</th>
-                                <th class="text-uppercase small">Outstanding</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for lendor in page.loans_received %}
-                            <tr>
-                                <td class="fw-medium">{{ lendor.fullname }}</td>
-                                <td class="fw-semibold">{{ lendor.loan_amt1 }}</td>
-                                <td class="fw-semibold">{{ lendor.loan_amt5 }}</td>
-                                <td class="fw-semibold">{{ lendor.loan_amt6 }}</td>
-                                <td class="text-end fw-semibold">
-                                    {{ lendor.loan_amt1 | minus: lendor.loan_amt5 | minus: lendor.loan_amt6 }}
-                                </td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-
-                </div>
-            </div>
+        <div class="card-body p-3 p-sm-4">
+          <table id="contributors_table" class="table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small">First Name</th>
+                <th class="text-uppercase small">Last Name</th>
+                <th class="text-uppercase small text-end">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for contributor in page.contributors %}
+              <tr>
+                <td class="fw-medium">{{ contributor[0] }}</td>
+                <td class="fw-medium">
+                  {%- if contributor[2] != "" -%}
+                  <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{contributor[2]}}.html">
+                    {{ contributor[1] }}
+                  </a>
+                  {%- else -%}
+                  {{ contributor[1] }}
+                  {%- endif -%}
+                </td>
+                <td class="text-end fw-semibold">{{ contributor[3] }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
         </div>
-        {%- endif %}
 
+      </div>
     </div>
+
+    <!-- Expenditures -->
+    <div class="col-lg-6 cm-expenditures search-box h-100">
+      <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="expenditures" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Expenditures</span>
+
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
+
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#expendituresTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#expenditures">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h3>
+        </div>
+
+        <div class="card-body p-3 p-sm-4">
+          <table id="expenditures_table" class="table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small">Category</th>
+                <th class="text-uppercase small text-end">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for exp in page.expenditures %}
+              <tr>
+                <td>{{ exp[0] }}</td>
+                <td class="text-end fw-semibold">{{ exp[1] }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Loans received -->
+    {%- if page.loans_received -%}
+    <div class="col-lg-6 cm-loans h-100">
+      <div class="card border-0 box-shadow-contributions rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="loans_received" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Loans Received</span>
+
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
+
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#loansTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#loans_received">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h3>
+        </div>
+
+        <div class="card-body p-3">
+          <table id="loans_received_table" class="table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small">Lendor</th>
+                <th class="text-uppercase small">Total</th>
+                <th class="text-uppercase small">Paid</th>
+                <th class="text-uppercase small">Forgiven</th>
+                <th class="text-uppercase small">Outstanding</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for lendor in page.loans_received %}
+              <tr>
+                <td class="fw-medium">{{ lendor.fullname }}</td>
+                <td class="fw-semibold">{{ lendor.loan_amt1 }}</td>
+                <td class="fw-semibold">{{ lendor.loan_amt5 }}</td>
+                <td class="fw-semibold">{{ lendor.loan_amt6 }}</td>
+                <td class="text-end fw-semibold">
+                  {{ lendor.loan_amt1 | minus: lendor.loan_amt5 | minus: lendor.loan_amt6 }}
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+    {%- endif %}
+
+  </div>
 </div>
-<!--New Code Break Line-->
-
-
-
 
 <!-- IEs -->
 <div class="container my-5 h-100">
-    <div class="row g-4">
-        {% if page.ie_measures -%}
-        <div class="col-lg-12 cm-expenditures search-box h-100">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ie-measures" class="hover-link mb-0">
-                        <span>Independent Expenditures Regarding Ballot Measures</span>
+  <div class="row g-4">
 
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ie-measuresTT"
-                            aria-label="About Independent Expenditures Regarding Ballot Measures">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
+    {% if page.ie_measures -%}
+    <div class="col-lg-12 cm-expenditures search-box h-100">
+      <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="ie-measures" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Independent Expenditures Regarding Ballot Measures</span>
 
-                        <a href="#ie-measures" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
 
-                <div class="card-body p-3 p-sm-4">
-                    <table class="table caption-top ie_measures" id="ie-measures_table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small" scope="col">Measure</th>
-                                <th class="text-uppercase small" scope="col">Position</th>
-                                <th class="text-uppercase small text-end" scope="col">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for ie in page.ie_measures %}
-                            <tr>
-                                <td class="fw-medium">{{ ie.contest }}</td>
-                                <td class="fw-medium">{{ ie.position }}</td>
-                                <td class="currency text-end fw-semibold">{{ ie.total }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#ie-measuresTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#ie-measures">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
             </div>
+          </h3>
         </div>
-        {%- endif %}
 
-        {%- if page.ie_candidates -%}
-        <div class="col-lg-12 cm-expenditures h-100">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="ie-candidates" class="hover-link mb-0">
-                        <span>Independent Expenditures Regarding Candidates</span>
-
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#ie-candidatesTT"
-                            aria-label="About Independent Expenditures Regarding Candidates">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-
-                        <a href="#ie-candidates" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="card-body p-3 pt-0">
-                    <table class="table caption-top dtify" id="ie-candidates_table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small" scope="col">Contest</th>
-                                <th class="text-uppercase small" scope="col">Candidate</th>
-                                <th class="text-uppercase small" scope="col">Position</th>
-                                <th class="text-uppercase small text-end" scope="col">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for ie in page.ie_candidates %}
-                            <tr>
-                                <td class="fw-medium">{{ ie.contest }}</td>
-                                <td class="fw-medium">{{ ie.candidate_name }}</td>
-                                <td class="fw-medium">{{ ie.position }}</td>
-                                <td class="currency text-end fw-semibold">{{ ie.total }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-
-            </div>
+        <div class="card-body p-3 p-sm-4">
+          <table class="table caption-top ie_measures" id="ie-measures_table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small" scope="col">Measure</th>
+                <th class="text-uppercase small" scope="col">Position</th>
+                <th class="text-uppercase small text-end" scope="col">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for ie in page.ie_measures %}
+              <tr>
+                <td class="fw-medium">{{ ie.contest }}</td>
+                <td class="fw-medium">{{ ie.position }}</td>
+                <td class="currency text-end fw-semibold">{{ ie.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
         </div>
-        {%- endif %}
 
-        {%- if page.F497P2 -%}
-        <div class="col-lg-12 cm-expenditures h-100">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="f497p2" class="hover-link mb-0">
-                        <span>Late Period Contributions Made</span>
-
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#f497p2TT" aria-label="About Late Period Contributions Made">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-
-                        <a href="#f497p2" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="card-body p-3 pt-0">
-                    <table class="table caption-top dt_f497p2" id="f497p2_table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small" scope="col">Name</th>
-                                <th class="text-uppercase small text-end" scope="col">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for x in page.F497P2 %}
-                            <tr>
-                                <td class="fw-medium">
-                                    {%- if x.tx_cmteid -%}
-                                    <a
-                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">
-                                        {{ x.name }}
-                                    </a>
-                                    {%- else -%}
-                                    {{ x.name }}
-                                    {%- endif -%}
-                                </td>
-                                <td class="currency text-end fw-semibold">{{ x.total }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-
-            </div>
-        </div>
-        {%- endif %}
-
-        {%- if page.ies -%}
-        <div class="col-lg-12 cm-expenditures h-100">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header">
-                    <h3 id="schedule-d" class="hover-link mb-0">
-                        <span class="fs-5">Expenditures Supporting/Opposing Other Candidates, Measures and
-                            Committees</span>
-
-                        <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas"
-                            data-bs-target="#schedule-dTT"
-                            aria-label="About Expenditures Supporting/Opposing Other Candidates, Measures and Committees">
-                            <i class="fa-regular fa-circle-info"></i>
-                        </button>
-
-                        <a href="#schedule-d" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                            <i class="fa-regular fa-link" aria-hidden="true"></i>
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="card-body p-3 pt-0">
-                    <table class="table caption-top dtify" id="schedule-d_table">
-                        <thead class="table-light">
-                            <tr>
-                                <th class="text-uppercase small" scope="col">Name</th>
-                                <th class="text-uppercase small" scope="col">Payment Type</th>
-                                <th class="text-uppercase small" scope="col">Position</th>
-                                <th class="text-uppercase small text-end" scope="col">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for x in page.ies %}
-                            <tr>
-                                <td class="fw-medium">
-                                    {%- if x.tx_cmteid -%}
-                                    <a
-                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">
-                                        {{ x.name }}
-                                    </a>
-                                    {%- else -%}
-                                    {{ x.name }}
-                                    {%- endif -%}
-                                </td>
-                                <td class="fw-medium">{{ x.tx_descr }}</td>
-                                <td class="fw-medium">{{ x.position }}</td>
-                                <td class="currency text-end fw-semibold">{{ x.total }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                    <div>** Indicates an expenditure that is not directly related to a local contest on the <span class="formatted-date">{{page.election}}</span> election.</div>
-                </div>
-            </div>
-        </div>
-        {%- endif %}
+      </div>
     </div>
-</div><!-- end IEs -->
+    {%- endif %}
 
+    {%- if page.ie_candidates -%}
+    <div class="col-lg-12 cm-expenditures h-100">
+      <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="ie-candidates" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Independent Expenditures Regarding Candidates</span>
 
-{%- include disclosure-statements.html
-filings=page.filings
--%}
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
+
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#ie-candidatesTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#ie-candidates">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h3>
+        </div>
+
+        <div class="card-body p-3 pt-0">
+          <table class="table caption-top dtify" id="ie-candidates_table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small" scope="col">Contest</th>
+                <th class="text-uppercase small" scope="col">Candidate</th>
+                <th class="text-uppercase small" scope="col">Position</th>
+                <th class="text-uppercase small text-end" scope="col">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for ie in page.ie_candidates %}
+              <tr>
+                <td class="fw-medium">{{ ie.contest }}</td>
+                <td class="fw-medium">{{ ie.candidate_name }}</td>
+                <td class="fw-medium">{{ ie.position }}</td>
+                <td class="currency text-end fw-semibold">{{ ie.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+    {%- endif %}
+
+    {%- if page.F497P2 -%}
+    <div class="col-lg-12 cm-expenditures h-100">
+      <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="f497p2" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span>Late Period Contributions Made</span>
+
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
+
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#f497p2TT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#f497p2">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h3>
+        </div>
+
+        <div class="card-body p-3 pt-0">
+          <table class="table caption-top dt_f497p2" id="f497p2_table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small" scope="col">Name</th>
+                <th class="text-uppercase small text-end" scope="col">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for x in page.F497P2 %}
+              <tr>
+                <td class="fw-medium">
+                  {%- if x.tx_cmteid -%}
+                  <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">
+                    {{ x.name }}
+                  </a>
+                  {%- else -%}
+                  {{ x.name }}
+                  {%- endif -%}
+                </td>
+                <td class="currency text-end fw-semibold">{{ x.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+    {%- endif %}
+
+    {%- if page.ies -%}
+    <div class="col-lg-12 cm-expenditures h-100">
+      <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+        <div class="card-header custom-card-header">
+          <h3 id="schedule-d" class="hover-link mb-0 d-inline-flex align-items-center">
+            <span class="fs-5">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
+
+            <div class="dropdown ms-2">
+              <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
+                <i class="fa-solid fa-ellipsis-vertical"></i>
+              </button>
+
+              <ul class="dropdown-menu">
+                <li>
+                  <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
+                    data-bs-target="#schedule-dTT">
+                    About this data
+                  </button>
+                </li>
+                <li>
+                  <a class="dropdown-item copy-anchor" href="#schedule-d">
+                    Copy link
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h3>
+        </div>
+
+        <div class="card-body p-3 pt-0">
+          <table class="table caption-top dtify" id="schedule-d_table">
+            <thead class="table-light">
+              <tr>
+                <th class="text-uppercase small" scope="col">Name</th>
+                <th class="text-uppercase small" scope="col">Payment Type</th>
+                <th class="text-uppercase small" scope="col">Position</th>
+                <th class="text-uppercase small text-end" scope="col">Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for x in page.ies %}
+              <tr>
+                <td class="fw-medium">
+                  {%- if x.tx_cmteid -%}
+                  <a href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">
+                    {{ x.name }}
+                  </a>
+                  {%- else -%}
+                  {{ x.name }}
+                  {%- endif -%}
+                </td>
+                <td class="fw-medium">{{ x.tx_descr }}</td>
+                <td class="fw-medium">{{ x.position }}</td>
+                <td class="currency text-end fw-semibold">{{ x.total }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+          <div>** Indicates an expenditure that is not directly related to a local contest on the <span class="formatted-date">{{page.election}}</span> election.</div>
+        </div>
+
+      </div>
+    </div>
+    {%- endif %}
+
+  </div>
+</div>
+<!-- end IEs -->
+
+{%- include disclosure-statements.html filings=page.filings -%}
