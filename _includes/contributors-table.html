@@ -1,31 +1,55 @@
 <div class="card border-0 box-shadow-contributions rounded-4 h-100 mb-3">
 
     <!-- Card Header -->
-    <div class="card-header custom-card-header">
-        <h3 id="top-contributors-{{include.link}}" class="hover-link mb-0">
-            <span>
-                {%- if include.title -%}
-                {{ include.title }}
-                {%- else -%}
-                Top Contributors
-                {%- endif -%}
-            </span>
+    <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
 
-            <button type="button" class="icon-btn ms-2" data-bs-toggle="offcanvas" data-bs-target="#top-contributorsTT"
-                aria-label="About Top Contributors">
-                <i class="fa-regular fa-circle-info"></i>
-            </button>
-
-            <a href="#top-contributors-{{include.link}}" class="icon-btn ms-2 copy-anchor" aria-label="Share Link">
-                <i class="fa-regular fa-link" aria-hidden="true"></i>
-            </a>
-
-        </h3>
-
-        {%- if include.subtitle -%}
-        <p class="text-secondary mb-0">{{ include.subtitle }}</p>
+  <div>
+    <h3 id="top-contributors-{{include.link}}" class="hover-link mb-0">
+      <span>
+        {%- if include.title -%}
+          {{ include.title }}
+        {%- else -%}
+          Top Contributors
         {%- endif -%}
-    </div>
+      </span>
+    </h3>
+
+    {%- if include.subtitle -%}
+      <p class="text-secondary mb-0">
+        {{ include.subtitle }}
+      </p>
+    {%- endif -%}
+  </div>
+
+  <div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#top-contributorsTT">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#top-contributors-{{include.link}}">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</div>
 
 
     <!-- Card Body -->

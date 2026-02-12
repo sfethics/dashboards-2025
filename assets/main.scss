@@ -1130,3 +1130,86 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 .card-title-text {
   display: block;
 }
+
+/* Header tools (menu + search) */
+.card-header-tools {
+  margin-left: auto;
+  justify-content: flex-end;
+}
+
+/* Slot that holds the DT search control */
+.dt-search-slot {
+  flex: 1 1 18rem;
+  min-width: 12rem;
+}
+
+/* Remove extra margins from DT search wrapper once it’s moved */
+.dt-search-slot .dt-search,
+.dt-search-slot .dataTables_filter {
+  margin: 0 !important;
+}
+
+/* On very small screens, let tools row drop under title cleanly */
+@media (max-width: 575.98px) {
+  .card-header-tools {
+    width: 100%;
+  }
+}
+
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+/* Base styling shared by all kebab buttons */
+.icon-btn,
+.icon-btn-sm {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 0.375rem;
+  background-color: #f8f9fa;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  color: #727272;
+  padding: 0;
+  text-decoration: none !important;
+  cursor: pointer;
+
+  transition: background-color 0.15s ease,
+              border-color 0.15s ease,
+              box-shadow 0.15s ease;
+}
+
+/* Default (regular size) */
+.icon-btn {
+  width: 3rem;
+  height: 3rem;
+}
+
+/* Small inline version */
+.icon-btn-sm {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+
+/* Hover/focus */
+.icon-btn:hover,
+.icon-btn:focus,
+.icon-btn-sm:hover,
+.icon-btn-sm:focus {
+  background-color: #e9ecef;
+  border-color: rgba(0, 0, 0, 0.12);
+}
+
+/* Ensure FA icons don't inherit huge font-size from h2/h3 */
+.icon-btn i,
+.icon-btn-sm i {
+  font-size: 1rem;     /* matches your large buttons */
+  line-height: 1;
+}
+
+/* Optional: slightly smaller icon in the small button */
+.icon-btn-sm i {
+  font-size: 0.95rem;
+}
