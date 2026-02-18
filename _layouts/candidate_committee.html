@@ -48,37 +48,12 @@ electionnav: true
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Campaign finance summary">
   <div class="row g-4">
-    <h2 id="summary-totals" class="mb-0 d-inline-flex align-items-center">
-      <span>Summary Totals</span>
-
-      <div class="dropdown ms-2">
-        <button
-          class="icon-btn icon-btn-sm"
-          data-bs-toggle="dropdown"
-          aria-label="Section actions">
-          <i class="fa-solid fa-ellipsis-vertical"></i>
-        </button>
-
-        <ul class="dropdown-menu">
-          <li>
-            <button
-              type="button"
-              class="dropdown-item"
-              data-bs-toggle="offcanvas"
-              data-bs-target="#summary-totalsTT">
-              About this data
-            </button>
-          </li>
-          <li>
-            <a
-              class="dropdown-item copy-anchor"
-              href="#summary-totals">
-              Copy link
-            </a>
-          </li>
-        </ul>
-      </div>
-    </h2>
+    <div class="d-flex column-gap-2 align-items-center">
+        <h2 id="summary-totals" class="mb-0">
+          <span>Summary Totals</span>
+        </h2>
+        {% include dropdown-menu.html offcanvas_id="summary-totalsTT" link="summary-totals" %}
+    </div>
 
         <p class="mb-0 mt-1">
             Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
@@ -143,30 +118,11 @@ electionnav: true
             <div class="card border-0 box-shadow-contributions rounded-4">
 
                 <!-- Card Header -->
-                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
                     <h3 id="contributions-overview" class="hover-link mb-0">
                         <span>Contributions Overview</span>
                     </h3>
-
-                    <div class="dropdown">
-                        <button class="icon-btn" data-bs-toggle="dropdown" aria-label="Card actions">
-                            <i class="fa-solid fa-ellipsis-vertical"></i>
-                        </button>
-
-                        <ul class="dropdown-menu dropdown-menu-end">
-                            <li>
-                                <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
-                                    data-bs-target="#contributionsOverviewTT">
-                                    About this data
-                                </button>
-                            </li>
-                            <li>
-                                <a class="dropdown-item copy-anchor" href="#contributions-overview">
-                                    Copy link
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                    {% include dropdown-menu.html offcanvas_id="contributionsOverviewTT" link="contributions-overview" %}
                 </div>
 
                 <!-- Card Body -->
@@ -218,30 +174,13 @@ electionnav: true
         <!-- Contributors -->
         <div class="col-lg-6 cm-contributors search-box h-100">
             <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-                <div class="card-header custom-card-header">
+                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
                     <h3 id="contributors" class="hover-link mb-0 d-inline-flex align-items-center">
                         <span>Contributors</span>
-
-                        <div class="dropdown ms-2">
-                            <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
-                                <i class="fa-solid fa-ellipsis-vertical"></i>
-                            </button>
-
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
-                                        data-bs-target="#contributorsTT">
-                                        About this data
-                                    </button>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item copy-anchor" href="#contributors">
-                                        Copy link
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
                     </h3>
+                    <div style="z-index: 2;">
+                        {% include dropdown-menu.html offcanvas_id="contributorsTT" link="contributors" %}
+                    </div>
                 </div>
 
                 <div class="card-body p-3 p-sm-4">
@@ -282,30 +221,13 @@ electionnav: true
         <div class="col-lg-6 cm-expenditures search-box h-100">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
 
-                <div class="card-header custom-card-header">
+                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
                     <h3 id="expenditures" class="hover-link mb-0 d-inline-flex align-items-center">
                         <span>Expenditures</span>
-
-                        <div class="dropdown ms-2">
-                            <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
-                                <i class="fa-solid fa-ellipsis-vertical"></i>
-                            </button>
-
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
-                                        data-bs-target="#expendituresTT">
-                                        About this data
-                                    </button>
-                                </li>
-                                <li>
-                                    <a class="dropdown-item copy-anchor" href="#expenditures">
-                                        Copy link
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
                     </h3>
+                    <div style="z-index: 2;">
+                        {% include dropdown-menu.html offcanvas_id="expendituresTT" link="expenditures" %}
+                    </div>
                 </div>
 
                 <div class="card-body p-3 p-sm-4">
@@ -335,30 +257,11 @@ electionnav: true
         {%- if page.loans_received -%}
         <div class="col-lg-6 cm-loans h-100">
             <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
+                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
                     <h3 id="loans_received" class="hover-link mb-0">
                         <span>Loans Received</span>
                     </h3>
-
-                    <div class="dropdown">
-                        <button class="icon-btn" data-bs-toggle="dropdown" aria-label="Card actions">
-                            <i class="fa-solid fa-ellipsis-vertical"></i>
-                        </button>
-
-                        <ul class="dropdown-menu dropdown-menu-end">
-                            <li>
-                                <button type="button" class="dropdown-item" data-bs-toggle="offcanvas"
-                                    data-bs-target="#loansTT">
-                                    About this data
-                                </button>
-                            </li>
-                            <li>
-                                <a class="dropdown-item copy-anchor" href="#loans_received">
-                                    Copy link
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                    {% include dropdown-menu.html offcanvas_id="loansTT" link="loans_received" %}
                 </div>
 
                 <div class="card-body p-3">
@@ -403,40 +306,12 @@ electionnav: true
         {% if page.ie_measures -%}
         <div class="col-12 h-100">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-               <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-  <h3 id="ie-measures" class="hover-link mb-0 d-inline-flex align-items-center">
-    <span class="">Independent Expenditures Regarding Ballot Measures</span>
-
-    <div class="dropdown ms-2">
-      <button
-        class="icon-btn icon-btn-sm"
-        data-bs-toggle="dropdown"
-        aria-label="Card actions">
-        <i class="fa-solid fa-ellipsis-vertical"></i>
-      </button>
-
-      <ul class="dropdown-menu">
-        <li>
-          <button
-            type="button"
-            class="dropdown-item"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#ie-measuresTT">
-            About this data
-          </button>
-        </li>
-        <li>
-          <a
-            class="dropdown-item copy-anchor"
-            href="#ie-measures">
-            Copy link
-          </a>
-        </li>
-      </ul>
-    </div>
-
-  </h3>
-</div>
+            <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+            <h3 id="ie-measures" class="hover-link mb-0">
+                <span class="">Independent Expenditures Regarding Ballot Measures</span>
+            </h3>
+            {% include dropdown-menu.html offcanvas_id="ie-measuresTT" link="ie-measures" %}
+            </div>
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="ie-measures_table">
                         <thead>
@@ -465,40 +340,12 @@ electionnav: true
         {%- if page.ie_candidates -%}
         <div class="col-12">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-               <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-  <h3 id="ie-candidates" class="hover-link mb-0 d-inline-flex align-items-center">
-    <span class="">Independent Expenditures Regarding Candidates</span>
-
-    <div class="dropdown ms-2">
-      <button
-        class="icon-btn icon-btn-sm"
-        data-bs-toggle="dropdown"
-        aria-label="Card actions">
-        <i class="fa-solid fa-ellipsis-vertical"></i>
-      </button>
-
-      <ul class="dropdown-menu">
-        <li>
-          <button
-            type="button"
-            class="dropdown-item"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#ie-candidatesTT">
-            About this data
-          </button>
-        </li>
-        <li>
-          <a
-            class="dropdown-item copy-anchor"
-            href="#ie-candidates">
-            Copy link
-          </a>
-        </li>
-      </ul>
-    </div>
-
-  </h3>
-</div>
+            <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+            <h3 id="ie-candidates" class="hover-link mb-0">
+                <span class="">Independent Expenditures Regarding Candidates</span>
+            </h3>
+            {% include dropdown-menu.html offcanvas_id="ie-candidatesTT" link="ie-candidates" %}
+            </div>
 
                 <div class="card-body">
                     <table class="table caption-top dtify mb-0" id="ie-candidates_table">
@@ -530,40 +377,12 @@ electionnav: true
         {%- if page.F497P2 -%}
         <div class="col-12">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-        <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-  <h3 id="f497p2" class="hover-link mb-0 d-inline-flex align-items-center">
-    <span class="">Late Period Contributions Made</span>
-
-    <div class="dropdown ms-2">
-      <button
-        class="icon-btn icon-btn-sm"
-        data-bs-toggle="dropdown"
-        aria-label="Card actions">
-        <i class="fa-solid fa-ellipsis-vertical"></i>
-      </button>
-
-      <ul class="dropdown-menu">
-        <li>
-          <button
-            type="button"
-            class="dropdown-item"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#f497p2TT">
-            About this data
-          </button>
-        </li>
-        <li>
-          <a
-            class="dropdown-item copy-anchor"
-            href="#f497p2">
-            Copy link
-          </a>
-        </li>
-      </ul>
-    </div>
-
-  </h3>
-</div>
+        <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+            <h3 id="f497p2" class="hover-link mb-0 ">
+                <span class="">Late Period Contributions Made</span>
+            </h3>
+            {% include dropdown-menu.html offcanvas_id="f497p2TT" link="f497p2" %}
+            </div>
                 <div class="card-body">
                     <table class="table caption-top dt_f497p2 mb-0" id="f497p2_table">
                         <thead>
@@ -600,30 +419,12 @@ electionnav: true
         {%- if page.ies -%}
         <div class="col-12">
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header d-flex align-items-center justify-content-between custom-card-header">
-  <h3 id="schedule-d" class="hover-link mb-0 d-inline-flex align-items-center">
-    <span class="">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
-
-    <div class="dropdown ms-2">
-      <button class="icon-btn icon-btn-sm" data-bs-toggle="dropdown" aria-label="Card actions">
-        <i class="fa-solid fa-ellipsis-vertical"></i>
-      </button>
-
-      <ul class="dropdown-menu">
-        <li>
-          <button type="button" class="dropdown-item" data-bs-toggle="offcanvas" data-bs-target="#schedule-dTT">
-            About this data
-          </button>
-        </li>
-        <li>
-          <a class="dropdown-item copy-anchor" href="#schedule-d">
-            Copy link
-          </a>
-        </li>
-      </ul>
-    </div>
-  </h3>
-</div>
+            <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+            <h3 id="schedule-d" class="hover-link mb-0">
+                <span class="">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
+            </h3>
+            {% include dropdown-menu.html offcanvas_id="schedule-dTT" link="schedule-d" %}
+            </div>
 
                 <div class="card-body pt-0">
                     <table class="table caption-top dtify mb-0" id="schedule-d_table">
@@ -666,26 +467,12 @@ electionnav: true
 <!-- end IEs -->
 
 <div class="container" aria-label="Third-Party Activity">
-  <h2 id="third-party-activity-title" class="d-flex align-items-center flex-wrap gap-2">
-    <span>Third-Party Activity Supporting &amp; Opposing {{ page.candidate_name }}</span>
-
-    <div class="dropdown ms-2">
-      <button
-        class="icon-btn icon-btn-sm"
-        data-bs-toggle="dropdown"
-        aria-label="Section actions">
-        <i class="fa-solid fa-ellipsis-vertical"></i>
-      </button>
-
-      <ul class="dropdown-menu">
-        <li>
-          <a class="dropdown-item copy-anchor" href="#third-party-activity-title">
-            Copy link
-          </a>
-        </li>
-      </ul>
+    <div class="d-flex align-items-center column-gap-2 mb-2">
+        <h2 id="third-party-activity-title" class="d-flex align-items-center flex-wrap gap-2 mb-0">
+          <span>Third-Party Activity Supporting &amp; Opposing {{ page.candidate_name }}</span>
+        </h2>
+        {% include dropdown-menu.html offcanvas_id="third-party-committeesTT" link="third-party-activity-title" %}
     </div>
-  </h2>
 
     <!-- Third-Party Funds (card wrapper) -->
     <section class="card border-0 box-shadow-thirdparty rounded-4 mb-4" aria-labelledby="third-party-activity-title">
@@ -731,33 +518,11 @@ electionnav: true
                 <div class="col-12">
                     <div class="col-table-12">
 
-                        <div class="d-flex justify-content-between align-items-start">
+                        <div class="d-flex column-gap-2 align-items-center">
                             <h3 id="third-party-committees" class="hover-link mb-0">
                                 <span>Third-Party Committees</span>
                             </h3>
-
-                            <div class="dropdown">
-                                <button class="icon-btn" data-bs-toggle="dropdown" aria-label="Card actions">
-                                    <i class="fa-solid fa-ellipsis-vertical"></i>
-                                </button>
-
-                                <ul class="dropdown-menu dropdown-menu-end">
-                                    <!-- Optional: only include if you have an offcanvas for this section -->
-                                    <!--
-            <li>
-              <button type="button" class="dropdown-item"
-                data-bs-toggle="offcanvas" data-bs-target="#third-party-committeesTT">
-                About this data
-              </button>
-            </li>
-            -->
-                                    <li>
-                                        <a class="dropdown-item copy-anchor" href="#third-party-committees">
-                                            Copy link
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+                            {% include dropdown-menu.html offcanvas_id="third-party-committeesTT" link="third-party-committees" %}
                         </div>
 
                         {% if page.third_party[3] == empty %}

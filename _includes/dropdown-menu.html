@@ -1,0 +1,27 @@
+<div class="dropdown">
+    <button
+      class="icon-btn"
+      data-bs-toggle="dropdown"
+      aria-label="Card actions">
+      <i class="fa-solid fa-ellipsis-vertical"></i>
+    </button>
+
+    <ul class="dropdown-menu dropdown-menu-end">
+      <li>
+        <button
+          type="button"
+          class="dropdown-item"
+          data-bs-toggle="offcanvas"
+          data-bs-target="#{{include.offcanvas_id}}">
+          About this data
+        </button>
+      </li>
+      <li>
+        <a
+          class="dropdown-item copy-anchor"
+          href="#{{include.link}}">
+          Copy link
+        </a>
+      </li>
+    </ul>
+  </div>
