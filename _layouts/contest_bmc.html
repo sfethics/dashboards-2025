@@ -117,8 +117,8 @@ electionnav: true
         </div>
         <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
-            {% include contributors-table.html title='Top 10 Contributors To This Measure'
-            contributors=page.contributors link="bmc" %}
+            {% include contributors-table.html title='Top Contributors To This Measure' subtitle='Contributions to Primarily Formed Ballot Measure Committees'
+            contributors=page.contributors link="bmc" election=page.election %}
             {%- endif -%}
         </div>
     </div>
@@ -132,40 +132,13 @@ electionnav: true
     <!-- Active Committees card -->
     <div class="row g-4">
         <div class="col-12">
-            <div class="card border-0 shadow-sm rounded-4 h-100">
-               <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
-  <h3 id="allcommittees-table" class="hover-link mb-0">
-    <span>Funds and Expenses by Active Committees</span>
-  </h3>
-
-  <div class="dropdown">
-    <button
-      class="icon-btn"
-      data-bs-toggle="dropdown"
-      aria-label="Card actions">
-      <i class="fa-solid fa-ellipsis-vertical"></i>
-    </button>
-
-    <ul class="dropdown-menu dropdown-menu-end">
-      <li>
-        <button
-          type="button"
-          class="dropdown-item"
-          data-bs-toggle="offcanvas"
-          data-bs-target="#ballot-measure-activesTT">
-          About this data
-        </button>
-      </li>
-      <li>
-        <a
-          class="dropdown-item copy-anchor"
-          href="#allcommittees-table">
-          Copy link
-        </a>
-      </li>
-    </ul>
-  </div>
-</div>
+          <div class="card border-0 shadow-sm rounded-4 h-100">
+          <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+          <h3 id="allcommittees-table" class="hover-link mb-0">
+            <span>Funds and Expenses by Active Committees</span>
+          </h3>
+          {% include dropdown-menu.html offcanvas_id="ballot-measure-activesTT" link="allcommittees-table" %}
+          </div>
 
                 <div class="card-body">
                     <table class="table caption-top dtify-bmc mb-0" id="allcommittees_table">
@@ -216,39 +189,12 @@ electionnav: true
     <div class="row g-4">
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
-  <h3 id="multicommittees-table" class="hover-link mb-0">
-    <span>Committees Active in Multiple Measures</span>
-  </h3>
-
-  <div class="dropdown">
-    <button
-      class="icon-btn"
-      data-bs-toggle="dropdown"
-      aria-label="Card actions">
-      <i class="fa-solid fa-ellipsis-vertical"></i>
-    </button>
-
-    <ul class="dropdown-menu dropdown-menu-end">
-      <li>
-        <button
-          type="button"
-          class="dropdown-item"
-          data-bs-toggle="offcanvas"
-          data-bs-target="#ballot-measure-multicommitteesTT">
-          About this data
-        </button>
-      </li>
-      <li>
-        <a
-          class="dropdown-item copy-anchor"
-          href="#multicommittees-table">
-          Copy link
-        </a>
-      </li>
-    </ul>
-  </div>
-</div>
+            <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+            <h3 id="multicommittees-table" class="hover-link mb-0">
+              <span>Committees Active in Multiple Measures</span>
+            </h3>
+            {% include dropdown-menu.html offcanvas_id="ballot-measure-multicommitteesTT" link="multicommittees-table" %}
+            </div>
                 <div class="card-body">
                     <table class="table caption-top dtify-bmc mb-0" id="multicommittees_table">
                         <thead>

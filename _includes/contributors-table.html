@@ -1,56 +1,26 @@
 <div class="card border-0 box-shadow-contributions rounded-4 h-100 mb-3">
 
     <!-- Card Header -->
-    <div class="card-header custom-card-header d-flex justify-content-between align-items-start">
-
-  <div>
-    <h3 id="top-contributors-{{include.link}}" class="hover-link mb-0">
-      <span>
-        {%- if include.title -%}
-          {{ include.title }}
-        {%- else -%}
-          Top Contributors
-        {%- endif -%}
-      </span>
-    </h3>
-
+    <div class="card-header custom-card-header">
+      <div class="d-flex column-gap-2 align-items-center">
+        <h3 id="top-contributors-{{include.link}}" class="hover-link mb-0">
+          <span>
+            {%- if include.title -%}
+            {{ include.title }}
+            {%- else -%}
+            Top Contributors
+            {%- endif -%}
+          </span>
+        </h3>
+        {% assign dd_link = 'top-contributors-' | append: include.link %}
+        {% include dropdown-menu.html offcanvas_id='top-contributorsTT' link=dd_link %}
+      </div>
     {%- if include.subtitle -%}
       <p class="text-secondary mb-0">
         {{ include.subtitle }}
       </p>
     {%- endif -%}
   </div>
-
-  <div class="dropdown">
-    <button
-      class="icon-btn"
-      data-bs-toggle="dropdown"
-      aria-label="Card actions">
-      <i class="fa-solid fa-ellipsis-vertical"></i>
-    </button>
-
-    <ul class="dropdown-menu dropdown-menu-end">
-      <li>
-        <button
-          type="button"
-          class="dropdown-item"
-          data-bs-toggle="offcanvas"
-          data-bs-target="#top-contributorsTT">
-          About this data
-        </button>
-      </li>
-      <li>
-        <a
-          class="dropdown-item copy-anchor"
-          href="#top-contributors-{{include.link}}">
-          Copy link
-        </a>
-      </li>
-    </ul>
-  </div>
-
-</div>
-
 
     <!-- Card Body -->
     <div class="card-body p-3">
@@ -70,7 +40,7 @@
                 {%- endfor -%}
             </tbody>
         </table>
-        <a href="{{site.baseurl}}/elections/{{include.election}}/contributors">
+        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{include.election}}/contributors">
             View all contributors for this election
         </a>
     </div>
