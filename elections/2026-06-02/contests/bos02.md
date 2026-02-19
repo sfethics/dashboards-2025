@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-10'
+last_updated: '2026-02-18'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -34,8 +34,24 @@ candidates:
   candidate_name: JEREMY KIRSHNER
   funds: 1550.0
   expenses: 2329.64
-ie_candidates: []
+ie_candidates:
+- candidate_name: STEPHEN SHERRILL
+  filer_id: '1479700'
+  committees:
+  - position: SUPPORT
+    filer_id: '1484891'
+    committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    funds: 17200.0
+    expenses: ''
 contributors:
+- - Elliot Schrage
+  - 5400.0
+- - Katherine Sherrill
+  - 5400.0
+- - Stephen Sherrill
+  - 4900.0
+- - William Sherrill
+  - 3000.0
 - - Christopher Conway
   - 1000.0
 - - Jennifer Emerson
@@ -47,14 +63,6 @@ contributors:
 - - Marlayne Morgan
   - 725.0
 - - Nancy Abbey
-  - 500.0
-- - Kenneth Akizuki
-  - 500.0
-- - Vinkey Allen
-  - 500.0
-- - Donna Ames Heldfond
-  - 500.0
-- - Julia Amory
   - 500.0
 
 ---
