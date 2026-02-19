@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-02-10'
+last_updated: '2026-02-18'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -43,6 +43,11 @@ committees:
   cmte_nid: '214896333'
   committee_type: Candidate Controlled
   total_expense: 2329.64
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  cmte_nid: '214918275'
+  committee_type: Primarily Formed Candidate
+  total_expense: 1120.0
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'

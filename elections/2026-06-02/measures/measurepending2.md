@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-02-10'
+last_updated: '2026-02-18'
 candidate: false
 title: 'PENDING2: Protect Local Jobs Act'
 breadcrumbs:

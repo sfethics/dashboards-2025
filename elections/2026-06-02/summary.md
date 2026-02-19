@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-02-10'
+last_updated: '2026-02-18'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -29,7 +29,12 @@ candidate_pf:
   funds: 170078.0
   expenses: 14007.66
   ies: 0.0
-candidate_ie: []
+candidate_ie:
+- contest_nid: '214167039'
+  contest_name: Board of Supervisors D02
+  contest_link: bos02
+  funds: 17200.0
+  expenses: 0.0
 measures:
 - contest_nid: MULTI-1
   contest_name: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery
@@ -49,16 +54,16 @@ contributors_bm:
 - - Kilroy Realty, L.p.
   - 25000.0
 contributors_cand:
+- - Elliot Schrage
+  - 5400.0
+- - Katherine Sherrill
+  - 5400.0
+- - Stephen Sherrill
+  - 4900.0
+- - William Sherrill
+  - 3000.0
 - - Chasel Lee
   - 1500.0
-- - Steven Lee
-  - 1150.0
-- - Esther Marks
-  - 1000.0
-- - Jason Fish
-  - 1000.0
-- - Todd David
-  - 1000.0
 top_cand_spends:
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
