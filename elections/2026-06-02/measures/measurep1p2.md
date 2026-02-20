@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-02-18'
+last_updated: '2026-02-20'
 candidate: false
 title: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
 breadcrumbs:

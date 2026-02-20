@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-18'
+last_updated: '2026-02-20'
 candidate: true
 title: Board of Education
 breadcrumbs:

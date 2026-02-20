@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-18'
+last_updated: '2026-02-20'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -20,7 +20,7 @@ candidates:
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026
   candidate_name: LORI BROOKE
-  funds: 160756.0
+  funds: 303832.0
   expenses: 35455.84
 - filer_nid: '214895723'
   filer_id: '1484703'
