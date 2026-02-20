@@ -21,9 +21,12 @@ run_cmd() {
   fi
 }
 
+run_cmd git switch main
 run_cmd git fetch origin
+run_cmd git merge origin/main
 run_cmd git switch -c "$BRANCH_NAME" origin/main
 run_cmd git add .
 run_cmd git commit -am "\"$COMMIT_MSG\""
 # run_cmd git push -u origin HEAD
+# run_cmd git switch main
 # run_cmd git branch -d "$BRANCH_NAME"
