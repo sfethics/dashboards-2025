@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-02-20'
+last_updated: '2026-02-23'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -14,7 +14,7 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 126650.0
+  funds: 259441.28
   expenses: 12027.9
 - filer_nid: '214929589'
   filer_id: '1484957'

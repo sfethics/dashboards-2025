@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-11-03'
-last_updated: '2026-02-20'
+last_updated: '2026-02-24'
 candidate: true
 title: Public Defender
 breadcrumbs:
