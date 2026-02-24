@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# use this script to automatically commit changes to markdown files in the repository
 # Exit on error
 set -e
 
@@ -27,6 +27,6 @@ run_cmd git merge origin/main
 run_cmd git switch -c "$BRANCH_NAME" origin/main
 run_cmd git add .
 run_cmd git commit -am "\"$COMMIT_MSG\""
-# run_cmd git push -u origin HEAD
-# run_cmd git switch main
-# run_cmd git branch -d "$BRANCH_NAME"
+run_cmd git push -u origin HEAD
+run_cmd git switch main
+run_cmd git branch -d "$BRANCH_NAME"
