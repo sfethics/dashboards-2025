@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-02-23'
+last_updated: '2026-02-25'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,7 +26,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 302869.28
+  funds: 362869.28
   expenses: 14007.66
   ies: 0.0
 candidate_ie:
