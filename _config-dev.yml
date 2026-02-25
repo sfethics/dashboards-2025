@@ -68,6 +68,11 @@ defaults:
       image: true
 # exclude: # further exclude committee files to speed up build time
 #   - elections/2024-11-05/committees/CA*.md
+exclude:
+  - auto_commit.sh
+  - docker-compose.yml
+  - Dockerfile
+  - readme.md
 # include:
 #   - elections/2024-11-05/committees/CA487017.md
 #   - elections/2024-11-05/committees/CA491138.md

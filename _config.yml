@@ -65,3 +65,9 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+exclude:
+  - auto_commit.sh
+  - docker-compose.yml
+  - Dockerfile
+  - readme.md
