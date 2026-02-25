@@ -85,12 +85,10 @@
 <!-- ========== FAVICON IMPLEMENTATION END ========== -->
 
 
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if site.google_analytics -%}
   {%- include google-analytics.html -%}
-  <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
-  {%- else -%}
-  <script src="https://unpkg.com/@popperjs/core@2"></script>
   {%- endif -%}
+  <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
 
   <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.3.7/b-3.2.6/b-html5-3.2.6/date-1.6.3/r-3.0.8/datatables.min.css" rel="stylesheet" integrity="sha384-KWQDLRwAjBgcEzzqehmDvfuMezQ3dTE3DPyX7H4IlqaqU0ThZ7nEuZfcQ420AjRU" crossorigin="anonymous"> 
   <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.3.7/b-3.2.6/b-html5-3.2.6/date-1.6.3/r-3.0.8/datatables.min.js" integrity="sha384-yTpErbBr8Zsdd9GjCAOTja7MJlN1laGsIAsX+Y0Owvy7dk2+I7DMrVxZKu3nv+0g" crossorigin="anonymous"></script>
