@@ -70,16 +70,11 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <h3 class="fs-5">What is a Candidate Controlled Committee?</h3>
-            <p class="text-secondary">A candidate controlled committee is a campaign committee established, financed, or
-                controlled by a candidate for local office.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign
-                finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of
-                January and July, and three pre-election statements in the weeks before an election. They are prohibited
-                from coordinating their spending decisions with third-party committees. Under San Francisco law, no
-                person other than the candidate may contribute more than $500 to a candidate's committee for a single
-                election. Candidates running for mayor or supervisor are also eligible for Public Funds approved by the
-                Ethics Commission as part of the San Francisco Public Financing Program.</p>
+            <h3 class="fs-5">What is a Candidate-Controlled Committee?</h3>
+            <p class="text-secondary">A candidate-controlled committee is a recipient committee that is controlled directly or indirectly by a candidate, 
+                or that is acting jointly with a candidate committee to make expenditures. Candidates are subject to a $500 contribution limit per contributor each election
+                 (subject to additional prohibited source rules). Candidates running for Mayor or the Board of Supervisors are also eligible to participate in 
+                 San Francisco's Public Financing Program.</p>
 
             <h3 class="fs-5">Committee details</h3>
             <div class="d-flex justify-content-between flex-wrap mb-3 p-3 bg-light rounded-3">
@@ -199,54 +194,44 @@
         <div>
             {% if page.committee_type == 'candidate ie' %}
             <h3 class="fs-5">What is a Primarily Formed Candidate Committee?</h3>
-            <p class="text-secondary">A Primarily Formed Candidate committee is a political committee that raises and
-                spends money to support or oppose candidates for local office but operates independently of those
-                candidates and their campaigns. They are prohibited from coordinating their spending decisions with any
-                candidate or candidate controlled committee. Primarily Formed Candidate committees are not subject to
-                contribution limits.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign
-                finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of
-                January and July, and three pre-election statements in the weeks before an election. In addition, the
-                committee must disclose independent expenditures (Form 496) and contributions made or received (Form
-                497) within 24 hours during the 90-days before the election.</p>
+            <p class="text-secondary">A primarily formed candidate committee is a recipient committee that is formed to support or oppose one or more candidates being voted on in the 
+                same election but is not controlled by the affected candidate(s).  Primarily formed candidate committees are not subject to contribution limits, 
+                however any expenditures they coordinate with candidates are considered contributions to the candidate and will be subject to the $500 contribution limit.</p>
             {%- endif -%}
 
             {% if page.committee_type == 'ballot measure' %}
             <h3 class="fs-5">What is a Ballot Measure Committee?</h3>
-            <p class="text-secondary">Ballot Measure Committees are primarily formed to support or oppose a specific
-                ballot measure. Ballot Measure Committees are not subject to contribution limits.</p>
-            <p class="text-secondary">Once a committee raises or spends $2,000 or more, it must file regular campaign
-                finance statements (Form 460) with the Ethics Commission, including semiannual reports at the end of
-                January and July, and three pre-election statements in the weeks before an election. In addition, the
-                committee must disclose independent expenditures (Form 496) and contributions made or received (Form
-                497) within 24 hours during the 90-days before the election.</p>
+            <p class="text-secondary">A primarily formed ballot measure committee is a recipient committee that is formed to support or oppose one or more measures being voted on in the same election. 
+                Primarily formed ballot measure committees are not subject to contribution limits.</p>
             {%- endif -%}
 
             {% if page.committee_type == 'general' %}
             <h3 class="fs-5">What is a General Purpose Committee?</h3>
-            <p class="text-secondary">A general purpose committee is a political committee that is not organized to
-                support or oppose any specific candidate or ballot measure. These committees may engage in a variety of
-                political activities, including supporting or opposing multiple candidates or ballot measures. General
-                Purpose Committees are not subject to contribution limits.</p>
+            <p class="text-secondary">A general purpose committee is a recipient committee that raises and spends money to support or oppose candidates and ballot measures, or to make contributions to 
+                other committees. General Purpose Committees are not subject to contribution limits, however any expenditures they coordinate with the affected candidates or committees could be subject to contribution limits.</p>
             {%- endif -%}
 
             {% if page.committee_type == 'major donor' %}
-            <h3 class="fs-5">What is a Major Donor?</h3>
+            <h3 class="fs-5">What is a Major Donor Committee?</h3>
             <p class="text-secondary">
-                Major donors are individuals or entities who make contributions totaling $10,000 or more, in the
-                aggregate, (including loans) to local office holders, candidates, and recipient committees in a calendar
-                year. Major donors report contributions on the FPPC Form 461 (Committee Campaign Statement), and Form
-                497 if contributions are made during the 90-days before the election.</p>
+                A major donor committee is an individual or entity who makes contributions totaling $10,000 or more, in the aggregate, to officeholders, candidates, 
+                and recipient committees in a calendar year. They do not receive contributions, instead using their own funds to make contributions.</p>
             {%- endif -%}
 
             {% if page.committee_type == 'ie committee' %}
             <h3 class="fs-5">What is an Independent Expenditure Committee?</h3>
+            <p class="text-secondary">An independent expenditure committee is an individual or entity who makes one or more independent expenditures to pay for a communication totaling
+                 $1,000 or more in a calendar year that is not coordinated with the affected candidate or committee.<br>
+                    An independent expenditure is a payment for a communication that expressly advocates for the election or defeat of a clearly identified candidate for local office, 
+                    or the qualification, passage, or defeat of a clearly identified local ballot measure, that is not coordinated with the affected candidate or committee.</p>
             {%- endif -%}
 
             {% if page.committee_type == 'slate mailer' %}
-            <h3 class="fs-5">What is a Slate Mailer Committee?</h3>
-            <p>A Slate Mailer Committee is an organization that receives payments for the purpose of producing slate
-                mailers to support or oppose candidates and ballot measures.</p>
+            <h3 class="fs-5">What is a Slate Mailer Organization?</h3>
+            <p>A slate mailer organization is any person (e.g. individual, partnership, corporation, association, firm, committee, club, or other organization or group of persons) 
+                who is involved in the production of one or more slate mailers, exercises control over the selection of candidates and measure to be supported or opposed in the mailers, 
+                and receives or is promised payments of $500 or more in a calendar year for the production of one or more slate mailers. Slate mailer organizations may also qualify as 
+                general purpose recipient committees under certain circumstances and vice versa.</p>
             <p>Slate Mailers are only required to file certain statements with the San Francisco Ethics Commission. More
                 filings by this organization may be available by visiting the San Francisco Department of Elections or
                 by searching the California Secretary of State's <a
@@ -393,7 +378,9 @@
             <p>The totals in this section represent the combined contributions raised and funds
                 spent by a committees in the current election.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and late period contributions received on Form 497 and Form 496P3.</p>
+            <p>Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and late period contributions received on Form 497 and Form 496P3.
+                If a committee has received any loans, those will populate in a separate table in the Activity Details section.
+            </p>
 
             {% if page.committee_type == 'candidate' %}
             <p>For a candidate controlled committee participating in the
@@ -401,7 +388,7 @@
             {% endif %}
                 
             <p>Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460
-                schedule E. Figures are rounded to the nearest thousand.</p>
+                schedule E.</p>
             {% if page.totals[1] == 0.0 or page.totals[0] == 0.0 or page.totals[0] == '' or page.totals[1] == '' %}
             <h3 class="fs-5">Why is contribution or expenditure data not available?</h3>
             <p>Some state-level committees that are active within an election cycle are only required to file reports
@@ -451,7 +438,7 @@
     </div>
     <div class="offcanvas-body">
         <div>
-            <p>The loans table lists loans made to a committee. The table groups all loans by lender name and sums up
+            <p>The loans table lists loans received by a committee. The table groups all loans by lender name and sums up
                 the amounts, and the amounts paid, forgiven, and outstanding.</p>
             <p>The data in this table is based on the loans reported on Form 460 Schedule B1.</p>
         </div>
@@ -514,8 +501,10 @@
     <div class="offcanvas-body text-secondary">
         <div>
             <h3 class="fs-5">What is a Candidate-controlled Committee?</h3>
-            <p>A candidate-controlled committee is a campaign committee that is controlled directly or indirectly by a
-                candidate for local office.</p>
+            <p>A candidate-controlled committee is a recipient committee that is controlled directly or indirectly by a candidate, 
+                or that is acting jointly with a candidate committee to make expenditures. Candidates are subject to a $500 contribution limit per contributor each election
+                 (subject to additional prohibited source rules). Candidates running for Mayor or the Board of Supervisors are also eligible to participate in 
+                 San Francisco's Public Financing Program.</p>
             <h3 class="fs-5">What is a Primarily Formed Committee?</h3>
             <p>A committee is “primarily formed” when it makes or initially plans to make more than 70% of its contributions and 
                 expenditures to support or oppose a specific candidate or measure, or a group of measures or specific local 
@@ -548,8 +537,8 @@
     <div class="offcanvas-body text-secondary">
         <div>
             <h3 class="fs-5">What is a Ballot Measure Committee?</h3>
-            <p>A Ballot Measure Committee is primarily formed to support or oppose a specific
-                ballot measure or a group of ballot measures.</p>
+            <p>A primarily formed ballot measure committee is a recipient committee that is formed to support or oppose one or more measures being voted on in the same election. 
+                Primarily formed ballot measure committees are not subject to contribution limits.</p>
             <p>This table sums up the total funds and expenses of primarily formed committees for each ballot
                 measure in this election. Independent expenditures from third-party committees (such as general purpose committees and independent
                 expenditure committees) are also included in the total expenses.</p>
