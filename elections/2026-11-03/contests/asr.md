@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-11-03'
-last_updated: '2026-02-25'
+last_updated: '2026-03-02'
 candidate: true
 title: Assessor-Recorder
 breadcrumbs:
