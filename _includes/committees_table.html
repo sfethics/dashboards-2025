@@ -65,7 +65,7 @@
     </div>
 
     <!-- Scroll container -->
-    <div class="committee-table-wrap" aria-label="Committee results">
+    <div class="committee-table-wrap px-2" aria-label="Committee results">
       <table id="committee_list_table"
              class="table table-sm table-hover align-middle"
              aria-describedby="committeeSearchDesc">
@@ -93,7 +93,7 @@
                        target="_blank"
                        rel="noopener"
                        href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ cmte.cmte_fppcid }}">
-                      {{ cmte.cmte_name }}
+                      {{ cmte.cmte_name | truncate: 75 }}
                       <i class="fa-light fa-arrow-up-right-from-square ms-1" aria-hidden="true"></i>
                     </a>
                     <span class="badge text-bg-light ms-2">CAL-ACCESS</span>
@@ -102,7 +102,7 @@
                   <td>
                     <a class="committee-link"
                        href="{{site.baseurl}}/elections/{{include.election}}/committees/CA{{ cmte.cmte_fppcid }}.html">
-                      {{ cmte.cmte_name }}
+                      {{ cmte.cmte_name | truncate: 75 }}
                     </a>
                   </td>
                 {% endif %}

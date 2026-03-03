@@ -213,6 +213,9 @@ h6 {
 .offcanvas.offcanvas-start {
     width: 600px;
 }
+.offcanvas.offcanvas-end {
+    width: 600px;
+}
 .site-title {
     color: $dark;
 }
@@ -256,7 +259,9 @@ div.dt-container .dt-paging .dt-paging-button.disabled, div.dt-container .dt-pag
     row-gap: 1rem;
     @extend .mb-3;
 }
-
+caption.visually-hidden {
+    position: absolute;
+}
 // use these inside col-md-# containers
 .col-table-6, .col-table-8, .col-table-4, .col-table-12 {
     @extend .bg-white;
