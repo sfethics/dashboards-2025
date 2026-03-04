@@ -1217,3 +1217,15 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 .icon-btn-sm i {
   font-size: 0.95rem;
 }
+
+@media (max-width: 767.98px) {
+  body.bg-gray {
+    background-color: $primary !important;
+  }
+
+  /* keep your content area white */
+  .page-content,
+  .content-wrapper {
+    background-color: #fff;
+  }
+}
