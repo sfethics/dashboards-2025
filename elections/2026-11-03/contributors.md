@@ -1,12 +1,12 @@
 ---
 layout: contributors
 election: '2026-11-03'
-last_updated: '2026-03-02'
+last_updated: '2026-03-04'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03/
 - - Contributors
-title: Table of Contributors
+title: List of Contributors in the Nov 03, 2026 election
 threshold: 1000
 contributors:
 - tx_firstname: MARISA
