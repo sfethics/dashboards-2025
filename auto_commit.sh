@@ -10,7 +10,7 @@ RUN=true
 DATE=$(date +%F)
 
 BRANCH_NAME="markdowns_${DATE}"
-COMMIT_MSG="auto markdowns update ${DATE}"
+COMMIT_MSG="Auto markdowns update ${DATE}"
 
 run_cmd() {
   if [ "$RUN" = true ]; then
@@ -21,9 +21,9 @@ run_cmd() {
   fi
 }
 
-run_cmd git switch main
-run_cmd git fetch origin
-run_cmd git merge origin/main
+# run_cmd git switch main
+# run_cmd git fetch origin
+# run_cmd git merge origin/main
 run_cmd git switch -c "$BRANCH_NAME" origin/main
 run_cmd git add .
 run_cmd git commit -am "\"$COMMIT_MSG\""

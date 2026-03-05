@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-04'
+last_updated: '2026-03-05'
 candidate: false
 title: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
 breadcrumbs:
@@ -15,7 +15,7 @@ committees:
   filer_id: '1485633'
   committee_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY,
     SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 809400.01
+  funds: 859400.01
   expenses: 674426.34
   ies: ''
 multi_committees: []
@@ -27,6 +27,8 @@ contributors:
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 99400.0
 - - Neighbors for a Better San Francisco Advocacy
+  - 50000.0
+- - Uber Innovation Ballot Measure Committee
   - 50000.0
 - - Kilroy Realty, L.p.
   - 25000.0

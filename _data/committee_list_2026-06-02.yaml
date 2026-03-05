@@ -84,6 +84,9 @@ committees:
 - cmte_name: U.a. Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
+- cmte_name: Uber Innovation Ballot Measure Committee
+  cmte_fppcid: '1466153'
+  cmte_nid: '212872598'
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
