@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-04'
+last_updated: '2026-03-05'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -41,7 +41,7 @@ measures:
     Act'
   contest_link: measurep1p2
   expenses: 674426.34
-  funds: 809400.01
+  funds: 859400.01
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -51,8 +51,8 @@ contributors_bm:
   - 99400.0
 - - Neighbors for a Better San Francisco Advocacy
   - 50000.0
-- - Kilroy Realty, L.p.
-  - 25000.0
+- - Uber Innovation Ballot Measure Committee
+  - 50000.0
 contributors_cand:
 - - Elliot Schrage
   - 5400.0
