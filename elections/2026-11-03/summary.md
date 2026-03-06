@@ -3,7 +3,7 @@ layout: election
 title: November 03, 2026 Election
 permalink: /elections/2026-11-03/
 election: '2026-11-03'
-last_updated: '2026-03-05'
+last_updated: '2026-03-06'
 breadcrumbs:
 - - Nov 03, 2026
   - /elections/2026-11-03/
