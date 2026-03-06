@@ -44,6 +44,6 @@ The dashboards focus on presentation and accessibility of the data; they are not
 - Install gems: run `gem install jekyll bundler`
 - Clone this repository
 - Open the repository, and run `bundle install`
-- To start the local server, run `bundle exec jekyll serve`
+- To start the local server, run `bundle exec jekyll serve --config _config-dev.yml`
 
 

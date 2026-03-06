@@ -20,6 +20,33 @@ contributors:
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 500000.0
 - tx_firstname: ''
+  tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
+  tx_entitycode: COM
+  tx_cmteid: '1378400'
+  tx_amount: 350000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 350000.0
+- tx_firstname: ''
+  tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
+  tx_entitycode: COM
+  tx_cmteid: '1482711'
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 200000.0
+- tx_firstname: ''
+  tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+  tx_entitycode: COM
+  tx_cmteid: '1296947'
+  tx_amount: 150000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 150000.0
+- tx_firstname: ''
   tx_lastname: MICHAEL MORITZ
   tx_entitycode: IND
   tx_cmteid: ''
@@ -177,53 +204,35 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 250.0
-- tx_firstname: HEATHER
-  tx_lastname: MCCARTY
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: PATRICIA
-  tx_lastname: ISHIYAMA
+- tx_firstname: TODD
+  tx_lastname: DAVID
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 1000.0
-- tx_firstname: ESTHER
-  tx_lastname: MARKS
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+- tx_firstname: VANITA
+  tx_lastname: LOUIE
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 250.0
   - cmte_fppcid: '1484806'
     cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: MACO
-  tx_lastname: STEWART
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-- tx_firstname: STEVEN
-  tx_lastname: MERRILL
+    tx_amount: 250.0
+- tx_firstname: ROBIN
+  tx_lastname: PAM
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -246,20 +255,8 @@ contributors:
   - cmte_fppcid: '1484332'
     cmte_name: LORI BROOKE FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: CHRISTIN
-  tx_lastname: EVANS
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: VANITA
-  tx_lastname: LOUIE
+- tx_firstname: COURTNEY
+  tx_lastname: BENOIST
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -269,21 +266,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 250.0
-- tx_firstname: HEATHER
-  tx_lastname: DAVIES
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: JASON
   tx_lastname: FISH
@@ -297,20 +279,8 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-- tx_firstname: TODD
-  tx_lastname: DAVID
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-- tx_firstname: PAUL
-  tx_lastname: MELBOSTAD
+- tx_firstname: ESTHER
+  tx_lastname: MARKS
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -318,20 +288,11 @@ contributors:
   - cmte_fppcid: '1484332'
     cmte_name: LORI BROOKE FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: CHRISTOPHER
-  tx_lastname: CONWAY
-  tx_entitycode: IND
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 1000.0
-- tx_firstname: COURTNEY
-  tx_lastname: BENOIST
+- tx_firstname: STEVEN
+  tx_lastname: MERRILL
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -354,17 +315,38 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: ROBIN
-  tx_lastname: PAM
+- tx_firstname: PAUL
+  tx_lastname: MELBOSTAD
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: CHRISTOPHER
+  tx_lastname: CONWAY
   tx_entitycode: IND
   tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
+    tx_amount: 1000.0
+- tx_firstname: HEATHER
+  tx_lastname: MCCARTY
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: ''
   tx_lastname: MATT HANEY FOR ASSEMBLY 2026
@@ -377,6 +359,51 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+- tx_firstname: PATRICIA
+  tx_lastname: ISHIYAMA
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 1000.0
+- tx_firstname: MACO
+  tx_lastname: STEWART
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+- tx_firstname: CHRISTIN
+  tx_lastname: EVANS
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: HEATHER
+  tx_lastname: DAVIES
+  tx_entitycode: IND
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
 
 ---

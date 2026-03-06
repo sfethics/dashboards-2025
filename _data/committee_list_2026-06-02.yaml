@@ -14,7 +14,7 @@ committees:
   cmte_fppcid: '1485609'
   cmte_nid: '215019694'
 - cmte_name: Brandee Marckmann for Board of Education 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1485654'
   cmte_nid: '215120587'
 - cmte_name: Daniel Genduso for Supervisor 2026
   cmte_fppcid: unknown
@@ -38,7 +38,7 @@ committees:
 - cmte_name: Lori Brooke for Supervisor 2026
   cmte_fppcid: '1484332'
   cmte_nid: '214820258'
-- cmte_name: Monthanus Ratanapakdee for Distrcit 2 Supervisor 2026
+- cmte_name: Monthanus Ratanapakdee for District 2 Supervisor 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
 - cmte_name: Natalie Gee for Supervisor 2026
@@ -50,6 +50,13 @@ committees:
 - cmte_name: Growsf Supporting Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
+- cmte_name: Equal Fire Protection for All Committee to Oppose Proposition a June
+    2026
+  cmte_fppcid: unknown
+  cmte_nid: '215900661'
+- cmte_name: No Lifetime Ban
+  cmte_fppcid: unknown
+  cmte_nid: '215900904'
 - cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored
     by San Francisco Civic Organizations
   cmte_fppcid: '1485633'
@@ -57,6 +64,9 @@ committees:
 - cmte_name: San Franciscans for Term Limit Reform
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
+- cmte_name: Stand Up for SF Sponsored by Labor Organizations
+  cmte_fppcid: '1484969'
+  cmte_nid: '214966146'
 - cmte_name: California Professional Firefighters Political Action Committee
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
@@ -75,6 +85,9 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: Service Employees International Union Local 1021 Issues PAC
+  cmte_fppcid: '1296947'
+  cmte_nid: '6685874'
 - cmte_name: SF Forward Sponsored by San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
@@ -96,9 +109,15 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
+- cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
+  cmte_fppcid: '1482711'
+  cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
+- cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
+  cmte_fppcid: '1378400'
+  cmte_nid: '182511724'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
