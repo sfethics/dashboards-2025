@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-05'
+last_updated: '2026-03-06'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -41,7 +41,7 @@ measures:
     Act'
   contest_link: measurep1p2
   expenses: 674426.34
-  funds: 859400.01
+  funds: 959400.01
 contributors_bm:
 - - Chris Larsen
   - 500000.0
