@@ -14,7 +14,7 @@ committees:
   cmte_fppcid: '1485609'
   cmte_nid: '215019694'
 - cmte_name: Brandee Marckmann for Board of Education 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1485654'
   cmte_nid: '215120587'
 - cmte_name: Daniel Genduso for Supervisor 2026
   cmte_fppcid: unknown
@@ -54,7 +54,7 @@ committees:
     2026
   cmte_fppcid: unknown
   cmte_nid: '215900661'
-- cmte_name: No Lifetimeban
+- cmte_name: No Lifetime Ban
   cmte_fppcid: unknown
   cmte_nid: '215900904'
 - cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored

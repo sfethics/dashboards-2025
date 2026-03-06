@@ -3,14 +3,14 @@ layout: contest_bmc
 election: '2026-06-02'
 last_updated: '2026-03-06'
 candidate: false
-title: 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
+title: 'TBD4: Measure TBD: Decreases to Business Taxes'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'P1,P2: Protect Local Jobs Act, Small Business and Economic Recovery Act'
-  - elections/2026-06-02/measures/measurep1p2
+- - 'TBD4: Measure TBD: Decreases to Business Taxes'
+  - elections/2026-06-02/measures/measuretbd4
 committees:
-- position: MULTIPLE
+- position: SUPPORT
   filer_nid: '215118470'
   filer_id: '1485633'
   committee_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY,

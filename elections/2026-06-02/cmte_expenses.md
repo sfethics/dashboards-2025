@@ -8,11 +8,6 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the Jun 02, 2026 election
 committees:
-- cmte_name: HOTEL COUNCIL PAC
-  cmte_fppcid: '1381090'
-  cmte_nid: '157756164'
-  committee_type: General Purpose
-  total_expense: 20000.0
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
