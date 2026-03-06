@@ -28,7 +28,7 @@ committees:
   cmte_nid: '214820258'
   committee_type: Candidate Controlled
   total_expense: 35455.84
-- cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRCIT 2 SUPERVISOR 2026
+- cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
   committee_type: Candidate Controlled
@@ -53,6 +53,11 @@ committees:
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
   total_expense: 1366.5
+- cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1484969'
+  cmte_nid: '214966146'
+  committee_type: Primarily Formed Measure
+  total_expense: 298560.14
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1485709'
   cmte_nid: '215112140'
