@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -32,9 +32,17 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 77327.0
+  funds: 124553.0
   expenses: 613.26
-ie_candidates: []
+ie_candidates:
+- candidate_name: ALAN WONG
+  filer_id: '1485709'
+  committees:
+  - position: SUPPORT
+    filer_id: '1488188'
+    committee_name: GrowSF Supporting Alan Wong for Supervisor 2026
+    funds: ''
+    expenses: 6758.0
 contributors:
 - - Steven Lee
   - 1000.0

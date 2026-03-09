@@ -1,7 +1,7 @@
 ---
 layout: contributors
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/

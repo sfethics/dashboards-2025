@@ -84,7 +84,7 @@ electionnav: true
             {%- assign toe = 'None' -%}
             {%- if oppose_expenses>0 %}{% assign toe = oppose_expenses %}{% endif -%}
 
-            {% if supporters == true %}
+            {% if opposition == true %}
             {%- include cards-two.html
             wrap_css=''
             title='Totals Opposing this Measure'
