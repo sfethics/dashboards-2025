@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -12,35 +12,46 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 591066.43
+  funds: 783066.43
   expenses: 94023.29
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 29487.0
   expenses: 13455.63
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 362869.28
+  funds: 410095.28
   expenses: 14007.66
-  ies: 0.0
+  ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 17200.0
   expenses: 0.0
+- contest_nid: '214896046'
+  contest_name: Board of Supervisors D04
+  contest_link: bos04
+  funds: 0.0
+  expenses: 6758.0
 measures:
 - contest_nid: '215121153'
   contest_name: 'TBD4: Measure TBD: Decreases to Business Taxes'
   contest_link: measuretbd4
   expenses: 674426.34
   funds: 959400.01
+- contest_nid: '215271121'
+  contest_name: 'TBD3: Measure TBD: Lifetime Term Limits for Mayor and Members of
+    the Board of Supervisors'
+  contest_link: measuretbd3
+  expenses: 0.0
+  funds: 1000.0
 - contest_nid: '215832793'
   contest_name: 'TBD5: Measure TBD: Increases to Business Tax Based on Comparison
     of Top Executive''s Pay to Employees'' Pay'
@@ -86,10 +97,10 @@ top_cand_spends:
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   total_expense: 12027.9
-- cmte_nid: '214896333'
-  cmte_fppcid: '1484600'
-  cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
-  total_expense: 2329.64
+- cmte_nid: '215852865'
+  cmte_fppcid: '1488188'
+  cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
+  total_expense: 6758.0
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'

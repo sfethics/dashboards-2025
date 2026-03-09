@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -64,6 +64,11 @@ committees:
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
   total_expense: 674426.34
+- cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
+  cmte_fppcid: '1488188'
+  cmte_nid: '215852865'
+  committee_type: Primarily Formed Candidate
+  total_expense: 6758.0
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

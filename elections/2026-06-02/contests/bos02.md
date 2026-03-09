@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -14,7 +14,7 @@ candidates:
   filer_id: '1479700'
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   candidate_name: STEPHEN SHERRILL
-  funds: 283278.7
+  funds: 475278.7
   expenses: 54972.81
 - filer_nid: '214820258'
   filer_id: '1484332'

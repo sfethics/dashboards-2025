@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-06'
+last_updated: '2026-03-09'
 candidate: false
 title: 'TBD4: Measure TBD: Decreases to Business Taxes'
 breadcrumbs:
