@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-09'
+last_updated: '2026-03-10'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,7 +33,7 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 17200.0
+  funds: 22100.0
   expenses: 0.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
@@ -42,22 +42,27 @@ candidate_ie:
   expenses: 6758.0
 measures:
 - contest_nid: '215121153'
-  contest_name: 'TBD4: Measure TBD: Decreases to Business Taxes'
-  contest_link: measuretbd4
+  contest_name: 'C: Decreases to Business Taxes'
+  contest_link: measurec
   expenses: 674426.34
   funds: 959400.01
 - contest_nid: '215271121'
-  contest_name: 'TBD3: Measure TBD: Lifetime Term Limits for Mayor and Members of
-    the Board of Supervisors'
-  contest_link: measuretbd3
+  contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board
+    of Supervisors'
+  contest_link: measureb
   expenses: 0.0
   funds: 1000.0
 - contest_nid: '215832793'
-  contest_name: 'TBD5: Measure TBD: Increases to Business Tax Based on Comparison
-    of Top Executive''s Pay to Employees'' Pay'
-  contest_link: measuretbd5
+  contest_name: 'D: Increases to Business Tax Based on Comparison of Top
+    Executive''s Pay to Employees'' Pay'
+  contest_link: measured
   expenses: 298560.14
   funds: 700761.53
+- contest_nid: '215900603'
+  contest_name: 'A: Earthquake Safety and Emergency Response Bond'
+  contest_link: measurea
+  expenses: 0.0
+  funds: 27500.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -74,12 +79,12 @@ contributors_cand:
   - 5400.0
 - - Katherine Sherrill
   - 5400.0
+- - Jared Friedman
+  - 5150.0
 - - Stephen Sherrill
   - 4900.0
 - - William Sherrill
   - 3000.0
-- - Chasel Lee
-  - 1500.0
 top_cand_spends:
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
@@ -102,6 +107,10 @@ top_cand_spends:
   cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
   total_expense: 6758.0
 top_bm_spends:
+- cmte_nid: '193427405'
+  cmte_fppcid: '1431167'
+  cmte_name: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+  total_expense: 962540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
@@ -111,6 +120,14 @@ top_bm_spends:
   cmte_fppcid: '1484969'
   cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   total_expense: 298560.14
+- cmte_nid: '6673342'
+  cmte_fppcid: '840002'
+  cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
+  total_expense: 99232.2
+- cmte_nid: '6668151'
+  cmte_fppcid: '891575'
+  cmte_name: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  total_expense: 34000.0
 
 ---
 
