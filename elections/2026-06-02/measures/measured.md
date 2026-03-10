@@ -1,16 +1,16 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-09'
+last_updated: '2026-03-10'
 candidate: false
-title: 'TBD5: Measure TBD: Increases to Business Tax Based on Comparison of Top Executive''s
+title: 'D: Measure D: Increases to Business Tax Based on Comparison of Top Executive''s
   Pay to Employees'' Pay'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'TBD5: Measure TBD: Increases to Business Tax Based on Comparison of Top Executive''s
+- - 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
-  - elections/2026-06-02/measures/measuretbd5
+  - elections/2026-06-02/measures/measured
 committees:
 - position: SUPPORT
   filer_nid: '214966146'

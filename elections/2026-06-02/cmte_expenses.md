@@ -1,13 +1,23 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-09'
+last_updated: '2026-03-10'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
 - - Committee Expenses
 title: Total expenses by committees in the Jun 02, 2026 election
 committees:
+- cmte_name: HOTEL COUNCIL PAC
+  cmte_fppcid: '1381090'
+  cmte_nid: '157756164'
+  committee_type: General Purpose
+  total_expense: 10000.0
+- cmte_name: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+  cmte_fppcid: '1431167'
+  cmte_nid: '193427405'
+  committee_type: General Purpose
+  total_expense: 962540.0
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -69,11 +79,16 @@ committees:
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
   total_expense: 6758.0
+- cmte_name: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
+  committee_type: General Purpose
+  total_expense: 34000.0
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
   committee_type: General Purpose
-  total_expense: 500.0
+  total_expense: 99732.2
 
 ---
 

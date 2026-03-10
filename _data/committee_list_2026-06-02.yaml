@@ -64,6 +64,10 @@ committees:
     by San Francisco Civic Organizations
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
+- cmte_name: San Franciscans for Fire, Earthquake, and Disaster Preparedness, Sponsored
+    by San Francisco Firefighters Local 798
+  cmte_fppcid: '1486676'
+  cmte_nid: '215726436'
 - cmte_name: San Franciscans for Term Limit Reform
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
@@ -103,6 +107,9 @@ committees:
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
+- cmte_name: Eleni Kounalakis Ballot Measure Committee
+  cmte_fppcid: '1460720'
+  cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
@@ -114,6 +121,12 @@ committees:
   cmte_nid: unknown
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1482711'
+  cmte_nid: unknown
+- cmte_name: Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
+  cmte_fppcid: '1298012'
+  cmte_nid: unknown
+- cmte_name: Teamsters Local Union 350 PAC
+  cmte_fppcid: '1406838'
   cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'

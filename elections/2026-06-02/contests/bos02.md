@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-09'
+last_updated: '2026-03-10'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -41,13 +41,15 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 17200.0
+    funds: 22100.0
     expenses: ''
 contributors:
 - - Elliot Schrage
   - 5400.0
 - - Katherine Sherrill
   - 5400.0
+- - Jared Friedman
+  - 5150.0
 - - Stephen Sherrill
   - 4900.0
 - - William Sherrill
@@ -62,8 +64,6 @@ contributors:
   - 750.0
 - - Marlayne Morgan
   - 725.0
-- - Nancy Abbey
-  - 500.0
 
 ---
 

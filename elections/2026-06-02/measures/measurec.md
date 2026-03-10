@@ -1,14 +1,14 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-09'
+last_updated: '2026-03-10'
 candidate: false
-title: 'TBD4: Measure TBD: Decreases to Business Taxes'
+title: 'C: Measure C: Decreases to Business Taxes'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'TBD4: Measure TBD: Decreases to Business Taxes'
-  - elections/2026-06-02/measures/measuretbd4
+- - 'C: Decreases to Business Taxes'
+  - elections/2026-06-02/measures/measurec
 committees:
 - position: SUPPORT
   filer_nid: '215118470'
