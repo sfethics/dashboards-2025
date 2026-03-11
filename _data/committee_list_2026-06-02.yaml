@@ -47,6 +47,10 @@ committees:
 - cmte_name: Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
+- cmte_name: Forward Action SF, Supporting London Breed for Mayor 2024, Sponsored
+    by Abundance Network
+  cmte_fppcid: '1463715'
+  cmte_nid: '208688469'
 - cmte_name: Growsf Supporting Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
@@ -115,6 +119,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Operating Engineers 3 Statewide PAC
+  cmte_fppcid: '981697'
   cmte_nid: unknown
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'

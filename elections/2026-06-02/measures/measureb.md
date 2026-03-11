@@ -1,9 +1,9 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-10'
+last_updated: '2026-03-11'
 candidate: false
-title: 'B: Measure B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
+title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02

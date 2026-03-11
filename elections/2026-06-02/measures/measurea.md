@@ -1,9 +1,9 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-10'
+last_updated: '2026-03-11'
 candidate: false
-title: 'A: Measure A: Earthquake Safety and Emergency Response Bond'
+title: 'A: Earthquake Safety and Emergency Response Bond'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
@@ -15,7 +15,7 @@ committees:
   filer_id: '1486676'
   committee_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 27500.0
+  funds: 30000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -26,6 +26,8 @@ contributors:
   - 5000.0
 - - Wilson Meany Lp
   - 5000.0
+- - Anvil Builders, Inc.
+  - 2500.0
 - - Michael O'shaughnessy Construction Inc.
   - 2500.0
 - - Mitchell Engineering

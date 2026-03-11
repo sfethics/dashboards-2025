@@ -1,15 +1,15 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-10'
+last_updated: '2026-03-11'
 candidate: false
-title: 'D: Measure D: Increases to Business Tax Based on Comparison of Top Executive''s
-  Pay to Employees'' Pay'
+title: 'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to
+  Employees'' Pay'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02
-- - 'D: Increases to Business Tax Based on Comparison of Top Executive''s
-    Pay to Employees'' Pay'
+- - 'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to Employees''
+    Pay'
   - elections/2026-06-02/measures/measured
 committees:
 - position: SUPPORT
