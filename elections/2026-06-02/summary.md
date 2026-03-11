@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-10'
+last_updated: '2026-03-11'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -47,14 +47,13 @@ measures:
   expenses: 674426.34
   funds: 959400.01
 - contest_nid: '215271121'
-  contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board
-    of Supervisors'
+  contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
   funds: 1000.0
 - contest_nid: '215832793'
-  contest_name: 'D: Increases to Business Tax Based on Comparison of Top
-    Executive''s Pay to Employees'' Pay'
+  contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
+    Pay to Employees'' Pay'
   contest_link: measured
   expenses: 298560.14
   funds: 700761.53
@@ -62,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 27500.0
+  funds: 30000.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
