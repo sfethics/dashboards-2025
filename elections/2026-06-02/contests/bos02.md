@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-11'
+last_updated: '2026-03-12'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -41,9 +41,11 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 22100.0
+    funds: 32100.0
     expenses: ''
 contributors:
+- - Zach Jones
+  - 10500.0
 - - Elliot Schrage
   - 5400.0
 - - Katherine Sherrill
@@ -62,8 +64,6 @@ contributors:
   - 1000.0
 - - Danny Conway
   - 750.0
-- - Marlayne Morgan
-  - 725.0
 
 ---
 
