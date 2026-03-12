@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-11'
+last_updated: '2026-03-12'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,7 +33,7 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 22100.0
+  funds: 32100.0
   expenses: 0.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
@@ -74,6 +74,8 @@ contributors_bm:
 - - Michael Moritz
   - 125000.0
 contributors_cand:
+- - Zach Jones
+  - 10500.0
 - - Elliot Schrage
   - 5400.0
 - - Katherine Sherrill
@@ -82,8 +84,6 @@ contributors_cand:
   - 5150.0
 - - Stephen Sherrill
   - 4900.0
-- - William Sherrill
-  - 3000.0
 top_cand_spends:
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
