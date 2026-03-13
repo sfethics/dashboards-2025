@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-12'
+last_updated: '2026-03-13'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,7 +26,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 410095.28
+  funds: 470095.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -39,7 +39,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 6758.0
+  expenses: 57351.35
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -50,7 +50,7 @@ measures:
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 1000.0
+  funds: 6000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -89,22 +89,22 @@ top_cand_spends:
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 54972.81
+- cmte_nid: '212046236'
+  cmte_fppcid: '1469330'
+  cmte_name: Asian Americans for Representation
+  total_expense: 43835.35
 - cmte_nid: '214820258'
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   total_expense: 35455.84
+- cmte_nid: '215852865'
+  cmte_fppcid: '1488188'
+  cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
+  total_expense: 13516.0
 - cmte_nid: '214769736'
   cmte_fppcid: '1483649'
   cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
   total_expense: 13455.63
-- cmte_nid: '214896050'
-  cmte_fppcid: '1484806'
-  cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-  total_expense: 12027.9
-- cmte_nid: '215852865'
-  cmte_fppcid: '1488188'
-  cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
-  total_expense: 6758.0
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'

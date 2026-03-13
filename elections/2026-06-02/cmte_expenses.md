@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-12'
+last_updated: '2026-03-13'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -18,6 +18,16 @@ committees:
   cmte_nid: '193427405'
   committee_type: General Purpose
   total_expense: 962540.0
+- cmte_name: Jerome Guillen
+  cmte_fppcid: unknown
+  cmte_nid: '209507321'
+  committee_type: Major Donor
+  total_expense: 20000.0
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  cmte_nid: '212046236'
+  committee_type: General Purpose
+  total_expense: 43835.35
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -78,7 +88,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 6758.0
+  total_expense: 13516.0
 - cmte_name: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
