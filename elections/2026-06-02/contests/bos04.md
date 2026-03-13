@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-12'
+last_updated: '2026-03-13'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -20,7 +20,7 @@ candidates:
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
   candidate_name: DAVID LEE
-  funds: 19950.0
+  funds: 79950.0
   expenses: 1366.5
 - filer_nid: '215019694'
   filer_id: '1485609'
@@ -35,6 +35,14 @@ candidates:
   funds: 124553.0
   expenses: 613.26
 ie_candidates:
+- candidate_name: DAVID LEE
+  filer_id: '1484957'
+  committees:
+  - position: SUPPORT
+    filer_id: '1469330'
+    committee_name: Asian Americans for Representation
+    funds: ''
+    expenses: 43835.35
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
@@ -42,7 +50,7 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GrowSF Supporting Alan Wong for Supervisor 2026
     funds: ''
-    expenses: 6758.0
+    expenses: 13516.0
 contributors:
 - - Steven Lee
   - 1000.0
