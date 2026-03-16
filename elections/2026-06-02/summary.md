@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-13'
+last_updated: '2026-03-16'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,7 +26,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 470095.28
+  funds: 525469.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -39,18 +39,18 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 57351.35
+  expenses: 60351.35
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
   contest_link: measurec
   expenses: 674426.34
-  funds: 959400.01
+  funds: 967102.74
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 6000.0
+  funds: 36000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 30000.0
+  funds: 141500.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -92,7 +92,7 @@ top_cand_spends:
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
-  total_expense: 43835.35
+  total_expense: 46835.35
 - cmte_nid: '214820258'
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026

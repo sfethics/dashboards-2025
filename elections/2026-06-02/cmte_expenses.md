@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-13'
+last_updated: '2026-03-16'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -27,7 +27,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 43835.35
+  total_expense: 46835.35
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
