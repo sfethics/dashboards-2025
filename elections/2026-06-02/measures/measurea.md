@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-13'
+last_updated: '2026-03-16'
 candidate: false
 title: 'A: Earthquake Safety and Emergency Response Bond'
 breadcrumbs:
@@ -15,11 +15,15 @@ committees:
   filer_id: '1486676'
   committee_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 30000.0
+  funds: 141500.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
+- - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
+  - 100000.0
+- - Amr Holdco, Inc.
+  - 10000.0
 - - Eleni Kounalakis Ballot Measure Committee
   - 10000.0
 - - Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
@@ -34,6 +38,8 @@ contributors:
   - 2500.0
 - - Teamsters Local Union 350 PAC
   - 2500.0
+- - Ghilotti Bros, Inc.
+  - 1500.0
 
 ---
 

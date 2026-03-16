@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-13'
+last_updated: '2026-03-16'
 candidate: false
 title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
@@ -21,11 +21,15 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
-  funds: 5000.0
+  funds: 35000.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
+- - Jerome Guillen
+  - 20000.0
+- - Nicholas Josefowitz
+  - 10000.0
 - - Spenser Skates
   - 5000.0
 
