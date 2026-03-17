@@ -35,11 +35,11 @@ electionnav: true
             <h2>Summary Totals</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
-               <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+               <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="candidate-committees" class="mb-0">
                     Funds &amp; Expenses by Candidate
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="candidate-committeesTT" link="candidate-committees" %}
+                {% include card-toolbar.html offcanvas_id="candidate-committeesTT" link="candidate-committees" %}
                 </div>
 
                 <div class="card-body p-3 p-sm-4">
@@ -87,11 +87,11 @@ electionnav: true
             <h2>Third-Party Activity Supporting &amp; Opposing Candidates for {{page.title}}</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-            <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+            <div class="card-header custom-card-header card-header-stacked">
             <h3 id="ie-support" class="hover-link mb-0">
                 <span>Third-Party Support</span>
             </h3>
-            {% include dropdown-menu.html offcanvas_id="ie-supportTT" link="ie-support" %}
+            {% include card-toolbar.html offcanvas_id="ie-supportTT" link="ie-support" %}
             </div>
 
                 <div class="card-body p-3 p-sm-4">
@@ -144,11 +144,11 @@ electionnav: true
         </div>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+                <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="ie-oppose" class="hover-link mb-0">
                     <span>Third-Party Opposition</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="ie-opposeTT" link="ie-oppose" %}
+                {% include card-toolbar.html offcanvas_id="ie-opposeTT" link="ie-oppose" %}
                 </div>
 
                 <div class="card-body p-3 p-sm-4">
@@ -203,11 +203,11 @@ electionnav: true
     <div class="row g-4 mt-4">
         <div class="col-12 h-100">
             <div class="card border-0 box-shadow-thirdparty rounded-4 h-100">
-               <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+               <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="ie-committees" class="hover-link mb-0">
                     <span>Third Party Committees Funds &amp; Spending</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="ie-committeesTT" link="ie-committees" %}
+                {% include card-toolbar.html offcanvas_id="ie-committeesTT" link="ie-committees" %}
                 </div>
                 <div class="card-body p-3 p-sm-4">
                     <table class="table caption-top dtify_both all_ie_committees">

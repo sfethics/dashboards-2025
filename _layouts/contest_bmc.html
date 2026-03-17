@@ -57,9 +57,9 @@ electionnav: true
 
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Summary Totals">
-    <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+    <div class="card-header custom-card-header card-header-stacked">
         <h2 id="summary-totals-bmc" class="hover-link mb-0">Summary Totals</h2>
-        {% include dropdown-menu.html offcanvas_id="summary-totals-bmcTT" link="summary-totals-bmc" %}
+        {% include card-toolbar.html offcanvas_id="summary-totals-bmcTT" link="summary-totals-bmc" %}
     </div>
     <div class="row g-4">
         <!-- Totals for Measures -->
@@ -137,11 +137,11 @@ electionnav: true
     <div class="row g-4">
         <div class="col-12">
           <div class="card border-0 shadow-sm rounded-4 h-100">
-          <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+          <div class="card-header custom-card-header card-header-stacked">
           <h3 id="allcommittees-table" class="hover-link mb-0">
             <span>Funds and Expenses by Active Committees</span>
           </h3>
-          {% include dropdown-menu.html offcanvas_id="ballot-measure-activesTT" link="allcommittees-table" %}
+          {% include card-toolbar.html offcanvas_id="ballot-measure-activesTT" link="allcommittees-table" %}
           </div>
 
                 <div class="card-body">
@@ -193,11 +193,11 @@ electionnav: true
     <div class="row g-4">
         <div class="col-12">
             <div class="card border-0 shadow-sm rounded-4 h-100">
-            <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+            <div class="card-header custom-card-header card-header-stacked">
             <h3 id="multicommittees-table" class="hover-link mb-0">
               <span>Committees Active in Multiple Measures</span>
             </h3>
-            {% include dropdown-menu.html offcanvas_id="ballot-measure-multicommitteesTT" link="multicommittees-table" %}
+            {% include card-toolbar.html offcanvas_id="ballot-measure-multicommitteesTT" link="multicommittees-table" %}
             </div>
                 <div class="card-body">
                     <table class="table caption-top dtify-bmc mb-0" id="multicommittees_table">
