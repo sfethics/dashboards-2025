@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-16'
+last_updated: '2026-03-17'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,8 +33,8 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 32100.0
-  expenses: 0.0
+  funds: 246600.0
+  expenses: 30600.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 141500.0
+  funds: 156500.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -74,16 +74,16 @@ contributors_bm:
 - - Michael Moritz
   - 125000.0
 contributors_cand:
+- - Nicholas Josefowitz
+  - 100500.0
 - - Zach Jones
-  - 10500.0
-- - Elliot Schrage
-  - 5400.0
-- - Katherine Sherrill
-  - 5400.0
+  - 20500.0
 - - Jared Friedman
-  - 5150.0
-- - Stephen Sherrill
-  - 4900.0
+  - 10050.0
+- - Christopher Conway
+  - 5900.0
+- - Danny Conway
+  - 5650.0
 top_cand_spends:
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
@@ -97,14 +97,14 @@ top_cand_spends:
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   total_expense: 35455.84
+- cmte_nid: '214918275'
+  cmte_fppcid: '1484891'
+  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 31720.0
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
   total_expense: 13516.0
-- cmte_nid: '214769736'
-  cmte_fppcid: '1483649'
-  cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-  total_expense: 13455.63
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'

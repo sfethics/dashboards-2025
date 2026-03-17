@@ -47,6 +47,9 @@ committees:
 - cmte_name: Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
+- cmte_name: Committee to Support Supervisor Stephen Sherrill 2026
+  cmte_fppcid: '1488379'
+  cmte_nid: '215838066'
 - cmte_name: Forward Action SF, Supporting London Breed for Mayor 2024, Sponsored
     by Abundance Network
   cmte_fppcid: '1463715'
@@ -99,6 +102,9 @@ committees:
 - cmte_name: Haney Ballot Measure Committee for California Opportunity
   cmte_fppcid: '1459009'
   cmte_nid: '161836779'
+- cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
+  cmte_fppcid: '1358725'
+  cmte_nid: '216169376'
 - cmte_name: Neighbors for a Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -134,9 +140,6 @@ committees:
   cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
-  cmte_nid: unknown
-- cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
-  cmte_fppcid: '1358725'
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'

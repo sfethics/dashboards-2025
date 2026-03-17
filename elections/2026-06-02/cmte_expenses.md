@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-16'
+last_updated: '2026-03-17'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -62,7 +62,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 1120.0
+  total_expense: 31720.0
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'

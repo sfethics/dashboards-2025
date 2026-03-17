@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-16'
+last_updated: '2026-03-17'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -38,32 +38,37 @@ ie_candidates:
 - candidate_name: STEPHEN SHERRILL
   filer_id: '1479700'
   committees:
+  - position: ''
+    filer_id: '1484891'
+    committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    funds: 164500.0
+    expenses: 0.0
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 32100.0
-    expenses: ''
+    funds: 82100.0
+    expenses: 30600.0
 contributors:
+- - Nicholas Josefowitz
+  - 100500.0
 - - Zach Jones
-  - 10500.0
+  - 20500.0
+- - Jared Friedman
+  - 10050.0
+- - Christopher Conway
+  - 5900.0
+- - Danny Conway
+  - 5650.0
+- - Zachary Dewitt
+  - 5400.0
+- - Robert J. Fisher
+  - 5400.0
+- - Cal Henderson
+  - 5400.0
+- - Raphaela Lipinsky Degette
+  - 5400.0
 - - Elliot Schrage
   - 5400.0
-- - Katherine Sherrill
-  - 5400.0
-- - Jared Friedman
-  - 5150.0
-- - Stephen Sherrill
-  - 4900.0
-- - William Sherrill
-  - 3000.0
-- - Christopher Conway
-  - 1000.0
-- - Jennifer Emerson
-  - 1000.0
-- - Patricia Ishiyama
-  - 1000.0
-- - Danny Conway
-  - 750.0
 
 ---
 
