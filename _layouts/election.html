@@ -23,11 +23,11 @@ electionnav: true
         <h2 style="margin-bottom: -1rem;">Elected Offices</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-tertiary rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+                <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="candidate-committees" class="hover-link mb-0">
                     <span>Committee Funds &amp; Expenses for Elected Offices</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="candidate-ie-summaryTT" link="candidate-committees" %}
+                {% include card-toolbar.html offcanvas_id="candidate-ie-summaryTT" link="candidate-committees" %}
                 </div>
                 <div class="card-body p-3">
                     <table id="table_candidate" class="table caption-top dtify_both">
@@ -84,11 +84,11 @@ electionnav: true
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+                <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="top-committees-cand" class="hover-link mb-0">
                     <span>Top Committees Spending on Elected Offices</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="top-spending-committeesTT" link="top-committees-cand" %}
+                {% include card-toolbar.html offcanvas_id="top-spending-committeesTT" link="top-committees-cand" %}
                 </div>
                 <div class="card-body p-3">
                     <table id="table_candidate_committees" class="table caption-top dtify_topcand">
@@ -179,11 +179,11 @@ electionnav: true
         <h2 style="margin-bottom:-1rem">Ballot Measures</h2>
         <div class="col-lg-6 h-100">
             <div class="card border-0 box-shadow-primary rounded-4 h-100">
-               <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+               <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="ballot-measure-committees" class="hover-link mb-0">
                     <span>Committee Funds &amp; Expenses for Ballot Measures</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="ballot-measure-committeesTT" link="ballot-measure-committees" %}
+                {% include card-toolbar.html offcanvas_id="ballot-measure-committeesTT" link="ballot-measure-committees" %}
                 </div>
 
 
@@ -233,11 +233,11 @@ electionnav: true
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+                <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="top-committees-bm" class="hover-link mb-0">
                     <span>Top Committees Spending on Ballot Measures</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="top-spending-committeesTT" link="top-committees-bm" %}
+                {% include card-toolbar.html offcanvas_id="top-spending-committeesTT" link="top-committees-bm" %}
                 </div>
                 <div class="card-body p-3">
                     <table id="table_ballotmeasure_committees" class="table caption-top dtify_topbm">

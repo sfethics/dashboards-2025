@@ -2,7 +2,7 @@
 
     <!-- Card Header -->
     <div class="card-header custom-card-header">
-      <div class="d-flex column-gap-2 align-items-center">
+      <div class="card-header-stacked">
         <h3 id="top-contributors-{{include.link}}" class="hover-link mb-0">
           <span>
             {%- if include.title -%}
@@ -13,10 +13,10 @@
           </span>
         </h3>
         {% assign dd_link = 'top-contributors-' | append: include.link %}
-        {% include dropdown-menu.html offcanvas_id='top-contributorsTT' link=dd_link %}
+        {% include card-toolbar.html offcanvas_id='top-contributorsTT' link=dd_link %}
       </div>
     {%- if include.subtitle -%}
-      <p class="text-secondary mb-0">
+      <p class="text-secondary mb-0 mt-1">
         {{ include.subtitle }}
       </p>
     {%- endif -%}

@@ -401,6 +401,36 @@
     </div>
 </div>
 
+<div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totals-bmcTT" aria-labelledby="summary-totals-bmcTTLabel">
+    <div class="offcanvas-header">
+        <h2 class="offcanvas-title fs-5" id="summary-totals-bmcTTLabel">Summary Totals for {{ page.title }}</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body text-secondary">
+        <div>
+            <p>The totals in this section represent the combined funds and expenses for committees supporting or opposing the ballot measure.</p>
+            {%- if page.multi_committees and page.multi_committees != empty -%}
+            <h3 class="fs-5">Totals from Committees with Multiple Positions.</h3>
+            <p>This section represents additional funds and expenses from committees that are formed to primarily support or oppose multiple ballot measures. 
+                Spendings made by these committees may not be attibutable to a specific measure. Refer to <a href="#multicommittees-table">'Committees Active in Multiple Measures'</a> section for more details.
+            </p>
+            {% endif %}
+            <h3 class="fs-5">How This Data is Calculated</h3>
+            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. 
+                Only funds from primarily formed committees are included. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. 
+                Expenses also include any independent expenditures reported on Form 496.
+            </p>
+            <h3 class="fs-5">Why is total funds or expenses data not available or 'None'?</h3>
+            <p>Funds or expenses data may not be available or displayed as 'None' for several reasons:</p>
+            <ul>
+                <li>Only funds from primarily formed ballot measure committees are included. 
+                    Total funds does not include funds of other types of committees that have made independent expenditures supporting or opposing the measure.</li>
+                <li>No committee has reported contributions or expenditures to influence this measure.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="contributorsTT" aria-labelledby="contributorsTTLabel">
     <div class="offcanvas-header">
@@ -628,7 +658,7 @@
     </div>
 </div>
 
-<div class="offcanvas offcanvas-start" tabindex="-1" id="top-spending-committeesTT" aria-labelledby="top-spending-committeesTTLabel">
+<div class="offcanvas offcanvas-start" tabindex="-1" id="top-spending-committeesTT" aria-labelledby="top-spending-committeesTTLabel" data-bs-scroll="true">
     <div class="offcanvas-header">
         <h2 class="offcanvas-title fs-5" id="top-spending-committeesTTLabel">Top Spending Committees</h2>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
