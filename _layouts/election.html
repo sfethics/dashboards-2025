@@ -84,11 +84,11 @@ electionnav: true
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-                <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+                <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="top-committees-cand" class="hover-link mb-0">
                     <span>Top Committees Spending on Elected Offices</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="top-spending-committeesTT" link="top-committees-cand" %}
+                {% include card-toolbar.html offcanvas_id="top-spending-committeesTT" link="top-committees-cand" %}
                 </div>
                 <div class="card-body p-3">
                     <table id="table_candidate_committees" class="table caption-top dtify_topcand">

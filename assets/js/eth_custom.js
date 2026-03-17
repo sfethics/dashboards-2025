@@ -161,17 +161,36 @@ window.addEventListener("DOMContentLoaded", () => {
   formatAllCurrencyElements();
   formatAllPercentageElements();
   formatAllDateElements();
-  const links = document.querySelectorAll("a.copy-anchor");
-  
-  links.forEach(link => {
-    link.addEventListener("click", (event) => {
-      const fullUrl = event.currentTarget.href;
-      navigator.clipboard.writeText(fullUrl).then(() => {
-        // Optionally, you can provide feedback to the user that the link was copied
-        console.log("Link copied to clipboard: " + fullUrl);
-      }).catch(err => {
+
+  const copyButtons = document.querySelectorAll(".copy-link-btn");
+
+  copyButtons.forEach((button) => {
+    let resetTimeout;
+
+    button.addEventListener("click", async () => {
+      const hash = button.dataset.copyLink;
+      if (!hash) return;
+
+      const url = new URL(window.location.href);
+      url.hash = hash;
+
+      const originalHtml = button.innerHTML;
+
+      try {
+        await navigator.clipboard.writeText(url.toString());
+
+        clearTimeout(resetTimeout);
+
+        button.classList.add("copied");
+        button.innerHTML = '<i class="fa-light fa-check" aria-hidden="true"></i><span>Copied</span>';
+
+        resetTimeout = setTimeout(() => {
+          button.classList.remove("copied");
+          button.innerHTML = originalHtml;
+        }, 1500);
+      } catch (err) {
         console.error("Failed to copy link: ", err);
-      });
+      }
     });
   });
 });
