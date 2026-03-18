@@ -54,12 +54,12 @@ committees:
     by Abundance Network
   cmte_fppcid: '1463715'
   cmte_nid: '208688469'
-- cmte_name: Growsf Supporting Stephen Sherrill for Supervisor 2026
-  cmte_fppcid: '1484891'
-  cmte_nid: '214918275'
 - cmte_name: Growsf Supporting Alan Wong for Supervisor 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
+- cmte_name: Growsf Supporting Stephen Sherrill for Supervisor 2026
+  cmte_fppcid: '1484891'
+  cmte_nid: '214918275'
 - cmte_name: Equal Fire Protection for All Committee to Oppose Proposition a June
     2026
   cmte_fppcid: unknown
@@ -68,7 +68,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
 - cmte_name: No Lifetime Ban
-  cmte_fppcid: unknown
+  cmte_fppcid: '1488891'
   cmte_nid: '215900904'
 - cmte_name: North Coast States Regional Council of Carpenters Issues PAC
   cmte_fppcid: '1219354'
@@ -90,6 +90,9 @@ committees:
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
+- cmte_name: California Nurses Association Political Action Committee(cna-pac)
+  cmte_fppcid: '780657'
+  cmte_nid: '6673059'
 - cmte_name: California Professional Firefighters Political Action Committee
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
@@ -101,7 +104,7 @@ committees:
   cmte_nid: '157756164'
 - cmte_name: Haney Ballot Measure Committee for California Opportunity
   cmte_fppcid: '1459009'
-  cmte_nid: '161836779'
+  cmte_nid: '216110546'
 - cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   cmte_fppcid: '1358725'
   cmte_nid: '216169376'
@@ -126,6 +129,9 @@ committees:
 - cmte_name: Smart Justice California Action Fund
   cmte_fppcid: '1423131'
   cmte_nid: '200502936'
+- cmte_name: Teamsters Joint Council No 7 PAC
+  cmte_fppcid: '1257632'
+  cmte_nid: '205116472'
 - cmte_name: Teamsters Union Local No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'

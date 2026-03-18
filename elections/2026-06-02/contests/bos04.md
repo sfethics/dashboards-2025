@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -41,17 +41,21 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
-    funds: ''
+    funds: 0.0
     expenses: 46835.35
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
   - position: SUPPORT
     filer_id: '1488188'
-    committee_name: GrowSF Supporting Alan Wong for Supervisor 2026
-    funds: ''
+    committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+    funds: 30000.0
     expenses: 13516.0
 contributors:
+- - Noah Smith
+  - 20000.0
+- - Maco Stewart
+  - 10000.0
 - - Steven Lee
   - 1000.0
 - - Nancy Sihapanya
@@ -67,10 +71,6 @@ contributors:
 - - Gabriel Alegre
   - 500.0
 - - Richard Alexander
-  - 500.0
-- - Daniel Anderson
-  - 500.0
-- - Lisa Anderson
   - 500.0
 
 ---

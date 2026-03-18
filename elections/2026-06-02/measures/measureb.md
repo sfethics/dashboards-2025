@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 candidate: false
 title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
@@ -12,7 +12,7 @@ breadcrumbs:
 committees:
 - position: OPPOSE
   filer_nid: '215900904'
-  filer_id: ''
+  filer_id: '1488891'
   committee_name: NO LIFETIME BAN
   funds: 1000.0
   expenses: ''
@@ -21,17 +21,23 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
-  funds: 35000.0
+  funds: 55000.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Jerome Guillen
   - 20000.0
+- - Leah Culver
+  - 10000.0
 - - Nicholas Josefowitz
+  - 10000.0
+- - San Francisco Apartment Association Political Action Committee
   - 10000.0
 - - Spenser Skates
   - 5000.0
+- - Esther Marks
+  - 1000.0
 
 ---
 

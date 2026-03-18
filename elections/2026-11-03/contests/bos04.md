@@ -3,12 +3,12 @@ layout: contest_candidate
 election: '2026-11-03'
 last_updated: '2026-03-18'
 candidate: true
-title: Public Defender
+title: Board of Supervisors D04
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - Public Defender
-  - elections/2026-11-03/contests/pdr
+- - Board of Supervisors D04
+  - elections/2026-11-03/contests/bos04
 candidates: []
 ie_candidates: []
 
