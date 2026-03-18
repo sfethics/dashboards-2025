@@ -3,7 +3,7 @@ layout: election
 title: November 03, 2026 Election
 permalink: /elections/2026-11-03/
 election: '2026-11-03'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 breadcrumbs:
 - - Nov 03, 2026
   - /elections/2026-11-03/
@@ -37,6 +37,16 @@ candidate_pf:
   expenses: 97749.42
   ies: 0.0
 candidate_ie: []
+measures:
+- contest_nid: '215815438'
+  contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
+    and Working on City Contracts.'
+  contest_link: measuretbd1
+  expenses: 0.0
+  funds: 2007.44
+contributors_bm:
+- - Crush Ice SF
+  - 2007.44
 contributors_cand:
 - - Marisa Lavallee
   - 1500.0
