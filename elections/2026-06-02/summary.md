@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -38,7 +38,7 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 0.0
+  funds: 30000.0
   expenses: 60351.35
 measures:
 - contest_nid: '215121153'
@@ -50,7 +50,7 @@ measures:
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 36000.0
+  funds: 56000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 156500.0
+  funds: 179000.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -78,12 +78,12 @@ contributors_cand:
   - 100500.0
 - - Zach Jones
   - 20500.0
+- - Noah Smith
+  - 20000.0
+- - Maco Stewart
+  - 11000.0
 - - Jared Friedman
   - 10050.0
-- - Christopher Conway
-  - 5900.0
-- - Danny Conway
-  - 5650.0
 top_cand_spends:
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
@@ -103,7 +103,7 @@ top_cand_spends:
   total_expense: 31720.0
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
-  cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
+  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   total_expense: 13516.0
 top_bm_spends:
 - cmte_nid: '193427405'

@@ -21,13 +21,13 @@ electionnav: true
     <div class="accordion accordion-flush" id="accordion">
         <div class="accordion-item">
             <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                     About the contributors table
                 </button>
             </h2>
 
-            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion">
+            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordion">
                 <div class="accordion-body">
                     <p>The table below lists contributors to San Francisco committees involved in the <span
                             class="formatted-date">{{ page.election }}</span> election who have given
@@ -51,7 +51,7 @@ electionnav: true
                             <tr>
                                 <th scope="col">...</th>
                                 <th scope="col">Name</th>
-                                <th scope="col">Code</th>
+                                <th scope="col">Contributor Type</th>
                                 <th scope="col">Total</th>
                                 <th scope="col">Contribution Breakdown</th>
                             </tr>

@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -84,7 +84,7 @@ committees:
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
   total_expense: 674426.34
-- cmte_name: GrowSF Supporting Alan Wong for Supervisor 2026
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate

@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -38,15 +38,10 @@ ie_candidates:
 - candidate_name: STEPHEN SHERRILL
   filer_id: '1479700'
   committees:
-  - position: ''
-    filer_id: '1484891'
-    committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 164500.0
-    expenses: 0.0
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 82100.0
+    funds: 246600.0
     expenses: 30600.0
 contributors:
 - - Nicholas Josefowitz
