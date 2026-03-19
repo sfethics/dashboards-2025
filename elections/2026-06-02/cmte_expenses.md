@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-18'
+last_updated: '2026-03-19'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -84,11 +84,22 @@ committees:
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
   total_expense: 674426.34
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  cmte_nid: '215606983'
+  committee_type: General Purpose
+  total_expense: 45508.4
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
   total_expense: 13516.0
+- cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
+    by Labor Organizations
+  cmte_fppcid: '1488862'
+  cmte_nid: '216048526'
+  committee_type: Primarily Formed Candidate
+  total_expense: 80000.0
 - cmte_name: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
