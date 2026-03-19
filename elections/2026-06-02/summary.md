@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-18'
+last_updated: '2026-03-19'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,13 +33,13 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 246600.0
-  expenses: 30600.0
+  funds: 266600.0
+  expenses: 55305.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 30000.0
-  expenses: 60351.35
+  expenses: 161154.1
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 179000.0
+  funds: 180000.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -77,7 +77,7 @@ contributors_cand:
 - - Nicholas Josefowitz
   - 100500.0
 - - Zach Jones
-  - 20500.0
+  - 40500.0
 - - Noah Smith
   - 20000.0
 - - Maco Stewart
@@ -85,6 +85,11 @@ contributors_cand:
 - - Jared Friedman
   - 10050.0
 top_cand_spends:
+- cmte_nid: '216048526'
+  cmte_fppcid: '1488862'
+  cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
+    by Labor Organizations
+  total_expense: 80000.0
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -93,18 +98,14 @@ top_cand_spends:
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
   total_expense: 46835.35
+- cmte_nid: '215606983'
+  cmte_fppcid: '1487286'
+  cmte_name: SF Believes
+  total_expense: 45508.4
 - cmte_nid: '214820258'
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   total_expense: 35455.84
-- cmte_nid: '214918275'
-  cmte_fppcid: '1484891'
-  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  total_expense: 31720.0
-- cmte_nid: '215852865'
-  cmte_fppcid: '1488188'
-  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 13516.0
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'

@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-18'
+last_updated: '2026-03-19'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -47,10 +47,24 @@ ie_candidates:
   filer_id: '1485709'
   committees:
   - position: SUPPORT
+    filer_id: '1487286'
+    committee_name: SF Believes
+    funds: 0.0
+    expenses: 20802.75
+  - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 30000.0
     expenses: 13516.0
+- candidate_name: NATALIE GEE
+  filer_id: '1484806'
+  committees:
+  - position: SUPPORT
+    filer_id: '1488862'
+    committee_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026,
+      Sponsored by Labor Organizations
+    funds: 0.0
+    expenses: 80000.0
 contributors:
 - - Noah Smith
   - 20000.0

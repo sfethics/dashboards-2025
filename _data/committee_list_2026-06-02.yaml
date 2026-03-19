@@ -47,6 +47,10 @@ committees:
 - cmte_name: Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
+- cmte_name: Affordable SF Now Supporting Natalie Gee for Supervisor 2026, Sponsored
+    by Labor Organizations
+  cmte_fppcid: '1488862'
+  cmte_nid: '216048526'
 - cmte_name: Committee to Support Supervisor Stephen Sherrill 2026
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
@@ -105,6 +109,10 @@ committees:
 - cmte_name: Haney Ballot Measure Committee for California Opportunity
   cmte_fppcid: '1459009'
   cmte_nid: '216110546'
+- cmte_name: International Federation of Professional and Technical Engineers - Tj
+    Anthony PAC Fund
+  cmte_fppcid: '881248'
+  cmte_nid: '121714486'
 - cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   cmte_fppcid: '1358725'
   cmte_nid: '216169376'
@@ -123,6 +131,9 @@ committees:
 - cmte_name: Service Employees International Union Local 1021 Issues PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  cmte_nid: '215606983'
 - cmte_name: SF Forward Sponsored by San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
@@ -152,6 +163,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Operating Engineers 3 Statewide PAC
   cmte_fppcid: '981697'
+  cmte_nid: unknown
+- cmte_name: Rafael Mandelman for State Senate 2028
+  cmte_fppcid: '1460689'
   cmte_nid: unknown
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'

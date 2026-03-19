@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-18'
+last_updated: '2026-03-19'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -41,13 +41,18 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 246600.0
+    funds: 266600.0
     expenses: 30600.0
+  - position: SUPPORT
+    filer_id: '1487286'
+    committee_name: SF Believes
+    funds: 0.0
+    expenses: 24705.65
 contributors:
 - - Nicholas Josefowitz
   - 100500.0
 - - Zach Jones
-  - 20500.0
+  - 40500.0
 - - Jared Friedman
   - 10050.0
 - - Christopher Conway
