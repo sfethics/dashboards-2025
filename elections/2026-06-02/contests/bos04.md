@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-19'
+last_updated: '2026-03-20'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -32,7 +32,7 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 136355.0
+  funds: 155555.0
   expenses: 613.26
 ie_candidates:
 - candidate_name: DAVID LEE

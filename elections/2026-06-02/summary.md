@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-19'
+last_updated: '2026-03-20'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,7 +26,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 525469.28
+  funds: 544669.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 180000.0
+  funds: 185000.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
