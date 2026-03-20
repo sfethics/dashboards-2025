@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-19'
+last_updated: '2026-03-20'
 candidate: false
 title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
