@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-20'
+last_updated: '2026-03-23'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -93,7 +93,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 13516.0
+  total_expense: 19608.51
 - cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   cmte_fppcid: '1488862'
@@ -110,6 +110,11 @@ committees:
   cmte_nid: '6673342'
   committee_type: General Purpose
   total_expense: 99732.2
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  cmte_nid: '6685673'
+  committee_type: General Purpose
+  total_expense: 500.0
 
 ---
 

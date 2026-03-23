@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-20'
+last_updated: '2026-03-23'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -41,7 +41,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 266600.0
+    funds: 276400.0
     expenses: 30600.0
   - position: SUPPORT
     filer_id: '1487286'
@@ -65,9 +65,9 @@ contributors:
   - 5400.0
 - - Cal Henderson
   - 5400.0
-- - Raphaela Lipinsky Degette
+- - Scott Leachman
   - 5400.0
-- - Elliot Schrage
+- - Raphaela Lipinsky Degette
   - 5400.0
 
 ---
