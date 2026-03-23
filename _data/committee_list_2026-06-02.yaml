@@ -74,9 +74,6 @@ committees:
 - cmte_name: No Lifetime Ban
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
-- cmte_name: North Coast States Regional Council of Carpenters Issues PAC
-  cmte_fppcid: '1219354'
-  cmte_nid: '214099226'
 - cmte_name: Protect San Francisco's Small Businesses and Economic Recovery, Sponsored
     by San Francisco Civic Organizations
   cmte_fppcid: '1485633'
@@ -119,6 +116,9 @@ committees:
 - cmte_name: Neighbors for a Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
+- cmte_name: North Coast States Regional Council of Carpenters Issues PAC
+  cmte_fppcid: '1219354'
+  cmte_nid: '167821491'
 - cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
   cmte_fppcid: '891394'
   cmte_nid: '121720608'
