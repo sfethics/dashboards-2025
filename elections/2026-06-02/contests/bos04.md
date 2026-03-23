@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-20'
+last_updated: '2026-03-23'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -54,8 +54,8 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 30000.0
-    expenses: 13516.0
+    funds: 280000.0
+    expenses: 19608.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -66,6 +66,8 @@ ie_candidates:
     funds: 0.0
     expenses: 80000.0
 contributors:
+- - Michael Moritz
+  - 250000.0
 - - Noah Smith
   - 20000.0
 - - Maco Stewart
@@ -83,8 +85,6 @@ contributors:
 - - Syrie Albright
   - 500.0
 - - Gabriel Alegre
-  - 500.0
-- - Richard Alexander
   - 500.0
 
 ---

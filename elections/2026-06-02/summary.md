@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-20'
+last_updated: '2026-03-23'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,13 +33,13 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 266600.0
+  funds: 276400.0
   expenses: 55305.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 30000.0
-  expenses: 161154.1
+  funds: 280000.0
+  expenses: 167246.61
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 185000.0
+  funds: 215000.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -74,6 +74,8 @@ contributors_bm:
 - - Michael Moritz
   - 125000.0
 contributors_cand:
+- - Michael Moritz
+  - 250000.0
 - - Nicholas Josefowitz
   - 100500.0
 - - Zach Jones
@@ -82,8 +84,6 @@ contributors_cand:
   - 20000.0
 - - Maco Stewart
   - 11000.0
-- - Jared Friedman
-  - 10050.0
 top_cand_spends:
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'

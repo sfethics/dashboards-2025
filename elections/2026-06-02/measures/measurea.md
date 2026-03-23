@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-20'
+last_updated: '2026-03-23'
 candidate: false
 title: 'A: Earthquake Safety and Emergency Response Bond'
 breadcrumbs:
@@ -15,30 +15,30 @@ committees:
   filer_id: '1486676'
   committee_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 185000.0
+  funds: 215000.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   - 100000.0
+- - United Contractors
+  - 25000.0
 - - Tmg Partners Re Llc(daniel Siri)
   - 17500.0
 - - Amr Holdco, Inc.
   - 10000.0
 - - Eleni Kounalakis Ballot Measure Committee
   - 10000.0
+- - Haney Ballot Measure Committee for California Opportunity
+  - 10000.0
 - - Comcast Corporation
   - 5000.0
 - - Fontenoy Engineering Inc.
   - 5000.0
-- - Haney Ballot Measure Committee for California Opportunity
-  - 5000.0
 - - Jmb Construction Inc.
   - 5000.0
 - - Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
-  - 5000.0
-- - Teamsters Joint Council No 7 PAC
   - 5000.0
 
 ---
