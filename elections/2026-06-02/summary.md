@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-23'
+last_updated: '2026-03-24'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,19 +26,19 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 544669.28
+  funds: 604669.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 276400.0
+  funds: 281300.0
   expenses: 55305.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 280000.0
+  funds: 552200.0
   expenses: 167246.61
 measures:
 - contest_nid: '215121153'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 215000.0
+  funds: 217500.0
 contributors_bm:
 - - Chris Larsen
   - 500000.0
@@ -75,15 +75,15 @@ contributors_bm:
   - 125000.0
 contributors_cand:
 - - Michael Moritz
-  - 250000.0
+  - 500000.0
 - - Nicholas Josefowitz
   - 100500.0
 - - Zach Jones
   - 40500.0
 - - Noah Smith
   - 20000.0
-- - Maco Stewart
-  - 11000.0
+- - Jared Friedman
+  - 14950.0
 top_cand_spends:
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
@@ -109,8 +109,8 @@ top_cand_spends:
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
-  cmte_name: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
-  total_expense: 962540.0
+  cmte_name: Neighbors For A Better San Francisco Advocacy
+  total_expense: 967540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED

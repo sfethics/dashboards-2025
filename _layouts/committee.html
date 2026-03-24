@@ -62,11 +62,11 @@ electionnav: true
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Campaign finance summary">
   <div class="row g-4">
-    <div class="d-flex column-gap-2 align-items-center">
+    <div class="d-flex column-gap-2 card-header-stacked">
         <h2 id="summary-totals" class="mb-0">
           <span>Summary Totals</span>
         </h2>
-        {% include dropdown-menu.html offcanvas_id="summary-totalsTT" link="summary-totals" %}
+        {% include card-toolbar.html offcanvas_id="summary-totalsTT" link="summary-totals" %}
     </div>
 
     {% if page.dates[0] != '' and page.dates[1] != '' %}
@@ -149,11 +149,11 @@ electionnav: true
       <div class="card border-0 box-shadow-contributions rounded-4">
 
         <!-- Card Header -->
-        <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+        <div class="card-header custom-card-header card-header-stacked">
             <h3 id="contributions-overview" class="hover-link mb-0">
                 <span>Contributions Overview</span>
             </h3>
-            {% include dropdown-menu.html offcanvas_id="contributionsOverviewTT" link="contributions-overview" %}
+            {% include card-toolbar.html offcanvas_id="contributionsOverviewTT" link="contributions-overview" %}
         </div>
 
         <!-- Card Body -->
@@ -206,12 +206,12 @@ electionnav: true
     <!-- Contributors -->
     <div class="col-lg-6 cm-contributors search-box h-100">
       <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-        <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+        <div class="card-header custom-card-header card-header-stacked">
             <h3 id="contributors" class="hover-link mb-0 d-inline-flex align-items-center">
                 <span>Contributors</span>
             </h3>
             <div style="z-index: 2;">
-                {% include dropdown-menu.html offcanvas_id="contributorsTT" link="contributors" %}
+                {% include card-toolbar.html offcanvas_id="contributorsTT" link="contributors" %}
             </div>
         </div>
         <div class="card-body p-3 p-sm-4">
@@ -249,12 +249,12 @@ electionnav: true
     <!-- Expenditures -->
     <div class="col-lg-6 cm-expenditures search-box h-100">
       <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-        <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+        <div class="card-header custom-card-header card-header-stacked">
             <h3 id="expenditures" class="hover-link mb-0 d-inline-flex align-items-center">
                 <span>Expenditures</span>
             </h3>
             <div style="z-index: 2;">
-                {% include dropdown-menu.html offcanvas_id="expendituresTT" link="expenditures" %}
+                {% include card-toolbar.html offcanvas_id="expendituresTT" link="expenditures" %}
             </div>
         </div>
 
@@ -285,11 +285,11 @@ electionnav: true
     <div class="col-lg-6 cm-loans h-100">
       <div class="card border-0 box-shadow-contributions rounded-4 h-100">
         <div class="card border-0 box-shadow-contributions rounded-4 h-100">
-            <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+            <div class="card-header custom-card-header card-header-stacked">
                 <h3 id="loans_received" class="hover-link mb-0">
                     <span>Loans Received</span>
                 </h3>
-                {% include dropdown-menu.html offcanvas_id="loansTT" link="loans_received" %}
+                {% include card-toolbar.html offcanvas_id="loansTT" link="loans_received" %}
             </div>
 
         <div class="card-body p-3">
@@ -331,13 +331,13 @@ electionnav: true
   <div class="row g-4">
 
     {% if page.ie_measures -%}
-    <div class="col-lg-12 cm-expenditures search-box h-100">
+    <div class="col-lg-12 h-100">
       <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-        <div class="card-header custom-card-header d-flex column-gap-2 align-items-center">
+        <div class="card-header custom-card-header card-header-stacked">
         <h3 id="ie-measures" class="hover-link mb-0">
             <span class="">Independent Expenditures Regarding Ballot Measures</span>
         </h3>
-        {% include dropdown-menu.html offcanvas_id="ie-measuresTT" link="ie-measures" %}
+        {% include card-toolbar.html offcanvas_id="ie-measuresTT" link="ie-measures" %}
         </div>
         
         <div class="card-body p-3 p-sm-4">
@@ -366,13 +366,13 @@ electionnav: true
     {%- endif %}
 
     {%- if page.ie_candidates -%}
-    <div class="col-lg-12 cm-expenditures h-100">
+    <div class="col-lg-12 h-100">
       <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-        <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+        <div class="card-header card-header-stacked custom-card-header">
         <h3 id="ie-candidates" class="hover-link mb-0">
             <span class="">Independent Expenditures Regarding Candidates</span>
         </h3>
-        {% include dropdown-menu.html offcanvas_id="ie-candidatesTT" link="ie-candidates" %}
+        {% include card-toolbar.html offcanvas_id="ie-candidatesTT" link="ie-candidates" %}
         </div>
 
         <div class="card-body p-3 pt-0">
@@ -403,13 +403,13 @@ electionnav: true
     {%- endif %}
 
     {%- if page.F497P2 -%}
-    <div class="col-lg-12 cm-expenditures h-100">
+    <div class="col-lg-12 h-100">
       <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-        <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+        <div class="card-header card-header-stacked custom-card-header">
             <h3 id="f497p2" class="hover-link mb-0 ">
                 <span class="">Late Period Contributions Made</span>
             </h3>
-            {% include dropdown-menu.html offcanvas_id="f497p2TT" link="f497p2" %}
+            {% include card-toolbar.html offcanvas_id="f497p2TT" link="f497p2" %}
             </div>
 
         <div class="card-body p-3 pt-0">
@@ -444,13 +444,13 @@ electionnav: true
     {%- endif %}
 
     {%- if page.ies -%}
-    <div class="col-lg-12 cm-expenditures h-100">
+    <div class="col-lg-12 h-100">
       <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-            <div class="card-header d-flex align-items-center column-gap-2 custom-card-header">
+            <div class="card-header card-header-stacked custom-card-header">
             <h3 id="schedule-d" class="hover-link mb-0">
                 <span class="">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
             </h3>
-            {% include dropdown-menu.html offcanvas_id="schedule-dTT" link="schedule-d" %}
+            {% include card-toolbar.html offcanvas_id="schedule-dTT" link="schedule-d" %}
             </div>
 
         <div class="card-body p-3 pt-0">

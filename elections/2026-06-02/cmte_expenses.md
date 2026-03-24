@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-23'
+last_updated: '2026-03-24'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -13,11 +13,11 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 10000.0
-- cmte_name: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+- cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 962540.0
+  total_expense: 967540.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'

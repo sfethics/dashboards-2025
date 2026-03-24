@@ -191,6 +191,9 @@ committees:
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
+- cmte_name: Zach Jones
+  cmte_fppcid: unknown
+  cmte_nid: '216290236'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

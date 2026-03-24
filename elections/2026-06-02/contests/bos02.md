@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-23'
+last_updated: '2026-03-24'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -41,7 +41,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 276400.0
+    funds: 281300.0
     expenses: 30600.0
   - position: SUPPORT
     filer_id: '1487286'
