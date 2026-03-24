@@ -379,7 +379,7 @@
                 spent by a committees in the current election.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
             <p>Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and late period contributions received on Form 497 and Form 496P3.
-                If a committee has received any loans, those will populate in a separate table in the Activity Details section.
+                If a committee has received any loans, loans details are presented in a separate table in the Activity Details section.
             </p>
 
             {% if page.committee_type == 'candidate' %}
@@ -389,6 +389,8 @@
                 
             <p>Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460
                 schedule E.</p>
+            <p>Total Expenditures does not include a committee's <b>independent expenditures</b> regarding candidates or ballot measures. 
+                Details about any independent expenditures made by the committee can be found in the Activity Details section.</p>
             {% if page.totals[1] == 0.0 or page.totals[0] == 0.0 or page.totals[0] == '' or page.totals[1] == '' %}
             <h3 class="fs-5">Why is contribution or expenditure data not available?</h3>
             <p>Some state-level committees that are active within an election cycle are only required to file reports
