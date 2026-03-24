@@ -122,7 +122,7 @@ electionnav: true
         <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
             {% include contributors-table.html title='Top Contributors To This Measure' subtitle='Contributions to Primarily Formed Ballot Measure Committees'
-            contributors=page.contributors link="bmc" election=page.election %}
+contributors=page.contributors link="bmc" election=page.election table_class="dtify_contributors" %}
             {%- endif -%}
         </div>
     </div>
@@ -145,7 +145,7 @@ electionnav: true
           </div>
 
                 <div class="card-body">
-                    <table class="table caption-top dtify-bmc mb-0" id="allcommittees_table">
+                    <table class="table caption-top dtify-bmc dt-bars mb-0" id="allcommittees_table">
                         <thead>
                             <tr>
                                 <th scope="col" data-priority="1">Committee</th>
@@ -200,7 +200,7 @@ electionnav: true
             {% include card-toolbar.html offcanvas_id="ballot-measure-multicommitteesTT" link="multicommittees-table" %}
             </div>
                 <div class="card-body">
-                    <table class="table caption-top dtify-bmc mb-0" id="multicommittees_table">
+                    <table class="table caption-top dtify-bmc dt-bars mb-0" id="multicommittees_table">
                         <thead>
                             <tr>
                                 <th scope="col" data-priority="1">Committee</th>

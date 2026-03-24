@@ -24,7 +24,7 @@
 
     <!-- Card Body -->
     <div class="card-body p-3">
-        <table class="table {{ include.table_class }} mb-2">
+        <table id="contributors_{{ include.link }}" class="table {{ include.table_class }} mb-2 dt-bars">
             <thead class="table-light">
                 <tr>
                     <th scope="col" class="text-uppercase small">Name</th>
@@ -35,7 +35,7 @@
                 {%- for contributor in include.contributors -%}
                 <tr>
                     <td class="fw-medium">{{ contributor[0] }}</td>
-                    <td class="currency text-end fw-semibold">{{ contributor[1] }}</td>
+                    <td class="text-end fw-semibold">{{ contributor[1] }}</td>
                 </tr>
                 {%- endfor -%}
             </tbody>
