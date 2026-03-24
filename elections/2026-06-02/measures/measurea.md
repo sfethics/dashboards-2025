@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-23'
+last_updated: '2026-03-24'
 candidate: false
 title: 'A: Earthquake Safety and Emergency Response Bond'
 breadcrumbs:
@@ -15,7 +15,7 @@ committees:
   filer_id: '1486676'
   committee_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 215000.0
+  funds: 217500.0
   expenses: ''
   ies: ''
 multi_committees: []

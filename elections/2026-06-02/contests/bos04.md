@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-23'
+last_updated: '2026-03-24'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -26,7 +26,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 6151.0
+  funds: 66151.0
   expenses: 0.0
 - filer_nid: '215112140'
   filer_id: '1485709'
@@ -54,7 +54,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 280000.0
+    funds: 552200.0
     expenses: 19608.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
@@ -67,25 +67,25 @@ ie_candidates:
     expenses: 80000.0
 contributors:
 - - Michael Moritz
-  - 250000.0
+  - 500000.0
 - - Noah Smith
   - 20000.0
 - - Maco Stewart
   - 10000.0
+- - Jared Friedman
+  - 4900.0
+- - Luke Miner
+  - 4900.0
+- - David Peeler
+  - 4900.0
+- - Patrick Purvis
+  - 3000.0
+- - Andy Hansen
+  - 2500.0
+- - Jordan Hurwich
+  - 1000.0
 - - Steven Lee
   - 1000.0
-- - Nancy Sihapanya
-  - 750.0
-- - Lillian Sing
-  - 750.0
-- - Julie Tang
-  - 600.0
-- - Arthur Agnos
-  - 500.0
-- - Syrie Albright
-  - 500.0
-- - Gabriel Alegre
-  - 500.0
 
 ---
 
