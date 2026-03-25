@@ -55,7 +55,7 @@ function renderCurrencyBar(data, type, maxValue, barClass, useSqrtScaling = fals
         return parseMoneyValue(data);
     }
 
-    const numericValue = parseMoneyValue(data);
+    const numericValue = data;
     let widthPct = 0;
 
     if (maxValue > 0) {
@@ -85,7 +85,7 @@ document.querySelectorAll('table.dtify_exp').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -97,7 +97,7 @@ document.querySelectorAll('table.dtify_exp').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -114,7 +114,13 @@ document.querySelectorAll('table.dtify_exp').forEach(function (tableEl) {
                 .data()
                 .reduce(sumAsNum, 0);
 
+            let totalCon = api
+                .column(1)
+                .data()
+                .reduce(sumAsNum, 0);
+
             api.column(2).footer().innerHTML = formatAsCurrency(totalExp);
+            api.column(1).footer().innerHTML = formatAsCurrency(totalCon);
         }
     });
 });
@@ -133,7 +139,7 @@ document.querySelectorAll('table.dtify_both').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -145,7 +151,7 @@ document.querySelectorAll('table.dtify_both').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -189,7 +195,7 @@ document.querySelectorAll('table.dtify_topbm, table.dtify_topcand').forEach(func
                         return renderCurrencyBar(data, type, maxValue, 'dt-bar-expenses', false);
                     }
 
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -214,7 +220,7 @@ document.querySelectorAll('table.dtify_contributors').forEach(function (tableEl)
                     if (hasBars) {
                         return renderCurrencyBar(data, type, maxValue, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;

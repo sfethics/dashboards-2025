@@ -88,7 +88,7 @@ document.querySelectorAll('table.candidate_controlled').forEach(function (tableE
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -100,7 +100,7 @@ document.querySelectorAll('table.candidate_controlled').forEach(function (tableE
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -143,7 +143,7 @@ document.querySelectorAll('table.ie_committee').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -155,7 +155,7 @@ document.querySelectorAll('table.ie_committee').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -198,7 +198,7 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -210,7 +210,7 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return data;
@@ -251,7 +251,7 @@ document.querySelectorAll('table.dtify_contributors').forEach(function (tableEl)
                     if (hasBars) {
                         return renderCurrencyBar(data, type, maxValue, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return parseMoneyValue(data);

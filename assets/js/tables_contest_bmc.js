@@ -85,7 +85,7 @@ document.querySelectorAll('table.dtify-bmc').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return parseMoneyValue(data);
@@ -97,7 +97,7 @@ document.querySelectorAll('table.dtify-bmc').forEach(function (tableEl) {
                     if (hasBars) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return parseMoneyValue(data);
@@ -144,7 +144,7 @@ document.querySelectorAll('table.dtify_contributors').forEach(function (tableEl)
                     if (hasBars) {
                         return renderCurrencyBar(data, type, maxValue, 'dt-bar-funds', true);
                     }
-                    if (type === 'display') {
+                    else if (type === 'display') {
                         return formatAsCurrency(data);
                     }
                     return parseMoneyValue(data);

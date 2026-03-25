@@ -118,7 +118,7 @@ function copyText(selector) {
 }
 
 function formatAsCurrency(val) {
-  if (val == "") return "";
+  if (val == "") return "N/A";
   if (parseInt(val) == 0) return "N/A";
   if (isNaN(val)) return val;
 

@@ -6,7 +6,7 @@ breadcrumbs:
 - - Sep 16, 2025
   - elections/2025-09-16/
 - - Contributors
-title: Table of Contributors
+title: Top Contributors in the September 16, 2025 election
 threshold: 1000
 contributors:
 - tx_firstname: CHRIS
