@@ -6,7 +6,7 @@ breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
 - - Contributors
-title: List of Contributors in the Jun 02, 2026 election
+title: Top Contributors in the June 02, 2026 election
 threshold: 1000
 contributors:
 - tx_firstname: CHRIS

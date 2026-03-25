@@ -1,251 +1,153 @@
-new DataTable('#contributors_table', {
-    pageLength: 10,
-    lengthChange: false,
-    order: [[2, 'desc']],
-    columnDefs: [
-        { width: '60%', targets: [1] },
-        { width: '20%', targets: [0, 2] },
-        {
-            targets: [2],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data;
-            }
-        }
-    ],
-    layout: {
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    },
-    language: {
-        search: '<span class="visually-hidden">Search...</span>',
-        searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
-    },
-    initComplete: function () {
-        // Add an aria-label if you prefer not to visually show a label but still provide accessibility
-        const input = document.querySelector('#contributors_table_filter input[type=search]');
-        if (input) {
-            input.setAttribute('aria-label', 'Search Contributors');   // ensures screen-reader users know what this input is for
-        }
+function parseMoneyValue(value) {
+    if (value === null || value === undefined) {
+        return 0;
     }
-});
-new DataTable('#expenditures_table', {
-    pageLength: 10,
-    lengthChange: false,
-    order: [[1, 'desc']],
-    columnDefs: [
-        { width: '80%', targets: [0] },
-        {
-            targets: [1],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data;
-            }
-        }
-    ],
-    layout: {
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    },
-    language: {
-        search: '<span class="visually-hidden">Search...</span>',
-        searchPlaceholder: 'Search…'   // set placeholder text :contentReference[oaicite:1]{index=1}
-    },
-    initComplete: function () {
-        // Add an aria-label if you prefer not to visually show a label but still provide accessibility
-        const input = document.querySelector('#expenditures_table_filter input[type=search]');
-        if (input) {
-            input.setAttribute('aria-label', 'Search Expenditures');   // ensures screen-reader users know what this input is for
-        }
-    }
-});
-new DataTable('#loans_received_table', {
-    pageLength: 10,
-    lengthChange: false,
-    order: [[1, 'desc']],
-    responsive: {
-        details: {
-            display: DataTable.Responsive.display.childRowImmediate,
-            target: 0,
-            type: 'none'
-        }
-    },
-    columnDefs: [
-        { responsivePriority: 10001, targets: [2, 3] },
-        {
-            targets: [1, 2, 3, 4],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data;
-            }
-        }
-    ],
-    layout: {
-        topEnd: null,
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    },
-});
-new DataTable('#filings_table', {
-    pageLength: 10,
-    order: [[0, 'desc']],
-    lengthChange: false,
-    layout: {
-        topEnd: null,
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    }
-});
 
-// this table only appears on candidate_committee.html
-new DataTable('#third_party_table', {
-    displayLength: -1,
-    responsive: {
-        details: {
-            display: DataTable.Responsive.display.childRowImmediate,
-            target: 0,
-            type: 'none'
-        }
-    },
-    layout: {
-        topStart: null,
-        topEnd: null,
-        bottomStart: null,
-        bottomEnd: null,
-    },
-    lengthChange: false,
-    columnDefs: [
-        { responsivePriority: 10001, targets: [1] },
-        {
-            targets: [2, 3],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data
-            }
-        },
-    ],
-});
-
-new DataTable('table#ie-candidates_table', {
-    pageLength: 10,
-    lengthChange: false,
-    order: [[2, 'desc']],
-    columnDefs: [
-        {
-            targets: [-1],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data
-            }
-        }
-    ],
-    layout: {
-        topEnd: null,
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
+    if (typeof value === 'number') {
+        return value;
     }
-});
 
-new DataTable('table#schedule-d_table', {
-    pageLength: 10,
-    lengthChange: false,
-    order: [[2, 'desc'], [3, 'desc']],
-    responsive: {
-        details: {
-            display: DataTable.Responsive.display.childRowImmediate,
-            target: 0,
-            type: 'none'
-        }
-    },
-    columnDefs: [
-        { width: '20%', targets: [1] },
-        { width: '10%', targets: [2,3] },
-        { responsivePriority: 10001, targets: [1] },
-        {
-            targets: [-1],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
+    let str = String(value).trim().toUpperCase().replace(/[$,\s]/g, '');
+
+    if (!str) {
+        return 0;
+    }
+
+    let multiplier = 1;
+
+    if (str.endsWith('K')) {
+        multiplier = 1e3;
+        str = str.slice(0, -1);
+    } else if (str.endsWith('M')) {
+        multiplier = 1e6;
+        str = str.slice(0, -1);
+    } else if (str.endsWith('B')) {
+        multiplier = 1e9;
+        str = str.slice(0, -1);
+    }
+
+    const numeric = Number(str);
+    return Number.isFinite(numeric) ? numeric * multiplier : 0;
+}
+
+function getFilteredColumnMax(api, columnIndex) {
+    const values = api
+        .column(columnIndex, { search: 'applied' })
+        .data()
+        .toArray()
+        .map(parseMoneyValue);
+
+    return Math.max(...values, 0);
+}
+
+function renderCurrencyBar(value, maxValue, barClass, useSqrtScaling = true) {
+    const numericValue = parseMoneyValue(value);
+    let widthPct = 0;
+
+    if (maxValue > 0) {
+        widthPct = useSqrtScaling
+            ? Math.sqrt(numericValue / maxValue) * 100
+            : (numericValue / maxValue) * 100;
+    }
+
+    return `
+        <div class="dt-bar-cell ${barClass}" style="--bar-width: ${Math.min(widthPct, 100)}%;">
+            <span class="dt-bar-value">${formatAsCurrency(numericValue)}</span>
+        </div>
+    `;
+}
+
+function applyBarsToCurrentPage(api, columnIndex, barClass, useSqrtScaling = true) {
+    const tableEl = api.table().node();
+    if (!tableEl || !tableEl.classList.contains('dt-bars')) {
+        return;
+    }
+
+    const maxValue = getFilteredColumnMax(api, columnIndex);
+    const nodes = api.column(columnIndex, { page: 'current' }).nodes();
+    const values = api.column(columnIndex, { page: 'current' }).data().toArray();
+
+    for (let i = 0; i < nodes.length; i++) {
+        nodes[i].innerHTML = renderCurrencyBar(values[i], maxValue, barClass, useSqrtScaling);
+    }
+}
+
+function runBarPass(api, configs) {
+    configs.forEach(function (cfg) {
+        applyBarsToCurrentPage(api, cfg.columnIndex, cfg.barClass, cfg.useSqrtScaling);
+    });
+}
+
+function scheduleBarPass(api, configs) {
+    requestAnimationFrame(function () {
+        runBarPass(api, configs);
+
+        requestAnimationFrame(function () {
+            runBarPass(api, configs);
+        });
+    });
+}
+
+function setupBarRefresh(api, configs) {
+    const tableEl = api.table().node();
+    if (!tableEl || !tableEl.classList.contains('dt-bars')) {
+        return;
+    }
+
+    api.on('draw', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    api.on('page', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    api.on('order', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    api.on('search', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    api.on('responsive-resize', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    api.on('column-sizing', function () {
+        scheduleBarPass(api, configs);
+    });
+
+    scheduleBarPass(api, configs);
+
+    setTimeout(function () {
+        scheduleBarPass(api, configs);
+    }, 0);
+
+    setTimeout(function () {
+        scheduleBarPass(api, configs);
+    }, 100);
+}
+
+/* Contributors */
+if (document.querySelector('#contributors_table')) {
+    new DataTable('#contributors_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[2, 'desc']],
+        columnDefs: [
+            { width: '60%', targets: [1] },
+            { width: '20%', targets: [0, 2] },
+            {
+                targets: 2,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
                 }
-                return data
             }
-        }
-    ],
-    layout: {
-        topEnd: null,
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    }
-});
-
-new DataTable('table.dt_f497p2', {
-    pageLength: 10,
-    lengthChange: false,
-    columnDefs: [
-        {
-            targets: [-1],
-            render: function (data, type, row, meta) {
-                if (type === 'display') {
-                    return formatAsCurrency(data);
-                }
-                return data
-            }
-        }
-    ],
-    layout: {
-        topEnd: null,
-        bottomEnd: {
-            paging: {
-                type: 'full'
-            }
-        }
-    }
-});
-
-// IE Measures — use same responsive approach as third_party_table
-
-new DataTable('#ie-measures_table', {
-  displayLength: -1,
-  responsive: {
-    details: {
-      display: DataTable.Responsive.display.childRowImmediate,
-      // render hidden columns as a small label/value table
-      // (some vanilla libs support renderer.tableAll; if your build doesn't, remove renderer)
-      renderer: DataTable.Responsive.renderer && DataTable.Responsive.renderer.tableAll
-                 ? DataTable.Responsive.renderer.tableAll({ tableClass: 'responsive-child-table' })
-                 : undefined,
-      target: 0,
-      type: 'none'
-    }
-  },
+        ],
         layout: {
             bottomEnd: {
                 paging: {
@@ -253,29 +155,318 @@ new DataTable('#ie-measures_table', {
                 }
             }
         },
-  lengthChange: false,
-  order: [[2, 'desc']], // sort by Total column
-  columnDefs: [
-    // keep Measure visible first, Position second, Total collapsible if needed
-    { responsivePriority: 10001, targets: [1] },
+        language: {
+            search: '<span class="visually-hidden">Search...</span>',
+            searchPlaceholder: 'Search…'
+        },
+        initComplete: function () {
+            const input = document.querySelector('#contributors_table_filter input[type=search]');
+            if (input) {
+                input.setAttribute('aria-label', 'Search Contributors');
+            }
 
-    // format the Total column for display (currency)
-    {
-      targets: [2],
-      render: function (data, type, row, meta) {
-        if (type === 'display') {
-          return formatAsCurrency(data);
+            setupBarRefresh(this.api(), [
+                { columnIndex: 2, barClass: 'dt-bar-funds', useSqrtScaling: true }
+            ]);
         }
-        return data;
-      }
-    }
-  ],
-  language: {
-    search: '<span class="visually-hidden">Search...</span>',
-    searchPlaceholder: 'Search…'
-  },
-  initComplete: function () {
-    const input = document.querySelector('#ie-measures_table_filter input[type=search]');
-    if (input) input.setAttribute('aria-label', 'Search Independent Expenditures');
-  }
-});
+    });
+}
+
+/* Expenditures */
+if (document.querySelector('#expenditures_table')) {
+    new DataTable('#expenditures_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[1, 'desc']],
+        columnDefs: [
+            { width: '80%', targets: [0] },
+            {
+                targets: 1,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        language: {
+            search: '<span class="visually-hidden">Search...</span>',
+            searchPlaceholder: 'Search…'
+        },
+        initComplete: function () {
+            const input = document.querySelector('#expenditures_table_filter input[type=search]');
+            if (input) {
+                input.setAttribute('aria-label', 'Search Expenditures');
+            }
+
+            setupBarRefresh(this.api(), [
+                { columnIndex: 1, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* Loans received */
+if (document.querySelector('#loans_received_table')) {
+    new DataTable('#loans_received_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[1, 'desc']],
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
+        columnDefs: [
+            { responsivePriority: 10001, targets: [2, 3] },
+            {
+                targets: [1, 2, 3, 4],
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 4, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* Filings */
+if (document.querySelector('#filings_table')) {
+    new DataTable('#filings_table', {
+        pageLength: 10,
+        order: [[0, 'desc']],
+        lengthChange: false,
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        }
+    });
+}
+
+/* Third-party table */
+if (document.querySelector('#third_party_table')) {
+    new DataTable('#third_party_table', {
+        displayLength: -1,
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
+        layout: {
+            topStart: null,
+            topEnd: null,
+            bottomStart: null,
+            bottomEnd: null
+        },
+        lengthChange: false,
+        columnDefs: [
+            { responsivePriority: 10001, targets: [1] },
+            {
+                targets: [2, 3],
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 2, barClass: 'dt-bar-funds', useSqrtScaling: true },
+                { columnIndex: 3, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* IE candidates */
+if (document.querySelector('#ie-candidates_table')) {
+    new DataTable('#ie-candidates_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[3, 'desc']],
+        columnDefs: [
+            {
+                targets: 3,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 3, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* Schedule D */
+if (document.querySelector('#schedule-d_table')) {
+    new DataTable('#schedule-d_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[3, 'desc'], [0, 'asc']],
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
+        columnDefs: [
+            { width: '20%', targets: [1] },
+            { width: '10%', targets: [2, 3] },
+            { responsivePriority: 10001, targets: [1] },
+            {
+                targets: 3,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 3, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* F497P2 */
+if (document.querySelector('#f497p2_table')) {
+    new DataTable('#f497p2_table', {
+        pageLength: 10,
+        lengthChange: false,
+        columnDefs: [
+            {
+                targets: 1,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 1, barClass: 'dt-bar-funds', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
+/* IE measures */
+if (document.querySelector('#ie-measures_table')) {
+    new DataTable('#ie-measures_table', {
+        displayLength: -1,
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                renderer: DataTable.Responsive.renderer && DataTable.Responsive.renderer.tableAll
+                    ? DataTable.Responsive.renderer.tableAll({ tableClass: 'responsive-child-table' })
+                    : undefined,
+                target: 0,
+                type: 'none'
+            }
+        },
+        layout: {
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        lengthChange: false,
+        order: [[2, 'desc']],
+        columnDefs: [
+            { responsivePriority: 10001, targets: [1] },
+            {
+                targets: 2,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        language: {
+            search: '<span class="visually-hidden">Search...</span>',
+            searchPlaceholder: 'Search…'
+        },
+        initComplete: function () {
+            const input = document.querySelector('#ie-measures_table_filter input[type=search]');
+            if (input) {
+                input.setAttribute('aria-label', 'Search Independent Expenditures');
+            }
+
+            setupBarRefresh(this.api(), [
+                { columnIndex: 2, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}

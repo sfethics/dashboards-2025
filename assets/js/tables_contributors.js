@@ -33,7 +33,7 @@ let table = new DataTable('table.dtify', {
             visible: false,
         },
         {
-            targets: [3],
+            targets: [2],
             render: function (data, type, row, meta) {
                 if (type === 'display') {
                     return formatAsCurrency(data);

@@ -5,7 +5,7 @@ election: '2026-06-02'
 last_updated: '2026-03-25'
 breadcrumbs:
 - - Recent Contributions
-title: Most Recent Contributions in the June 02, 2026 election
+title: Recent Contributions
 late_contributions:
 - fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
   tx_amount: 25000.0

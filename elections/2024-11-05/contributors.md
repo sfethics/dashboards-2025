@@ -6,7 +6,7 @@ breadcrumbs:
 - - Nov 05, 2024
   - elections/2024-11-05/
 - - Contributors
-title: Table of Contributors
+title: Top Contributors in the November 05, 2024 election
 threshold: 1000
 contributors:
 - tx_firstname: DANIEL

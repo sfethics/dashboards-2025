@@ -51,8 +51,8 @@ electionnav: true
                             <tr>
                                 <th scope="col">...</th>
                                 <th scope="col">Name</th>
+                                <th scope="col">Amount</th>
                                 <th scope="col">Contributor Type</th>
-                                <th scope="col">Total</th>
                                 <th scope="col">Contribution Breakdown</th>
                             </tr>
                         </thead>
@@ -60,18 +60,20 @@ electionnav: true
                             {% for contributor in page.contributors %}
                             <tr>
                                 <td></td>
-                                <td>{{ contributor.tx_firstname }} {{ contributor.tx_lastname | truncate: 65 }}</td>
                                 <td>
                                     {%- if contributor.tx_cmteid != '' -%}
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{contributor.tx_cmteid}}.html">
-                                        {%- endif -%}
-                                        {{ contributor.tx_entitycode }}
-                                        {%- if contributor.tx_cmteid != '' -%}
+                                        {{ contributor.tx_firstname }} {{ contributor.tx_lastname | truncate: 65 }}
                                     </a>
+                                    {%- else -%}
+                                    {{ contributor.tx_firstname }} {{ contributor.tx_lastname | truncate: 65 }}
                                     {%- endif -%}
                                 </td>
                                 <td>{{ contributor.tx_amount }}</td>
+                                <td>
+                                    {{ contributor.tx_entitycode }}
+                                </td>
                                 <td>
                                     <table class="table table-sm">
                                         <tbody>

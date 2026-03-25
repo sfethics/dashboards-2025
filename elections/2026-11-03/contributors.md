@@ -6,7 +6,7 @@ breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03/
 - - Contributors
-title: List of Contributors in the Nov 03, 2026 election
+title: Top Contributors in the November 03, 2026 election
 threshold: 1000
 contributors:
 - tx_firstname: ''
