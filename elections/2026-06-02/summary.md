@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-24'
+last_updated: '2026-03-25'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,19 +33,19 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 281300.0
+  funds: 196400.0
   expenses: 55305.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 552200.0
+  funds: 292200.0
   expenses: 167246.61
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
   contest_link: measurec
   expenses: 674426.34
-  funds: 967102.74
+  funds: 992102.74
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
@@ -75,15 +75,15 @@ contributors_bm:
   - 125000.0
 contributors_cand:
 - - Michael Moritz
-  - 500000.0
+  - 250000.0
 - - Nicholas Josefowitz
-  - 100500.0
+  - 50500.0
+- - Maco Stewart
+  - 11000.0
 - - Zach Jones
-  - 40500.0
-- - Noah Smith
-  - 20000.0
+  - 10500.0
 - - Jared Friedman
-  - 14950.0
+  - 10050.0
 top_cand_spends:
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
@@ -110,7 +110,7 @@ top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 967540.0
+  total_expense: 968540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
@@ -123,11 +123,11 @@ top_bm_spends:
 - cmte_nid: '6673342'
   cmte_fppcid: '840002'
   cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
-  total_expense: 99232.2
-- cmte_nid: '6668151'
-  cmte_fppcid: '891575'
-  cmte_name: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  total_expense: 34000.0
+  total_expense: 26454.0
+- cmte_nid: '209507321'
+  cmte_fppcid: unknown
+  cmte_name: Jerome Guillen
+  total_expense: 20000.0
 
 ---
 
