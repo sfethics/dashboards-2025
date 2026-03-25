@@ -1,7 +1,7 @@
 ---
 layout: contributors
 election: '2026-06-02'
-last_updated: '2026-03-24'
+last_updated: '2026-03-25'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -19,15 +19,6 @@ contributors:
     cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 500000.0
-- tx_firstname: MICHAEL
-  tx_lastname: MORITZ
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 500000.0
-  transactions:
-  - cmte_fppcid: '1488188'
-    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500000.0
 - tx_firstname: ''
   tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
@@ -37,6 +28,15 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 350000.0
+- tx_firstname: MICHAEL
+  tx_lastname: MORITZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 250000.0
 - tx_firstname: ''
   tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
@@ -65,21 +65,6 @@ contributors:
     cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 125000.0
-- tx_firstname: NICHOLAS
-  tx_lastname: JOSEFOWITZ
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 110500.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 100000.0
-  - cmte_fppcid: '1485878'
-    cmte_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
-    tx_amount: 10000.0
 - tx_firstname: ''
   tx_lastname: LABORERS PACIFIC SOUTHWEST REGIONAL ORGANIZING COALITION ISSUES PAC
   tx_entitycode: Committee
@@ -100,6 +85,31 @@ contributors:
     cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 99400.0
+- tx_firstname: ''
+  tx_lastname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+  tx_entitycode: Committee
+  tx_cmteid: '1431167'
+  tx_amount: 75000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
+      BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 75000.0
+- tx_firstname: NICHOLAS
+  tx_lastname: JOSEFOWITZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 60500.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 50000.0
+  - cmte_fppcid: '1485878'
+    cmte_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
+    tx_amount: 10000.0
 - tx_firstname: ROBERT J.
   tx_lastname: FISHER
   tx_entitycode: Individual
@@ -137,28 +147,6 @@ contributors:
       BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 50000.0
 - tx_firstname: ''
-  tx_lastname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
-  tx_entitycode: Committee
-  tx_cmteid: '1431167'
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
-      BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 50000.0
-- tx_firstname: ZACH
-  tx_lastname: JONES
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 40500.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 40000.0
-- tx_firstname: ''
   tx_lastname: KILROY REALTY, L.P.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -178,15 +166,6 @@ contributors:
     cmte_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS, SPONSORED
       BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 25000.0
-- tx_firstname: NOAH
-  tx_lastname: SMITH
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 20000.0
-  transactions:
-  - cmte_fppcid: '1488188'
-    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 20000.0
 - tx_firstname: JEROME
   tx_lastname: GUILLEN
   tx_entitycode: Individual
@@ -206,21 +185,6 @@ contributors:
     cmte_name: SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS, SPONSORED
       BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 17500.0
-- tx_firstname: JARED
-  tx_lastname: FRIEDMAN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 14950.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 9800.0
-  - cmte_fppcid: '1488188'
-    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 4900.0
 - tx_firstname: MACO
   tx_lastname: STEWART
   tx_entitycode: Individual
@@ -236,6 +200,18 @@ contributors:
   - cmte_fppcid: '1488188'
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 10000.0
+- tx_firstname: ZACH
+  tx_lastname: JONES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_firstname: ''
   tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   tx_entitycode: Committee
@@ -247,6 +223,30 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1485878'
     cmte_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
+    tx_amount: 10000.0
+- tx_firstname: JARED
+  tx_lastname: FRIEDMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10050.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 4900.0
+- tx_firstname: NOAH
+  tx_lastname: SMITH
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 10000.0
 - tx_firstname: LEAH
   tx_lastname: CULVER

@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-24'
+last_updated: '2026-03-25'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -54,7 +54,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 552200.0
+    funds: 292200.0
     expenses: 19608.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
@@ -67,9 +67,9 @@ ie_candidates:
     expenses: 80000.0
 contributors:
 - - Michael Moritz
-  - 500000.0
+  - 250000.0
 - - Noah Smith
-  - 20000.0
+  - 10000.0
 - - Maco Stewart
   - 10000.0
 - - Jared Friedman
