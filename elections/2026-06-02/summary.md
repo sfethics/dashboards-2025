@@ -41,11 +41,6 @@ candidate_ie:
   funds: 292200.0
   expenses: 167246.61
 measures:
-- contest_nid: '215121153'
-  contest_name: 'C: Decreases to Business Taxes'
-  contest_link: measurec
-  expenses: 674426.34
-  funds: 1192102.74
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
@@ -62,6 +57,11 @@ measures:
   contest_link: measurea
   expenses: 0.0
   funds: 217500.0
+- contest_nid: MULTI-1
+  contest_name: 'C,D: Measures C and D'
+  contest_link: measurecd
+  expenses: 674426.34
+  funds: 1192102.74
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -113,8 +113,8 @@ top_bm_spends:
   total_expense: 968540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
-  cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
-    BY SAN FRANCISCO CIVIC ORGANIZATIONS
+  cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+    RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   total_expense: 674426.34
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'

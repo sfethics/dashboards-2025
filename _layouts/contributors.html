@@ -51,8 +51,8 @@ electionnav: true
                             <tr>
                                 <th scope="col">...</th>
                                 <th scope="col">Name</th>
-                                <th scope="col">Amount</th>
                                 <th scope="col">Contributor Type</th>
+                                <th scope="col">Amount</th>
                                 <th scope="col">Contribution Breakdown</th>
                             </tr>
                         </thead>
@@ -70,10 +70,10 @@ electionnav: true
                                     {{ contributor.tx_firstname }} {{ contributor.tx_lastname | truncate: 65 }}
                                     {%- endif -%}
                                 </td>
-                                <td>{{ contributor.tx_amount }}</td>
                                 <td>
                                     {{ contributor.tx_entitycode }}
                                 </td>
+                                <td>{{ contributor.tx_amount }}</td>
                                 <td>
                                     <table class="table table-sm">
                                         <tbody>

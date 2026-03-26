@@ -6,13 +6,17 @@
     {%- case include.title -%}
 
     {%- when "Unitemized Contributions" -%}
-    {%- capture display_title -%}
+    {% capture display_title %}
+      {% if include.info == 0.0 %}
+      This committee has not received any Unitemized contributions of less than $100.
+      {% else %}
       Unitemized contributions of less than $100 totaled
       <span class="{{ include.info_css }} fw-bold">{{ include.info }}</span>
       and represented
       <span class="{{ include.data_css }} fw-bold">{{ include.data }}</span>
       of all contributions.
-    {%- endcapture -%}
+      {% endif %}
+    {% endcapture %}
 
     {%- when "Contributions within San Francisco" -%}
     {%- capture display_title -%}
@@ -36,11 +40,15 @@
 
     {%- when "Contributions from Individuals" -%}
     {%- capture display_title -%}
-    Contributions from individuals totaled
-    <span class="{{ include.info_css }} fw-bold text-nowrap">{{ include.info }}</span>
-    and represented
-    <span class="{{ include.data_css }} fw-bold text-nowrap">{{ include.data }}</span>
-    of all contributions.
+      {% if include.info == 0.0 %}
+      This committee has not received any contributions from Individuals.
+      {% else %}
+      Contributions from individuals totaled
+      <span class="{{ include.info_css }} fw-bold text-nowrap">{{ include.info }}</span>
+      and represented
+      <span class="{{ include.data_css }} fw-bold text-nowrap">{{ include.data }}</span>
+      of all contributions.
+      {% endif %}
     {%- endcapture -%}
 
     {%- endcase -%}
@@ -48,9 +56,6 @@
     {%- if include.index -%}
     <p class="card-title fs-6 fw-normal mb-2" id="fact-{{ include.index }}">
       {{ display_title | strip }}
-      <a class="icon link-subtle ms-1 copy-anchor" href="#fact-{{ include.index }}" aria-label="Share Link">
-        <i class="fa-regular fa-link" aria-hidden="true"></i>
-      </a>
     </p>
     {%- else -%}
     <p class="card-title fs-5 fw-normal mb-2">
