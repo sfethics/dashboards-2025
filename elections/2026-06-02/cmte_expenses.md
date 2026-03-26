@@ -78,8 +78,8 @@ committees:
   cmte_nid: '215112140'
   committee_type: Candidate Controlled
   total_expense: 613.26
-- cmte_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY, SPONSORED
-    BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+    RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
