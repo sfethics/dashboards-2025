@@ -79,6 +79,7 @@ document.querySelectorAll('table.dtify_exp').forEach(function (tableEl) {
 
     new DataTable(tableSelector, {
         columnDefs: [
+            { width: '20%', targets: [1, 2] },
             {
                 targets: 1,
                 render: function (data, type, row, meta) {
@@ -133,6 +134,7 @@ document.querySelectorAll('table.dtify_both').forEach(function (tableEl) {
 
     new DataTable(tableSelector, {
         columnDefs: [
+            { width: '20%', targets: [1, 2] },
             {
                 targets: 1,
                 render: function (data, type, row, meta) {

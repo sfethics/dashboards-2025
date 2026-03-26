@@ -12,14 +12,14 @@
             {%- endif -%}
           </span>
         </h3>
+        {%- if include.subtitle -%}
+          <p class="text-secondary mb-0" style="margin-top: -.5rem;">
+            {{ include.subtitle }}
+          </p>
+        {%- endif -%}
         {% assign dd_link = 'top-contributors-' | append: include.link %}
         {% include card-toolbar.html offcanvas_id='top-contributorsTT' link=dd_link %}
       </div>
-    {%- if include.subtitle -%}
-      <p class="text-secondary mb-0 mt-1">
-        {{ include.subtitle }}
-      </p>
-    {%- endif -%}
   </div>
 
     <!-- Card Body -->
@@ -40,12 +40,14 @@
                 {%- endfor -%}
             </tbody>
         </table>
-        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{include.election}}/contributors">
-            View contributors for this election
-        </a>
-        <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-contributions">
-            View most recent contributions
-        </a>
+        <div class="d-flex column-gap-1">
+          <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{include.election}}/contributors">
+              View contributors for this election
+          </a>
+          <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-contributions">
+              View most recent contributions
+          </a>
+        </div>
     </div>
 
 </div>

@@ -22,6 +22,7 @@ let table = new DataTable('table.dtify', {
             }
         }
     },
+    responsive: {details: false},
     columnDefs: [
         {
             targets: [0],
@@ -30,10 +31,12 @@ let table = new DataTable('table.dtify', {
         },
         {
             targets: [4],
-            visible: false,
+            visible: false
         },
+        { responsivePriority: 10001, targets: [2] },
+        
         {
-            targets: [2],
+            targets: [3],
             render: function (data, type, row, meta) {
                 if (type === 'display') {
                     return formatAsCurrency(data);
