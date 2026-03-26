@@ -5,7 +5,7 @@ breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
 - - Committee List
-title: Active committees in the Jun 02, 2026 election
+title: Active committees in the June 02, 2026 election
 committees:
 - cmte_name: Alan Wong for Supervisor 2026
   cmte_fppcid: '1485709'
@@ -160,6 +160,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
+  cmte_nid: unknown
+- cmte_name: Jones
+  cmte_fppcid: PENDING
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'

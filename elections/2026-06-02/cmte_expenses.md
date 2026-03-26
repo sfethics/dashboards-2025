@@ -1,12 +1,12 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-25'
+last_updated: '2026-03-26'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
 - - Committee Expenses
-title: Total expenses by committees in the Jun 02, 2026 election
+title: Total expenses by committees in the June 02, 2026 election
 committees:
 - cmte_name: HOTEL COUNCIL PAC
   cmte_fppcid: '1381090'
@@ -62,7 +62,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 31720.0
+  total_expense: 62016.0
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'

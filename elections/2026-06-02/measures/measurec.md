@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-25'
+last_updated: '2026-03-26'
 candidate: false
 title: 'C: Decreases to Business Taxes'
 breadcrumbs:
@@ -15,13 +15,13 @@ committees:
   filer_id: '1485633'
   committee_name: PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC RECOVERY,
     SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 992102.74
+  funds: 1192102.74
   expenses: 674426.34
   ies: ''
 multi_committees: []
 contributors:
 - - Chris Larsen
-  - 500000.0
+  - 700000.0
 - - Michael Moritz
   - 125000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce

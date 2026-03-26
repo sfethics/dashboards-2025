@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-25'
+last_updated: '2026-03-26'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,8 +33,8 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 196400.0
-  expenses: 55305.65
+  funds: 216400.0
+  expenses: 85601.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
@@ -45,12 +45,12 @@ measures:
   contest_name: 'C: Decreases to Business Taxes'
   contest_link: measurec
   expenses: 674426.34
-  funds: 992102.74
+  funds: 1192102.74
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 56000.0
+  funds: 111000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -64,7 +64,7 @@ measures:
   funds: 217500.0
 contributors_bm:
 - - Chris Larsen
-  - 500000.0
+  - 700000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
@@ -78,10 +78,10 @@ contributors_cand:
   - 250000.0
 - - Nicholas Josefowitz
   - 50500.0
+- - Zach Jones
+  - 30000.0
 - - Maco Stewart
   - 11000.0
-- - Zach Jones
-  - 10500.0
 - - Jared Friedman
   - 10050.0
 top_cand_spends:
@@ -90,6 +90,10 @@ top_cand_spends:
   cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   total_expense: 80000.0
+- cmte_nid: '214918275'
+  cmte_fppcid: '1484891'
+  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 62016.0
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -102,10 +106,6 @@ top_cand_spends:
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
   total_expense: 45508.4
-- cmte_nid: '214820258'
-  cmte_fppcid: '1484332'
-  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-  total_expense: 35455.84
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
