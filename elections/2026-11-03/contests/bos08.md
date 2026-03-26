@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-11-03'
-last_updated: '2026-03-23'
+last_updated: '2026-03-26'
 candidate: true
 title: Board of Supervisors D08
 breadcrumbs:
@@ -21,7 +21,7 @@ candidates:
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
   funds: 76227.0
-  expenses: 28747.89
+  expenses: 28247.89
 - filer_nid: '214884831'
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026

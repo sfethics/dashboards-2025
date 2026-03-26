@@ -5,7 +5,7 @@ breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03/
 - - Committee List
-title: Active committees in the Nov 03, 2026 election
+title: Active committees in the November 03, 2026 election
 committees:
 - cmte_name: Alan Wong for Supervisor 2026 General
   cmte_fppcid: '1489126'
@@ -81,12 +81,9 @@ committees:
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
-- cmte_name: San Francisco Democratic County Central Committee
+- cmte_name: San Francisco Democratic Party
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
-- cmte_name: San Francisco Young Democrats
-  cmte_fppcid: '961946'
-  cmte_nid: '6673486'
 - cmte_name: Ua Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'

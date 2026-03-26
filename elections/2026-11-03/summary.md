@@ -3,7 +3,7 @@ layout: election
 title: November 03, 2026 Election
 permalink: /elections/2026-11-03/
 election: '2026-11-03'
-last_updated: '2026-03-23'
+last_updated: '2026-03-26'
 breadcrumbs:
 - - Nov 03, 2026
   - /elections/2026-11-03/
@@ -13,7 +13,7 @@ candidate_pf:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 103104.0
-  expenses: 13033.37
+  expenses: 8033.37
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
@@ -34,7 +34,7 @@ candidate_pf:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 379791.89
-  expenses: 97749.42
+  expenses: 97249.42
   ies: 0.0
 candidate_ie: []
 measures:
@@ -66,7 +66,7 @@ top_cand_spends:
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
-  total_expense: 28747.89
+  total_expense: 28247.89
 - cmte_nid: '214443884'
   cmte_fppcid: '1481892'
   cmte_name: DJ BROOKTER FOR SUPERVISOR 2026

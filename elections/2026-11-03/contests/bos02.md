@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-11-03'
-last_updated: '2026-03-23'
+last_updated: '2026-03-26'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -15,7 +15,7 @@ candidates:
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   candidate_name: STEPHEN SHERRILL
   funds: 103104.0
-  expenses: 13033.37
+  expenses: 8033.37
 ie_candidates: []
 contributors:
 - - Katherine Sherrill
