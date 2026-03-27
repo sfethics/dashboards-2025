@@ -44,6 +44,12 @@ committees:
 - cmte_name: Laurance Lee for Board of Education 2026
   cmte_fppcid: '1487911'
   cmte_nid: '215729166'
+- cmte_name: Loli-tello for School Board 2026
+  cmte_fppcid: unknown
+  cmte_nid: '216293478'
+- cmte_name: Lori Brooke for Supervisor 2026 General
+  cmte_fppcid: unknown
+  cmte_nid: '216289152'
 - cmte_name: Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1483804'
   cmte_nid: '214772801'
@@ -69,11 +75,15 @@ committees:
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
 - cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
-  cmte_fppcid: unknown
+  cmte_fppcid: '1489257'
   cmte_nid: '216006060'
 - cmte_name: Crush Ice SF, a Committee in Support of Proposition Tbd
   cmte_fppcid: '1487105'
   cmte_nid: '215457455'
+- cmte_name: Daniel Lurie Ballot Measure Committee - Safe, Affordable Muni for a Thriving
+    San Francisco
+  cmte_fppcid: '1479782'
+  cmte_nid: '214099226'
 - cmte_name: National Union of Healthcare Workers Candidate Committee for Quality
     Patient Care and Union Democracy
   cmte_fppcid: '1318200'
@@ -84,9 +94,16 @@ committees:
 - cmte_name: San Francisco Democratic Party
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: Teamsters Local Union No. 665
+  cmte_fppcid: '1280975'
+  cmte_nid: '6673543'
 - cmte_name: Ua Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
+- cmte_name: Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb,
+    Inc.
+  cmte_fppcid: '1437557'
+  cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'
   cmte_nid: unknown
@@ -114,8 +131,17 @@ committees:
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
   cmte_nid: unknown
+- cmte_name: Teamsters Local No. 350 PAC
+  cmte_fppcid: '1406838'
+  cmte_nid: unknown
+- cmte_name: Teamsters Local No. 853 PAC
+  cmte_fppcid: '1250157'
+  cmte_nid: unknown
 - cmte_name: Toni Atkins for Governor 2026
   cmte_fppcid: '1466114'
+  cmte_nid: unknown
+- cmte_name: Union of American Physicians and Dentists Small Contributor Committee
+  cmte_fppcid: '1356185'
   cmte_nid: unknown
 - cmte_name: Nick Melvoin for Congress
   cmte_fppcid: FEC_C00831289

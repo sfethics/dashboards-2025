@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,13 +33,13 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 216400.0
+  funds: 252200.0
   expenses: 85601.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 292200.0
-  expenses: 167246.61
+  expenses: 200396.61000000002
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -61,7 +61,7 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 1192102.74
+  funds: 1217102.74
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -80,10 +80,10 @@ contributors_cand:
   - 50500.0
 - - Zach Jones
   - 30000.0
+- - Andrew Chatham
+  - 26000.0
 - - Maco Stewart
   - 11000.0
-- - Jared Friedman
-  - 10050.0
 top_cand_spends:
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
@@ -98,14 +98,14 @@ top_cand_spends:
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 54972.81
+- cmte_nid: '215852865'
+  cmte_fppcid: '1488188'
+  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  total_expense: 52758.51
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
   total_expense: 46835.35
-- cmte_nid: '215606983'
-  cmte_fppcid: '1487286'
-  cmte_name: SF Believes
-  total_expense: 45508.4
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
@@ -118,7 +118,7 @@ top_bm_spends:
   total_expense: 674426.34
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'
-  cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   total_expense: 298560.14
 - cmte_nid: '6673342'
   cmte_fppcid: '840002'

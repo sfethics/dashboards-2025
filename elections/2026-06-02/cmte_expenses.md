@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -68,7 +68,7 @@ committees:
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
   total_expense: 1366.5
-- cmte_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
   committee_type: Primarily Formed Measure
@@ -93,7 +93,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 19608.51
+  total_expense: 52758.51
 - cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   cmte_fppcid: '1488862'
