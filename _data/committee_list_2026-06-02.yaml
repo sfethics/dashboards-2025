@@ -74,20 +74,20 @@ committees:
 - cmte_name: No Lifetime Ban
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
-- cmte_name: San Franciscans for Fire, Earthquake, and Disaster Preparedness, Sponsored
-    by San Francisco Firefighters Local 798
-  cmte_fppcid: '1486676'
-  cmte_nid: '215726436'
-- cmte_name: San Franciscans for Term Limit Reform
+- cmte_name: Term Limits Now - Yes on B!
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
-- cmte_name: Stand Up for SF Sponsored by Labor Organizations
-  cmte_fppcid: '1484969'
-  cmte_nid: '214966146'
+- cmte_name: Yes on a, San Franciscans for Fire, Earthquake, and Disaster Preparedness,
+    Sponsored by San Francisco Firefighters Local 798
+  cmte_fppcid: '1486676'
+  cmte_nid: '215726436'
 - cmte_name: Yes on C, No on D to Protect San Francisco's Small Businesses and Economic
     Recovery, Sponsored by San Francisco Civic Organizations
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
+- cmte_name: Yes on D - Stand Up for SF Sponsored by Labor Organizations
+  cmte_fppcid: '1484969'
+  cmte_nid: '214966146'
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'

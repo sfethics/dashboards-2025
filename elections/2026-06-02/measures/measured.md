@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 candidate: false
 title: 'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to
   Employees'' Pay'
@@ -15,7 +15,7 @@ committees:
 - position: SUPPORT
   filer_nid: '214966146'
   filer_id: '1484969'
-  committee_name: STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   funds: 700761.53
   expenses: 298560.14
   ies: ''
@@ -25,7 +25,7 @@ multi_committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 1192102.74
+  funds: 1217102.74
   expenses: 674426.34
 contributors:
 - - Service Employees International Union - Seiu Local 2015 Issues PAC

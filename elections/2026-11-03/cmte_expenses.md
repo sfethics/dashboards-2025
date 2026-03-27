@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-11-03'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03/
@@ -13,6 +13,12 @@ committees:
   cmte_nid: '212794940'
   committee_type: Candidate Controlled
   total_expense: 6179.65
+- cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
+    SAN FRANCISCO
+  cmte_fppcid: '1479782'
+  cmte_nid: '214099226'
+  committee_type: Primarily Formed Measure
+  total_expense: 517106.07
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'

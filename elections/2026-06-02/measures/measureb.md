@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 candidate: false
 title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
@@ -20,7 +20,7 @@ committees:
 - position: SUPPORT
   filer_nid: '215271192'
   filer_id: '1485878'
-  committee_name: SAN FRANCISCANS FOR TERM LIMIT REFORM
+  committee_name: TERM LIMITS NOW - YES ON B!
   funds: 110000.0
   expenses: ''
   ies: ''

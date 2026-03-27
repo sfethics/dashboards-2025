@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -55,7 +55,7 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 292200.0
-    expenses: 19608.51
+    expenses: 52758.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:

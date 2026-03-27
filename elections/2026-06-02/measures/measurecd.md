@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-26'
+last_updated: '2026-03-27'
 candidate: false
 title: 'C,D: Measures C and D'
 breadcrumbs:
@@ -15,7 +15,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 1192102.74
+  funds: 1217102.74
   expenses: 674426.34
   ies: ''
 multi_committees: []
@@ -34,12 +34,12 @@ contributors:
   - 50000.0
 - - Uber Innovation Ballot Measure Committee
   - 50000.0
+- - Doordash, Inc.
+  - 25000.0
 - - Kilroy Realty, L.p.
   - 25000.0
 - - Hotel Council PAC
   - 10000.0
-- - San Francisco Chamber of Commerce
-  - 4900.0
 
 ---
 
