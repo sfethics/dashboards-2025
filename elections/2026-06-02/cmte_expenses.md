@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -27,7 +27,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 46835.35
+  total_expense: 53096.6
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -93,7 +93,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 52758.51
+  total_expense: 79165.51
 - cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   cmte_fppcid: '1488862'

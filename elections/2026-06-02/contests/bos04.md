@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -32,7 +32,7 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 155555.0
+  funds: 165785.0
   expenses: 613.26
 ie_candidates:
 - candidate_name: DAVID LEE
@@ -42,7 +42,7 @@ ie_candidates:
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
     funds: 0.0
-    expenses: 46835.35
+    expenses: 53096.6
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
@@ -55,7 +55,7 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 292200.0
-    expenses: 52758.51
+    expenses: 79165.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
