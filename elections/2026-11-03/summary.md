@@ -3,7 +3,7 @@ layout: election
 title: November 03, 2026 Election
 permalink: /elections/2026-11-03/
 election: '2026-11-03'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 breadcrumbs:
 - - Nov 03, 2026
   - /elections/2026-11-03/
@@ -61,9 +61,9 @@ contributors_bm:
 - - Chime Financial
   - 100000.0
 contributors_cand:
-- - Marisa Lavallee
-  - 1500.0
 - - Garry Tan
+  - 1500.0
+- - Marisa Lavallee
   - 1500.0
 - - Marcy Adelman
   - 1350.0

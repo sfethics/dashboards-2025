@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-11-03'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 candidate: false
 title: 'TBD3: Parcel Tax to Fund Public Transit Operations'
 breadcrumbs:

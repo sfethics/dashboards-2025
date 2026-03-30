@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -26,7 +26,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 604669.28
+  funds: 614899.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -39,7 +39,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 292200.0
-  expenses: 200396.61000000002
+  expenses: 233064.86000000002
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -56,7 +56,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 217500.0
+  funds: 250500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
@@ -90,6 +90,10 @@ top_cand_spends:
   cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   total_expense: 80000.0
+- cmte_nid: '215852865'
+  cmte_fppcid: '1488188'
+  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  total_expense: 79165.51
 - cmte_nid: '214918275'
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -98,14 +102,10 @@ top_cand_spends:
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 54972.81
-- cmte_nid: '215852865'
-  cmte_fppcid: '1488188'
-  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 52758.51
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
-  total_expense: 46835.35
+  total_expense: 53096.6
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'

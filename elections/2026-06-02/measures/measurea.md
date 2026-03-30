@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-27'
+last_updated: '2026-03-30'
 candidate: false
 title: 'A: Earthquake Safety and Emergency Response Bond'
 breadcrumbs:
@@ -15,13 +15,15 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 217500.0
+  funds: 250500.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   - 100000.0
+- - SF Believes
+  - 30000.0
 - - United Contractors
   - 25000.0
 - - Tmg Partners Re Llc(daniel Siri)
@@ -37,8 +39,6 @@ contributors:
 - - Fontenoy Engineering Inc.
   - 5000.0
 - - Jmb Construction Inc.
-  - 5000.0
-- - Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
   - 5000.0
 
 ---

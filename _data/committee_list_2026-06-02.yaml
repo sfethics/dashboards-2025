@@ -182,6 +182,9 @@ committees:
 - cmte_name: Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
   cmte_fppcid: '1298012'
   cmte_nid: unknown
+- cmte_name: Teamsters Local No 853 PAC
+  cmte_fppcid: '1250157'
+  cmte_nid: unknown
 - cmte_name: Teamsters Local Union 350 PAC
   cmte_fppcid: '1406838'
   cmte_nid: unknown
