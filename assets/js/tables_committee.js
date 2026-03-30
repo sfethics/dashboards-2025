@@ -93,6 +93,9 @@ function setupBarRefresh(api, configs) {
     if (!tableEl || !tableEl.classList.contains('dt-bars')) {
         return;
     }
+    if (api.column(configs[0].columnIndex).data().toArray().length < 2) {
+        return;
+    }
 
     api.on('draw', function () {
         scheduleBarPass(api, configs);

@@ -76,6 +76,7 @@ document.querySelectorAll('table.candidate_controlled').forEach(function (tableE
     const hasBars = tableEl.classList.contains('dt-bars');
     const fundsMax = hasBars ? getColumnMax(tableEl, 1) : 0;
     const expensesMax = hasBars ? getColumnMax(tableEl, 2) : 0;
+    const rowCount = tableEl.querySelectorAll('tbody tr').length;
 
     new DataTable(tableEl, {
         lengthChange: false,
@@ -85,7 +86,7 @@ document.querySelectorAll('table.candidate_controlled').forEach(function (tableE
             {
                 targets: 1,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
                     else if (type === 'display') {
@@ -97,7 +98,7 @@ document.querySelectorAll('table.candidate_controlled').forEach(function (tableE
             {
                 targets: 2,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
                     else if (type === 'display') {
@@ -130,6 +131,7 @@ document.querySelectorAll('table.ie_committee').forEach(function (tableEl) {
     const hasBars = tableEl.classList.contains('dt-bars');
     const fundsMax = hasBars ? getColumnMax(tableEl, 1) : 0;
     const expensesMax = hasBars ? getColumnMax(tableEl, 2) : 0;
+    const rowCount = tableEl.querySelectorAll('tbody tr').length;
 
     new DataTable(tableEl, {
         displayLength: -1,
@@ -140,7 +142,7 @@ document.querySelectorAll('table.ie_committee').forEach(function (tableEl) {
             {
                 targets: 1,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
                     else if (type === 'display') {
@@ -152,7 +154,7 @@ document.querySelectorAll('table.ie_committee').forEach(function (tableEl) {
             {
                 targets: 2,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
                     else if (type === 'display') {
@@ -185,6 +187,7 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
     const hasBars = tableEl.classList.contains('dt-bars');
     const fundsMax = hasBars ? getColumnMax(tableEl, 3) : 0;
     const expensesMax = hasBars ? getColumnMax(tableEl, 4) : 0;
+    const rowCount = tableEl.querySelectorAll('tbody tr').length;
 
     new DataTable(tableEl, {
         displayLength: -1,
@@ -195,7 +198,7 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
             {
                 targets: 3,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, fundsMax, 'dt-bar-funds', true);
                     }
                     else if (type === 'display') {
@@ -207,7 +210,7 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
             {
                 targets: 4,
                 render: function (data, type) {
-                    if (hasBars) {
+                    if (hasBars && rowCount > 1) {
                         return renderCurrencyBar(data, type, expensesMax, 'dt-bar-expenses', false);
                     }
                     else if (type === 'display') {
