@@ -26,6 +26,11 @@ electionnav: true
                         {%- else -%}
                         {% assign col-class-totals = "col-lg-6" %}
                         {%- endif -%}
+                        {% if page.incumbent %}
+                        <span class="badge rounded-pill bg-primary border border-primary">
+                            Incumbent Candidate
+                        </span>
+                        {% endif %}
                     </div>
                 </div>
                 <div class="d-flex gap-2 flex-shrink-0">

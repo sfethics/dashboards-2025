@@ -3,7 +3,7 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-03-30'
+last_updated: '2026-03-31'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -56,7 +56,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 250500.0
+  funds: 255500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
@@ -120,14 +120,14 @@ top_bm_spends:
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   total_expense: 298560.14
+- cmte_nid: '215606983'
+  cmte_fppcid: '1487286'
+  cmte_name: SF Believes
+  total_expense: 30000.0
 - cmte_nid: '6673342'
   cmte_fppcid: '840002'
   cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   total_expense: 26454.0
-- cmte_nid: '209507321'
-  cmte_fppcid: unknown
-  cmte_name: Jerome Guillen
-  total_expense: 20000.0
 
 ---
 

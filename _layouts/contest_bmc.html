@@ -56,7 +56,7 @@ electionnav: true
 </div>
 
 <!-- Cards: Contributions & Expenses -->
-<div class="container my-4" aria-label="Summary Totals">
+<div class="container mb-4" aria-label="Summary Totals">
     <div class="card-header custom-card-header card-header-stacked">
         <h2 id="summary-totals-bmc" class="hover-link mb-0">Summary Totals</h2>
         {% include card-toolbar.html offcanvas_id="summary-totals-bmcTT" link="summary-totals-bmc" %}
@@ -118,6 +118,17 @@ electionnav: true
             second_card_body_class='no-round'
             -%}
             {% endif %}
+
+            {% if page.related_measures and page.related_measures != empty %}
+            <div class="mt-3 px-3">
+                <h3>Related Measures</h3>
+                <ul>
+                {% for measure in page.related_measures %}
+                <li><a href="{{site.baseurl}}/elections/{{page.election}}/measures/{{measure.link}}.html">{{ measure.description }}</a></li>
+                {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
         </div>
         <div class="col-12 col-lg-6 py-2">
             {%- if page.contributors -%}
@@ -130,7 +141,7 @@ contributors=page.contributors link="bmc" election=page.election table_class="dt
 <div class="container my-5" aria-label="Campaign finance summary">
     <!-- Section heading -->
     <div class="row g-4">
-        <h2 class="mb-4">Committee Details</h2>
+        <h2>Committee Details</h2>
     </div>
 
     <!-- Active Committees card -->
