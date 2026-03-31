@@ -44,9 +44,11 @@
           <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{include.election}}/contributors">
               View contributors for this election
           </a>
+          {% if site.current_elections contains include.election %}
           <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-contributions">
               View most recent contributions
           </a>
+          {% endif %}
         </div>
     </div>
 

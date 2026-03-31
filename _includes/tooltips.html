@@ -391,6 +391,7 @@
                 schedule E.</p>
             <p>Total Expenditures does not include a committee's <b>independent expenditures</b> regarding candidates or ballot measures. 
                 Details about any independent expenditures made by the committee can be found in the Activity Details section.</p>
+            {% include tooltips-guidance.html %}
             {% if page.totals[1] == 0.0 or page.totals[0] == 0.0 or page.totals[0] == '' or page.totals[1] == '' %}
             <h3 class="fs-5">Why is contribution or expenditure data not available?</h3>
             <p>Some state-level committees that are active within an election cycle are only required to file reports
@@ -422,6 +423,7 @@
                 Only funds from primarily formed committees are included. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460 schedule E. 
                 Expenses also include any independent expenditures reported on Form 496.
             </p>
+            {% include tooltips-guidance.html %}
             <h3 class="fs-5">Why is total funds or expenses data not available or 'None'?</h3>
             <p>Funds or expenses data may not be available or displayed as 'None' for several reasons:</p>
             <ul>
@@ -447,6 +449,7 @@
                 period in which they were received are reported as a negative contribution on Form 460 Schedule A.
                 Contributions returned in a different reporting period in which they were received are reported on Form
                 460 Schedule E as “Returned Contributions” (code = RFD).</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -460,6 +463,7 @@
             <p>Expenditures are the amounts spent by the candidate or committee on campaign activities. The table lists
                 expenditures by their spending type and amount.</p>
             <p>The data in this table is based on itemized payments reported on Form 460 Schedule E.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -492,7 +496,9 @@
             <h3 class="fs-5">Contributions from California</h3>
             <p>Contributions from California are those made by individuals or entities within California, based on the reported contributor address.</p>
             <h3 class="fs-5">Contributions from individuals</h3>
-            <p>Contributions from individuals are those made by persons, as opposed to entities such as corporations or other campaign committees.</p>
+            <p>Contributions from individuals are those made by persons, as opposed to entities such as corporations or other campaign committees.
+                Unitemized contributions of less than $100 are not included in this total.
+            </p>
         </div>
     </div>
 </div>
@@ -520,7 +526,7 @@
                 itemized and unitemized expenditures reported on Form 460 schedules E and F. Figures are rounded to the
                 nearest
                 thousand.</p>
-
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -557,6 +563,7 @@
                 Only funds from primarily formed committees are included. Expenses are aggregated by summing the
                 itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -582,6 +589,7 @@
                 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the
                 itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -609,6 +617,7 @@
                 496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the
                 itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -631,6 +640,7 @@
                 contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form
                 496P3. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460
                 schedule E. Figures are rounded to the nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -653,6 +663,9 @@
                 <li>For a ballot measure, the top ten contributors are based on contributions received by committees
                     primarily formed to support or oppose the measure.</li>
             </ul>
+            <p>Contribution amounts are aggregated by the contributor's first and last name as they are reported on campaign statements.
+                If a contributor has a reported committee ID, the ID is also used to aggregate contributions.
+            </p>
             <p>Visit the <a href="/elections/{{page.election}}/contributors">Contributors</a> page for an election to
                 search for contributors across committees and see all committees within an election that a contributor
                 has given to.</p>
@@ -692,6 +705,7 @@
                 committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -712,6 +726,7 @@
                 committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -735,6 +750,7 @@
                 committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
+            {% include tooltips-guidance.html %}
         </div>
     </div>
 </div>
@@ -823,7 +839,8 @@
                 A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed
                 committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
-                nearest thousand.</p>                
+                nearest thousand.</p>
+            {% include tooltips-guidance.html %}                
         </div>
     </div>
 </div>
