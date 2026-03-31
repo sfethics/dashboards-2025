@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-30'
+last_updated: '2026-03-31'
 candidate: false
 title: 'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to
   Employees'' Pay'

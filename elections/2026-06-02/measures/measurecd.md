@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-30'
+last_updated: '2026-03-31'
 candidate: false
 title: 'C,D: Measures C and D'
 breadcrumbs:
@@ -9,6 +9,12 @@ breadcrumbs:
   - elections/2026-06-02
 - - 'C,D: Measures C and D'
   - elections/2026-06-02/measures/measurecd
+related_measures:
+- link: measurec
+  description: 'C: Decreases to Business Taxes'
+- link: measured
+  description: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
+    Pay to Employees'' Pay'
 committees:
 - position: MULTIPLE
   filer_nid: '215118470'

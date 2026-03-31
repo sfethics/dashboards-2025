@@ -155,6 +155,9 @@ committees:
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
+- cmte_name: At&t California Employee Political Action Committee
+  cmte_fppcid: '981470'
+  cmte_nid: unknown
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
   cmte_nid: unknown
