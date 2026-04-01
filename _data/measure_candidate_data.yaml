@@ -1,0 +1,25 @@
+'2026-06-02': 
+  'A: Earthquake Safety and Emergency Response Bond':
+    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    passed: null
+  'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors':
+    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    passed: null
+  candidate_winner_filer_ids:
+  - 'C00577128'
+  - 'C00577129'
+  - 'C00577130'
+'2025-09-16':
+  'A: Recall: BoS D4 Joel Engardio':
+    measure_official_desc: 'Shall Joel Engardio be recalled (removed) from the San Francisco Board of Supervisors?'
+    passed: true
+'2024-11-05':
+  'A: Schools Improvement and Safety Bond':
+    measure_official_desc: 'To improve earthquake safety and accessibility at San Francisco public schools; provide reliable internet in classrooms; 
+      replace worn-out plumbing, electrical and ventilation systems; improve student nutrition services; and have updated security features; shall San Francisco Unified School District''s 
+      measure authorizing $790,000,000 in bonds at legal rates levying approximately $12.95 per $100,000 of assessed value, raising approximately $56,400,000 annually while bonds are outstanding, with independent oversight and all funds staying local, be adopted?'
+    passed: true
+  'D: City Commissions and Mayoral Authority':
+    measure_official_desc: 'Shall the City amend the Charter to limit the total number of commissions the City may have to 65, retaining certain decision-making commissions and dissolving the others unless the Board of Supervisors instead continues any as advisory bodies; 
+      give the Mayor sole authority to appoint and remove City department heads; and give the Police Chief sole authority to adopt rules governing police officers'' conduct?'
+    passed: false
