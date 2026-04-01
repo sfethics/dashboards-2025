@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-03-31'
+last_updated: '2026-04-01'
 candidate: false
 title: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
 breadcrumbs:
@@ -14,7 +14,7 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 1000.0
+  funds: 2500.0
   expenses: ''
   ies: ''
 - position: SUPPORT
@@ -41,7 +41,7 @@ contributors:
 - - Spenser Skates
   - 5000.0
 - - Esther Marks
-  - 1000.0
+  - 2500.0
 
 ---
 

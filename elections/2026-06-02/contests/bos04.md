@@ -1,7 +1,7 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-03-31'
+last_updated: '2026-04-01'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -50,11 +50,11 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 20802.75
+    expenses: 41126.56
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 292200.0
+    funds: 297200.0
     expenses: 79165.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
@@ -72,6 +72,8 @@ contributors:
   - 10000.0
 - - Maco Stewart
   - 10000.0
+- - Amos Elliston
+  - 5000.0
 - - Jared Friedman
   - 4900.0
 - - Luke Miner
@@ -83,8 +85,6 @@ contributors:
 - - Andy Hansen
   - 2500.0
 - - Jordan Hurwich
-  - 1000.0
-- - Steven Lee
   - 1000.0
 
 ---
