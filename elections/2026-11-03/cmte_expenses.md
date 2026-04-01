@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-11-03'
-last_updated: '2026-03-30'
+last_updated: '2026-04-01'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03/

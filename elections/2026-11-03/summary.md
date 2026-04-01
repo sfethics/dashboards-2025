@@ -3,7 +3,7 @@ layout: election
 title: November 03, 2026 Election
 permalink: /elections/2026-11-03/
 election: '2026-11-03'
-last_updated: '2026-03-30'
+last_updated: '2026-04-01'
 breadcrumbs:
 - - Nov 03, 2026
   - /elections/2026-11-03/
@@ -43,7 +43,7 @@ measures:
     and Working on City Contracts.'
   contest_link: measuretbd1
   expenses: 0.0
-  funds: 2007.44
+  funds: 3924.54
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
@@ -58,7 +58,7 @@ contributors_bm:
   - 250000.0
 - - Another Planet Entertainment Llc(gregg Perloff)
   - 100000.0
-- - Chime Financial
+- - Electrical Industry Service Bureau, Inc.
   - 100000.0
 contributors_cand:
 - - Garry Tan

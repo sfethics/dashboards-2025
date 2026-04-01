@@ -1,7 +1,7 @@
 ---
 layout: contest_bmc
 election: '2026-11-03'
-last_updated: '2026-03-30'
+last_updated: '2026-04-01'
 candidate: false
 title: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs and Working
   on City Contracts.'
@@ -16,13 +16,17 @@ committees:
   filer_nid: '215457455'
   filer_id: '1487105'
   committee_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-  funds: 2007.44
+  funds: 3924.54
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
-- - Crush Ice SF
-  - 2007.44
+- - Stan Shields
+  - 2859.54
+- - Cecilia London
+  - 939.35
+- - Martha Abbene
+  - 125.65
 
 ---
 

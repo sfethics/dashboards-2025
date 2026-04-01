@@ -1,7 +1,7 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-03-31'
+last_updated: '2026-04-01'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -88,7 +88,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 75508.4
+  total_expense: 95832.21
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
