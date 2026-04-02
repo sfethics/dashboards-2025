@@ -1,7 +1,6 @@
 ---
 layout: contest_bmc
 election: '2026-06-02'
-last_updated: '2026-04-01'
 candidate: false
 title: 'C: Decreases to Business Taxes'
 breadcrumbs:

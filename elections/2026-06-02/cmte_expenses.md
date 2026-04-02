@@ -1,7 +1,6 @@
 ---
 layout: committee_expenses
 election: '2026-06-02'
-last_updated: '2026-04-01'
 breadcrumbs:
 - - Jun 02, 2026
   - elections/2026-06-02/
@@ -94,8 +93,8 @@ committees:
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
   total_expense: 79165.51
-- cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
-    by Labor Organizations
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate

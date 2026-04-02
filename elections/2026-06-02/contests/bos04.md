@@ -1,7 +1,6 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-04-01'
 candidate: true
 title: Board of Supervisors D04
 breadcrumbs:
@@ -61,13 +60,16 @@ ie_candidates:
   committees:
   - position: SUPPORT
     filer_id: '1488862'
-    committee_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026,
-      Sponsored by Labor Organizations
-    funds: 0.0
+    committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
+      SPONSORED BY LABOR ORGANIZATIONS
+    funds: 75000.0
     expenses: 80000.0
 contributors:
 - - Michael Moritz
   - 250000.0
+- - International Federation of Professional and Technical Engineers - Tj Anthony
+    PAC Fund
+  - 75000.0
 - - Noah Smith
   - 10000.0
 - - Maco Stewart
@@ -84,8 +86,6 @@ contributors:
   - 3000.0
 - - Andy Hansen
   - 2500.0
-- - Jordan Hurwich
-  - 1000.0
 
 ---
 
