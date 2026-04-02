@@ -3,7 +3,6 @@ layout: election
 title: June 02, 2026 Election
 permalink: /elections/2026-06-02/
 election: '2026-06-02'
-last_updated: '2026-04-01'
 breadcrumbs:
 - - Jun 02, 2026
   - /elections/2026-06-02/
@@ -33,12 +32,12 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 252200.0
+  funds: 278200.0
   expenses: 85601.65
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 297200.0
+  funds: 372200.0
   expenses: 253388.67
 measures:
 - contest_nid: '215271121'
@@ -76,19 +75,20 @@ contributors_bm:
 contributors_cand:
 - - Michael Moritz
   - 250000.0
+- - International Federation of Professional and Technical Engineers - Tj Anthony
+    PAC Fund
+  - 75000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Zach Jones
   - 30000.0
 - - Andrew Chatham
   - 26000.0
-- - Maco Stewart
-  - 11000.0
 top_cand_spends:
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
-  cmte_name: Affordable SF Now supporting Natalie Gee for Supervisor 2026, Sponsored
-    by Labor Organizations
+  cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
   total_expense: 80000.0
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'

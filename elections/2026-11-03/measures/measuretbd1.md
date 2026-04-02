@@ -1,7 +1,6 @@
 ---
 layout: contest_bmc
 election: '2026-11-03'
-last_updated: '2026-04-01'
 candidate: false
 title: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs and Working
   on City Contracts.'

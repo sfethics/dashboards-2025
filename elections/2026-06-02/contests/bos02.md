@@ -1,7 +1,6 @@
 ---
 layout: contest_candidate
 election: '2026-06-02'
-last_updated: '2026-04-01'
 candidate: true
 title: Board of Supervisors D02
 breadcrumbs:
@@ -48,6 +47,11 @@ ie_candidates:
     committee_name: SF Believes
     funds: 0.0
     expenses: 24705.65
+  - position: SUPPORT
+    filer_id: '1488379'
+    committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+    funds: 26000.0
+    expenses: 0.0
 contributors:
 - - Nicholas Josefowitz
   - 50500.0
@@ -55,6 +59,8 @@ contributors:
   - 30000.0
 - - Andrew Chatham
   - 26000.0
+- - Diana L. Nelson
+  - 15000.0
 - - Christopher Conway
   - 5900.0
 - - Danny Conway
@@ -66,8 +72,6 @@ contributors:
 - - Cal Henderson
   - 5400.0
 - - Scott Leachman
-  - 5400.0
-- - Raphaela Lipinsky Degette
   - 5400.0
 
 ---
