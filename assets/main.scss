@@ -1320,3 +1320,28 @@ table.dt-bars td:nth-child(4) .dt-bar-value,
 table.dt-bars td:nth-child(5) .dt-bar-value {
   text-align: right;
 }
+
+.hover-tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.hover-tooltip .tooltip-text {
+  visibility: hidden;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px 8px;
+  border-radius: 4px;
+
+  position: absolute;
+  bottom: 125%; /* above the element */
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.hover-tooltip:hover .tooltip-text {
+  visibility: visible;
+}

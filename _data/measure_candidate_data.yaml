@@ -5,10 +5,13 @@
   'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors':
     measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
     passed: null
-  candidate_winner_filer_ids:
-  - 'C00577128'
-  - 'C00577129'
-  - 'C00577130'
+  'C: Decreases to Business Taxes':
+    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    passed: null
+  'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to Employees'' Pay':
+    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    passed: null
+  candidate_winner_filer_ids: []
 '2025-09-16':
   'A: Recall: BoS D4 Joel Engardio':
     measure_official_desc: 'Shall Joel Engardio be recalled (removed) from the San Francisco Board of Supervisors?'
@@ -19,7 +22,87 @@
       replace worn-out plumbing, electrical and ventilation systems; improve student nutrition services; and have updated security features; shall San Francisco Unified School District''s 
       measure authorizing $790,000,000 in bonds at legal rates levying approximately $12.95 per $100,000 of assessed value, raising approximately $56,400,000 annually while bonds are outstanding, with independent oversight and all funds staying local, be adopted?'
     passed: true
+  'B: Community Health and Medical Facilities, Street Safety, Public Spaces, and Shelter to Reduce Homelessness Bond':
+    measure_official_desc: 'HEALTHY, SAFE, AND VIBRANT SAN FRANCISCO BOND. To finance the acquisition or improvement of real property, including: temporary shelters, particularly for families; 
+      facilities that deliver healthcare services, including preventive care and behavioral health services, such as the Chinatown Public Health Center; critical repairs, renovations, and seismic 
+      upgrades at Zuckerberg San Francisco General Hospital and Trauma Center and Laguna Honda Hospital; and pedestrian and street safety improvements, streetscape enhancements, and other public space 
+      improvements; and to pay related costs; shall the City and County of San Francisco issue $390,000,000 in general obligation bonds with a duration of up to 30 years from the time of issuance, 
+      an estimated average tax rate of $0.0069/$100 of assessed property value, and projected average annual revenues of $31,000,000, subject to independent citizen oversight and regular audits? The City''s 
+      current debt management policy is to keep the property tax rate for City general obligation bonds below the 2006 rate by issuing new bonds as older ones are retired and the tax base grows, 
+      though this property tax rate may vary based on other factors.'
+    passed: true
+  'C: Inspector General':
+    measure_official_desc: 'Shall the City amend the Charter to create the new position of Inspector General in the Controller''s Office to review and investigate complaints of fraud, waste, and abuse, 
+      and give the Controller''s Office additional powers to issue subpoenas and execute search warrants when permitted by State law?'
+    passed: true
   'D: City Commissions and Mayoral Authority':
     measure_official_desc: 'Shall the City amend the Charter to limit the total number of commissions the City may have to 65, retaining certain decision-making commissions and dissolving the others unless the Board of Supervisors instead continues any as advisory bodies; 
       give the Mayor sole authority to appoint and remove City department heads; and give the Police Chief sole authority to adopt rules governing police officers'' conduct?'
     passed: false
+  'E: Creating a Task Force to Recommend Changing, Eliminating, or Combining City Commissions':
+    measure_official_desc: 'Shall the City amend the Charter to create a Task Force with authority to make recommendations by February 1, 2026, on ways the City could change, eliminate, 
+      or consolidate commissions to improve the administration of City government; require a financial report on the City''s commissions; and give the Task Force authority to introduce 
+      ordinances to implement its recommendations, and if required provide for the City Attorney to draft Charter amendments to submit to voters at a future election?'
+    passed: true
+  'F: Police Staffing and Deferred Retirement':
+    measure_official_desc: 'Shall the City amend the Charter to define “full-duty sworn officer”; require the Police Chief to make a report and recommendation on future staffing of full-duty sworn officers 
+      to the Police Commission every three years instead of two; require the Police Commission to report annually to the Board of Supervisors on Police Department staffing; and create a five-year program 
+      with possible renewals allowing police officers to continue working for the Police Department after retiring, with pension payments deferred while they are working?'
+    passed: false
+  'G: Funding Rental Subsidies for Affordable Housing Developments Serving Low Income Seniors, Families, and Persons with Disabilities':
+    measure_official_desc: 'Shall the City amend the Charter to require the City to appropriate at least $8.25 million a year to pay for rental subsidies for affordable housing developments serving extremely 
+      low-income households of seniors, families, and persons with disabilities?'
+    passed: true
+  'H: Retirement Benefits for Firefighters':
+    measure_official_desc: 'Shall the City amend the Charter to change how pension benefits are calculated for members of the Fire Department hired on or after January 7, 2012, by lowering the age these members 
+      can receive the highest pension from 58 to 55, and make those benefits the same as members hired before January 7, 2012?'
+    passed: true
+  'I: Retirement Benefits for Nurses and 911 Operators':
+    measure_official_desc: 'Shall the City amend the Charter to allow registered nurses who are members of the San Francisco Employees'' Retirement System and meet certain requirements to purchase credits toward 
+      their total pension years of service for time previously worked as per diem nurses, and to allow 911 dispatchers, supervisors, and coordinators to increase their pension benefits by joining the SFERS 
+      Miscellaneous Safety Plan for time worked starting in January 2025?'
+    passed: true
+  'J: Funding Programs Serving Children, Youth, and Families':
+    measure_official_desc: 'Shall the City amend the Charter to create an initiative led by the Mayor and the Superintendent of the School District with the mission of ensuring that City 
+      funding for children, youth, and families is used effectively?'
+    passed: 'true'
+  'K: Permanently Closing the Upper Great Highway to Private Vehicles to Establish a Public Open Recreation Space':
+    measure_official_desc: 'Shall the City use the Upper Great Highway as public open recreation space, permanently closing it to private motor vehicles seven days a week, with limited exceptions?'
+    passed: true
+  'L: Additional Business Tax on Transportation Network Companies and Autonomous Vehicle Businesses to Fund Public Transportation':
+    measure_official_desc: 'Shall the City place an additional tax permanently on transportation network companies and autonomous vehicle businesses that provide passenger service for compensation 
+      with rates between 1% and 4.5% of gross receipts in San Francisco above $500,000 for an estimated annual revenue of $25 million, and use the funds the City collects from the tax to support Muni 
+      transportation services and fare discount programs?'
+    passed: true
+  'M: Changes to Business Taxes':
+    measure_official_desc: 'Shall the City permanently change the taxes it collects from businesses, including: changing annual gross receipts tax rates to between 0.1% and 3.716%, 
+      homelessness gross receipts tax rates to between 0.0162% and 1.64%, business registration fees to between $55 and $60,000, overpaid executive gross receipts tax rates to between 0.02% and 0.129%, 
+      and administrative office tax rates to between 2.97% and 3.694% of payroll expense; increasing the gross receipts tax exemption for small businesses; and changing how the City calculates these taxes; 
+      for estimated annual revenue of $50 million once fully implemented?'
+    passed: true
+  'N: First Responder Student Loan and Training Reimbursement Fund':
+    measure_official_desc: 'Shall the City create a fund that the City could use in the future to help reimburse eligible City employees, including police officers, firefighters, sheriffs, paramedics, registered nurses, 
+      and 911 dispatchers, for student loans and education and training programs?'
+    passed: true
+  'O: Supporting Reproductive Rights':
+    measure_official_desc: 'Shall it be City policy and law to support, protect, and expand reproductive rights and services?'
+    passed: true
+  candidate_winner_filer_ids:
+  - '1458987'
+  - '1463746'
+  - '1466322'
+  - '1461513'
+  - '1460473'
+  - '1466924'
+  - '1466331'
+  - '1463099'
+  - '1462151'
+  - '1464921'
+  - '1468481'
+  - '1469320'
+  - '1469269'
+  - '1468565'
+  - '1469127'
+  - '1468588'
+  - '1464456'
+  - '1468029'
