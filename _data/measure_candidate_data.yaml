@@ -1,15 +1,15 @@
 '2026-06-02': 
   'A: Earthquake Safety and Emergency Response Bond':
-    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    measure_official_desc: null
     passed: null
   'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors':
-    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    measure_official_desc: null
     passed: null
   'C: Decreases to Business Taxes':
-    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    measure_official_desc: null
     passed: null
   'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to Employees'' Pay':
-    measure_official_desc: '(Description will be updated once it''s made available by the Elections Department.)'
+    measure_official_desc: null
     passed: null
   candidate_winner_filer_ids: []
 '2025-09-16':
@@ -106,3 +106,4 @@
   - '1468588'
   - '1464456'
   - '1468029'
+  - '1460998'

@@ -11,6 +11,11 @@ electionnav: true
                         {% if page.candidate_name%}{{ page.candidate_name }}
                         {% else %}{{ page.filer_name }}
                         {% endif %}
+                        {% assign candidate_winner_filer_ids = site.data.measure_candidate_data[page.election].candidate_winner_filer_ids %}
+                        {% if candidate_winner_filer_ids != empty and candidate_winner_filer_ids contains page.filer_id %}
+                            <span class="hover-tooltip"><i class="fs-2 fa-solid fa-circle-check" aria-hidden="true" style="color: var(--bs-contributions);"></i>
+                                <span class="tooltip-text">This candidate won</span></span>
+                        {% endif %}
                     </h1>
                     <div class="mb-3 mb-md-0 d-flex gap-1 flex-wrap">
                         <span class="badge bg-tertiary text-light px-3 py-1 rounded-pill">

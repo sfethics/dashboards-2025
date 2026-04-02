@@ -1334,9 +1334,9 @@ table.dt-bars td:nth-child(5) .dt-bar-value {
   text-align: center;
   padding: 5px 8px;
   border-radius: 4px;
-
+  font-size: 1rem;
   position: absolute;
-  bottom: 125%; /* above the element */
+  bottom: 105%; /* above the element */
   left: 50%;
   transform: translateX(-50%);
   white-space: nowrap;
