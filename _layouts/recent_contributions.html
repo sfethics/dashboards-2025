@@ -65,7 +65,7 @@ electionnav: true
                                 <td>{{ contribution.tx_amount }}</td>
                                 <td>{{ contribution.tx_date }}</td>
                                 <td>
-                                    {% if contribution.recipient_fid != '' %}
+                                    {% if contribution.recipient_fid != '' and contribution.recipient_fid != 'unknown' %}
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ contribution.recipient_fid }}.html">
                                         {{ contribution.recipient_name | truncate: 70 }}
