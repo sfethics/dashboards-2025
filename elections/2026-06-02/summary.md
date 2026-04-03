@@ -33,7 +33,7 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 278200.0
-  expenses: 85601.65
+  expenses: 108312.39
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
@@ -85,6 +85,10 @@ contributors_cand:
 - - Andrew Chatham
   - 26000.0
 top_cand_spends:
+- cmte_nid: '215606983'
+  cmte_fppcid: '1487286'
+  cmte_name: SF Believes
+  total_expense: 88542.95
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
@@ -94,10 +98,6 @@ top_cand_spends:
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   total_expense: 79165.51
-- cmte_nid: '215606983'
-  cmte_fppcid: '1487286'
-  cmte_name: SF Believes
-  total_expense: 65832.21
 - cmte_nid: '214918275'
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
