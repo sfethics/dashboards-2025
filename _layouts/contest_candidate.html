@@ -61,8 +61,8 @@ electionnav: true
                                         candidate.candidate_name | strip }}</a>{% assign candidate_winner_filer_ids =
                                     site.data.measure_candidate_data[page.election].candidate_winner_filer_ids %}{% if
                                     candidate_winner_filer_ids != empty and candidate_winner_filer_ids contains
-                                    candidate.filer_id %}&nbsp;<span class="hover-tooltip"><i
-                                            class="fa-solid fa-circle-check" aria-hidden="true"
+                                    candidate.filer_id %}{% assign has_winner = true %}&nbsp;<span
+                                        class="hover-tooltip"><i class="fa-solid fa-circle-check" aria-hidden="true"
                                             style="color: var(--bs-contributions);"></i><span class="tooltip-text">This
                                             candidate won</span></span>{% endif %}
                                 </td>
