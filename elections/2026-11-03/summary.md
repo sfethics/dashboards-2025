@@ -46,18 +46,18 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
-  expenses: 517106.07
-  funds: 1755000.0
+  expenses: 530642.07
+  funds: 2530000.0
 contributors_bm:
 - - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
   - 500000.0
 - - Ripple Labs Inc.
   - 500000.0
+- - Anthropic
+  - 500000.0
 - - Visa, Inc.
   - 250000.0
 - - Another Planet Entertainment Llc(gregg Perloff)
-  - 100000.0
-- - Electrical Industry Service Bureau, Inc.
   - 100000.0
 contributors_cand:
 - - Garry Tan
@@ -96,7 +96,7 @@ top_bm_spends:
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
-  total_expense: 517106.07
+  total_expense: 530642.07
 
 ---
 

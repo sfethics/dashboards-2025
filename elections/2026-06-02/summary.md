@@ -37,8 +37,8 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 372200.0
-  expenses: 253388.67
+  funds: 597200.0
+  expenses: 276936.14
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -60,24 +60,24 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 1217102.74
+  funds: 1857102.74
 contributors_bm:
 - - Chris Larsen
   - 700000.0
+- - Michael Moritz
+  - 625000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 200000.0
 - - Service Employees International Union Local 1021 Issues PAC
   - 150000.0
-- - Michael Moritz
-  - 125000.0
 contributors_cand:
-- - Michael Moritz
-  - 250000.0
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
-  - 75000.0
+  - 300000.0
+- - Michael Moritz
+  - 250000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Zach Jones
@@ -88,7 +88,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 88542.95
+  total_expense: 112090.42
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
@@ -110,7 +110,7 @@ top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 968540.0
+  total_expense: 993540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC

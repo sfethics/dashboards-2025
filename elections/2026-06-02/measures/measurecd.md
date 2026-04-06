@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 1217102.74
+  funds: 1857102.74
   expenses: 674426.34
   ies: ''
 multi_committees: []
@@ -28,11 +28,13 @@ contributors:
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
-  - 125000.0
+  - 625000.0
+- - Dodge and Cox
+  - 100000.0
+- - Neighbors for a Better San Francisco Advocacy
+  - 100000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 99400.0
-- - Neighbors for a Better San Francisco Advocacy
-  - 75000.0
 - - Robert J. Fisher
   - 50000.0
 - - William S. Fisher
@@ -43,8 +45,6 @@ contributors:
   - 25000.0
 - - Kilroy Realty, L.p.
   - 25000.0
-- - Hotel Council PAC
-  - 10000.0
 
 ---
 

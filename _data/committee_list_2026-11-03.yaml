@@ -100,6 +100,9 @@ committees:
 - cmte_name: Ua Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
+- cmte_name: Uber Innovation Ballot Measure Committee
+  cmte_fppcid: '1466153'
+  cmte_nid: '212872598'
 - cmte_name: Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb,
     Inc.
   cmte_fppcid: '1437557'
