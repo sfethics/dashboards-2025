@@ -16,7 +16,7 @@ committees:
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 968540.0
+  total_expense: 993540.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
@@ -87,7 +87,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 118542.95
+  total_expense: 142090.41999999998
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'

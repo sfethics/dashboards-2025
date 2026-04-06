@@ -14,11 +14,13 @@ committees:
   filer_id: '1479782'
   committee_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
     A THRIVING SAN FRANCISCO
-  funds: 1755000.0
-  expenses: 517106.07
+  funds: 2530000.0
+  expenses: 530642.07
   ies: ''
 multi_committees: []
 contributors:
+- - Anthropic
+  - 500000.0
 - - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
   - 500000.0
 - - Ripple Labs Inc.
@@ -33,12 +35,10 @@ contributors:
   - 100000.0
 - - Empire Distribution Inc.
   - 100000.0
-- - Intersect Power, Llc(michael Wheeler)
-  - 50000.0
-- - Union of American Physicians and Dentists Small Contributor Committee
-  - 25000.0
-- - Ua Local 38 Cope Fund
-  - 10000.0
+- - Jeffrey Lawson
+  - 100000.0
+- - Uber Innovation Ballot Measure Committee
+  - 100000.0
 
 ---
 

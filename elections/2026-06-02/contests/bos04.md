@@ -49,7 +49,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 41126.56
+    expenses: 64674.03
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -62,14 +62,14 @@ ie_candidates:
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
-    funds: 75000.0
+    funds: 300000.0
     expenses: 80000.0
 contributors:
-- - Michael Moritz
-  - 250000.0
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
-  - 75000.0
+  - 300000.0
+- - Michael Moritz
+  - 250000.0
 - - Noah Smith
   - 10000.0
 - - Maco Stewart
