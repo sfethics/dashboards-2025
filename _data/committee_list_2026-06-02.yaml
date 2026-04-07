@@ -68,12 +68,12 @@ committees:
     2026
   cmte_fppcid: unknown
   cmte_nid: '215900661'
-- cmte_name: Lurie's Ballot Measure Committee
-  cmte_fppcid: '1479782'
-  cmte_nid: '214099226'
 - cmte_name: No Lifetime Ban
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
+- cmte_name: Stronger Muni for All, Mayor Lurie's Ballot Measure Committee
+  cmte_fppcid: '1479782'
+  cmte_nid: '214099226'
 - cmte_name: Supporting Our Firefighters - Yes on Proposition a
   cmte_fppcid: unknown
   cmte_nid: '216534507'
@@ -143,6 +143,9 @@ committees:
 - cmte_name: Smart Justice California Action Fund
   cmte_fppcid: '1423131'
   cmte_nid: '200502936'
+- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+  cmte_fppcid: '991828'
+  cmte_nid: '6673394'
 - cmte_name: Teamsters Joint Council No 7 PAC
   cmte_fppcid: '1257632'
   cmte_nid: '205116472'
@@ -173,8 +176,17 @@ committees:
 - cmte_name: Jones
   cmte_fppcid: PENDING
   cmte_nid: unknown
+- cmte_name: Josh Fryday for Lt. Governor 2026
+  cmte_fppcid: '1479464'
+  cmte_nid: unknown
+- cmte_name: Maffei for Superior Court Judge 2026
+  cmte_fppcid: '1487740'
+  cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Nevadans for Fair Recovery PAC
+  cmte_fppcid: '11318'
   cmte_nid: unknown
 - cmte_name: Operating Engineers 3 Statewide PAC
   cmte_fppcid: '981697'
@@ -200,12 +212,18 @@ committees:
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
+- cmte_name: Diana Nelson
+  cmte_fppcid: unknown
+  cmte_nid: '216585729'
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
+- cmte_name: San Francisco Chamber of Commerce (Major Donor)
+  cmte_fppcid: unknown
+  cmte_nid: '216585910'
 - cmte_name: Zach Jones
   cmte_fppcid: unknown
   cmte_nid: '216290236'

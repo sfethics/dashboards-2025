@@ -99,6 +99,16 @@ committees:
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
   total_expense: 80000.0
+- cmte_name: Diana Nelson
+  cmte_fppcid: unknown
+  cmte_nid: '216585729'
+  committee_type: Major Donor
+  total_expense: 15000.0
+- cmte_name: San Francisco Chamber of Commerce (Major Donor)
+  cmte_fppcid: unknown
+  cmte_nid: '216585910'
+  committee_type: Major Donor
+  total_expense: 12322.49
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

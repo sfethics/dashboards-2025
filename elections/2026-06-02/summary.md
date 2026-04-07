@@ -60,7 +60,7 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 1857102.74
+  funds: 1861722.5
 contributors_bm:
 - - Chris Larsen
   - 700000.0
