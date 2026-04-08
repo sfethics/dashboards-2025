@@ -20,7 +20,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 110000.0
+  funds: 111500.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -41,6 +41,8 @@ contributors:
   - 5000.0
 - - Esther Marks
   - 2500.0
+- - John Jersin
+  - 1500.0
 
 ---
 
