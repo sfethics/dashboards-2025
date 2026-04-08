@@ -37,14 +37,14 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 597200.0
-  expenses: 276936.14
+  funds: 601050.0
+  expenses: 294583.14
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 112500.0
+  funds: 114000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -60,7 +60,7 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 1861722.5
+  funds: 2186722.5
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -68,10 +68,10 @@ contributors_bm:
   - 625000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
+- - Tony Xu
+  - 250000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 200000.0
-- - Service Employees International Union Local 1021 Issues PAC
-  - 150000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
@@ -88,7 +88,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 112090.42
+  total_expense: 129737.42
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED

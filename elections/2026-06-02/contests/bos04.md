@@ -49,11 +49,11 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 64674.03
+    expenses: 82321.03
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 297200.0
+    funds: 301050.0
     expenses: 79165.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
