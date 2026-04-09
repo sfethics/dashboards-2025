@@ -14,7 +14,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 255500.0
+  funds: 280500.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -23,6 +23,8 @@ contributors:
   - 100000.0
 - - SF Believes
   - 30000.0
+- - Kilroy Realty, L.p.
+  - 25000.0
 - - United Contractors
   - 25000.0
 - - Tmg Partners Re Llc(daniel Siri)
@@ -36,8 +38,6 @@ contributors:
 - - At&t California Employee Political Action Committee
   - 5000.0
 - - Comcast Corporation
-  - 5000.0
-- - Fontenoy Engineering Inc.
   - 5000.0
 
 ---

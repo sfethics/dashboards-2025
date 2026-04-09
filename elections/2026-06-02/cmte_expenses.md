@@ -108,7 +108,17 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '216585910'
   committee_type: Major Donor
-  total_expense: 12322.49
+  total_expense: 20725.22
+- cmte_name: SF Partnership and Affiliated Entity Advance SF
+  cmte_fppcid: unknown
+  cmte_nid: '216603835'
+  committee_type: Major Donor
+  total_expense: 2802.73
+- cmte_name: Williams-Sonoma, Inc.
+  cmte_fppcid: '499432'
+  cmte_nid: '6672693'
+  committee_type: Major Donor
+  total_expense: 300000.0
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

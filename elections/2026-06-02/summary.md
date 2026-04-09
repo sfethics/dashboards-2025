@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 614899.28
+  funds: 674899.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -50,17 +50,17 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 298560.14
-  funds: 700761.53
+  funds: 741742.45
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 255500.0
+  funds: 280500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 2186722.5
+  funds: 2605125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -68,22 +68,22 @@ contributors_bm:
   - 625000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
+- - Williams-sonoma, Inc.
+  - 300000.0
 - - Tony Xu
   - 250000.0
-- - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 200000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
   - 300000.0
 - - Michael Moritz
   - 250000.0
+- - City and Council of San Francisco
+  - 60000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Zach Jones
   - 30000.0
-- - Andrew Chatham
-  - 26000.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
@@ -116,6 +116,10 @@ top_bm_spends:
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   total_expense: 674426.34
+- cmte_nid: '6672693'
+  cmte_fppcid: '499432'
+  cmte_name: Williams-Sonoma, Inc.
+  total_expense: 300000.0
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
@@ -124,10 +128,6 @@ top_bm_spends:
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
   total_expense: 30000.0
-- cmte_nid: '6673342'
-  cmte_fppcid: '840002'
-  cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
-  total_expense: 26454.0
 
 ---
 

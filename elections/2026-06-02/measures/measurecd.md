@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 2186722.5
+  funds: 2605125.23
   expenses: 674426.34
   ies: ''
 multi_committees: []
@@ -29,21 +29,21 @@ contributors:
   - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Williams-sonoma, Inc.
+  - 300000.0
 - - Tony Xu
   - 250000.0
+- - Neighbors for a Better San Francisco Advocacy
+  - 110000.0
 - - Dodge and Cox
   - 100000.0
-- - Kilroy Realty, L.p.
+- - Gap, Inc.
   - 100000.0
-- - Neighbors for a Better San Francisco Advocacy
+- - Kilroy Realty, L.p.
   - 100000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 99400.0
 - - Robert J. Fisher
-  - 50000.0
-- - William S. Fisher
-  - 50000.0
-- - Uber Innovation Ballot Measure Committee
   - 50000.0
 
 ---
