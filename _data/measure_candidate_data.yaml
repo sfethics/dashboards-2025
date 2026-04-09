@@ -12,6 +12,10 @@
     measure_official_desc: null
     passed: null
   candidate_winner_filer_ids: []
+  incumbent_filer_ids: 
+  - '1483649'
+  - '1479700'
+  - '1485709'
 '2025-09-16':
   'A: Recall: BoS D4 Joel Engardio':
     measure_official_desc: 'Shall Joel Engardio be recalled (removed) from the San Francisco Board of Supervisors?'
@@ -107,3 +111,16 @@
   - '1464456'
   - '1468029'
   - '1460998'
+  incumbent_filer_ids:
+  - '1441599'
+  - '1458987'
+  - '1462498'
+  - '1461513'
+  - '1468565'
+  - '1464456'
+  - '1468588'
+  - '1468029'
+  - '1466331'
+  - '1460998'
+  - '1462151'
+  - '1464921'

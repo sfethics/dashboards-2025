@@ -31,7 +31,8 @@ electionnav: true
                         {%- else -%}
                         {% assign col-class-totals = "col-lg-6" %}
                         {%- endif -%}
-                        {% if page.incumbent %}
+                        {% assign incumbent_filer_ids = site.data.measure_candidate_data[page.election].incumbent_filer_ids %}
+                        {% if incumbent_filer_ids != empty and incumbent_filer_ids contains page.filer_id %}
                         <span class="badge rounded-pill bg-primary border border-primary">
                             Incumbent Candidate
                         </span>
