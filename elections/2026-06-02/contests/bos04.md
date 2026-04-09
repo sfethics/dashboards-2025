@@ -25,7 +25,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 66151.0
+  funds: 126151.0
   expenses: 0.0
 - filer_nid: '215112140'
   filer_id: '1485709'
@@ -70,6 +70,8 @@ contributors:
   - 300000.0
 - - Michael Moritz
   - 250000.0
+- - City and Council of San Francisco
+  - 60000.0
 - - Noah Smith
   - 10000.0
 - - Maco Stewart
@@ -84,8 +86,6 @@ contributors:
   - 4900.0
 - - Patrick Purvis
   - 3000.0
-- - Andy Hansen
-  - 2500.0
 
 ---
 

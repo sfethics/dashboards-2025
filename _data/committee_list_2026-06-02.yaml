@@ -221,9 +221,15 @@ committees:
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
+- cmte_name: SF Partnership and Affiliated Entity Advance SF
+  cmte_fppcid: unknown
+  cmte_nid: '216603835'
 - cmte_name: San Francisco Chamber of Commerce (Major Donor)
   cmte_fppcid: unknown
   cmte_nid: '216585910'
+- cmte_name: Williams-sonoma, Inc.
+  cmte_fppcid: '499432'
+  cmte_nid: '6672693'
 - cmte_name: Zach Jones
   cmte_fppcid: unknown
   cmte_nid: '216290236'
