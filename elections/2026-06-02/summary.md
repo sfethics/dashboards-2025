@@ -38,7 +38,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 294583.14
+  expenses: 404636.79000000004
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -50,7 +50,7 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 298560.14
-  funds: 741742.45
+  funds: 996742.45
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
@@ -60,18 +60,18 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 2605125.23
+  funds: 2705125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Service Employees International Union Local 1021 Issues PAC
+  - 350000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
 - - Williams-sonoma, Inc.
   - 300000.0
-- - Tony Xu
-  - 250000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
@@ -88,29 +88,29 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 129737.42
+  total_expense: 171349.42
+- cmte_nid: '215852865'
+  cmte_fppcid: '1488188'
+  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  total_expense: 105595.51
+- cmte_nid: '212046236'
+  cmte_fppcid: '1469330'
+  cmte_name: Asian Americans for Representation
+  total_expense: 95108.25
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   total_expense: 80000.0
-- cmte_nid: '215852865'
-  cmte_fppcid: '1488188'
-  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 79165.51
 - cmte_nid: '214918275'
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 62016.0
-- cmte_nid: '213987622'
-  cmte_fppcid: '1479700'
-  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-  total_expense: 54972.81
 top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 993540.0
+  total_expense: 1093540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC

@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 2605125.23
+  funds: 2705125.23
   expenses: 674426.34
   ies: ''
 multi_committees: []
@@ -34,7 +34,7 @@ contributors:
 - - Tony Xu
   - 250000.0
 - - Neighbors for a Better San Francisco Advocacy
-  - 110000.0
+  - 210000.0
 - - Dodge and Cox
   - 100000.0
 - - Gap, Inc.
