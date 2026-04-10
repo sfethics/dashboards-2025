@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 674899.28
+  funds: 614899.28
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -78,12 +78,12 @@ contributors_cand:
   - 300000.0
 - - Michael Moritz
   - 250000.0
-- - City and Council of San Francisco
-  - 60000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Zach Jones
   - 30000.0
+- - Andrew Chatham
+  - 26000.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
