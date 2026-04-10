@@ -116,6 +116,10 @@ committees:
 - cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   cmte_fppcid: '1358725'
   cmte_nid: '216169376'
+- cmte_name: National Union of Healthcare Workers Candidate Committee for Quality
+    Patient Care and Union Democracy
+  cmte_fppcid: '1318200'
+  cmte_nid: '11272029'
 - cmte_name: Neighbors for a Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -172,6 +176,10 @@ committees:
   cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
+  cmte_nid: unknown
+- cmte_name: International Federation of Professional and Technical Engineers, Local
+    21 Issues PAC
+  cmte_fppcid: '1362080'
   cmte_nid: unknown
 - cmte_name: Jones
   cmte_fppcid: PENDING
