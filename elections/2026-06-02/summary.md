@@ -32,13 +32,13 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 278200.0
+  funds: 280700.0
   expenses: 108312.39
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 404636.79000000004
+  expenses: 429472.79000000004
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -60,18 +60,18 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 2705125.23
+  funds: 2905125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
   - 625000.0
-- - Service Employees International Union Local 1021 Issues PAC
-  - 350000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
-- - Williams-sonoma, Inc.
-  - 300000.0
+- - Service Employees International Union Local 1021 Issues PAC
+  - 350000.0
+- - Neighbors for a Better San Francisco Advocacy
+  - 310000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
@@ -88,11 +88,11 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 171349.42
+  total_expense: 193085.42
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 105595.51
+  total_expense: 108695.51
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
@@ -110,7 +110,7 @@ top_bm_spends:
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 1093540.0
+  total_expense: 1193540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
