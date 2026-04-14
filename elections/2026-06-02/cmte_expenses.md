@@ -17,6 +17,11 @@ committees:
   cmte_nid: '193427405'
   committee_type: General Purpose
   total_expense: 1193540.0
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  cmte_nid: '201619433'
+  committee_type: General Purpose
+  total_expense: 56630.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'

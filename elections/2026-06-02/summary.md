@@ -33,12 +33,17 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 280700.0
-  expenses: 108312.39
+  expenses: 113912.39
+- contest_nid: '214769647'
+  contest_name: Board of Education
+  contest_link: usd
+  funds: 0.0
+  expenses: 45430.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 429472.79000000004
+  expenses: 435072.79000000004
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'

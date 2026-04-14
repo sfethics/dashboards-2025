@@ -15,7 +15,15 @@ candidates:
   candidate_name: PHIL KIM
   funds: 29487.0
   expenses: 13455.63
-ie_candidates: []
+ie_candidates:
+- candidate_name: PHIL KIM
+  filer_id: '1483649'
+  committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 45430.0
 contributors:
 - - Sara Barz
   - 500.0
