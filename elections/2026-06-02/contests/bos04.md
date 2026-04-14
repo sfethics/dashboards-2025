@@ -46,6 +46,11 @@ ie_candidates:
   filer_id: '1485709'
   committees:
   - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: 0.0
+    expenses: 5600.0
+  - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
