@@ -32,7 +32,7 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 280700.0
+  funds: 285700.0
   expenses: 113912.39
 - contest_nid: '214769647'
   contest_name: Board of Education
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 435072.79000000004
+  expenses: 424280.06
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -54,13 +54,13 @@ measures:
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
-  expenses: 298560.14
+  expenses: 309352.87
   funds: 996742.45
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 280500.0
+  funds: 281500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
@@ -71,9 +71,9 @@ contributors_bm:
   - 700000.0
 - - Michael Moritz
   - 625000.0
-- - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 350000.0
 - - Service Employees International Union Local 1021 Issues PAC
+  - 350000.0
+- - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
 - - Neighbors for a Better San Francisco Advocacy
   - 310000.0

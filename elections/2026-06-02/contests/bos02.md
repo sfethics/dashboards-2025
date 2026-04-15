@@ -45,7 +45,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 252200.0
+    funds: 257200.0
     expenses: 54836.8
   - position: SUPPORT
     filer_id: '1487286'

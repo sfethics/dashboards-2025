@@ -229,6 +229,9 @@ committees:
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
+- cmte_name: Manzanita Action Fund
+  cmte_fppcid: unknown
+  cmte_nid: '211947314'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

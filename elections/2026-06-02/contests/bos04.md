@@ -68,7 +68,7 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 300000.0
-    expenses: 80000.0
+    expenses: 69207.27
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
