@@ -18,6 +18,14 @@ committees:
   funds: 996742.45
   expenses: 298560.14
   ies: ''
+- position: SUPPORT
+  filer_nid: '216048526'
+  filer_id: '1488862'
+  committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  funds: ''
+  expenses: 10792.73
+  ies: 10792.73
 multi_committees:
 - position: MULTIPLE
   filer_nid: '215118470'
