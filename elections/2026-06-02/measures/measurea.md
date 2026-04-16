@@ -14,12 +14,16 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 281500.0
+  funds: 481500.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
+  - 100000.0
+- - Members' Voice of the State Building and Construction Trades Council of California
+  - 100000.0
+- - North Coast States Regional Council of Carpenters Issues PAC
   - 100000.0
 - - SF Believes
   - 30000.0
@@ -35,10 +39,6 @@ contributors:
   - 10000.0
 - - Haney Ballot Measure Committee for California Opportunity
   - 10000.0
-- - At&t California Employee Political Action Committee
-  - 5000.0
-- - Comcast Corporation
-  - 5000.0
 
 ---
 

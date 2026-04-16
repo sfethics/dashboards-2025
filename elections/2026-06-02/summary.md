@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 614899.28
+  funds: 649172.0
   expenses: 14007.66
   ies: ''
 candidate_ie:
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 424280.06
+  expenses: 450944.06000000006
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -55,25 +55,25 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 309352.87
-  funds: 996742.45
+  funds: 1009035.18
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 281500.0
+  funds: 481500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 2905125.23
+  funds: 3155125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
   - 625000.0
-- - Service Employees International Union Local 1021 Issues PAC
-  - 350000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
+  - 350000.0
+- - Service Employees International Union Local 1021 Issues PAC
   - 350000.0
 - - Neighbors for a Better San Francisco Advocacy
   - 310000.0
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 193085.42
+  total_expense: 219749.42
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -129,10 +129,10 @@ top_bm_spends:
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   total_expense: 298560.14
-- cmte_nid: '215606983'
-  cmte_fppcid: '1487286'
-  cmte_name: SF Believes
-  total_expense: 30000.0
+- cmte_nid: '212872598'
+  cmte_fppcid: '1466153'
+  cmte_name: Uber Innovation Ballot Measure Committee
+  total_expense: 50000.0
 
 ---
 

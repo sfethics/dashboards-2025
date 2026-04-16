@@ -13,7 +13,7 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 303013.28
+  funds: 321650.0
   expenses: 12027.9
 - filer_nid: '214929589'
   filer_id: '1484957'
@@ -31,7 +31,7 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 165785.0
+  funds: 181421.0
   expenses: 613.26
 ie_candidates:
 - candidate_name: DAVID LEE
@@ -54,7 +54,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 145669.03
+    expenses: 172333.03
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
