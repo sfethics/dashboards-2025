@@ -15,19 +15,21 @@ committees:
   filer_nid: '215457455'
   filer_id: '1487105'
   committee_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-  funds: 4745.52
+  funds: 4904.18
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Stan Shields
-  - 3301.14
+  - 3359.8
 - - Cecilia London
   - 1068.73
 - - Peter Stern
   - 250.0
 - - Martha Abbene
   - 125.65
+- - Margaret Petrie
+  - 100.0
 
 ---
 

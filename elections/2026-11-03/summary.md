@@ -42,7 +42,7 @@ measures:
     and Working on City Contracts.'
   contest_link: measuretbd1
   expenses: 0.0
-  funds: 4745.52
+  funds: 4904.18
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3

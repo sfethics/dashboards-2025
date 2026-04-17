@@ -31,7 +31,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 95108.25
+  total_expense: 121449.37
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
@@ -71,7 +71,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 62016.0
+  total_expense: 67816.0
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -102,7 +102,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 108695.51
+  total_expense: 113695.51
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'

@@ -196,11 +196,11 @@ contributors:
   tx_lastname: SHIELDS
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 3301.14
+  tx_amount: 3359.8
   transactions:
   - cmte_fppcid: '1487105'
     cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-    tx_amount: 3301.14
+    tx_amount: 3359.8
 - tx_firstname: MARISA
   tx_lastname: LAVALLEE
   tx_entitycode: Individual
