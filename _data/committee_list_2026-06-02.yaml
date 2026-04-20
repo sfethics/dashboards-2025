@@ -47,6 +47,9 @@ committees:
 - cmte_name: Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
+- cmte_name: Virginia Cheung for San Francisco School Board of Education 2026
+  cmte_fppcid: '1488901'
+  cmte_nid: '216603754'
 - cmte_name: Affordable SF Now Supporting Natalie Gee for Supervisor 2026, Sponsored
     by Labor Organizations
   cmte_fppcid: '1488862'
@@ -168,6 +171,9 @@ committees:
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
+- cmte_name: United Educators of San Francisco Committee on Political Education
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
 - cmte_name: At&t California Employee Political Action Committee
   cmte_fppcid: '981470'
   cmte_nid: unknown

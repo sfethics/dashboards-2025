@@ -21,6 +21,12 @@ candidates:
   candidate_name: DAVID LEE
   funds: 79950.0
   expenses: 1366.5
+- filer_nid: '214951144'
+  filer_id: '1485253'
+  committee_name: JEREMY GRECO FOR SUPERVISOR 2026
+  candidate_name: JEREMY GRECO
+  funds: 2484.46
+  expenses: 1952.74
 - filer_nid: '215019694'
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
@@ -54,7 +60,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 172333.03
+    expenses: 198042.24
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -73,7 +79,7 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 300000.0
-    expenses: 69207.27
+    expenses: 101507.27
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund

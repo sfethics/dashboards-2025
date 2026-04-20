@@ -74,7 +74,7 @@ electionnav: true
       Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
       and <span class="formatted-date">{{page.dates[1]}}</span>
     </p>
-    {% endif %}
+    
 
     <!-- Total Contributions -->
     <div class="col-12 col-md-6">
@@ -137,7 +137,16 @@ electionnav: true
         </div>
       </div>
     </div>
-
+    {% else %}
+    <div class="col-12">
+        <div class="alert alert-dark mb-0">
+            This committee has no financial activity reported during the <span>{{page.election | date: "%B%e, %Y" }}</span> election cycle.<br>
+            <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT">
+              <span>Why is contribution or expenditure data not available?</span>
+            </a>
+        </div>
+     </div>
+    {% endif %}
   </div>
 </div>
 
