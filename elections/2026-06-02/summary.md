@@ -25,14 +25,14 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 649172.0
-  expenses: 14007.66
+  funds: 651656.46
+  expenses: 15960.4
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 285700.0
+  funds: 288200.0
   expenses: 119712.39
 - contest_nid: '214769647'
   contest_name: Board of Education
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 482285.18000000005
+  expenses: 540294.39
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -55,7 +55,7 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 309352.87
-  funds: 1009035.18
+  funds: 1009969.96
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 219749.42
+  total_expense: 245458.63
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
@@ -106,7 +106,7 @@ top_cand_spends:
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-  total_expense: 80000.0
+  total_expense: 112300.0
 - cmte_nid: '214918275'
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026

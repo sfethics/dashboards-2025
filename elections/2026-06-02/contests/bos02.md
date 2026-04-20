@@ -55,7 +55,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    funds: 28500.0
+    funds: 31000.0
     expenses: 0.0
 - candidate_name: LORI BROOKE
   filer_id: '1484332'

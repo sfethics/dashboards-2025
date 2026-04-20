@@ -77,6 +77,11 @@ committees:
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
   total_expense: 1366.5
+- cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
+  cmte_fppcid: '1485253'
+  cmte_nid: '214951144'
+  committee_type: Candidate Controlled
+  total_expense: 1952.74
 - cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
@@ -97,7 +102,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 249749.42
+  total_expense: 275458.63
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
@@ -108,7 +113,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 80000.0
+  total_expense: 112300.0
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
@@ -134,6 +139,11 @@ committees:
   cmte_nid: '6673342'
   committee_type: General Purpose
   total_expense: 26454.0
+- cmte_name: United Educators of San Francisco Committee on Political Education
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
+  committee_type: General Purpose
+  total_expense: 15000.0
 
 ---
 
