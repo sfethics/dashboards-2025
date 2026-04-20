@@ -16,6 +16,14 @@ candidates:
   funds: 29487.0
   expenses: 13455.63
 ie_candidates:
+- candidate_name: VIRGINIA CHEUNG
+  filer_id: '1488901'
+  committees:
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 9010.43
 - candidate_name: PHIL KIM
   filer_id: '1483649'
   committees:

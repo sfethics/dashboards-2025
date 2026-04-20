@@ -144,6 +144,11 @@ committees:
   cmte_nid: '6673824'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  cmte_nid: '6685673'
+  committee_type: General Purpose
+  total_expense: 9010.43
 
 ---
 

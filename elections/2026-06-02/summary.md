@@ -38,7 +38,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 45430.0
+  expenses: 54440.43
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
