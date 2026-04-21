@@ -59,12 +59,12 @@ electionnav: true
 <!-- Cards: Contributions & Expenses -->
 <div class="container my-4" aria-label="Campaign finance summary">
   <div class="row g-4">
-    <div class="card-header-stacked">
-        <h2 id="summary-totals" class="mb-0">
-          <span>Summary Totals</span>
-        </h2>
-        {% include card-toolbar.html offcanvas_id="summary-totalsTT" link="summary-totals" %}
-    </div>
+        <div class="card-header-stacked">
+            <h2 id="summary-totals" class="mb-0">
+            <span>Summary Totals</span>
+            </h2>
+            {% include card-toolbar.html offcanvas_id="summary-totalsTT" link="summary-totals" %}
+        </div>
         {% if page.dates[0] != '' %}
         <p class="mb-0 mt-1">
             Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
@@ -103,20 +103,32 @@ electionnav: true
             </div>
         </div>
         {%- if page.pubfi.participant == 'True' -%}
+        {% if page.pubfi.total-approved %}
+        {% assign pubfi_header = "Public Funds Approved*" %}
+        {% assign pubfi_amount = page.pubfi.total-approved %}
+        {% else %}
+        {% assign pubfi_header = "Public Funds Received" %}
+        {% assign pubfi_amount = page.pubfi.total %}
+        {% endif %}
         <!-- Total pubfi if any -->
         <div class="{{col-class-totals}}">
             <div class="card border-0 shadow-sm rounded-4 h-100">
                 <div class="card-body p-4">
                     <div class="d-flex align-items-center gap-2 mb-3">
-                        <h3 class="mb-0"><i class="fa-regular fa-money-bill" aria-hidden="true"></i> Public Funds
-                            Received</h3>
+                        <h3 class="mb-0"><i class="fa-regular fa-money-bill" aria-hidden="true"></i> {{ pubfi_header }}</h3>
                     </div>
                     <span class="display-6 fw-semibold text-dark currency no-round" aria-label="Total expenses amount">
-                        {{ page.pubfi.total }}
+                        {{ pubfi_amount }}
                     </span>
                 </div>
             </div>
         </div>
+        {% if page.pubfi.total-approved %}
+        {% assign pubfi_disbursement_date = site.data.measure_candidate_data[page.election].pubfi_disbursement_date %}
+        <div class="mt-2 align-right-desktop">
+            <span class="text-muted">* The earliest date to receive public funds is {{ pubfi_disbursement_date }}.</span>
+        </div>
+        {% endif %}
         {%- endif -%}
         {% else %}
         <div class="col-12">
