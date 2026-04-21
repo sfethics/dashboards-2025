@@ -22,6 +22,9 @@ committees:
 - cmte_name: David Lee for Supervisor 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
+- cmte_name: Dorsey for DCCC Member 2024 Officeholder Committee
+  cmte_fppcid: '1463832'
+  cmte_nid: '208697921'
 - cmte_name: Jeremy Greco for Supervisor 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -156,6 +159,9 @@ committees:
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
+- cmte_name: San Francisco Police Officers Association PAC
+  cmte_fppcid: '1315969'
+  cmte_nid: '11282770'
 - cmte_name: Teamsters Joint Council No 7 PAC
   cmte_fppcid: '1257632'
   cmte_nid: '205116472'
@@ -182,6 +188,17 @@ committees:
   cmte_nid: unknown
 - cmte_name: California Dream for All, Robert Rivas Ballot Measure Committee
   cmte_fppcid: '1451423'
+  cmte_nid: unknown
+- cmte_name: Californians to Protect Retirement and Life Savings, Sponsored by Building
+    a Better California
+  cmte_fppcid: '1488418'
+  cmte_nid: unknown
+- cmte_name: Calretailers Issues Political Action Committee, Sponsored by the California
+    Retailers Association
+  cmte_fppcid: '1274157'
+  cmte_nid: unknown
+- cmte_name: Donnellan for Judge 2026
+  cmte_fppcid: '1482691'
   cmte_nid: unknown
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
