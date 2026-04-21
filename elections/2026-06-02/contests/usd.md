@@ -15,6 +15,12 @@ candidates:
   candidate_name: PHIL KIM
   funds: 29487.0
   expenses: 13455.63
+- filer_nid: '215120587'
+  filer_id: '1485654'
+  committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
+  candidate_name: BRANDEE MARCKMANN
+  funds: 50000.0
+  expenses: 0.0
 ie_candidates:
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1488901'
@@ -33,6 +39,8 @@ ie_candidates:
     funds: ''
     expenses: 45430.0
 contributors:
+- - Brandee L Marckmann
+  - 50000.0
 - - Sara Barz
   - 500.0
 - - Courtney Benoist
@@ -50,8 +58,6 @@ contributors:
 - - Jason Fish
   - 500.0
 - - Stephanie Goss
-  - 500.0
-- - Govern for California Courage Committee
   - 500.0
 
 ---

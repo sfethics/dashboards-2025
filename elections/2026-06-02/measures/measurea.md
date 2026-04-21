@@ -14,7 +14,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 481500.0
+  funds: 512500.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -27,6 +27,9 @@ contributors:
   - 100000.0
 - - SF Believes
   - 30000.0
+- - Californians to Protect Retirement and Life Savings, Sponsored by Building a Better
+    California
+  - 25000.0
 - - Kilroy Realty, L.p.
   - 25000.0
 - - United Contractors
@@ -36,8 +39,6 @@ contributors:
 - - Amr Holdco, Inc.
   - 10000.0
 - - Eleni Kounalakis Ballot Measure Committee
-  - 10000.0
-- - Haney Ballot Measure Committee for California Opportunity
   - 10000.0
 
 ---

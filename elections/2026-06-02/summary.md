@@ -18,7 +18,7 @@ candidate_pf:
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
-  funds: 29487.0
+  funds: 79487.0
   expenses: 13455.63
   ies: ''
 - committee_type: candidate
@@ -32,7 +32,7 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 288200.0
+  funds: 298200.0
   expenses: 119712.39
 - contest_nid: '214769647'
   contest_name: Board of Education
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 540294.39
+  expenses: 554949.28
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -60,20 +60,20 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 481500.0
+  funds: 512500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 3230125.23
+  funds: 3250125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
   - 625000.0
-- - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 350000.0
 - - Service Employees International Union Local 1021 Issues PAC
+  - 350000.0
+- - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
 - - Neighbors for a Better San Francisco Advocacy
   - 310000.0
@@ -85,15 +85,15 @@ contributors_cand:
   - 250000.0
 - - Nicholas Josefowitz
   - 50500.0
+- - Brandee L Marckmann
+  - 50000.0
 - - Zach Jones
   - 30000.0
-- - Andrew Chatham
-  - 26000.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 245458.63
+  total_expense: 260113.52
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation

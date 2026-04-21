@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 3230125.23
+  funds: 3250125.23
   expenses: 674426.34
   ies: ''
 multi_committees: []

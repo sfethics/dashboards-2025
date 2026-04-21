@@ -45,7 +45,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    funds: 257200.0
+    funds: 267200.0
     expenses: 58136.8
   - position: SUPPORT
     filer_id: '1487286'
@@ -74,6 +74,8 @@ contributors:
   - 26000.0
 - - Diana L. Nelson
   - 15000.0
+- - Phin Barnes
+  - 10000.0
 - - Christopher Conway
   - 5900.0
 - - Danny Conway
@@ -83,8 +85,6 @@ contributors:
 - - Robert J. Fisher
   - 5400.0
 - - Cal Henderson
-  - 5400.0
-- - Scott Leachman
   - 5400.0
 
 ---

@@ -22,6 +22,11 @@ committees:
   cmte_nid: '201619433'
   committee_type: General Purpose
   total_expense: 56630.0
+- cmte_name: DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
+  cmte_fppcid: '1463832'
+  cmte_nid: '208697921'
+  committee_type: Candidate Controlled
+  total_expense: 2000.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
@@ -102,7 +107,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 275458.63
+  total_expense: 290113.52
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
