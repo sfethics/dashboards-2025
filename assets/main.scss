@@ -1300,6 +1300,10 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   pointer-events: none;
 }
 
+td.child .dt-bar-cell {
+  display: inline-flex;
+}
+
 .dt-bar-value {
   position: relative;
   z-index: 1;

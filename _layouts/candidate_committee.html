@@ -184,6 +184,8 @@ electionnav: true
     </div>
 </div>
 {% endif %}
+
+{% if page.dates[0] != '' %}
 <!-- Contributors + Expenditures Datatables -->
 <div class="container my-5 h-100">
     <h2>Activity Details</h2>
@@ -315,6 +317,7 @@ electionnav: true
 
     </div>
 </div>
+{% endif %}
 
 <!-- IEs -->
 <div class="container" aria-label="Independent Expenditures">

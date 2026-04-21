@@ -207,6 +207,7 @@ electionnav: true
 </div>
 {%- endif -%}
 
+{% if page.dates[0] != '' and page.dates[1] != '' %}
 <!-- Contributors + Expenditures Datatables -->
 <div class="container my-5 h-100">
   <h2>Activity Details</h2>
@@ -300,6 +301,7 @@ electionnav: true
                 </h3>
                 {% include card-toolbar.html offcanvas_id="loansTT" link="loans_received" %}
             </div>
+        </div>
 
         <div class="card-body p-3">
           <table id="loans_received_table" class="table dt-bars">
@@ -334,6 +336,7 @@ electionnav: true
 
   </div>
 </div>
+{% endif %}
 
 <!-- IEs -->
 <div class="container my-5 h-100">

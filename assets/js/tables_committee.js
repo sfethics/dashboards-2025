@@ -30,6 +30,20 @@ function parseMoneyValue(value) {
     return Number.isFinite(numeric) ? numeric * multiplier : 0;
 }
 
+function getColumnMax(tableEl, columnIndex) {
+    const cells = tableEl.querySelectorAll(`tbody tr td:nth-child(${columnIndex + 1})`);
+    let max = 0;
+
+    cells.forEach(function (cell) {
+        const value = parseMoneyValue(cell.textContent);
+        if (value > max) {
+            max = value;
+        }
+    });
+
+    return max;
+}
+
 function getFilteredColumnMax(api, columnIndex) {
     const values = api
         .column(columnIndex, { search: 'applied' })
@@ -277,6 +291,8 @@ if (document.querySelector('#filings_table')) {
 
 /* Third-party table */
 if (document.querySelector('#third_party_table')) {
+    const fundsMax = getColumnMax(document.querySelector('#third_party_table'), 2);
+    const expensesMax = getColumnMax(document.querySelector('#third_party_table'), 3);
     new DataTable('#third_party_table', {
         displayLength: -1,
         responsive: {
@@ -294,23 +310,33 @@ if (document.querySelector('#third_party_table')) {
         },
         lengthChange: false,
         columnDefs: [
-            { responsivePriority: 10001, targets: [1] },
+            { responsivePriority: 10001, targets: [1,2] },
             {
-                targets: [2, 3],
+                targets: 2,
                 render: function (data, type) {
                     if (type === 'display') {
-                        return formatAsCurrency(data);
+                        return renderCurrencyBar(data, fundsMax, 'dt-bar-funds', true);
                     }
-                    return parseMoneyValue(data);
+                    return data;
+                }
+            }, 
+            {
+                targets: 3,
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return renderCurrencyBar(data, expensesMax, 'dt-bar-expenses', true);
+                    }
+                    return data;
                 }
             }
-        ],
-        initComplete: function () {
-            setupBarRefresh(this.api(), [
-                { columnIndex: 2, barClass: 'dt-bar-funds', useSqrtScaling: true },
-                { columnIndex: 3, barClass: 'dt-bar-expenses', useSqrtScaling: true }
-            ]);
-        }
+        ]
+        // ,
+        // initComplete: function () {
+        //     setupBarRefresh(this.api(), [
+        //         { columnIndex: 2, barClass: 'dt-bar-funds', useSqrtScaling: true },
+        //         { columnIndex: 3, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+        //     ]);
+        // }
     });
 }
 
@@ -319,8 +345,16 @@ if (document.querySelector('#ie-candidates_table')) {
     new DataTable('#ie-candidates_table', {
         pageLength: 10,
         lengthChange: false,
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
         order: [[3, 'desc']],
         columnDefs: [
+            { responsivePriority: 10001, targets: [0,2] },
             {
                 targets: 3,
                 render: function (data, type) {

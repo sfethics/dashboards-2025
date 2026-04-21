@@ -191,10 +191,17 @@ document.querySelectorAll('table.all_ie_committees').forEach(function (tableEl) 
 
     new DataTable(tableEl, {
         displayLength: -1,
-        responsive: true,
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
         layout: layoutOptions,
         lengthChange: false,
         columnDefs: [
+            { responsivePriority: 10001, targets: [2,3] },
             {
                 targets: 3,
                 render: function (data, type) {
