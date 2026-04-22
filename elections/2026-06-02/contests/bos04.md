@@ -70,6 +70,11 @@ ie_candidates:
   filer_id: '1484806'
   committees:
   - position: OPPOSE
+    filer_id: '1487286'
+    committee_name: SF Believes
+    funds: 0.0
+    expenses: 21105.81
+  - position: OPPOSE
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0

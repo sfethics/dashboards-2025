@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 601050.0
-  expenses: 554949.28
+  expenses: 576055.09
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 260113.52
+  total_expense: 281219.33
 - cmte_nid: '212046236'
   cmte_fppcid: '1469330'
   cmte_name: Asian Americans for Representation
