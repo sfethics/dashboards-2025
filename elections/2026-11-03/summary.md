@@ -46,8 +46,8 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
-  expenses: 699245.38
-  funds: 2530000.0
+  expenses: 699250.38
+  funds: 2540100.0
 contributors_bm:
 - - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
   - 500000.0
@@ -96,7 +96,7 @@ top_bm_spends:
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
-  total_expense: 699245.38
+  total_expense: 699250.38
 
 ---
 

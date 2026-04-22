@@ -94,6 +94,9 @@ committees:
 - cmte_name: San Francisco Democratic Party
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Forward Sponsored by San Francisco Chamber of Commerce
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
 - cmte_name: Teamsters Local Union No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
@@ -130,6 +133,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Public Financing Matching Funds
+  cmte_fppcid: nan
   cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
