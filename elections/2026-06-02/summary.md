@@ -11,8 +11,8 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 783066.43
-  expenses: 94023.29
+  funds: 785603.16
+  expenses: 98644.22
   ies: ''
 - committee_type: candidate
   contest_nid: '214769647'
@@ -49,7 +49,7 @@ measures:
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 0.0
-  funds: 114000.0
+  funds: 119000.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -60,12 +60,12 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 0.0
-  funds: 512500.0
+  funds: 515500.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 674426.34
-  funds: 3250125.23
+  funds: 3260125.23
 contributors_bm:
 - - Chris Larsen
   - 700000.0

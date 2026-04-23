@@ -25,8 +25,8 @@ candidates:
   filer_id: '1484703'
   committee_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   candidate_name: MONTHANUS RATANAPAKDEE
-  funds: 2405.73
-  expenses: 1265.0
+  funds: 4942.46
+  expenses: 5885.93
 - filer_nid: '214896333'
   filer_id: '1484600'
   committee_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026

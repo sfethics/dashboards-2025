@@ -134,9 +134,6 @@ committees:
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
   cmte_nid: unknown
-- cmte_name: Public Financing Matching Funds
-  cmte_fppcid: nan
-  cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
   cmte_nid: unknown
