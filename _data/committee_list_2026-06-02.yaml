@@ -186,6 +186,9 @@ committees:
 - cmte_name: California Business Properties Association Issues PAC
   cmte_fppcid: '1244001'
   cmte_nid: unknown
+- cmte_name: California Business Roundtable Issues PAC
+  cmte_fppcid: '1264590'
+  cmte_nid: unknown
 - cmte_name: California Dream for All, Robert Rivas Ballot Measure Committee
   cmte_fppcid: '1451423'
   cmte_nid: unknown

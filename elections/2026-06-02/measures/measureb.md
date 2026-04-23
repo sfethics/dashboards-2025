@@ -20,7 +20,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 111500.0
+  funds: 116500.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -36,6 +36,8 @@ contributors:
 - - San Francisco Apartment Association Political Action Committee
   - 10000.0
 - - Neighbors for a Better San Francisco Advocacy Committee
+  - 5000.0
+- - Daniel Posch
   - 5000.0
 - - Spenser Skates
   - 5000.0

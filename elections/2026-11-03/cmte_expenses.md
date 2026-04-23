@@ -58,6 +58,11 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 2444.35
+- cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
+  cmte_fppcid: '840002'
+  cmte_nid: '6673342'
+  committee_type: General Purpose
+  total_expense: 500.0
 
 ---
 

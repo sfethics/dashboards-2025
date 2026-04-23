@@ -61,7 +61,7 @@ committees:
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
   committee_type: Candidate Controlled
-  total_expense: 1265.0
+  total_expense: 5885.93
 - cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
@@ -143,17 +143,12 @@ committees:
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
   committee_type: General Purpose
-  total_expense: 26454.0
-- cmte_name: United Educators of San Francisco Committee on Political Education
-  cmte_fppcid: '822448'
-  cmte_nid: '6673824'
-  committee_type: General Purpose
-  total_expense: 15000.0
+  total_expense: 26954.0
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 9010.43
+  total_expense: 10010.43
 
 ---
 
