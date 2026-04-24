@@ -20,30 +20,30 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 3260125.23
-  expenses: 674426.34
+  funds: 3600427.96
+  expenses: 1471972.79
   ies: ''
 multi_committees: []
 contributors:
-- - Chris Larsen
-  - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Chris Larsen
+  - 500000.0
 - - Neighbors for a Better San Francisco Advocacy
   - 310000.0
 - - Williams-sonoma, Inc.
   - 300000.0
-- - Pacific Gas and Electric Company
+- - Pg&e Corporation and Affiliated Entities
   - 250000.0
 - - Tony Xu
   - 250000.0
-- - 'Brookfield Property Group Llc((responsible Officer: Hilary Walker) )'
-  - 100000.0
-- - Dodge and Cox
-  - 100000.0
+- - Christian Larsen
+  - 200000.0
 - - Gap, Inc.
-  - 100000.0
-- - Kilroy Realty, L.p.
+  - 150000.0
+- - SF Forward Sponsored by San Francisco Chamber of Commerce
+  - 102000.0
+- - 'Brookfield Property Group Llc((responsible Officer: Hilary Walker) )'
   - 100000.0
 
 ---

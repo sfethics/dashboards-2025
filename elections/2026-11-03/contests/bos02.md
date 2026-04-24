@@ -13,29 +13,29 @@ candidates:
   filer_id: '1482285'
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   candidate_name: STEPHEN SHERRILL
-  funds: 103104.0
-  expenses: 8033.37
+  funds: 178863.0
+  expenses: 27556.12
 ie_candidates: []
 contributors:
-- - Katherine Sherrill
-  - 1000.0
-- - Peter Gorence
-  - 750.0
 - - Sheeva Hamidieh
   - 750.0
+- - Doug Abbey
+  - 500.0
+- - Nancy Abbey
+  - 500.0
+- - Jim Abrams
+  - 500.0
 - - Andy Ach
   - 500.0
 - - Linda Ach
   - 500.0
+- - Chris Alden
+  - 500.0
+- - Vinkey Allen
+  - 500.0
 - - Donna Ames Heldfond
   - 500.0
 - - Muffie Potter Aston
-  - 500.0
-- - Julie Baccelli
-  - 500.0
-- - Richard Barasch
-  - 500.0
-- - Carrie Barnes
   - 500.0
 
 ---

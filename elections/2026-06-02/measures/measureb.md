@@ -13,18 +13,20 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 2500.0
-  expenses: ''
+  funds: 2800.0
+  expenses: 177.38
   ies: ''
 - position: SUPPORT
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 116500.0
-  expenses: ''
+  funds: 321750.0
+  expenses: 215293.23
   ies: ''
 multi_committees: []
 contributors:
+- - Chris Larsen
+  - 200000.0
 - - Michael Moritz
   - 50000.0
 - - Jerome Guillen
@@ -35,16 +37,14 @@ contributors:
   - 10000.0
 - - San Francisco Apartment Association Political Action Committee
   - 10000.0
+- - Stephen Dodson
+  - 5000.0
 - - Neighbors for a Better San Francisco Advocacy Committee
   - 5000.0
 - - Daniel Posch
   - 5000.0
 - - Spenser Skates
   - 5000.0
-- - Esther Marks
-  - 2500.0
-- - John Jersin
-  - 1500.0
 
 ---
 
