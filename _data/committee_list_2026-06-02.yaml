@@ -77,11 +77,14 @@ committees:
 - cmte_name: No Lifetime Ban
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
+- cmte_name: San Francisco Parent PAC
+  cmte_fppcid: '1442994'
+  cmte_nid: '201848961'
 - cmte_name: Stronger Muni for All, Mayor Lurie's Ballot Measure Committee
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
 - cmte_name: Supporting Our Firefighters - Yes on Proposition a
-  cmte_fppcid: unknown
+  cmte_fppcid: '1489925'
   cmte_nid: '216534507'
 - cmte_name: Term Limits Now - Yes on B!
   cmte_fppcid: '1485878'
@@ -118,6 +121,9 @@ committees:
 - cmte_name: Haney Ballot Measure Committee for California Opportunity
   cmte_fppcid: '1459009'
   cmte_nid: '216110546'
+- cmte_name: Ibew Local 6 Political Account
+  cmte_fppcid: '921730'
+  cmte_nid: '129492757'
 - cmte_name: International Federation of Professional and Technical Engineers - Tj
     Anthony PAC Fund
   cmte_fppcid: '881248'
@@ -165,7 +171,7 @@ committees:
 - cmte_name: Teamsters Joint Council No 7 PAC
   cmte_fppcid: '1257632'
   cmte_nid: '205116472'
-- cmte_name: Teamsters Union Local No. 665
+- cmte_name: Teamsters Local Union No 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
 - cmte_name: U.a. Local 38 Cope Fund
@@ -182,6 +188,9 @@ committees:
   cmte_nid: '6673824'
 - cmte_name: At&t California Employee Political Action Committee
   cmte_fppcid: '981470'
+  cmte_nid: unknown
+- cmte_name: California Alliance for Jobs - Rebuild California Committee
+  cmte_fppcid: '1241892'
   cmte_nid: unknown
 - cmte_name: California Business Properties Association Issues PAC
   cmte_fppcid: '1244001'
@@ -209,12 +218,33 @@ committees:
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
   cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Bay Area Chapter
+  cmte_fppcid: '1423911'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - California Business Coalition
+  cmte_fppcid: '1423919'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Common Sense Chapter
+  cmte_fppcid: '1424659'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Excellence in Education Chapter
+  cmte_fppcid: '1420855'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Palo Alto Chapter
+  cmte_fppcid: '1416422'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - San Francisco Chapter
+  cmte_fppcid: '1416440'
+  cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
 - cmte_name: International Federation of Professional and Technical Engineers, Local
     21 Issues PAC
   cmte_fppcid: '1362080'
+  cmte_nid: unknown
+- cmte_name: 'International Union of Elevator Constructors Local #8 PAC'
+  cmte_fppcid: '1220653'
   cmte_nid: unknown
 - cmte_name: Jones
   cmte_fppcid: PENDING
@@ -238,14 +268,26 @@ committees:
 - cmte_name: Operating Engineers 3 Statewide PAC
   cmte_fppcid: '981697'
   cmte_nid: unknown
+- cmte_name: Operating Engineers Local Union No 3 Issues Advocacy/ballot
+  cmte_fppcid: '1345344'
+  cmte_nid: unknown
 - cmte_name: Rafael Mandelman for State Senate 2028
   cmte_fppcid: '1460689'
   cmte_nid: unknown
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
+- cmte_name: Rob Bonta for Ca Attorney General 2026
+  cmte_fppcid: '1456428'
+  cmte_nid: unknown
+- cmte_name: San Francisco Women's Political Committee Voter Guide
+  cmte_fppcid: '1448359'
+  cmte_nid: unknown
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1482711'
+  cmte_nid: unknown
+- cmte_name: SF Eastern Neighborhoods Democratic Club Smo
+  cmte_fppcid: '1405412'
   cmte_nid: unknown
 - cmte_name: Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
   cmte_fppcid: '1298012'
@@ -256,18 +298,22 @@ committees:
 - cmte_name: Teamsters Local Union 350 PAC
   cmte_fppcid: '1406838'
   cmte_nid: unknown
+- cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
+    Stage Employees (Iatse) PAC
+  cmte_fppcid: '1302106'
+  cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
+- cmte_name: 'Jan Koum and Affiliated Entities: Manzanita Action Fund'
+  cmte_fppcid: unknown
+  cmte_nid: '211947314'
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
-- cmte_name: Manzanita Action Fund
-  cmte_fppcid: unknown
-  cmte_nid: '211947314'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

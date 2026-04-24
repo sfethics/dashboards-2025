@@ -11,8 +11,8 @@ candidate_pf:
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 103104.0
-  expenses: 8033.37
+  funds: 178863.0
+  expenses: 27556.12
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
@@ -34,6 +34,13 @@ candidate_pf:
   contest_link: bos08
   funds: 379791.89
   expenses: 97249.42
+  ies: 0.0
+- committee_type: candidate
+  contest_nid: '216135653'
+  contest_name: Board of Supervisors D04
+  contest_link: bos04
+  funds: 1200.0
+  expenses: 169.47
   ies: 0.0
 candidate_ie: []
 measures:
@@ -60,9 +67,9 @@ contributors_bm:
 - - Another Planet Entertainment Llc(gregg Perloff)
   - 100000.0
 contributors_cand:
-- - Garry Tan
-  - 1500.0
 - - Marisa Lavallee
+  - 1500.0
+- - Garry Tan
   - 1500.0
 - - Marcy Adelman
   - 1350.0
@@ -79,6 +86,10 @@ top_cand_spends:
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
   total_expense: 28247.89
+- cmte_nid: '214620516'
+  cmte_fppcid: '1482285'
+  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+  total_expense: 27556.12
 - cmte_nid: '214443884'
   cmte_fppcid: '1481892'
   cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
@@ -87,10 +98,6 @@ top_cand_spends:
   cmte_fppcid: '1484091'
   cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
   total_expense: 17860.47
-- cmte_nid: '214577156'
-  cmte_fppcid: '1482707'
-  cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
-  total_expense: 13394.88
 top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'

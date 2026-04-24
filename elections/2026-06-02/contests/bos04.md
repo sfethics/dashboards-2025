@@ -19,8 +19,8 @@ candidates:
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
   candidate_name: DAVID LEE
-  funds: 79950.0
-  expenses: 1366.5
+  funds: 98259.0
+  expenses: 39479.67
 - filer_nid: '214951144'
   filer_id: '1485253'
   committee_name: JEREMY GRECO FOR SUPERVISOR 2026
@@ -31,14 +31,14 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 66151.0
-  expenses: 0.0
+  funds: 110845.0
+  expenses: 48699.4
 - filer_nid: '215112140'
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 181421.0
-  expenses: 613.26
+  funds: 285341.0
+  expenses: 165725.64
 ie_candidates:
 - candidate_name: DAVID LEE
   filer_id: '1484957'
@@ -64,8 +64,8 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 301050.0
-    expenses: 111195.51
+    funds: 306057.0
+    expenses: 152351.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -91,9 +91,9 @@ contributors:
   - 300000.0
 - - Michael Moritz
   - 250000.0
-- - Noah Smith
-  - 10000.0
 - - Maco Stewart
+  - 10500.0
+- - Noah Smith
   - 10000.0
 - - Amos Elliston
   - 5000.0
@@ -103,10 +103,10 @@ contributors:
   - 4900.0
 - - David Peeler
   - 4900.0
-- - Patrick Purvis
-  - 3000.0
 - - Andy Hansen
-  - 2500.0
+  - 4000.0
+- - Patrick Purvis
+  - 3500.0
 
 ---
 

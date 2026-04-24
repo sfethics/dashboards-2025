@@ -14,16 +14,31 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 515500.0
-  expenses: ''
+  funds: 908910.0
+  expenses: 301829.06
+  ies: ''
+- position: SUPPORT
+  filer_nid: '216534507'
+  filer_id: '1489925'
+  committee_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  funds: 500000.0
+  expenses: 40020.0
   ies: ''
 multi_committees: []
 contributors:
+- - Christian Larsen
+  - 500000.0
+- - California Alliance for Jobs - Rebuild California Committee
+  - 150000.0
+- - Steven Huffman
+  - 100000.0
 - - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
   - 100000.0
 - - Members' Voice of the State Building and Construction Trades Council of California
   - 100000.0
 - - North Coast States Regional Council of Carpenters Issues PAC
+  - 100000.0
+- - Operating Engineers Local Union No 3 Issues Advocacy/ballot
   - 100000.0
 - - SF Believes
   - 30000.0
@@ -32,14 +47,6 @@ contributors:
   - 25000.0
 - - Kilroy Realty, L.p.
   - 25000.0
-- - United Contractors
-  - 25000.0
-- - Tmg Partners Re Llc(daniel Siri)
-  - 17500.0
-- - Amr Holdco, Inc.
-  - 10000.0
-- - Eleni Kounalakis Ballot Measure Committee
-  - 10000.0
 
 ---
 

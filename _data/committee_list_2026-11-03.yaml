@@ -119,8 +119,14 @@ committees:
 - cmte_name: Gfc Courage Committee - California Business Coalition
   cmte_fppcid: '1423919'
   cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Excellence in Education Chapter
+  cmte_fppcid: '1420855'
+  cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Golden State Chapter
   cmte_fppcid: '1425929'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - San Francisco Chapter
+  cmte_fppcid: '1416440'
   cmte_nid: unknown
 - cmte_name: 'International Union of Elevator Constructors Local # 8 PAC'
   cmte_fppcid: '1220653'

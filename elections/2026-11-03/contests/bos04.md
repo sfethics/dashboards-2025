@@ -8,8 +8,19 @@ breadcrumbs:
   - elections/2026-11-03
 - - Board of Supervisors D04
   - elections/2026-11-03/contests/bos04
-candidates: []
+candidates:
+- filer_nid: '216198377'
+  filer_id: '1489126'
+  committee_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+  candidate_name: ALAN WONG
+  funds: 200.0
+  expenses: 3.95
 ie_candidates: []
+contributors:
+- - Christian Kropff
+  - 100.0
+- - John Maa
+  - 100.0
 
 ---
 
