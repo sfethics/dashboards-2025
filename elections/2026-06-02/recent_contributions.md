@@ -13,6 +13,12 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: ANDY HANSEN
+  tx_amount: 1500.0
+  tx_date: '2026-04-22'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
 - fullname: CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC
   tx_amount: 10000.0
   tx_date: '2026-04-22'
@@ -20,12 +26,6 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: ANDY HANSEN
-  tx_amount: 1500.0
-  tx_date: '2026-04-22'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
 - fullname: EDESIGNC INC.
   tx_amount: 1000.0
   tx_date: '2026-04-21'
@@ -134,12 +134,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1433436'
   recipient_name: GrowSF Voter Guide
-- fullname: CHRIS LARSEN
-  tx_amount: 500000.0
-  tx_date: '2026-04-01'
-  contributor_fid: ''
-  recipient_fid: unknown
-  recipient_name: Supporting Our Firefighters - Yes on Proposition A
 - fullname: HERALD CHEN
   tx_amount: 75000.0
   tx_date: '2026-03-31'

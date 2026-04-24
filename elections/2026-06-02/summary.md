@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1127077.34
-  expenses: 421117.8
+  funds: 818579.46
+  expenses: 267885.35
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
@@ -59,8 +59,8 @@ measures:
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
-  expenses: 301829.06
-  funds: 908910.0
+  expenses: 341849.06
+  funds: 1408910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
@@ -71,24 +71,24 @@ contributors_bm:
   - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Christian Larsen
+  - 500000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 450000.0
 - - Service Employees International Union Local 1021 Issues PAC
   - 350000.0
-- - Neighbors for a Better San Francisco Advocacy
-  - 310000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
   - 300000.0
-- - San Francisco Controller
-  - 255000.0
 - - Michael Moritz
   - 250000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Zach Jones
   - 30000.0
+- - Andrew Chatham
+  - 26500.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
@@ -102,14 +102,14 @@ top_cand_spends:
   cmte_fppcid: '1485709'
   cmte_name: ALAN WONG FOR SUPERVISOR 2026
   total_expense: 165725.64
-- cmte_nid: '214896050'
-  cmte_fppcid: '1484806'
-  cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-  total_expense: 165260.35
 - cmte_nid: '214820258'
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   total_expense: 164263.59
+- cmte_nid: '214918275'
+  cmte_fppcid: '1484891'
+  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 158566.63
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'

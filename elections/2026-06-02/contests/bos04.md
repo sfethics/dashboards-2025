@@ -13,8 +13,8 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 630147.88
-  expenses: 165260.35
+  funds: 321650.0
+  expenses: 12027.9
 - filer_nid: '214929589'
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
@@ -89,8 +89,6 @@ contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
   - 300000.0
-- - San Francisco Controller
-  - 255000.0
 - - Michael Moritz
   - 250000.0
 - - Maco Stewart
@@ -107,6 +105,8 @@ contributors:
   - 4900.0
 - - Andy Hansen
   - 4000.0
+- - Patrick Purvis
+  - 3500.0
 
 ---
 

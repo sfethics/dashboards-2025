@@ -66,7 +66,7 @@ committees:
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
   committee_type: Candidate Controlled
-  total_expense: 165260.35
+  total_expense: 12027.9
 - cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
@@ -150,6 +150,11 @@ committees:
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
   total_expense: 66389.22
+- cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  cmte_fppcid: '1489925'
+  cmte_nid: '216534507'
+  committee_type: Primarily Formed Measure
+  total_expense: 40020.0
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'

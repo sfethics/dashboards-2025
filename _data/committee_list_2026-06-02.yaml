@@ -84,7 +84,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
 - cmte_name: Supporting Our Firefighters - Yes on Proposition a
-  cmte_fppcid: unknown
+  cmte_fppcid: '1489925'
   cmte_nid: '216534507'
 - cmte_name: Term Limits Now - Yes on B!
   cmte_fppcid: '1485878'
@@ -271,9 +271,6 @@ committees:
 - cmte_name: Operating Engineers Local Union No 3 Issues Advocacy/ballot
   cmte_fppcid: '1345344'
   cmte_nid: unknown
-- cmte_name: Phil Ting for Treasurer 2026
-  cmte_fppcid: '1444108'
-  cmte_nid: unknown
 - cmte_name: Rafael Mandelman for State Senate 2028
   cmte_fppcid: '1460689'
   cmte_nid: unknown
@@ -304,9 +301,6 @@ committees:
 - cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
     Stage Employees (Iatse) PAC
   cmte_fppcid: '1302106'
-  cmte_nid: unknown
-- cmte_name: United Educators
-  cmte_fppcid: '131128'
   cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
