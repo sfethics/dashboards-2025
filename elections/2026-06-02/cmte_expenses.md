@@ -66,7 +66,7 @@ committees:
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
   committee_type: Candidate Controlled
-  total_expense: 12027.9
+  total_expense: 165260.35
 - cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
@@ -122,7 +122,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 281219.32
+  total_expense: 299914.94
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
