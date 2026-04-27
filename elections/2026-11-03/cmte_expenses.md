@@ -58,6 +58,11 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 2444.35
+- cmte_name: GEE FOR SUPERVISOR 2026
+  cmte_fppcid: '1490199'
+  cmte_nid: '216135683'
+  committee_type: Candidate Controlled
+  total_expense: 165.52
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1489126'
   cmte_nid: '216198377'

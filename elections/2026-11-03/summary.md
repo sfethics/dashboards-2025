@@ -67,9 +67,9 @@ contributors_bm:
 - - Another Planet Entertainment Llc(gregg Perloff)
   - 100000.0
 contributors_cand:
-- - Marisa Lavallee
-  - 1500.0
 - - Garry Tan
+  - 1500.0
+- - Marisa Lavallee
   - 1500.0
 - - Marcy Adelman
   - 1350.0
