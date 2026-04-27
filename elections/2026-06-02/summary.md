@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 834749.46
-  expenses: 267885.35
+  funds: 888247.34
+  expenses: 421117.8
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
@@ -102,14 +102,14 @@ top_cand_spends:
   cmte_fppcid: '1485709'
   cmte_name: ALAN WONG FOR SUPERVISOR 2026
   total_expense: 165725.64
+- cmte_nid: '214896050'
+  cmte_fppcid: '1484806'
+  cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+  total_expense: 165260.35
 - cmte_nid: '214820258'
   cmte_fppcid: '1484332'
   cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   total_expense: 164263.59
-- cmte_nid: '214918275'
-  cmte_fppcid: '1484891'
-  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  total_expense: 158566.63
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
