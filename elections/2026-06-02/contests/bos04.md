@@ -13,8 +13,8 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 321650.0
-  expenses: 12027.9
+  funds: 375147.88
+  expenses: 165260.35
 - filer_nid: '214929589'
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
