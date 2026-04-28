@@ -70,6 +70,10 @@ committees:
 - cmte_name: Growsf Supporting Stephen Sherrill for Supervisor 2026
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
+- cmte_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
+    by International Union of Operating Engineers Local 3
+  cmte_fppcid: '1488209'
+  cmte_nid: '216673030'
 - cmte_name: Equal Fire Protection for All Committee to Oppose Proposition a June
     2026
   cmte_fppcid: unknown
@@ -156,7 +160,7 @@ committees:
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
-- cmte_name: SF Forward Sponsored by San Francisco Chamber of Commerce
+- cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
 - cmte_name: Smart Justice California Action Fund
@@ -265,6 +269,10 @@ committees:
 - cmte_name: Nevadans for Fair Recovery PAC
   cmte_fppcid: '11318'
   cmte_nid: unknown
+- cmte_name: North Coast States Regional Council of Carpenters Power PAC Small Contributor
+    Committee
+  cmte_fppcid: '1463224'
+  cmte_nid: unknown
 - cmte_name: Operating Engineers 3 Statewide PAC
   cmte_fppcid: '981697'
   cmte_nid: unknown
@@ -335,7 +343,7 @@ committees:
 - cmte_name: Zach Jones
   cmte_fppcid: unknown
   cmte_nid: '216290236'
-- cmte_name: San Francisco Laborer's Local 261 P.a.c.
+- cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
 

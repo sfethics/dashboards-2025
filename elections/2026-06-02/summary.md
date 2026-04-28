@@ -32,7 +32,7 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 298200.0
+  funds: 303200.0
   expenses: 198949.02000000002
 - contest_nid: '214769647'
   contest_name: Board of Education
@@ -43,29 +43,29 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 606057.0
-  expenses: 635906.71
+  expenses: 665787.71
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 215470.61
-  funds: 324550.0
+  funds: 344550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 731890.38
-  funds: 1124969.96
+  funds: 1129969.96
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 341849.06
-  funds: 1428910.0
+  funds: 1448910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 3640427.96
+  funds: 3740427.96
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 299914.94
+  total_expense: 314285.94
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
