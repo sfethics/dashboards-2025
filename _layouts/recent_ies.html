@@ -24,13 +24,16 @@ electionnav: true
             <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    About the recent contributions table
+                    About the recent Independent Expenditures table
                 </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion">
                 <div class="accordion-body">
-                    <p>This table shows the most recent contributions of $1000 or greater in amount during the late reporting period of the current election cycle.</p>
-                    <p>Contributions are based on recent committee filings of FPPC Form 496 and Form 497.</p>
+                    <p>This table shows the most recent independent expenditures during the late reporting period of the current election cycle.</p>
+                    <p>An “independent expenditure” is an expenditure made in connection with a communication (e.g., a billboard, advertisement, or mailing) that expressly advocates 
+                        the election or defeat of a clearly identified candidate or the qualification, passage, or defeat of a clearly identified measure. An independent expenditure 
+                        is a payment that is not made to—or at the behest of—the affected candidate or committee.</p>
+                    <p>Independent expenditures are based on recent committee filings of FPPC Form 496.</p>
                 </div>
             </div>
         </div>
@@ -43,30 +46,26 @@ electionnav: true
                     <table class="table caption-top dtify table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">Contributor Name</th>
-                                <th scope="col">Contribution Amount</th>
-                                <th scope="col">Contribution Date</th>
-                                <th scope="col">Recipient Committee Name</th>
+                                <th scope="col">Committee Name</th>
+                                <th scope="col">Measure or Contest Description</th>
+                                <th scope="col">Position</th>
+                                <th scope="col">Expenditure Amount</th>
+                                <th scope="col">Expenditure Date</th>
                             </tr>
                         </thead>
                         <tbody>
-                            {% for contribution in page.late_contributions %}
+                            {% for ie in page.recent_ies %}
                             <tr>
                                 <td>
-                                    {{ contribution.fullname | truncate: 70 }}
-                                </td>
-                                <td>{{ contribution.tx_amount }}</td>
-                                <td>{{ contribution.tx_date }}</td>
-                                <td>
-                                    {% if contribution.recipient_fid != '' and contribution.recipient_fid != 'unknown' %}
                                     <a
-                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ contribution.recipient_fid }}.html">
-                                        {{ contribution.recipient_name | truncate: 70 }}
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ ie.cmte_fppcid }}.html">
+                                        {{ ie.cmte_name | truncate: 70 }}
                                     </a>
-                                    {% else %}
-                                    {{ contribution.recipient_name | truncate: 70}}
-                                    {% endif %}
                                 </td>
+                                <td>{{ ie.ie_description }}</td>
+                                <td>{{ ie.position }}</td>
+                                <td>{{ ie.tx_amount }}</td>
+                                <td>{{ ie.tx_date }}</td>
                             </tr>
                             {% endfor %}
                         </tbody>
@@ -98,9 +97,9 @@ electionnav: true
         }
     },
     columnDefs: [
-        { responsivePriority: 10001, targets: [1] },
+        { responsivePriority: 10001, targets: [2,4] },
         {
-            targets: [1],
+            targets: [3],
             render: function (data, type, row, meta) {
                 if (type === 'display') {
                     return formatAsCurrency(data);
