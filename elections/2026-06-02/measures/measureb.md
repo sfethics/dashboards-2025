@@ -20,7 +20,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 321750.0
+  funds: 341750.0
   expenses: 215293.23
   ies: ''
 multi_committees: []
@@ -30,6 +30,8 @@ contributors:
 - - Michael Moritz
   - 50000.0
 - - Jerome Guillen
+  - 20000.0
+- - SF Believes
   - 20000.0
 - - Leah Culver
   - 10000.0
@@ -42,8 +44,6 @@ contributors:
 - - Neighbors for a Better San Francisco Advocacy Committee
   - 5000.0
 - - Daniel Posch
-  - 5000.0
-- - Spenser Skates
   - 5000.0
 
 ---
