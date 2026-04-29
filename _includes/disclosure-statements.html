@@ -15,7 +15,7 @@
                 older statements and other form types, visit the Ethics Commission's campaign finance statements
                 database.</p>
             {% if include.filings != '' %}
-            <p><a href="https://public.netfile.com/Pub2/AllFilingsByFiler.aspx?id={{ page.filer_nid }}&aid=SFO"
+            <p><a href="https://netfile.com/public/SFO/campaign/filingsByFiler/{{ page.filer_nid }}"
                     class="btn btn-outline-primary" target="_blank" rel="noopener"><i class="fa fa-external-link-alt" aria-hidden="true"></i> View Statements in Database</a></p>
             {% else %}
             <p><a href="https://cal-access.sos.ca.gov/Misc/filerSearch.aspx?SEARCH={{ page.filer_id }}"
