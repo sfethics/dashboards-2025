@@ -41,7 +41,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 121449.37
+  total_expense: 127710.62
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'

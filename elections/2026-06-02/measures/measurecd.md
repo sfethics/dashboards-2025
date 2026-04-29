@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 3740427.96
+  funds: 4000427.96
   expenses: 1471972.79
   ies: ''
 multi_committees: []
@@ -33,6 +33,8 @@ contributors:
   - 310000.0
 - - Williams-sonoma, Inc.
   - 300000.0
+- - Visa, Inc
+  - 275000.0
 - - Pg&e Corporation and Affiliated Entities
   - 250000.0
 - - Tony Xu
@@ -43,8 +45,6 @@ contributors:
   - 200000.0
 - - Gap, Inc.
   - 150000.0
-- - 'Brookfield Property Group Llc((responsible Officer: Hilary Walker) )'
-  - 100000.0
 
 ---
 
