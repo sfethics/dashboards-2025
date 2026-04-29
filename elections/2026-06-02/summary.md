@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 606057.0
-  expenses: 665787.71
+  expenses: 672048.96
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -60,12 +60,12 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 341849.06
-  funds: 1448910.0
+  funds: 1499910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 3740427.96
+  funds: 4000427.96
 contributors_bm:
 - - Chris Larsen
   - 700000.0

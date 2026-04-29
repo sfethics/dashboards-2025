@@ -47,7 +47,7 @@ ie_candidates:
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
     funds: 0.0
-    expenses: 121449.37
+    expenses: 127710.62
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
