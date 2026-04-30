@@ -112,8 +112,15 @@ table_class="dtify_contributors"
                             </tr>
                             {%- endfor -%}
                         </tbody>
-                    </table>                    
-                    <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                    </table>   
+                    <div class="d-flex column-gap-1">                
+                        <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                        {% if site.current_elections contains page.election %}
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-ies">
+                            View recent independent expenditures
+                        </a>
+                        {% endif %}
+                    </div> 
                 </div>
             </div>
         </div>
@@ -264,7 +271,14 @@ table_class="dtify_contributors"
                             {%- endfor -%}
                         </tbody>
                     </table>
-                    <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                    <div class="d-flex column-gap-1">
+                        <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                        {% if site.current_elections contains page.election %}
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-ies">
+                            View recent independent expenditures
+                        </a>
+                        {% endif %}
+                    </div>
                 </div>
             </div>
         </div>
