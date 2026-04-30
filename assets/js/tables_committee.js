@@ -409,12 +409,15 @@ if (document.querySelector('#schedule-d_table')) {
             }
         ],
         layout: {
-            topEnd: null,
             bottomEnd: {
                 paging: {
                     type: 'full'
                 }
             }
+        },
+        language: {
+            search: '<span class="visually-hidden">Search...</span>',
+            searchPlaceholder: 'Search…'
         },
         initComplete: function () {
             setupBarRefresh(this.api(), [
