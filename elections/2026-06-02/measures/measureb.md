@@ -20,7 +20,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 341750.0
+  funds: 346750.0
   expenses: 215293.23
   ies: ''
 multi_committees: []
@@ -41,9 +41,9 @@ contributors:
   - 10000.0
 - - Stephen Dodson
   - 5000.0
-- - Neighbors for a Better San Francisco Advocacy Committee
+- - Gregory Flynn
   - 5000.0
-- - Daniel Posch
+- - Neighbors for a Better San Francisco Advocacy Committee
   - 5000.0
 
 ---
