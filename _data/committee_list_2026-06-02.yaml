@@ -190,6 +190,9 @@ committees:
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
+- cmte_name: Associated General Contractors Political Action Committee of California
+  cmte_fppcid: '890194'
+  cmte_nid: unknown
 - cmte_name: At&t California Employee Political Action Committee
   cmte_fppcid: '981470'
   cmte_nid: unknown

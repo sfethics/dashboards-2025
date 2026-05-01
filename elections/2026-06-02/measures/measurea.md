@@ -14,7 +14,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 999910.0
+  funds: 1115910.0
   expenses: 301829.06
   ies: ''
 - position: SUPPORT
@@ -40,13 +40,12 @@ contributors:
   - 100000.0
 - - Operating Engineers Local Union No 3 Issues Advocacy/ballot
   - 100000.0
+- - Webcor Construction Lp
+  - 75000.0
 - - SF Believes
   - 50000.0
 - - Sutter Health
   - 50000.0
-- - Californians to Protect Retirement and Life Savings, Sponsored by Building a Better
-    California
-  - 25000.0
 
 ---
 

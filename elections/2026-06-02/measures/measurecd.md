@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 4000427.96
+  funds: 4100427.96
   expenses: 1471972.79
   ies: ''
 multi_committees: []
@@ -41,10 +41,10 @@ contributors:
   - 250000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 202000.0
+- - 'Emerson Collective, Llc(responsible Officer: Diedra Nelson)'
+  - 200000.0
 - - Christian Larsen
   - 200000.0
-- - Gap, Inc.
-  - 150000.0
 
 ---
 
