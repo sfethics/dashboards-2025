@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 888247.34
+  funds: 943663.34
   expenses: 421117.8
   ies: ''
 candidate_ie:
@@ -33,17 +33,17 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 303200.0
-  expenses: 198949.02000000002
+  expenses: 200949.02000000002
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 54440.43
+  expenses: 49440.43
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 606057.0
-  expenses: 723509.37
+  funds: 608557.0
+  expenses: 758078.3
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -55,7 +55,7 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1139362.22
+  funds: 1140362.22
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 314285.94
+  total_expense: 340844.55
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026

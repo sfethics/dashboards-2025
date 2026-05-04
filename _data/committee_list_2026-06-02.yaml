@@ -259,6 +259,9 @@ committees:
 - cmte_name: Josh Fryday for Lt. Governor 2026
   cmte_fppcid: '1479464'
   cmte_nid: unknown
+- cmte_name: Lara for Superintendent of Public Instruction 2026; Frank
+  cmte_fppcid: '1481348'
+  cmte_nid: unknown
 - cmte_name: Maffei for Superior Court Judge 2026
   cmte_fppcid: '1487740'
   cmte_nid: unknown
@@ -340,6 +343,9 @@ committees:
 - cmte_name: San Francisco Chamber of Commerce (Major Donor)
   cmte_fppcid: unknown
   cmte_nid: '216585910'
+- cmte_name: Webcor Builders
+  cmte_fppcid: '499740'
+  cmte_nid: '6672661'
 - cmte_name: Williams-sonoma, Inc.
   cmte_fppcid: '499432'
   cmte_nid: '6672693'
