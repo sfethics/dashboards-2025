@@ -15,7 +15,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1139362.22
+  funds: 1140362.22
   expenses: 721097.65
   ies: ''
 - position: SUPPORT

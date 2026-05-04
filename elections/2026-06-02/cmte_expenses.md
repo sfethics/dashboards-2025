@@ -76,7 +76,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 158566.63
+  total_expense: 160566.63
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -122,7 +122,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 394285.94
+  total_expense: 420844.55
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -138,7 +138,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 157515.13
+  total_expense: 159515.13
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -149,7 +149,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 138591.27
+  total_expense: 144601.59
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -175,6 +175,11 @@ committees:
   cmte_nid: '216603835'
   committee_type: Major Donor
   total_expense: 2802.73
+- cmte_name: Webcor Builders
+  cmte_fppcid: '499740'
+  cmte_nid: '6672661'
+  committee_type: Major Donor
+  total_expense: 75000.0
 - cmte_name: Williams-Sonoma, Inc.
   cmte_fppcid: '499432'
   cmte_nid: '6672693'

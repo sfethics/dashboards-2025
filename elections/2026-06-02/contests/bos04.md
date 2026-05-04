@@ -31,7 +31,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 110845.0
+  funds: 166261.0
   expenses: 48699.4
 - filer_nid: '215112140'
   filer_id: '1485709'
@@ -60,12 +60,12 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 227068.13
+    expenses: 253626.74
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 306057.0
-    expenses: 152351.51
+    funds: 308557.0
+    expenses: 153351.51
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -78,13 +78,13 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 2500.0
+    expenses: 3500.0
   - position: SUPPORT
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 300000.0
-    expenses: 168477.68
+    expenses: 174488.0
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
