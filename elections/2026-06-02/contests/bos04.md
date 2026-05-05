@@ -55,7 +55,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 5600.0
+    expenses: 16182.0
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
@@ -66,6 +66,11 @@ ie_candidates:
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 308557.0
     expenses: 153351.51
+  - position: SUPPORT
+    filer_id: '1465611'
+    committee_name: California Alliance of Family Owned Businesses PAC
+    funds: 0.0
+    expenses: 2794.0
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -83,7 +88,7 @@ ie_candidates:
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
-    funds: 300000.0
+    funds: 305000.0
     expenses: 174488.0
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
@@ -97,6 +102,8 @@ contributors:
   - 10000.0
 - - Amos Elliston
   - 5000.0
+- - International Federation of Professional and Technical Engineers, Local 21
+  - 5000.0
 - - Jared Friedman
   - 4900.0
 - - Luke Miner
@@ -105,8 +112,6 @@ contributors:
   - 4900.0
 - - Andy Hansen
   - 4000.0
-- - Patrick Purvis
-  - 3500.0
 
 ---
 

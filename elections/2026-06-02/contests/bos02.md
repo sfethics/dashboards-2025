@@ -41,7 +41,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 5600.0
+    expenses: 15331.5
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -57,9 +57,19 @@ ie_candidates:
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     funds: 36000.0
     expenses: 0.0
+  - position: SUPPORT
+    filer_id: '1465611'
+    committee_name: California Alliance of Family Owned Businesses PAC
+    funds: 0.0
+    expenses: 2794.0
 - candidate_name: LORI BROOKE
   filer_id: '1484332'
   committees:
+  - position: OPPOSE
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: 0.0
+    expenses: 2537.5
   - position: OPPOSE
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026

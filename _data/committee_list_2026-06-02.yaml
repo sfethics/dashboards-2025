@@ -22,9 +22,6 @@ committees:
 - cmte_name: David Lee for Supervisor 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
-- cmte_name: Dorsey for DCCC Member 2024 Officeholder Committee
-  cmte_fppcid: '1463832'
-  cmte_nid: '208697921'
 - cmte_name: Jeremy Greco for Supervisor 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -41,6 +38,12 @@ committees:
 - cmte_name: Lori Brooke for Supervisor 2026
   cmte_fppcid: '1484332'
   cmte_nid: '214820258'
+- cmte_name: Matt Dorsey for DCCC Member 2024 Officeholder Committee
+  cmte_fppcid: '1463832'
+  cmte_nid: '208697921'
+- cmte_name: Matt Dorsey for Supervisor 2026
+  cmte_fppcid: '1487329'
+  cmte_nid: '215579031'
 - cmte_name: Monthanus Ratanapakdee for District 2 Supervisor 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
@@ -113,6 +116,9 @@ committees:
 - cmte_name: California Professional Firefighters Political Action Committee
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  cmte_nid: '216701453'
 - cmte_name: Dignity Ca Service Employees International Union Seiu Local 2015
   cmte_fppcid: '1357256'
   cmte_nid: '161836779'
@@ -169,6 +175,14 @@ committees:
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
+- cmte_name: San Francisco Labor & Neighbor Member Education/political Issues Committee,
+    Sponsored by the San Francisco Labor Council
+  cmte_fppcid: '970630'
+  cmte_nid: '6673760'
+- cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+    Political Action Committee
+  cmte_fppcid: '991525'
+  cmte_nid: '6673414'
 - cmte_name: San Francisco Police Officers Association PAC
   cmte_fppcid: '1315969'
   cmte_nid: '11282770'
@@ -243,11 +257,14 @@ committees:
 - cmte_name: Gfc Courage Committee - San Francisco Chapter
   cmte_fppcid: '1416440'
   cmte_nid: unknown
+- cmte_name: Govern for California Action Committee
+  cmte_fppcid: '1450483'
+  cmte_nid: unknown
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
 - cmte_name: International Federation of Professional and Technical Engineers, Local
-    21 Issues PAC
+    21
   cmte_fppcid: '1362080'
   cmte_nid: unknown
 - cmte_name: 'International Union of Elevator Constructors Local #8 PAC'
@@ -334,6 +351,9 @@ committees:
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
+- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
+  cmte_fppcid: '1225686'
+  cmte_nid: '216724533'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

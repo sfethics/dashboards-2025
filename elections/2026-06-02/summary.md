@@ -33,33 +33,33 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 303200.0
-  expenses: 200949.02000000002
+  expenses: 216012.02000000002
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 49440.43
+  expenses: 120058.63
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 608557.0
-  expenses: 758078.3
+  funds: 613557.0
+  expenses: 771454.3
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
-  expenses: 215470.61
+  expenses: 219258.81
   funds: 349550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1140362.22
+  funds: 1440362.22
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
-  expenses: 341849.06
+  expenses: 346428.36
   funds: 1615910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
@@ -76,7 +76,7 @@ contributors_bm:
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 450000.0
 - - Service Employees International Union Local 1021 Issues PAC
-  - 350000.0
+  - 450000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund

@@ -10,6 +10,13 @@ breadcrumbs:
   - elections/2026-06-02/measures/measurea
 committees:
 - position: SUPPORT
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 4579.3
+  ies: 4579.3
+- position: SUPPORT
   filer_nid: '215726436'
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
