@@ -2,16 +2,28 @@
   pubfi_disbursement_date: 'June 15, 2026'
 '2026-06-02': 
   'A: Earthquake Safety and Emergency Response Bond':
-    measure_official_desc: null
+    measure_official_desc: 'To improve fire, earthquake, and emergency response by retrofitting, improving, expanding, constructing, and/or replacing: deteriorating pipes, tunnels, and related facilities to ensure firefighters can 
+      access enough water to fight fires from a major disaster or emergency; unsafe or deteriorating emergency response facilities, including neighborhood fire stations, 
+      critical transportation facilities, and public safety facilities; and to pay related costs, shall the City and County of San Francisco''s issuance of $535,000,000 in general obligation bonds be 
+      adopted, with a duration up to 30 years from the time of issuance, an estimated average tax rate of $7.45/$100,000 of assessed property value, and estimated average annual revenues of 
+      $35,900,000, subject to independent citizen oversight and regular audits? The City''s current debt management policy is to keep the property tax rate for City general obligation bonds 
+      below the 2006 tax rate by issuing new bonds as older ones are retired and the tax base grows, though this property tax rate may vary based on other factors.'
     passed: null
   'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors':
-    measure_official_desc: null
+    measure_official_desc: 'Shall the City amend the Charter to set lifetime term limits for the Mayor and members of the Board of Supervisors so that people may not serve more than two four-year terms in those offices?'
     passed: null
   'C: Decreases to Business Taxes':
-    measure_official_desc: null
+    measure_official_desc: 'Shall the City permanently change the taxes it collects by exempting most businesses with up to $7.5 million in San Francisco gross receipts from both 
+      the gross receipts tax and the top executive pay tax on some businesses whose highest-paid managerial employee earns more than 100 times the 
+      median compensation paid to their San Francisco employees, and by increasing the rates of the top executive pay tax to either between 0.021% and 
+      0.129% of their San Francisco gross receipts or between 0.086% and 0.514% of their San Francisco payroll expense, for an estimated annual revenue decrease 
+      of $30-$40 million?'
     passed: null
   'D: Increases to Business Tax Based on Comparison of Top Executive''s Pay to Employees'' Pay':
-    measure_official_desc: null
+    measure_official_desc: 'Shall the City permanently change the top executive pay tax it collects from some large businesses when their highest-paid managerial employee earns 
+      more than 100 times the median compensation paid to their San Francisco employees, by changing the tax to be calculated using the compensation 
+      of all employees, not just those based in San Francisco, and shall the City increase the top executive pay tax rates for these businesses to either between 0.183% 
+      and 1.121% of their gross receipts or between 0.75% and 4.47% of their payroll expense in San Francisco, for an estimated annual revenue increase of $250-$300 million?'
     passed: null
   candidate_winner_filer_ids: []
   incumbent_filer_ids: 
