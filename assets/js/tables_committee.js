@@ -272,6 +272,47 @@ if (document.querySelector('#loans_received_table')) {
     });
 }
 
+/* Unpaid bills */
+if (document.querySelector('#unpaid_bills_table')) {
+    new DataTable('#unpaid_bills_table', {
+        pageLength: 10,
+        lengthChange: false,
+        order: [[2, 'desc']],
+        responsive: {
+            details: {
+                display: DataTable.Responsive.display.childRowImmediate,
+                target: 0,
+                type: 'none'
+            }
+        },
+        columnDefs: [
+            { responsivePriority: 10001, targets: [1] },
+            {
+                targets: [2],
+                render: function (data, type) {
+                    if (type === 'display') {
+                        return formatAsCurrency(data);
+                    }
+                    return parseMoneyValue(data);
+                }
+            }
+        ],
+        layout: {
+            topEnd: null,
+            bottomEnd: {
+                paging: {
+                    type: 'full'
+                }
+            }
+        },
+        initComplete: function () {
+            setupBarRefresh(this.api(), [
+                { columnIndex: 2, barClass: 'dt-bar-expenses', useSqrtScaling: true }
+            ]);
+        }
+    });
+}
+
 /* Filings */
 if (document.querySelector('#filings_table')) {
     new DataTable('#filings_table', {
@@ -510,3 +551,49 @@ if (document.querySelector('#ie-measures_table')) {
         }
     });
 }
+
+// Map of code → description
+const codeDescriptions = {
+   "CMP": "campaign paraphernalia/misc.",
+    "CNS": "campaign consultants",
+    "CTB": "contribution",
+    "CVC": "civic donations",
+    "FIL": "candidate filing/ballot fees",
+    "FND": "fundraising events",
+    "IND": "independent expenditure supporting/opposing others",
+    "LEG": "legal defense",
+    "LIT": "campaign literature and mailing",
+    "MBR": "member communications",
+    "MTG": "meetings and appearances",
+    "OFC": "office expenses",
+    "PET": "petition circulating",
+    "PHO": "phone banks",
+    "POL": "polling and survey research",
+    "POS": "postage, delivery and messenger services",
+    "PRO": "professional services (legal, accounting)",
+    "PRT": "print ads",
+    "RAD": "radio airtime and production costs",
+    "RFD": "returned contributions",
+    "SAL": "campaign workers salaries",
+    "TEL": "t.v. or cable airtime and production costs",
+    "TRC": "candidate travel, lodging, and meals",
+    "TRS": "staff/spouse travel, lodging, and meals",
+    "TSF": "transfer between committees of the same candidate/sponsor",
+    "VOT": "voter registration",
+    "WEB": "information technology costs (internet, e-mail)",
+};
+
+// Find all tooltip elements
+document.querySelectorAll('.hover-tooltip.paycode').forEach(el => {
+  // Get the text node (code) from the outer span
+  const code = el.childNodes[0].textContent.trim();
+  // Find the tooltip text element
+  const tooltip = el.querySelector('.tooltip-text');
+
+  // Set description if it exists in the map
+  if (codeDescriptions[code]) {
+    tooltip.textContent = codeDescriptions[code];
+  } else {
+    tooltip.textContent = "Unknown payment code";
+  }
+});
