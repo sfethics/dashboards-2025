@@ -17,6 +17,13 @@ committees:
   expenses: 177.38
   ies: ''
 - position: SUPPORT
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 3788.2
+  ies: 3788.2
+- position: SUPPORT
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!

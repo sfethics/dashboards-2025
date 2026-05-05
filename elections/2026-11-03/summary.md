@@ -49,18 +49,18 @@ measures:
     and Working on City Contracts.'
   contest_link: measuretbd1
   expenses: 0.0
-  funds: 4904.18
+  funds: 5654.18
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
   expenses: 699250.38
   funds: 2540100.0
 contributors_bm:
+- - Anthropic
+  - 500000.0
 - - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
   - 500000.0
 - - Ripple Labs Inc.
-  - 500000.0
-- - Anthropic
   - 500000.0
 - - Visa, Inc.
   - 250000.0

@@ -333,7 +333,45 @@ electionnav: true
       </div>
     </div>
     {%- endif %}
+    <!-- unpaid bills -->
+    {%- if page.unpaid_bills -%}
+    <div class="col-lg-6 cm-loans h-100">
+        <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+            <div class="card-header custom-card-header card-header-stacked">
+                <h3 id="unpaid_bills" class="hover-link mb-0">
+                    <span>Unpaid Bills</span>
+                </h3>
+                {% include card-toolbar.html offcanvas_id="unpaidBillsTT" link="unpaid_bills" %}
+            </div>
 
+            <div class="card-body p-3">
+
+                <table id="unpaid_bills_table" class="table dt-bars">
+                    <thead class="table-light">
+                        <tr>
+                            <th class="text-uppercase small">Name</th>
+                            <th class="text-uppercase small">Payment Code</th>
+                            <th class="text-uppercase small">Outstanding Balance</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for bill in page.unpaid_bills %}
+                        <tr>
+                            <td class="fw-medium">{{ bill.fullname }}</td>
+                            <td class="fw-semibold">
+                                    {% if bill.tx_code != '' %}
+                                    <span class="hover-tooltip paycode">{{ bill.tx_code }} <i class="fa-light fa-circle-info" aria-hidden="true"></i><span class="tooltip-text"></span></span>
+                                    {% else %}N/A{% endif %}</td>
+                            <td class="fw-semibold">{{ bill.bill_end_bal }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+    {% endif %}
   </div>
 </div>
 {% endif %}

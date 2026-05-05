@@ -21,13 +21,13 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 56630.0
+  total_expense: 179116.90000000002
 - cmte_name: SAN FRANCISCO PARENT PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 810.3
-- cmte_name: DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
+- cmte_name: MATT DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
   cmte_fppcid: '1463832'
   cmte_nid: '208697921'
   committee_type: Candidate Controlled
@@ -175,6 +175,16 @@ committees:
   cmte_nid: '216603835'
   committee_type: Major Donor
   total_expense: 2802.73
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  cmte_nid: '216701453'
+  committee_type: General Purpose
+  total_expense: 5588.0
+- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
+  cmte_fppcid: '1225686'
+  cmte_nid: '216724533'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'
@@ -190,6 +200,18 @@ committees:
   cmte_nid: '6673342'
   committee_type: General Purpose
   total_expense: 26954.0
+- cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+    Political Action Committee
+  cmte_fppcid: '991525'
+  cmte_nid: '6673414'
+  committee_type: General Purpose
+  total_expense: 20264.6
+- cmte_name: San Francisco Labor & Neighbor Member Education/Political Issues Committee,
+    sponsored by the San Francisco Labor Council
+  cmte_fppcid: '970630'
+  cmte_nid: '6673760'
+  committee_type: General Purpose
+  total_expense: 60000.0
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'

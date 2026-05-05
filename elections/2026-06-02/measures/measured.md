@@ -15,7 +15,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1140362.22
+  funds: 1440362.22
   expenses: 721097.65
   ies: ''
 - position: SUPPORT
@@ -38,7 +38,9 @@ contributors:
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 450000.0
 - - Service Employees International Union Local 1021 Issues PAC
-  - 350000.0
+  - 450000.0
+- - Dignity Ca Service Employees International Union Seiu Local 2015
+  - 205660.62
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 200000.0
 - - International Federation of Professional and Technical Engineers, Local 21 Issues
@@ -51,8 +53,6 @@ contributors:
 - - Affordable SF Now Supporting Natalie Gee for Supervisor 2026, Sponsored by Labor
     Organizations
   - 16570.57
-- - Dignity Ca Service Employees International Union Seiu Local 2015
-  - 5660.62
 - - National Union of Healthcare Workers Candidate Committee for Quality Patient Care
     and Union Democracy
   - 5000.0

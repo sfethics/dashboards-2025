@@ -43,7 +43,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 45430.0
+    expenses: 116048.2
 contributors:
 - - Mark Leno
   - 1000.0
