@@ -154,6 +154,9 @@ committees:
 - cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
   cmte_fppcid: '891394'
   cmte_nid: '121720608'
+- cmte_name: Richmond District Democratic Club
+  cmte_fppcid: '882390'
+  cmte_nid: '6668130'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -264,7 +267,7 @@ committees:
   cmte_fppcid: '1392639'
   cmte_nid: unknown
 - cmte_name: International Federation of Professional and Technical Engineers, Local
-    21
+    21 Issues PAC
   cmte_fppcid: '1362080'
   cmte_nid: unknown
 - cmte_name: 'International Union of Elevator Constructors Local #8 PAC'

@@ -50,22 +50,27 @@ measures:
   contest_link: measuretbd1
   expenses: 0.0
   funds: 5654.18
+- contest_nid: '216006007'
+  contest_name: 'TBD2: Proposed Charter Amendments Regarding City Governance'
+  contest_link: measuretbd2
+  expenses: 757286.99
+  funds: 5360000.0
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
-  expenses: 699250.38
-  funds: 2540100.0
+  expenses: 717405.36
+  funds: 2620115.0
 contributors_bm:
+- - Michael Moritz
+  - 2000000.0
+- - Lyna Lam
+  - 1000000.0
+- - John Pritzker
+  - 1000000.0
+- - Christian Larsen
+  - 1000000.0
 - - Anthropic
   - 500000.0
-- - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
-  - 500000.0
-- - Ripple Labs Inc.
-  - 500000.0
-- - Visa, Inc.
-  - 250000.0
-- - Another Planet Entertainment Llc(gregg Perloff)
-  - 100000.0
 contributors_cand:
 - - Garry Tan
   - 1500.0
@@ -99,11 +104,15 @@ top_cand_spends:
   cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
   total_expense: 17860.47
 top_bm_spends:
+- cmte_nid: '216006060'
+  cmte_fppcid: '1489257'
+  cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  total_expense: 757286.99
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
-  total_expense: 699250.38
+  total_expense: 717405.36
 
 ---
 

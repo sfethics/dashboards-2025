@@ -84,10 +84,16 @@ committees:
     San Francisco
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
+- cmte_name: Hotel Council of San Francisco PAC
+  cmte_fppcid: '1381090'
+  cmte_nid: '157756164'
 - cmte_name: National Union of Healthcare Workers Candidate Committee for Quality
     Patient Care and Union Democracy
   cmte_fppcid: '1318200'
   cmte_nid: '11272029'
+- cmte_name: North Coast States Regional Council of Carpenters Issues PAC
+  cmte_fppcid: '1219354'
+  cmte_nid: '167821491'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
