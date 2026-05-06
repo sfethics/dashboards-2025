@@ -49,8 +49,9 @@ electionnav: true
                                 <th scope="col">Committee Name</th>
                                 <th scope="col">Measure or Contest Description</th>
                                 <th scope="col">Position</th>
-                                <th scope="col">Expenditure Amount</th>
-                                <th scope="col">Expenditure Date</th>
+                                <th scope="col">Amount</th>
+                                <th scope="col">Date</th>
+                                <th scope="col">Advertisement</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -60,12 +61,17 @@ electionnav: true
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{ ie.cmte_fppcid }}.html">
                                         {{ ie.cmte_name | truncate: 70 }}
-                                    </a>
+                                    </a>    
                                 </td>
                                 <td>{{ ie.ie_description }}</td>
                                 <td>{{ ie.position }}</td>
                                 <td>{{ ie.tx_amount }}</td>
-                                <td>{{ ie.tx_date }}</td>
+                                <td class="text-nowrap">{{ ie.tx_date }}</td>
+                                <td>{% if ie.attachment_url != '' %}
+                                        <a href="{{ ie.attachment_url }}" target="_blank" class="btn btn-outline-primary btn-sm ms-2">
+                                            <span><i class="fa-regular fa-download"></i> Download</span>
+                                        </a>
+                                    {% endif %}</td>
                             </tr>
                             {% endfor %}
                         </tbody>
@@ -97,7 +103,7 @@ electionnav: true
         }
     },
     columnDefs: [
-        { responsivePriority: 10001, targets: [2,4] },
+        { responsivePriority: 10001, targets: [2,3,4] },
         {
             targets: [3],
             render: function (data, type, row, meta) {
