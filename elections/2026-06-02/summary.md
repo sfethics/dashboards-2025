@@ -33,17 +33,17 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 303200.0
-  expenses: 216012.02000000002
+  expenses: 279188.77
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 120058.63
+  expenses: 175046.23
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 613557.0
-  expenses: 771454.3
+  expenses: 851846.3400000001
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -55,12 +55,12 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1440362.22
+  funds: 1710362.22
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 346428.36
-  funds: 1615910.0
+  funds: 1625910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
@@ -71,11 +71,11 @@ contributors_bm:
   - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Service Employees International Union Local 1021 Issues PAC
+  - 600000.0
 - - Christian Larsen
   - 500000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 450000.0
-- - Service Employees International Union Local 1021 Issues PAC
   - 450000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
@@ -93,11 +93,15 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 340844.55
+  total_expense: 384631.55
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 197457.63
+- cmte_nid: '214918275'
+  cmte_fppcid: '1484891'
+  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 165816.63
 - cmte_nid: '215112140'
   cmte_fppcid: '1485709'
   cmte_name: ALAN WONG FOR SUPERVISOR 2026
@@ -106,10 +110,6 @@ top_cand_spends:
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   total_expense: 165260.35
-- cmte_nid: '214820258'
-  cmte_fppcid: '1484332'
-  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-  total_expense: 164263.59
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'

@@ -17,7 +17,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 699250.38
+  total_expense: 717405.36
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -58,6 +58,11 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 2444.35
+- cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  cmte_fppcid: '1489257'
+  cmte_nid: '216006060'
+  committee_type: Primarily Formed Measure
+  total_expense: 757286.99
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'

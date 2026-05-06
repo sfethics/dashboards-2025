@@ -46,12 +46,12 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 267200.0
-    expenses: 126842.43
+    expenses: 128842.43
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 47416.39
+    expenses: 70226.39
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
@@ -61,7 +61,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 2794.0
+    expenses: 37910.75
 - candidate_name: LORI BROOKE
   filer_id: '1484332'
   committees:
@@ -74,7 +74,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 21090.2
+    expenses: 24340.2
 contributors:
 - - Nicholas Josefowitz
   - 50500.0
