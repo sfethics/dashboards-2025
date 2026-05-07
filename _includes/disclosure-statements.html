@@ -32,7 +32,7 @@
             </thead>
             <tbody>
                 {% for filing in include.filings %}
-                {% if filings.filing_activity_type != 'AttachmentsAdded' %}
+                {% if filing.filing_activity_type != 'AttachmentsAdded' %}
                 <tr>
                     <td>{{ filing.filing_datetime }}</td>
                     <td>
