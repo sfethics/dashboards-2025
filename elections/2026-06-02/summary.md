@@ -11,7 +11,7 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 867049.96
+  funds: 910843.96
   expenses: 369936.79
   ies: ''
 - committee_type: candidate
@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 943663.34
+  funds: 944105.56
   expenses: 421117.8
   ies: ''
 candidate_ie:
@@ -33,23 +33,23 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 303200.0
-  expenses: 279188.77
+  expenses: 296547.04000000004
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 175046.23
+  expenses: 225046.23
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 613557.0
-  expenses: 851846.3400000001
+  funds: 673557.0
+  expenses: 900709.14
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 219258.81
-  funds: 349550.0
+  funds: 354550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -60,12 +60,12 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 346428.36
-  funds: 1625910.0
+  funds: 1718410.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 4100427.96
+  funds: 4112427.96
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -74,7 +74,7 @@ contributors_bm:
 - - Service Employees International Union Local 1021 Issues PAC
   - 600000.0
 - - Christian Larsen
-  - 500000.0
+  - 520000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 450000.0
 contributors_cand:
@@ -85,15 +85,15 @@ contributors_cand:
   - 250000.0
 - - Nicholas Josefowitz
   - 50500.0
+- - Service Employees International Union Local 1021 Candidate PAC
+  - 50000.0
 - - Zach Jones
   - 30000.0
-- - Andrew Chatham
-  - 26500.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 384631.55
+  total_expense: 406916.63
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026

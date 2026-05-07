@@ -31,7 +31,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 166261.0
+  funds: 166703.22
   expenses: 48699.4
 - filer_nid: '215112140'
   filer_id: '1485709'
@@ -51,6 +51,12 @@ ie_candidates:
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
+  - position: OPPOSE
+    filer_id: '1488862'
+    committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
+      SPONSORED BY LABOR ORGANIZATIONS
+    funds: 0.0
+    expenses: 7545.81
   - position: SUPPORT
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
@@ -70,7 +76,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 37910.75
+    expenses: 52044.85
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -78,7 +84,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 39801.43
+    expenses: 58750.51
   - position: OPPOSE
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -88,16 +94,21 @@ ie_candidates:
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
-    funds: 305000.0
-    expenses: 174488.0
+    funds: 365000.0
+    expenses: 182721.81
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
   - 300000.0
 - - Michael Moritz
   - 250000.0
+- - Service Employees International Union Local 1021 Candidate PAC
+  - 50000.0
 - - Maco Stewart
   - 10500.0
+- - National Union of Healthcare Workers Candidate Committee for Quality Patient Care
+    and Union Democracy
+  - 10000.0
 - - Noah Smith
   - 10000.0
 - - Amos Elliston
@@ -108,10 +119,6 @@ contributors:
   - 4900.0
 - - Luke Miner
   - 4900.0
-- - David Peeler
-  - 4900.0
-- - Andy Hansen
-  - 4000.0
 
 ---
 
