@@ -379,8 +379,8 @@
                 spent by a committees in the current election.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
             <p>Contributions are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules A and C and late period contributions received on Form 497 and Form 496P3.
-                If a committee has received any loans, loans details are presented in a separate table in the Activity Details section.
             </p>
+            <p>Total Contributions does not include any <b>loans</b> received by the committee. Details about any loans received can be found in the Activity Details section.</p>
 
             {% if page.committee_type == 'candidate' %}
             <p>For a candidate controlled committee participating in the
@@ -391,6 +391,8 @@
                 schedule E.</p>
             <p>Total Expenditures does not include a committee's <b>independent expenditures</b> regarding candidates or ballot measures. 
                 Details about any independent expenditures made by the committee can be found in the Activity Details section.</p>
+            <p>Total Expenditures also does not include a committee's <b>accrued expenses (unpaid bills)</b>. 
+                Details about any unpaid bills can be found in the Activity Details section.</p>
             {% include tooltips-guidance.html %}
             {% if page.totals[1] == 0.0 or page.totals[0] == 0.0 or page.totals[0] == '' or page.totals[1] == '' %}
             <h3 class="fs-5">Why is contribution or expenditure data not available?</h3>
@@ -477,6 +479,7 @@
             <p>The loans table lists loans received by a committee. The table groups all loans by lender name and sums up
                 the amounts, and the amounts paid, forgiven, and outstanding.</p>
             <p>The data in this table is based on the loans reported on Form 460 Schedule B1.</p>
+            <p>Loans amounts are not included in the total contributions in the "Summary Totals" section.</p>
         </div>
     </div>
 </div>
@@ -491,6 +494,7 @@
                 The table groups all unpaid bills by vendor/entity name and payment code, and sums up the outstanding bill amounts.</p>
             <p>The data in this table is based on the unpaid bills reported on Form 460 Schedule F. 
                 Only items from a committee's Form 460 covering the most recent reporting period (with an outstanding balance greater than $0) are included.</p>
+            <p>Unpaid bills amounts are not included in the total expenditures in the "Summary Totals" section.</p>
         </div>
     </div>
 </div>
