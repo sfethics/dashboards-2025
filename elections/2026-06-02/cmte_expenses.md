@@ -122,7 +122,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 464631.55
+  total_expense: 486916.63
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -149,7 +149,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 144601.59
+  total_expense: 160381.21
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -179,7 +179,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 75821.5
+  total_expense: 103977.87
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -211,7 +211,7 @@ committees:
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
   committee_type: General Purpose
-  total_expense: 60000.0
+  total_expense: 70000.0
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
@@ -221,7 +221,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 65248.03
+  total_expense: 115248.03
 
 ---
 

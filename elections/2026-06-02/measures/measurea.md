@@ -21,20 +21,20 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1125910.0
+  funds: 1198410.0
   expenses: 301829.06
   ies: ''
 - position: SUPPORT
   filer_nid: '216534507'
   filer_id: '1489925'
   committee_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
-  funds: 500000.0
+  funds: 520000.0
   expenses: 40020.0
   ies: ''
 multi_committees: []
 contributors:
 - - Christian Larsen
-  - 500000.0
+  - 520000.0
 - - California Alliance for Jobs - Rebuild California Committee
   - 150000.0
 - - Steven Huffman
@@ -49,9 +49,9 @@ contributors:
   - 100000.0
 - - Webcor Construction Lp
   - 75000.0
+- - Arcadis Inc
+  - 62500.0
 - - SF Believes
-  - 50000.0
-- - Sutter Health
   - 50000.0
 
 ---

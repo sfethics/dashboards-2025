@@ -116,6 +116,9 @@ committees:
 - cmte_name: California Professional Firefighters Political Action Committee
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
+- cmte_name: Chinese American Democratic Club
+  cmte_fppcid: '881296'
+  cmte_nid: '6673097'
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
@@ -163,6 +166,9 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: Service Employees International Union Local 1021 Candidate PAC
+  cmte_fppcid: '1296948'
+  cmte_nid: '125730173'
 - cmte_name: Service Employees International Union Local 1021 Issues PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
@@ -172,6 +178,9 @@ committees:
 - cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
+- cmte_name: SF Partnership Government Reform Fund
+  cmte_fppcid: '982683'
+  cmte_nid: '6667932'
 - cmte_name: Smart Justice California Action Fund
   cmte_fppcid: '1423131'
   cmte_nid: '200502936'
@@ -344,6 +353,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
+  cmte_nid: unknown
+- cmte_name: Working Families for San Francisco PAC
+  cmte_fppcid: 00945303
   cmte_nid: unknown
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
