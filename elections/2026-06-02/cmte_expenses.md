@@ -12,6 +12,12 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  cmte_nid: '161155640'
+  committee_type: General Purpose
+  total_expense: 118791.83
 - cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -22,11 +28,11 @@ committees:
   cmte_nid: '201619433'
   committee_type: General Purpose
   total_expense: 179116.90000000002
-- cmte_name: SAN FRANCISCO PARENT PAC
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 810.3
+  total_expense: 11535.66
 - cmte_name: MATT DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
   cmte_fppcid: '1463832'
   cmte_nid: '208697921'
@@ -41,7 +47,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 148008.91
+  total_expense: 156569.62
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -76,7 +82,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 165816.63
+  total_expense: 170816.63
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -122,7 +128,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 486916.63
+  total_expense: 528140.63
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -138,7 +144,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 163515.13
+  total_expense: 213483.13
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -164,7 +170,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '216585910'
   committee_type: Major Donor
-  total_expense: 20725.22
+  total_expense: 23526.22
 - cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
@@ -174,7 +180,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '216603835'
   committee_type: Major Donor
-  total_expense: 2802.73
+  total_expense: 8407.46
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
