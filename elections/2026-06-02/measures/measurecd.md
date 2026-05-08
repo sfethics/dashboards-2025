@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 4112427.96
+  funds: 4263631.69
   expenses: 1471972.79
   ies: ''
 multi_committees: []
@@ -39,11 +39,11 @@ contributors:
   - 250000.0
 - - Tony Xu
   - 250000.0
+- - Kilroy Realty, L.p.
+  - 240000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 202000.0
 - - 'Emerson Collective, Llc(responsible Officer: Diedra Nelson)'
-  - 200000.0
-- - Christian Larsen
   - 200000.0
 
 ---

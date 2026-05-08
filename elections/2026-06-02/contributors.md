@@ -81,16 +81,6 @@ contributors:
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 250000.0
 - tx_firstname: ''
-  tx_lastname: WILLIAMS-SONOMA, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 300000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 300000.0
-- tx_firstname: ''
   tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS -
     TJ ANTHONY PAC FUND
   tx_entitycode: Committee
@@ -102,6 +92,16 @@ contributors:
       BY LABOR ORGANIZATIONS
     tx_amount: 300000.0
 - tx_firstname: ''
+  tx_lastname: WILLIAMS-SONOMA, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 300000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 300000.0
+- tx_firstname: ''
   tx_lastname: VISA, INC
   tx_entitycode: Other
   tx_cmteid: ''
@@ -111,6 +111,20 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 275000.0
+- tx_firstname: ''
+  tx_lastname: KILROY REALTY, L.P.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 265000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 240000.0
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 25000.0
 - tx_firstname: TONY
   tx_lastname: XU
   tx_entitycode: Individual
@@ -199,20 +213,6 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 150000.0
-- tx_firstname: ''
-  tx_lastname: KILROY REALTY, L.P.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 125000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 100000.0
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 25000.0
 - tx_firstname: ''
   tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS, LOCAL
     21 ISSUES PAC
@@ -442,11 +442,11 @@ contributors:
   tx_lastname: PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL 21
   tx_entitycode: Other
   tx_cmteid: ''
-  tx_amount: 37131.03
+  tx_amount: 38353.8
   transactions:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-    tx_amount: 37131.03
+    tx_amount: 38353.8
 - tx_firstname: ZACH
   tx_lastname: JONES
   tx_entitycode: Individual
@@ -468,16 +468,6 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: UNITED CONTRACTORS
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 25000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 25000.0
 - tx_firstname: ''
   tx_lastname: GROWSF VOTER GUIDE
   tx_entitycode: Committee
@@ -519,6 +509,26 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 25000.0
+- tx_firstname: ''
+  tx_lastname: UNITED CONTRACTORS
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 25000.0
+- tx_firstname: ''
+  tx_lastname: SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 23100.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 23100.0
 - tx_firstname: JEROME
   tx_lastname: GUILLEN
   tx_entitycode: Individual
@@ -568,15 +578,15 @@ contributors:
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 16570.57
 - tx_firstname: ''
-  tx_lastname: SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_lastname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
   tx_entitycode: Other
   tx_cmteid: ''
-  tx_amount: 16100.0
+  tx_amount: 16531.68
   transactions:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 16100.0
+    tx_amount: 16531.68
 - tx_firstname: ''
   tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY
     PATIENT CARE AND UNION DEMOCRACY
@@ -620,16 +630,6 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 15000.0
-- tx_firstname: ''
-  tx_lastname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 12327.95
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 12327.95
 - tx_firstname: ''
   tx_lastname: SF PARTNERSHIP GOVERNMENT REFORM FUND
   tx_entitycode: Committee

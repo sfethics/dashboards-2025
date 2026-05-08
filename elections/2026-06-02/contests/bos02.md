@@ -46,7 +46,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 267200.0
-    expenses: 128842.43
+    expenses: 131342.43
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
@@ -74,7 +74,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 24340.2
+    expenses: 26840.2
 contributors:
 - - Nicholas Josefowitz
   - 50500.0

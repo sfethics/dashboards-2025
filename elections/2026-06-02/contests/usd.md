@@ -44,6 +44,11 @@ ie_candidates:
     committee_name: GrowSF Voter Guide
     funds: ''
     expenses: 116048.2
+  - position: SUPPORT
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 10725.36
 contributors:
 - - Mark Leno
   - 1000.0
