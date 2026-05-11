@@ -7,6 +7,11 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the June 02, 2026 election
 committees:
+- cmte_name: Silvanus Osborn Erickson
+  cmte_fppcid: '1273721'
+  cmte_nid: '126511772'
+  committee_type: Major Donor
+  total_expense: 9900.0
 - cmte_name: HOTEL COUNCIL PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
@@ -27,7 +32,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 179116.90000000002
+  total_expense: 276692.31
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -155,7 +160,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 160381.21
+  total_expense: 161481.21
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -170,7 +175,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '216585910'
   committee_type: Major Donor
-  total_expense: 23526.22
+  total_expense: 30526.22
 - cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
@@ -191,6 +196,11 @@ committees:
   cmte_nid: '216724533'
   committee_type: Major Donor
   total_expense: 100000.0
+- cmte_name: Luis Belmonte
+  cmte_fppcid: '1447783'
+  cmte_nid: '216750427'
+  committee_type: Major Donor
+  total_expense: 5900.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'

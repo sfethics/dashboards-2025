@@ -43,7 +43,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 116048.2
+    expenses: 213623.61
   - position: SUPPORT
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC

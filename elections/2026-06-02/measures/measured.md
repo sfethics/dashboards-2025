@@ -15,7 +15,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1711584.99
+  funds: 1769984.99
   expenses: 721097.65
   ies: ''
 - position: SUPPORT
@@ -32,7 +32,7 @@ multi_committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 4263631.69
+  funds: 4304766.89
   expenses: 1471972.79
 contributors:
 - - Service Employees International Union Local 1021 Issues PAC
@@ -48,6 +48,9 @@ contributors:
   - 120000.0
 - - Service Employees International Union - Seiu Local 521
   - 50000.0
+- - San Francisco Labor & Neighbor Member Education / Political Issues Committee,
+    Sponsored by the San Francisco Labor Council
+  - 45000.0
 - - International Federation of Professional and Technical Engineers Local 21
   - 38353.8
 - - United Educators of San Francisco Committee on Political Education
@@ -55,9 +58,6 @@ contributors:
 - - Affordable SF Now Supporting Natalie Gee for Supervisor 2026, Sponsored by Labor
     Organizations
   - 16570.57
-- - National Union of Healthcare Workers Candidate Committee for Quality Patient Care
-    and Union Democracy
-  - 5000.0
 
 ---
 

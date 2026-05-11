@@ -38,12 +38,12 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 235771.59000000003
+  expenses: 333347.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 673557.0
-  expenses: 1000461.85
+  expenses: 1001561.85
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -55,17 +55,17 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1711584.99
+  funds: 1769984.99
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 346428.36
-  funds: 1718410.0
+  funds: 1818410.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 4263631.69
+  funds: 4304766.89
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -94,6 +94,10 @@ top_cand_spends:
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
   total_expense: 448140.63
+- cmte_nid: '201619433'
+  cmte_fppcid: '1433436'
+  cmte_name: GrowSF Voter Guide
+  total_expense: 247674.61
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -106,10 +110,6 @@ top_cand_spends:
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 170816.63
-- cmte_nid: '215112140'
-  cmte_fppcid: '1485709'
-  cmte_name: ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 165725.64
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
