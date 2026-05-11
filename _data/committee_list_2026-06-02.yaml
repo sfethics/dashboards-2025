@@ -273,6 +273,9 @@ committees:
 - cmte_name: Gfc Courage Committee - San Francisco Chapter
   cmte_fppcid: '1416440'
   cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Sierra Chapter
+  cmte_fppcid: '1416442'
+  cmte_nid: unknown
 - cmte_name: Govern for California Action Committee
   cmte_fppcid: '1450483'
   cmte_nid: unknown
@@ -373,6 +376,9 @@ committees:
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
+- cmte_name: Luis Belmonte
+  cmte_fppcid: '1447783'
+  cmte_nid: '216750427'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
@@ -382,6 +388,9 @@ committees:
 - cmte_name: San Francisco Chamber of Commerce (Major Donor)
   cmte_fppcid: unknown
   cmte_nid: '216585910'
+- cmte_name: Silvanus Osborn Erickson
+  cmte_fppcid: '1273721'
+  cmte_nid: '126511772'
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'

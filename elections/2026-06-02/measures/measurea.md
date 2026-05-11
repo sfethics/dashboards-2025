@@ -21,7 +21,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1198410.0
+  funds: 1298410.0
   expenses: 301829.06
   ies: ''
 - position: SUPPORT
@@ -37,6 +37,8 @@ contributors:
   - 520000.0
 - - California Alliance for Jobs - Rebuild California Committee
   - 150000.0
+- - Doordash, Inc.
+  - 100000.0
 - - Steven Huffman
   - 100000.0
 - - Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
@@ -51,8 +53,6 @@ contributors:
   - 75000.0
 - - Arcadis Inc
   - 62500.0
-- - SF Believes
-  - 50000.0
 
 ---
 
