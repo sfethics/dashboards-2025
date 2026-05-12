@@ -11,7 +11,7 @@ committees:
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
   committee_type: Major Donor
-  total_expense: 9900.0
+  total_expense: 14900.0
 - cmte_name: HOTEL COUNCIL PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
@@ -201,6 +201,12 @@ committees:
   cmte_nid: '216750427'
   committee_type: Major Donor
   total_expense: 5900.0
+- cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
+    COMMITTEE - INDEPENDENT EXPENDITURES AKA BOMA-SF-PAC-IE
+  cmte_fppcid: '870449'
+  cmte_nid: '6667779'
+  committee_type: General Purpose
+  total_expense: 9999.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'

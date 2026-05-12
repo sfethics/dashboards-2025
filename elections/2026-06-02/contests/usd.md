@@ -19,7 +19,7 @@ candidates:
   filer_id: '1485654'
   committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   candidate_name: BRANDEE MARCKMANN
-  funds: 20470.0
+  funds: 70470.0
   expenses: 37490.16
 - filer_nid: '216603754'
   filer_id: '1488901'
@@ -50,6 +50,8 @@ ie_candidates:
     funds: ''
     expenses: 10725.36
 contributors:
+- - Brandee Marckmann
+  - 50000.0
 - - Mark Leno
   - 1000.0
 - - Virginia Cheung
@@ -67,8 +69,6 @@ contributors:
 - - Courtney Benoist
   - 500.0
 - - Catherine Benson
-  - 500.0
-- - Michelle Boyers
   - 500.0
 
 ---

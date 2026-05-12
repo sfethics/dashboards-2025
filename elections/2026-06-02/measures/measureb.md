@@ -13,7 +13,7 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 2800.0
+  funds: 17800.0
   expenses: 177.38
   ies: ''
 - position: SUPPORT
@@ -27,7 +27,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 351750.0
+  funds: 352750.0
   expenses: 215293.23
   ies: ''
 multi_committees: []
@@ -46,11 +46,11 @@ contributors:
   - 10000.0
 - - San Francisco Apartment Association Political Action Committee
   - 10000.0
+- - San Francisco Labor and Neighbor Education
+  - 10000.0
 - - Stephen Dodson
   - 5000.0
 - - Gregory Flynn
-  - 5000.0
-- - Neighbors for a Better San Francisco Advocacy Committee
   - 5000.0
 
 ---

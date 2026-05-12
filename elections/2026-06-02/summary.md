@@ -18,7 +18,7 @@ candidate_pf:
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
-  funds: 91279.0
+  funds: 141279.0
   expenses: 79241.47
   ies: ''
 - committee_type: candidate
@@ -42,20 +42,20 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 673557.0
+  funds: 683556.0
   expenses: 1001561.85
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 219258.81
-  funds: 354550.0
+  funds: 370550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1769984.99
+  funds: 1834984.99
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
@@ -65,7 +65,7 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 4304766.89
+  funds: 4307567.89
 contributors_bm:
 - - Chris Larsen
   - 700000.0
@@ -83,12 +83,12 @@ contributors_cand:
   - 300000.0
 - - Michael Moritz
   - 250000.0
+- - Brandee Marckmann
+  - 50500.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Service Employees International Union Local 1021 Candidate PAC
   - 50000.0
-- - Zach Jones
-  - 30000.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'

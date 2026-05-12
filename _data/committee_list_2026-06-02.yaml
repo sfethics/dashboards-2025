@@ -110,10 +110,18 @@ committees:
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
+- cmte_name: Building Owners and Managers Association of San Francisco Political Action
+    Committee - Independent Expenditures Aka Boma-sf-pac-ie
+  cmte_fppcid: '870449'
+  cmte_nid: '6667779'
 - cmte_name: Build Affordable Faster California, Sponsored by Tenants and Owners Development
     Corp.
   cmte_fppcid: '1388285'
   cmte_nid: '161155640'
+- cmte_name: California Nurses Association / National Nurses Organizing Committee
+    (Cna / Nnoc PAC)
+  cmte_fppcid: '1401119'
+  cmte_nid: '202794879'
 - cmte_name: California Nurses Association Political Action Committee(cna-pac)
   cmte_fppcid: '780657'
   cmte_nid: '6673059'

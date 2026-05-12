@@ -70,7 +70,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 308557.0
+    funds: 318556.0
     expenses: 202819.51
   - position: SUPPORT
     filer_id: '1465611'
@@ -111,13 +111,14 @@ contributors:
   - 10000.0
 - - Noah Smith
   - 10000.0
+- - Building Owners and Managers Association of San Francisco PAC Independent Expenditures
+    Aka (boma-sf-pac-ie)
+  - 9999.0
 - - Amos Elliston
   - 5000.0
 - - International Federation of Professional and Technical Engineers, Local 21
   - 5000.0
 - - Jared Friedman
-  - 4900.0
-- - Luke Miner
   - 4900.0
 
 ---
