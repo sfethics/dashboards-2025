@@ -32,41 +32,43 @@ candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 303200.0
-  expenses: 301547.04000000004
+  funds: 308200.0
+  expenses: 307694.74
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 333347.0
+  expenses: 336417.0
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 683556.0
-  expenses: 1001561.85
+  funds: 703556.0
+  expenses: 1007032.8899999999
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 219258.81
-  funds: 370550.0
+  funds: 375550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 737122.02
-  funds: 1834984.99
+  funds: 1844984.99
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 346428.36
-  funds: 1818410.0
+  funds: 1848410.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 4307567.89
+  funds: 4857567.89
 contributors_bm:
+- - Neighbors for a Better San Francisco Advocacy
+  - 860000.0
 - - Chris Larsen
   - 700000.0
 - - Michael Moritz
@@ -75,8 +77,6 @@ contributors_bm:
   - 600000.0
 - - Christian Larsen
   - 520000.0
-- - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 450000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
@@ -101,7 +101,7 @@ top_cand_spends:
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 213483.13
+  total_expense: 215669.14
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -109,17 +109,17 @@ top_cand_spends:
 - cmte_nid: '214918275'
   cmte_fppcid: '1484891'
   cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  total_expense: 170816.63
+  total_expense: 176964.33
 top_bm_spends:
+- cmte_nid: '193427405'
+  cmte_fppcid: '1431167'
+  cmte_name: Neighbors For A Better San Francisco Advocacy
+  total_expense: 1768540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   total_expense: 1471972.79
-- cmte_nid: '193427405'
-  cmte_fppcid: '1431167'
-  cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 1218540.0
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS

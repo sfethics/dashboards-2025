@@ -46,7 +46,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 267200.0
-    expenses: 131342.43
+    expenses: 135744.59
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
@@ -55,7 +55,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    funds: 36000.0
+    funds: 41000.0
     expenses: 0.0
   - position: SUPPORT
     filer_id: '1465611'
@@ -74,7 +74,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 26840.2
+    expenses: 28585.74
 contributors:
 - - Nicholas Josefowitz
   - 50500.0
@@ -86,6 +86,8 @@ contributors:
   - 15000.0
 - - Phin Barnes
   - 10000.0
+- - Meridee Moore
+  - 5500.0
 - - Christopher Conway
   - 5400.0
 - - Danny Conway
@@ -93,8 +95,6 @@ contributors:
 - - Zachary Dewitt
   - 5400.0
 - - Robert J. Fisher
-  - 5400.0
-- - Cal Henderson
   - 5400.0
 
 ---

@@ -27,7 +27,7 @@ committees:
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 1218540.0
+  total_expense: 1768540.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -38,6 +38,11 @@ committees:
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 11535.66
+- cmte_name: The Prado Group and Affiliated Entities
+  cmte_fppcid: '1372011'
+  cmte_nid: '203556801'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: MATT DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
   cmte_fppcid: '1463832'
   cmte_nid: '208697921'
@@ -87,7 +92,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 170816.63
+  total_expense: 176964.33
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -149,7 +154,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 213483.13
+  total_expense: 215669.14
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -160,7 +165,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 161481.21
+  total_expense: 164766.24
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -217,6 +222,11 @@ committees:
   cmte_nid: '6672693'
   committee_type: Major Donor
   total_expense: 300000.0
+- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+  cmte_fppcid: '842018'
+  cmte_nid: '6673011'
+  committee_type: General Purpose
+  total_expense: 5207.85
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

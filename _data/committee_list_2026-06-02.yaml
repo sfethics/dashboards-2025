@@ -19,6 +19,9 @@ committees:
 - cmte_name: Daniel Genduso for Supervisor 2026
   cmte_fppcid: unknown
   cmte_nid: '214927978'
+- cmte_name: Daniel Lurie for Mayor 2024
+  cmte_fppcid: '1463099'
+  cmte_nid: '208599394'
 - cmte_name: David Lee for Supervisor 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -29,7 +32,6 @@ committees:
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
 - cmte_name: Joe Sangirardi for San Francisco Democratic County Central Committee
-    2024
   cmte_fppcid: '1463427'
   cmte_nid: '208632535'
 - cmte_name: Kim for School Board June 2026
@@ -107,6 +109,9 @@ committees:
 - cmte_name: Yes on D - Stand Up for SF Sponsored by Labor Organizations
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
+- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+  cmte_fppcid: '842018'
+  cmte_nid: '6673011'
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
@@ -178,6 +183,9 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Labor Council Labor & Neighbor
+  cmte_fppcid: '941562'
+  cmte_nid: '6673767'
 - cmte_name: Service Employees International Union Local 1021 Candidate PAC
   cmte_fppcid: '1296948'
   cmte_nid: '125730173'
@@ -219,6 +227,9 @@ committees:
 - cmte_name: U.a. Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
+- cmte_name: Unite Here Local 2 Issues Committee
+  cmte_fppcid: '1384604'
+  cmte_nid: '160011229'
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
@@ -399,6 +410,9 @@ committees:
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
+- cmte_name: the Prado Group and Affiliated Entities
+  cmte_fppcid: '1372011'
+  cmte_nid: '203556801'
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'

@@ -49,6 +49,11 @@ ie_candidates:
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
     expenses: 10725.36
+  - position: SUPPORT
+    filer_id: '842018'
+    committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+    funds: ''
+    expenses: 3070.0
 contributors:
 - - Brandee Marckmann
   - 50000.0
