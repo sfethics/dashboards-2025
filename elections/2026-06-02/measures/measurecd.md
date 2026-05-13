@@ -20,17 +20,17 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 4307567.89
+  funds: 4857567.89
   expenses: 1471972.79
   ies: ''
 multi_committees: []
 contributors:
+- - Neighbors for a Better San Francisco Advocacy
+  - 860000.0
 - - Michael Moritz
   - 625000.0
 - - Chris Larsen
   - 500000.0
-- - Neighbors for a Better San Francisco Advocacy
-  - 310000.0
 - - Williams-sonoma, Inc.
   - 300000.0
 - - Visa, Inc
