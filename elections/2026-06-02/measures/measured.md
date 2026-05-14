@@ -15,7 +15,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1844984.99
+  funds: 1969984.99
   expenses: 721097.65
   ies: ''
 - position: SUPPORT
@@ -46,6 +46,8 @@ contributors:
 - - International Federation of Professional and Technical Engineers, Local 21 Issues
     PAC
   - 120000.0
+- - Saikat Chakrabarti
+  - 100000.0
 - - International Federation of Professional and Technical Engineers Local 21
   - 53353.8
 - - California Nurses Association / National Nurses Organizing Committee (Cna / Nnoc
@@ -56,8 +58,6 @@ contributors:
 - - San Francisco Labor & Neighbor Member Education / Political Issues Committee,
     Sponsored by the San Francisco Labor Council
   - 45000.0
-- - United Educators of San Francisco Committee on Political Education
-  - 20000.0
 
 ---
 

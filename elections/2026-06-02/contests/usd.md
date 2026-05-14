@@ -53,7 +53,7 @@ ie_candidates:
     filer_id: '842018'
     committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
     funds: ''
-    expenses: 3070.0
+    expenses: 4824.08
 contributors:
 - - Brandee Marckmann
   - 50000.0

@@ -53,6 +53,11 @@ committees:
   cmte_nid: '209507321'
   committee_type: Major Donor
   total_expense: 20000.0
+- cmte_name: Saikat Chakrabarti
+  cmte_fppcid: '1478129'
+  cmte_nid: '209507341'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
@@ -92,7 +97,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 176964.33
+  total_expense: 183194.93
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -138,7 +143,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 528140.63
+  total_expense: 683178.96
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -154,7 +159,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 215669.14
+  total_expense: 222139.86
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -195,7 +200,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 103977.87
+  total_expense: 117494.39
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -226,7 +231,7 @@ committees:
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 5207.85
+  total_expense: 6961.93
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
