@@ -66,17 +66,17 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 315827.74
+    expenses: 352208.04
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 318556.0
-    expenses: 205005.52
+    expenses: 207794.84
   - position: SUPPORT
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 52044.85
+    expenses: 65561.37
 - candidate_name: NATALIE GEE
   filer_id: '1484806'
   committees:
@@ -84,18 +84,26 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 58750.51
+    expenses: 113664.63
   - position: OPPOSE
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 8000.0
+    expenses: 9840.7
   - position: SUPPORT
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 385000.0
     expenses: 185135.82
+- candidate_name: ALBERT CHOW
+  filer_id: '1485609'
+  committees:
+  - position: OPPOSE
+    filer_id: '1488188'
+    committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+    funds: 0.0
+    expenses: 1840.7
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund

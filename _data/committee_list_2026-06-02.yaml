@@ -358,6 +358,10 @@ committees:
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1482711'
   cmte_nid: unknown
+- cmte_name: Service Employees International Union Local 721 Ctw, Clc Issues & Initiatives
+    Sponsored by Service Employee Union
+  cmte_fppcid: '891044'
+  cmte_nid: unknown
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
   cmte_nid: unknown
@@ -404,6 +408,9 @@ committees:
 - cmte_name: SF Partnership and Affiliated Entity Advance SF
   cmte_fppcid: unknown
   cmte_nid: '216603835'
+- cmte_name: Saikat Chakrabarti
+  cmte_fppcid: '1478129'
+  cmte_nid: '209507341'
 - cmte_name: San Francisco Chamber of Commerce (Major Donor)
   cmte_fppcid: unknown
   cmte_nid: '216585910'
