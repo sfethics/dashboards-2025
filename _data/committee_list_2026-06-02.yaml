@@ -218,6 +218,9 @@ committees:
 - cmte_name: San Francisco Police Officers Association PAC
   cmte_fppcid: '1315969'
   cmte_nid: '11282770'
+- cmte_name: San Francisco Women's Political Committee
+  cmte_fppcid: '1243711'
+  cmte_nid: '6674793'
 - cmte_name: Teamsters Joint Council No 7 PAC
   cmte_fppcid: '1257632'
   cmte_nid: '205116472'

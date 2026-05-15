@@ -47,7 +47,7 @@ ie_candidates:
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
     funds: 0.0
-    expenses: 156569.62
+    expenses: 162230.87
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
@@ -70,7 +70,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 318556.0
+    funds: 328555.0
     expenses: 207794.84
   - position: SUPPORT
     filer_id: '1465611'
@@ -114,6 +114,9 @@ contributors:
   - 50000.0
 - - San Francisco Labor Council Labor & Neighbor
   - 20000.0
+- - Building Owners and Managers Association of San Francisco PAC Independent Expenditures
+    Aka (boma-sf-pac-ie)
+  - 19998.0
 - - Maco Stewart
   - 10500.0
 - - National Union of Healthcare Workers Candidate Committee for Quality Patient Care
@@ -121,9 +124,6 @@ contributors:
   - 10000.0
 - - Noah Smith
   - 10000.0
-- - Building Owners and Managers Association of San Francisco PAC Independent Expenditures
-    Aka (boma-sf-pac-ie)
-  - 9999.0
 - - Amos Elliston
   - 5000.0
 - - International Federation of Professional and Technical Engineers, Local 21

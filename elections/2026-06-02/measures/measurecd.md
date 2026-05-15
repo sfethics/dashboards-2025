@@ -20,7 +20,7 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 4857567.89
+  funds: 5112567.89
   expenses: 1471972.79
   ies: ''
 multi_committees: []
@@ -31,20 +31,20 @@ contributors:
   - 625000.0
 - - Chris Larsen
   - 500000.0
+- - SF Forward Sponsored by San Francisco Chamber of Commerce
+  - 302000.0
 - - Williams-sonoma, Inc.
   - 300000.0
 - - Visa, Inc
   - 275000.0
+- - 'Google LLC and Affiliated Entities(responsible Officer: Rob Biederman)'
+  - 250000.0
 - - Pg&e Corporation and Affiliated Entities
   - 250000.0
 - - Tony Xu
   - 250000.0
 - - Kilroy Realty, L.p.
   - 240000.0
-- - SF Forward Sponsored by San Francisco Chamber of Commerce
-  - 202000.0
-- - 'Emerson Collective, Llc(responsible Officer: Diedra Nelson)'
-  - 200000.0
 
 ---
 
