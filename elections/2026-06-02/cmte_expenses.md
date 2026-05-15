@@ -62,7 +62,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 156569.62
+  total_expense: 162230.87
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -217,6 +217,11 @@ committees:
   cmte_nid: '6667779'
   committee_type: General Purpose
   total_expense: 9999.0
+- cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
+  committee_type: General Purpose
+  total_expense: 5000.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'
@@ -254,6 +259,11 @@ committees:
   cmte_nid: '6673824'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: San Francisco Women's Political Committee
+  cmte_fppcid: '1243711'
+  cmte_nid: '6674793'
+  committee_type: General Purpose
+  total_expense: 5000.0
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'

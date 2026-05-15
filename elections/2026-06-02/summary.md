@@ -42,8 +42,8 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 703556.0
-  expenses: 1118314.55
+  funds: 713555.0
+  expenses: 1123975.8
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
@@ -60,12 +60,12 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 346428.36
-  funds: 1848410.0
+  funds: 1850910.0
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 4857567.89
+  funds: 5112567.89
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
   - 860000.0

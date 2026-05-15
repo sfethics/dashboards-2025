@@ -69,26 +69,15 @@ contributors:
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 450000.0
 - tx_firstname: ''
-  tx_lastname: WILLIAMS-SONOMA, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 300000.0
+  tx_lastname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_entitycode: Committee
+  tx_cmteid: '891575'
+  tx_amount: 302000.0
   transactions:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 300000.0
-- tx_firstname: ''
-  tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS -
-    TJ ANTHONY PAC FUND
-  tx_entitycode: Committee
-  tx_cmteid: '881248'
-  tx_amount: 300000.0
-  transactions:
-  - cmte_fppcid: '1488862'
-    cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-      BY LABOR ORGANIZATIONS
-    tx_amount: 300000.0
+    tx_amount: 302000.0
 - tx_firstname: MICHAEL
   tx_lastname: MORITZ
   tx_entitycode: Individual
@@ -101,6 +90,27 @@ contributors:
   - cmte_fppcid: '1488188'
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 250000.0
+- tx_firstname: ''
+  tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS -
+    TJ ANTHONY PAC FUND
+  tx_entitycode: Committee
+  tx_cmteid: '881248'
+  tx_amount: 300000.0
+  transactions:
+  - cmte_fppcid: '1488862'
+    cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+      BY LABOR ORGANIZATIONS
+    tx_amount: 300000.0
+- tx_firstname: ''
+  tx_lastname: WILLIAMS-SONOMA, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 300000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 300000.0
 - tx_firstname: ''
   tx_lastname: VISA, INC
   tx_entitycode: Other
@@ -146,6 +156,16 @@ contributors:
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 250000.0
 - tx_firstname: ''
+  tx_lastname: 'GOOGLE LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER: ROB BIEDERMAN)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 250000.0
+- tx_firstname: ''
   tx_lastname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
   tx_entitycode: Committee
   tx_cmteid: '1357256'
@@ -154,16 +174,6 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 205660.62
-- tx_firstname: ''
-  tx_lastname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_entitycode: Committee
-  tx_cmteid: '891575'
-  tx_amount: 202000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 202000.0
 - tx_firstname: ''
   tx_lastname: 'EMERSON COLLECTIVE, LLC(RESPONSIBLE OFFICER: DIEDRA NELSON)'
   tx_entitycode: Other
@@ -267,15 +277,14 @@ contributors:
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 100000.0
 - tx_firstname: ''
-  tx_lastname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL
-    OF CALIFORNIA
-  tx_entitycode: Committee
-  tx_cmteid: '980162'
+  tx_lastname: DODGE AND COX
+  tx_entitycode: Other
+  tx_cmteid: ''
   tx_amount: 100000.0
   transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 100000.0
 - tx_firstname: ''
   tx_lastname: LABORERS PACIFIC SOUTHWEST REGIONAL ORGANIZING COALITION ISSUES PAC
@@ -288,19 +297,19 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 100000.0
 - tx_firstname: ''
-  tx_lastname: DODGE AND COX
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 100000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 100000.0
-- tx_firstname: ''
   tx_lastname: OPERATING ENGINEERS LOCAL UNION NO 3 ISSUES ADVOCACY/BALLOT
   tx_entitycode: Committee
   tx_cmteid: '1345344'
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 100000.0
+- tx_firstname: ''
+  tx_lastname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1219354'
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -328,9 +337,10 @@ contributors:
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 100000.0
 - tx_firstname: ''
-  tx_lastname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS ISSUES PAC
+  tx_lastname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL
+    OF CALIFORNIA
   tx_entitycode: Committee
-  tx_cmteid: '1219354'
+  tx_cmteid: '980162'
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -348,16 +358,6 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 100000.0
-- tx_firstname: ''
-  tx_lastname: 'GOOGLE LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER: ROB BIEDERMAN)'
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 95000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 95000.0
 - tx_firstname: ''
   tx_lastname: WEBCOR CONSTRUCTION LP
   tx_entitycode: Other
@@ -436,6 +436,26 @@ contributors:
   - cmte_fppcid: '1485654'
     cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
     tx_amount: 50000.0
+- tx_firstname: WILLIAM S.
+  tx_lastname: FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 50000.0
+- tx_firstname: ''
+  tx_lastname: SUTTER HEALTH
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 50000.0
 - tx_firstname: ''
   tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 521
   tx_entitycode: Other
@@ -455,16 +475,6 @@ contributors:
     cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
       BY LABOR ORGANIZATIONS
     tx_amount: 50000.0
-- tx_firstname: WILLIAM S.
-  tx_lastname: FISHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 50000.0
 - tx_firstname: ''
   tx_lastname: 'AMAZON.COM SERVICES LLC(RESPONSIBLE OFFICER: ANDREA  FAVA)'
   tx_entitycode: Other
@@ -474,16 +484,6 @@ contributors:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 50000.0
-- tx_firstname: ''
-  tx_lastname: SUTTER HEALTH
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 50000.0
 - tx_firstname: ''
   tx_lastname: CALIFORNIA NURSES ASSOCIATION / NATIONAL NURSES ORGANIZING COMMITTEE
@@ -547,14 +547,14 @@ contributors:
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: ''
-  tx_lastname: ROSENDIN ELECTRIC, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
+  tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC ISSUES & INITIATIVES
+    SPONSORED BY SERVICE EMPLOYEE UNION
+  tx_entitycode: Committee
+  tx_cmteid: '891044'
   tx_amount: 25000.0
   transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 25000.0
 - tx_firstname: ''
   tx_lastname: CALIFORNIANS TO PROTECT RETIREMENT AND LIFE SAVINGS, SPONSORED BY BUILDING
@@ -578,14 +578,14 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 25000.0
 - tx_firstname: ''
-  tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 721 CTW, CLC ISSUES & INITIATIVES
-    SPONSORED BY SERVICE EMPLOYEE UNION
-  tx_entitycode: Committee
-  tx_cmteid: '891044'
+  tx_lastname: ROSENDIN ELECTRIC, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
   tx_amount: 25000.0
   transactions:
-  - cmte_fppcid: '1484969'
-    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 25000.0
 - tx_firstname: ''
   tx_lastname: SAN FRANCISCO CHAMBER OF COMMERCE
@@ -598,6 +598,15 @@ contributors:
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 24500.0
 - tx_firstname: ''
+  tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO COMMITTEE ON POLITICAL EDUCATION
+  tx_entitycode: Committee
+  tx_cmteid: '822448'
+  tx_amount: 20000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 20000.0
+- tx_firstname: ''
   tx_lastname: SAN FRANCISCO LABOR COUNCIL LABOR & NEIGHBOR
   tx_entitycode: Committee
   tx_cmteid: '941562'
@@ -606,15 +615,6 @@ contributors:
   - cmte_fppcid: '1488862'
     cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
       BY LABOR ORGANIZATIONS
-    tx_amount: 20000.0
-- tx_firstname: JEROME
-  tx_lastname: GUILLEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 20000.0
-  transactions:
-  - cmte_fppcid: '1485878'
-    cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 20000.0
 - tx_firstname: ''
   tx_lastname: CALRETAILERS ISSUES POLITICAL ACTION COMMITTEE, SPONSORED BY THE CALIFORNIA
@@ -627,15 +627,25 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 20000.0
-- tx_firstname: ''
-  tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO COMMITTEE ON POLITICAL EDUCATION
-  tx_entitycode: Committee
-  tx_cmteid: '822448'
+- tx_firstname: JEROME
+  tx_lastname: GUILLEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
   tx_amount: 20000.0
   transactions:
-  - cmte_fppcid: '1484969'
-    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  - cmte_fppcid: '1485878'
+    cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 20000.0
+- tx_firstname: ''
+  tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO PAC INDEPENDENT
+    EXPENDITURES AKA (BOMA-SF-PAC-IE)
+  tx_entitycode: Committee
+  tx_cmteid: '870449'
+  tx_amount: 19998.0
+  transactions:
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 19998.0
 - tx_firstname: ''
   tx_lastname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
   tx_entitycode: Other
@@ -666,16 +676,6 @@ contributors:
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 16570.57
 - tx_firstname: ''
-  tx_lastname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1244001'
-  tx_amount: 15000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 15000.0
-- tx_firstname: ''
   tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY
     PATIENT CARE AND UNION DEMOCRACY
   tx_entitycode: Committee
@@ -689,6 +689,16 @@ contributors:
     cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
       BY LABOR ORGANIZATIONS
     tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1244001'
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 15000.0
 - tx_firstname: DIANA L.
   tx_lastname: NELSON
   tx_entitycode: Individual
@@ -776,16 +786,6 @@ contributors:
   - cmte_fppcid: '1488188'
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: ''
-  tx_lastname: CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1264590'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 10000.0
 - tx_firstname: PHIN
   tx_lastname: BARNES
   tx_entitycode: Individual
@@ -794,16 +794,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: RANGER PIPELINES, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 10000.0
 - tx_firstname: ''
   tx_lastname: BXP, INC.
@@ -816,16 +806,6 @@ contributors:
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 10000.0
 - tx_firstname: ''
-  tx_lastname: AMR HOLDCO, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 10000.0
-- tx_firstname: ''
   tx_lastname: COMCAST FINANCIAL AGENCY CORPORATION
   tx_entitycode: Other
   tx_cmteid: ''
@@ -834,73 +814,6 @@ contributors:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: ARCHITECTURAL GLASS & ALUMINUM CO INC
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: ELENI KOUNALAKIS BALLOT MEASURE COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '1460720'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
-  tx_entitycode: Committee
-  tx_cmteid: '1459009'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 10000.0
-- tx_firstname: LEAH
-  tx_lastname: CULVER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1485878'
-    cmte_name: TERM LIMITS NOW - YES ON B!
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: HOTEL COUNCIL PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1381090'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 10000.0
-- tx_firstname: NOAH
-  tx_lastname: SMITH
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1488188'
-    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 10000.0
-- tx_firstname: ''
-  tx_lastname: SAN FRANCISCO LABOR AND NEIGHBOR EDUCATION
-  tx_entitycode: Committee
-  tx_cmteid: '970630'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1488891'
-    cmte_name: NO LIFETIME BAN
     tx_amount: 10000.0
 - tx_firstname: ''
   tx_lastname: UNITE HERE LOCAL 2 ISSUES COMMITTEE
@@ -922,15 +835,102 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 10000.0
 - tx_firstname: ''
-  tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO PAC INDEPENDENT
-    EXPENDITURES AKA (BOMA-SF-PAC-IE)
+  tx_lastname: SAN FRANCISCO LABOR AND NEIGHBOR EDUCATION
   tx_entitycode: Committee
-  tx_cmteid: '870449'
-  tx_amount: 9999.0
+  tx_cmteid: '970630'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1488891'
+    cmte_name: NO LIFETIME BAN
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: AMR HOLDCO, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: ELENI KOUNALAKIS BALLOT MEASURE COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1460720'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: ARCHITECTURAL GLASS & ALUMINUM CO INC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
+- tx_firstname: NOAH
+  tx_lastname: SMITH
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1488188'
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 9999.0
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: HOTEL COUNCIL PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1381090'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 10000.0
+- tx_firstname: LEAH
+  tx_lastname: CULVER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1485878'
+    cmte_name: TERM LIMITS NOW - YES ON B!
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
+  tx_entitycode: Committee
+  tx_cmteid: '1459009'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1264590'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 10000.0
+- tx_firstname: ''
+  tx_lastname: RANGER PIPELINES, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
 - tx_firstname: ''
   tx_lastname: 'BEST BUY PURCHASING LLC(RESPONSIBLE OFFICER: MIKE HILTNER)'
   tx_entitycode: Other
@@ -1045,8 +1045,8 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: CAL
-  tx_lastname: HENDERSON
+- tx_firstname: SCOTT
+  tx_lastname: LEACHMAN
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5400.0
@@ -1057,20 +1057,32 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: ELIZABETH S.
-  tx_lastname: FISHER
+- tx_firstname: HELEN
+  tx_lastname: SPALDING
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5400.0
   transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_firstname: RAPHAELA
   tx_lastname: LIPINSKY DEGETTE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5400.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
+- tx_firstname: CAL
+  tx_lastname: HENDERSON
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5400.0
@@ -1105,56 +1117,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: SCOTT
-  tx_lastname: LEACHMAN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5400.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 4900.0
-- tx_firstname: MARY
-  tx_lastname: SHERRILL
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5400.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 4900.0
 - tx_firstname: WARD
   tx_lastname: WOODS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5400.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 4900.0
-- tx_firstname: HELEN
-  tx_lastname: SPALDING
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5400.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 4900.0
-- tx_firstname: DANNY
-  tx_lastname: CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5400.0
@@ -1177,6 +1141,42 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
+- tx_firstname: DANNY
+  tx_lastname: CONWAY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5400.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
+- tx_firstname: ELIZABETH S.
+  tx_lastname: FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5400.0
+  transactions:
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: MARY
+  tx_lastname: SHERRILL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5400.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
 - tx_firstname: ''
   tx_lastname: TEAMSTERS JOINT COUNCIL NO 7 PAC
   tx_entitycode: Committee
@@ -1188,33 +1188,13 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 5000.0
 - tx_firstname: ''
-  tx_lastname: WILSON MEANY LP
+  tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 5000.0
   transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 5000.0
-- tx_firstname: BENJAMIN
-  tx_lastname: BOLOGNA
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 5000.0
-- tx_firstname: ''
-  tx_lastname: SWINERTON BUILDERS
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 5000.0
 - tx_firstname: FIROUZEH
   tx_lastname: HAERI
@@ -1225,15 +1205,6 @@ contributors:
   - cmte_fppcid: '1488379'
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     tx_amount: 5000.0
-- tx_firstname: ''
-  tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1484969'
-    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-    tx_amount: 5000.0
 - tx_firstname: GREGORY
   tx_lastname: FLYNN
   tx_entitycode: Individual
@@ -1242,6 +1213,26 @@ contributors:
   transactions:
   - cmte_fppcid: '1485878'
     cmte_name: TERM LIMITS NOW - YES ON B!
+    tx_amount: 5000.0
+- tx_firstname: ''
+  tx_lastname: WILSON MEANY LP
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 5000.0
+- tx_firstname: ''
+  tx_lastname: SWINERTON BUILDERS
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 5000.0
 - tx_firstname: ''
   tx_lastname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY COMMITTEE
@@ -1292,15 +1283,6 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 5000.0
-- tx_firstname: AMOS
-  tx_lastname: ELLISTON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1488188'
-    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 5000.0
 - tx_firstname: ''
   tx_lastname: COMCAST CORPORATION
   tx_entitycode: Other
@@ -1320,6 +1302,15 @@ contributors:
   - cmte_fppcid: '1486676'
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 5000.0
+- tx_firstname: AMOS
+  tx_lastname: ELLISTON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 5000.0
 - tx_firstname: ''
   tx_lastname: FONTENOY ENGINEERING INC.
@@ -1369,6 +1360,15 @@ contributors:
   - cmte_fppcid: '1486676'
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 5000.0
+- tx_firstname: BENJAMIN
+  tx_lastname: BOLOGNA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 5000.0
 - tx_firstname: SPENSER
   tx_lastname: SKATES
@@ -1426,8 +1426,8 @@ contributors:
   - cmte_fppcid: '1488891'
     cmte_name: NO LIFETIME BAN
     tx_amount: 5000.0
-- tx_firstname: MARK
-  tx_lastname: GEORGE
+- tx_firstname: LAUREN
+  tx_lastname: BERNSTEIN
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1435,8 +1435,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: JAMES H.
-  tx_lastname: GREENE, JR.
+- tx_firstname: ERICA
+  tx_lastname: LAWSON
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1462,8 +1462,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: REBECCA
-  tx_lastname: REEVE
+- tx_firstname: JEFF
+  tx_lastname: LAWSON
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1471,8 +1471,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: NINI
-  tx_lastname: SPALDING
+- tx_firstname: JAMES H.
+  tx_lastname: GREENE, JR.
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1480,17 +1480,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: PATRICK
-  tx_lastname: SPALDING
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 4900.0
-  transactions:
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 4900.0
-- tx_firstname: LAUREN
-  tx_lastname: BERNSTEIN
+- tx_firstname: MARK
+  tx_lastname: GEORGE
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1507,6 +1498,15 @@ contributors:
   - cmte_fppcid: '1488188'
     cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 4900.0
+- tx_firstname: PATRICK
+  tx_lastname: SPALDING
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 4900.0
+  transactions:
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 4900.0
 - tx_firstname: WILLIAM S.
   tx_lastname: FISHERQ
   tx_entitycode: Individual
@@ -1516,8 +1516,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: JEFF
-  tx_lastname: LAWSON
+- tx_firstname: NINI
+  tx_lastname: SPALDING
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1525,8 +1525,8 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 4900.0
-- tx_firstname: ERICA
-  tx_lastname: LAWSON
+- tx_firstname: REBECCA
+  tx_lastname: REEVE
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 4900.0
@@ -1602,8 +1602,8 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 3200.0
-- tx_firstname: NIGEL
-  tx_lastname: STAPLES
+- tx_firstname: BRYAN
+  tx_lastname: EVANS
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2750.0
@@ -1612,8 +1612,8 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 2750.0
-- tx_firstname: BRYAN
-  tx_lastname: EVANS
+- tx_firstname: NIGEL
+  tx_lastname: STAPLES
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2750.0
@@ -1651,36 +1651,17 @@ contributors:
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     tx_amount: 2500.0
 - tx_firstname: ''
+  tx_lastname: ANVIL BUILDERS, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 2500.0
+- tx_firstname: ''
   tx_lastname: MICHAEL O'SHAUGHNESSY CONSTRUCTION INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 2500.0
-- tx_firstname: ''
-  tx_lastname: NIBBI BROS ASSOCIATES, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1488379'
-    cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    tx_amount: 2500.0
-- tx_firstname: ''
-  tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1406838'
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 2500.0
-- tx_firstname: ''
-  tx_lastname: SILVERADO CONTRACTORS INC.
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 2500.0
@@ -1699,6 +1680,36 @@ contributors:
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     tx_amount: 2500.0
 - tx_firstname: ''
+  tx_lastname: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1243711'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 2500.0
+- tx_firstname: ''
+  tx_lastname: SILVERADO CONTRACTORS INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 2500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1406838'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 2500.0
+- tx_firstname: ''
   tx_lastname: HOSELEY CORPORATION
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1709,14 +1720,13 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 2500.0
 - tx_firstname: ''
-  tx_lastname: ANVIL BUILDERS, INC.
+  tx_lastname: NIBBI BROS ASSOCIATES, INC.
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 2500.0
   transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  - cmte_fppcid: '1488379'
+    cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     tx_amount: 2500.0
 - tx_firstname: ALLAN
   tx_lastname: YARKIN
@@ -1736,25 +1746,27 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 2450.0
-- tx_firstname: S OSBORN (OZ)
-  tx_lastname: ERICKSON
+- tx_firstname: JOHN
+  tx_lastname: LYONS
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2000.0
   transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 2000.0
-- tx_firstname: SILVANUS OSBORN
-  tx_lastname: ERICKSON
+- tx_firstname: MICHAEL
+  tx_lastname: MORANDI
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2000.0
   transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
   - cmte_fppcid: '1488379'
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    tx_amount: 2000.0
+    tx_amount: 1500.0
 - tx_firstname: JOHN
   tx_lastname: JERSIN
   tx_entitycode: Individual
@@ -1785,27 +1797,25 @@ contributors:
   - cmte_fppcid: '1485654'
     cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
-- tx_firstname: JOHN
-  tx_lastname: LYONS
+- tx_firstname: S OSBORN (OZ)
+  tx_lastname: ERICKSON
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2000.0
   transactions:
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 2000.0
-- tx_firstname: MICHAEL
-  tx_lastname: MORANDI
+- tx_firstname: SILVANUS OSBORN
+  tx_lastname: ERICKSON
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 2000.0
   transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
   - cmte_fppcid: '1488379'
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    tx_amount: 1500.0
+    tx_amount: 2000.0
 - tx_firstname: ''
   tx_lastname: KPFF CONSULTING ENGINEERS
   tx_entitycode: Other
@@ -1816,15 +1826,82 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1520.0
-- tx_firstname: RICHARD
-  tx_lastname: ALEXANDER
+- tx_firstname: ''
+  tx_lastname: MATT HANEY FOR ASSEMBLY 2026
+  tx_entitycode: Committee
+  tx_cmteid: '1476944'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: GREGORY
+  tx_lastname: BLAINE
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1500.0
   transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 500.0
+- tx_firstname: PAUL
+  tx_lastname: MELBOSTAD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
   - cmte_fppcid: '1484957'
     cmte_name: DAVID LEE FOR SUPERVISOR 2026
-    tx_amount: 1500.0
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: WILLIAM
+  tx_lastname: FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: JOSEPH O.
+  tx_lastname: TOBIN II
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_firstname: SACHIN
   tx_lastname: AGARWAL
   tx_entitycode: Individual
@@ -1870,10 +1947,10 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: MATT HANEY FOR ASSEMBLY 2026
-  tx_entitycode: Committee
-  tx_cmteid: '1476944'
+- tx_firstname: PATRICK
+  tx_lastname: WOLFF
+  tx_entitycode: Individual
+  tx_cmteid: ''
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1479700'
@@ -1882,8 +1959,8 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: CHASEL
   tx_lastname: LEE
@@ -1900,18 +1977,25 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: RALPH
-  tx_lastname: DRYBROUGH
+- tx_firstname: ''
+  tx_lastname: GHILOTTI BROS, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 1500.0
+- tx_firstname: RICHARD
+  tx_lastname: ALEXANDER
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1500.0
   transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484891'
-    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 1000.0
+  - cmte_fppcid: '1484957'
+    cmte_name: DAVID LEE FOR SUPERVISOR 2026
+    tx_amount: 1500.0
 - tx_firstname: AARON
   tx_lastname: PESKIN
   tx_entitycode: Individual
@@ -1926,31 +2010,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1485654'
     cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: GHILOTTI BROS, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 1500.0
-- tx_firstname: JOSEPH O.
-  tx_lastname: TOBIN II
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: CHRISTIN
   tx_lastname: EVANS
@@ -1967,23 +2026,8 @@ contributors:
   - cmte_fppcid: '1485654'
     cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
-- tx_firstname: PAUL
-  tx_lastname: MELBOSTAD
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484957'
-    cmte_name: DAVID LEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: PATRICK
-  tx_lastname: WOLFF
+- tx_firstname: RALPH
+  tx_lastname: DRYBROUGH
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1500.0
@@ -1991,43 +2035,9 @@ contributors:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: WILLIAM
-  tx_lastname: FISHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: GREGORY
-  tx_lastname: BLAINE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 500.0
+  - cmte_fppcid: '1484891'
+    cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 1000.0
 - tx_firstname: DIMITRIOS
   tx_lastname: PHILLIOU
   tx_entitycode: Individual
@@ -2058,36 +2068,6 @@ contributors:
   - cmte_fppcid: '1485654'
     cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
     tx_amount: 250.0
-- tx_firstname: HEATHER
-  tx_lastname: DAVIES
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1250.0
-  transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485654'
-    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 250.0
-- tx_firstname: HEATHER
-  tx_lastname: MCCARTY
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1250.0
-  transactions:
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485878'
-    cmte_name: TERM LIMITS NOW - YES ON B!
-    tx_amount: 250.0
 - tx_firstname: JOHN
   tx_lastname: LEE
   tx_entitycode: Individual
@@ -2103,6 +2083,36 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_firstname: HEATHER
+  tx_lastname: MCCARTY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485878'
+    cmte_name: TERM LIMITS NOW - YES ON B!
+    tx_amount: 250.0
+- tx_firstname: HEATHER
+  tx_lastname: DAVIES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485654'
+    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
+    tx_amount: 250.0
 - tx_firstname: VANITA
   tx_lastname: LOUIE
   tx_entitycode: Individual
@@ -2121,21 +2131,6 @@ contributors:
   - cmte_fppcid: '1488901'
     cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
     tx_amount: 240.0
-- tx_firstname: STEVEN
-  tx_lastname: LEE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1150.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 150.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 750.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 250.0
 - tx_firstname: SANDRA
   tx_lastname: FEWER
   tx_entitycode: Individual
@@ -2151,6 +2146,21 @@ contributors:
   - cmte_fppcid: '1484957'
     cmte_name: DAVID LEE FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_firstname: STEVEN
+  tx_lastname: LEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 150.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 750.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 250.0
 - tx_firstname: STUART
   tx_lastname: FONG
   tx_entitycode: Individual
@@ -2166,20 +2176,8 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: JENCKYN
-  tx_lastname: GOOSBY
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485654'
-    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
-- tx_firstname: ANNE
-  tx_lastname: KENNER
+- tx_firstname: COURTNEY
+  tx_lastname: BENOIST
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2189,6 +2187,18 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
+- tx_firstname: LORI
+  tx_lastname: LIEDERMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: MICHAEL
   tx_lastname: EISLER
@@ -2202,8 +2212,20 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: STEVEN
-  tx_lastname: MERRILL
+- tx_firstname: JEREMY
+  tx_lastname: LIEW
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: ANNE
+  tx_lastname: KENNER
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2214,8 +2236,17 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-- tx_firstname: SLOANE
-  tx_lastname: CONWAY
+- tx_firstname: SCOTT
+  tx_lastname: PLANK
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1485878'
+    cmte_name: TERM LIMITS NOW - YES ON B!
+    tx_amount: 1000.0
+- tx_firstname: MARY
+  tx_lastname: JUNG
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2223,8 +2254,23 @@ contributors:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+  - cmte_fppcid: '1485609'
+    cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 250.0
+- tx_firstname: JENCKYN
+  tx_lastname: GOOSBY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485654'
+    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
 - tx_firstname: JEFFREY
   tx_lastname: PANZER
@@ -2250,20 +2296,8 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: LORI
-  tx_lastname: LIEDERMAN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: COURTNEY
-  tx_lastname: BENOIST
+- tx_firstname: SLOANE
+  tx_lastname: CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2274,8 +2308,8 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-- tx_firstname: JASON
-  tx_lastname: FISH
+- tx_firstname: STEVEN
+  tx_lastname: MERRILL
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2298,8 +2332,8 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-- tx_firstname: MARY
-  tx_lastname: JUNG
+- tx_firstname: JASON
+  tx_lastname: FISH
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2307,21 +2341,9 @@ contributors:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1485609'
-    cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 250.0
-- tx_firstname: SCOTT
-  tx_lastname: PLANK
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1485878'
-    cmte_name: TERM LIMITS NOW - YES ON B!
-    tx_amount: 1000.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
 - tx_firstname: PAUL
   tx_lastname: BRYNE
   tx_entitycode: Individual
@@ -2419,18 +2441,6 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: REBECCA
-  tx_lastname: PROWDA
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_firstname: KATHERINE
   tx_lastname: HOWARD
   tx_entitycode: Individual
@@ -2442,6 +2452,18 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484806'
     cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: REBECCA
+  tx_lastname: PROWDA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: NICK
   tx_lastname: PODELL
@@ -2655,18 +2677,6 @@ contributors:
   - cmte_fppcid: '1483649'
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
-- tx_firstname: JEREMY
-  tx_lastname: LIEW
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_firstname: LOUISE
   tx_lastname: PATTERSON
   tx_entitycode: Individual
@@ -2680,18 +2690,6 @@ contributors:
     cmte_name: LORI BROOKE FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: THOMAS
-  tx_lastname: DUDA
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485654'
-    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
-- tx_firstname: THOMAS
   tx_lastname: VAIL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2703,8 +2701,28 @@ contributors:
   - cmte_fppcid: '1484332'
     cmte_name: LORI BROOKE FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: TODD
-  tx_lastname: DAVID
+- tx_firstname: ''
+  tx_lastname: TEAM NORTH CONSTRUCTION SERVICES INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: EDESIGNC INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 1000.0
+- tx_firstname: ALEC
+  tx_lastname: PERKINS
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2712,8 +2730,32 @@ contributors:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: OPERATING ENGINEERS LOCAL UNION 3 DISTRICT 01, 02 & 03 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '891394'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS UNION LOCAL NO. 665
+  tx_entitycode: Committee
+  tx_cmteid: '1280975'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: TODOR
   tx_lastname: MARKOV
@@ -2727,47 +2769,20 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: TEAMSTERS LOCAL NO 853 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1250157'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 1000.0
 - tx_firstname: ERICA
   tx_lastname: TIMBRELL
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: ALEC
-  tx_lastname: PERKINS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: FIONA
-  tx_lastname: MA
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL CANDIDATE
-    PAC
-  tx_entitycode: Committee
-  tx_cmteid: '910874'
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1479700'
@@ -2789,9 +2804,9 @@ contributors:
     cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_firstname: ''
-  tx_lastname: TEF ARCHITECTURE & INTERIOR DESIGN, INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
+  tx_lastname: RAFAEL MANDELMAN FOR STATE SENATE 2028
+  tx_entitycode: Committee
+  tx_cmteid: '1460689'
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -2799,29 +2814,19 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1000.0
 - tx_firstname: ''
-  tx_lastname: TEAMSTERS UNION LOCAL NO. 665
+  tx_lastname: GFC COURAGE COMMITTEE - BAY AREA CHAPTER
   tx_entitycode: Committee
-  tx_cmteid: '1280975'
+  tx_cmteid: '1423911'
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1479700'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1485709'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
 - tx_firstname: ''
-  tx_lastname: TEAMSTERS LOCAL NO 853 PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1250157'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 1000.0
-- tx_firstname: ''
-  tx_lastname: TEAM NORTH CONSTRUCTION SERVICES INC.
+  tx_lastname: SINGULAR BUILDERS
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2831,7 +2836,7 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1000.0
 - tx_firstname: ''
-  tx_lastname: SINGULAR BUILDERS
+  tx_lastname: HENSEL PHELPS
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2850,10 +2855,34 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1000.0
+- tx_firstname: THOMAS
+  tx_lastname: DUDA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485654'
+    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+- tx_firstname: TODD
+  tx_lastname: DAVID
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483649'
+    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
+    tx_amount: 500.0
 - tx_firstname: ''
-  tx_lastname: RAFAEL MANDELMAN FOR STATE SENATE 2028
-  tx_entitycode: Committee
-  tx_cmteid: '1460689'
+  tx_lastname: TEF ARCHITECTURE & INTERIOR DESIGN, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -2861,9 +2890,20 @@ contributors:
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1000.0
 - tx_firstname: ''
-  tx_lastname: OPERATING ENGINEERS LOCAL UNION 3 DISTRICT 01, 02 & 03 PAC
+  tx_lastname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
   tx_entitycode: Committee
-  tx_cmteid: '891394'
+  tx_cmteid: '1416442'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 1000.0
+- tx_firstname: ''
+  tx_lastname: UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL CANDIDATE
+    PAC
+  tx_entitycode: Committee
+  tx_cmteid: '910874'
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1479700'
@@ -2872,8 +2912,8 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: GERALDINE
-  tx_lastname: SANGIACOMO
+- tx_firstname: FIONA
+  tx_lastname: MA
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
@@ -2884,16 +2924,6 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: HENSEL PHELPS
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 1000.0
 - tx_firstname: ''
   tx_lastname: HATHAWAY DINWIDDIE CONSTRUCTION CO.
   tx_entitycode: Other
@@ -2917,48 +2947,6 @@ contributors:
     cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
     tx_amount: 500.0
 - tx_firstname: ''
-  tx_lastname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
-  tx_entitycode: Committee
-  tx_cmteid: '1416442'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 1000.0
-- tx_firstname: ''
-  tx_lastname: GFC COURAGE COMMITTEE - BAY AREA CHAPTER
-  tx_entitycode: Committee
-  tx_cmteid: '1423911'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1479700'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483649'
-    cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
-    tx_amount: 500.0
-- tx_firstname: ''
-  tx_lastname: EDESIGNC INC.
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 1000.0
-- tx_firstname: ''
-  tx_lastname: DIGITAL DISCLOSURE(JAMES JACKSON)
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 1000.0
-- tx_firstname: ''
   tx_lastname: CLEAR CHANNEL OUTDOOR, LLC(BRYAN PARKER)
   tx_entitycode: Other
   tx_cmteid: ''
@@ -2970,6 +2958,28 @@ contributors:
     tx_amount: 1000.0
 - tx_firstname: ERIC
   tx_lastname: ANDRESEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1479700'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485709'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_firstname: ''
+  tx_lastname: DIGITAL DISCLOSURE(JAMES JACKSON)
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 1000.0
+- tx_firstname: GERALDINE
+  tx_lastname: SANGIACOMO
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
