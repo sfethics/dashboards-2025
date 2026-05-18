@@ -25,15 +25,15 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 944105.56
-  expenses: 421117.8
+  funds: 978445.03
+  expenses: 423149.1
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 308200.0
-  expenses: 377669.25
+  funds: 309200.0
+  expenses: 408169.25
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
@@ -43,13 +43,13 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 713555.0
-  expenses: 1123975.8
+  expenses: 1143564.01
 measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 219258.81
-  funds: 375550.0
+  funds: 385550.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -65,7 +65,7 @@ measures:
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 1471972.79
-  funds: 5112567.89
+  funds: 5262580.39
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
   - 860000.0
@@ -93,7 +93,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 603178.96
+  total_expense: 622767.17
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide

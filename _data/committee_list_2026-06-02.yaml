@@ -390,6 +390,9 @@ committees:
 - cmte_name: Working Families for San Francisco PAC
   cmte_fppcid: 00945303
   cmte_nid: unknown
+- cmte_name: David Dewilde
+  cmte_fppcid: '1398794'
+  cmte_nid: '208194494'
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
@@ -399,6 +402,9 @@ committees:
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
+- cmte_name: Jonathan Gans
+  cmte_fppcid: unknown
+  cmte_nid: '209507770'
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
