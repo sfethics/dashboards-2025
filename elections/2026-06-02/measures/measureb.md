@@ -27,7 +27,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 357750.0
+  funds: 367750.0
   expenses: 215293.23
   ies: ''
 multi_committees: []
@@ -48,9 +48,9 @@ contributors:
   - 10000.0
 - - San Francisco Labor and Neighbor Education
   - 10000.0
+- - the Prado Group, Inc.
+  - 10000.0
 - - Stephen Dodson
-  - 5000.0
-- - Silvanus Obsorn Erickson
   - 5000.0
 
 ---

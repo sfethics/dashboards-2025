@@ -17,6 +17,11 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: UNITE HERE Local 2 Issues Committee
+  cmte_fppcid: '1384604'
+  cmte_nid: '160011229'
+  committee_type: General Purpose
+  total_expense: 10000.0
 - cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
     Corp.
   cmte_fppcid: '1388285'
@@ -43,6 +48,11 @@ committees:
   cmte_nid: '203556801'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: David Dewilde
+  cmte_fppcid: '1398794'
+  cmte_nid: '208194494'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: MATT DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
   cmte_fppcid: '1463832'
   cmte_nid: '208697921'
@@ -107,7 +117,7 @@ committees:
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
   committee_type: Candidate Controlled
-  total_expense: 1952.74
+  total_expense: 3984.04
 - cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
@@ -143,7 +153,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 683178.96
+  total_expense: 702767.17
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -154,7 +164,7 @@ committees:
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
   committee_type: Primarily Formed Candidate
-  total_expense: 1085.0
+  total_expense: 31585.0
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
@@ -253,7 +263,7 @@ committees:
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
   committee_type: General Purpose
-  total_expense: 70000.0
+  total_expense: 80000.0
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'

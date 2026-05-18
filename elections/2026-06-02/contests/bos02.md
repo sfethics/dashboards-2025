@@ -55,8 +55,8 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    funds: 41000.0
-    expenses: 0.0
+    funds: 42000.0
+    expenses: 30500.0
   - position: SUPPORT
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
