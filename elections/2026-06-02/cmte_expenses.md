@@ -180,7 +180,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 164766.24
+  total_expense: 165866.24
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -263,7 +263,7 @@ committees:
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
   committee_type: General Purpose
-  total_expense: 80000.0
+  total_expense: 60000.0
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
