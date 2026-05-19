@@ -79,6 +79,9 @@ committees:
     by International Union of Operating Engineers Local 3
   cmte_fppcid: '1488209'
   cmte_nid: '216673030'
+- cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
+  cmte_fppcid: '1489257'
+  cmte_nid: '216006060'
 - cmte_name: Equal Fire Protection for All Committee to Oppose Proposition a June
     2026
   cmte_fppcid: unknown
@@ -183,6 +186,9 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Fire Fighters Local 798 P.a.c. - Ballot Issues
+  cmte_fppcid: '1462942'
+  cmte_nid: '211998686'
 - cmte_name: San Francisco Labor Council Labor & Neighbor
   cmte_fppcid: '941562'
   cmte_nid: '6673767'
@@ -411,6 +417,9 @@ committees:
 - cmte_name: Luis Belmonte
   cmte_fppcid: '1447783'
   cmte_nid: '216750427'
+- cmte_name: Mick Hellman
+  cmte_fppcid: '1392148'
+  cmte_nid: '160534058'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

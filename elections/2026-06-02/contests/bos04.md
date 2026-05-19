@@ -95,7 +95,7 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 385000.0
-    expenses: 185135.82
+    expenses: 186235.82
 - candidate_name: ALBERT CHOW
   filer_id: '1485609'
   committees:

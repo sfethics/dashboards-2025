@@ -15,7 +15,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1969984.99
+  funds: 1973725.38
   expenses: 721097.65
   ies: ''
 - position: SUPPORT
@@ -32,7 +32,7 @@ multi_committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 5262580.39
+  funds: 5406580.39
   expenses: 1471972.79
 contributors:
 - - Service Employees International Union Local 1021 Issues PAC
@@ -40,7 +40,7 @@ contributors:
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 450000.0
 - - Dignity Ca Service Employees International Union Seiu Local 2015
-  - 205660.62
+  - 207401.01
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 200000.0
 - - International Federation of Professional and Technical Engineers, Local 21 Issues
