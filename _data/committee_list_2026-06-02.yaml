@@ -364,6 +364,9 @@ committees:
 - cmte_name: San Francisco Women's Political Committee Voter Guide
   cmte_fppcid: '1448359'
   cmte_nid: unknown
+- cmte_name: Seiu California State Council for Working People
+  cmte_fppcid: '960895'
+  cmte_nid: unknown
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1482711'
   cmte_nid: unknown
@@ -411,6 +414,9 @@ committees:
 - cmte_name: Jonathan Gans
   cmte_fppcid: unknown
   cmte_nid: '209507770'
+- cmte_name: Katherine August Dewilde
+  cmte_fppcid: '1398795'
+  cmte_nid: '209506314'
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'

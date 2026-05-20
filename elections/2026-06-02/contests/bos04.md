@@ -71,7 +71,7 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 328555.0
-    expenses: 207794.84
+    expenses: 242851.3
   - position: SUPPORT
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
@@ -95,7 +95,7 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 385000.0
-    expenses: 186235.82
+    expenses: 187735.82
 - candidate_name: ALBERT CHOW
   filer_id: '1485609'
   committees:

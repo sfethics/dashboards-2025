@@ -21,7 +21,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1370910.0
+  funds: 1408910.0
   expenses: 301829.06
   ies: ''
 - position: SUPPORT
@@ -36,7 +36,7 @@ contributors:
 - - Christian Larsen
   - 520000.0
 - - California Alliance for Jobs - Rebuild California Committee
-  - 150000.0
+  - 178000.0
 - - Doordash, Inc.
   - 100000.0
 - - Steven Huffman

@@ -32,13 +32,13 @@ multi_committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 5406580.39
+  funds: 5556580.39
   expenses: 1471972.79
 contributors:
 - - Service Employees International Union Local 1021 Issues PAC
   - 600000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 450000.0
+  - 350000.0
 - - Dignity Ca Service Employees International Union Seiu Local 2015
   - 207401.01
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
@@ -48,6 +48,8 @@ contributors:
   - 120000.0
 - - Saikat Chakrabarti
   - 100000.0
+- - Seiu California State Council for Working People
+  - 100000.0
 - - International Federation of Professional and Technical Engineers Local 21
   - 53353.8
 - - California Nurses Association / National Nurses Organizing Committee (Cna / Nnoc
@@ -55,9 +57,6 @@ contributors:
   - 50000.0
 - - Service Employees International Union - Seiu Local 521
   - 50000.0
-- - San Francisco Labor & Neighbor Member Education / Political Issues Committee,
-    Sponsored by the San Francisco Labor Council
-  - 45000.0
 
 ---
 

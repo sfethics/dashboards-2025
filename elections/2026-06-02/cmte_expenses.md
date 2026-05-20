@@ -52,12 +52,17 @@ committees:
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'
   committee_type: Major Donor
-  total_expense: 50000.0
+  total_expense: 0.0
 - cmte_name: MATT DORSEY FOR DCCC MEMBER 2024 OFFICEHOLDER COMMITTEE
   cmte_fppcid: '1463832'
   cmte_nid: '208697921'
   committee_type: Candidate Controlled
   total_expense: 2000.0
+- cmte_name: Katherine August DeWilde
+  cmte_fppcid: '1398795'
+  cmte_nid: '209506314'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
@@ -107,7 +112,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 183194.93
+  total_expense: 198146.38
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -153,7 +158,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 702767.17
+  total_expense: 802767.17
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -164,12 +169,12 @@ committees:
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
   committee_type: Primarily Formed Candidate
-  total_expense: 31585.0
+  total_expense: 76585.0
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 222139.86
+  total_expense: 257196.32
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -180,7 +185,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 165866.24
+  total_expense: 167366.24
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -264,11 +269,6 @@ committees:
   cmte_nid: '6673760'
   committee_type: General Purpose
   total_expense: 60000.0
-- cmte_name: United Educators of San Francisco Committee on Political Education
-  cmte_fppcid: '822448'
-  cmte_nid: '6673824'
-  committee_type: General Purpose
-  total_expense: 15000.0
 - cmte_name: San Francisco Women's Political Committee
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'
@@ -278,7 +278,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 115248.03
+  total_expense: 109333.49
 
 ---
 

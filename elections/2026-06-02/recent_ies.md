@@ -6,6 +6,49 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 22523.0
+  tx_date: '2026-05-19'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216788022?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1488862'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: SUPPORT
+  tx_amount: 1500.0
+  tx_date: '2026-05-19'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 9055.1
+  tx_date: '2026-05-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787975?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 8900.16
+  tx_date: '2026-05-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216788022?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 5896.35
+  tx_date: '2026-05-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787975?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 3633.3
+  tx_date: '2026-05-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216788022?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
@@ -14,6 +57,13 @@ recent_ies:
   tx_amount: 1100.0
   tx_date: '2026-05-18'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216784471?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
+- cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+  cmte_fppcid: '1488379'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 25800.0
+  tx_date: '2026-05-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -27,35 +77,14 @@ recent_ies:
   position: SUPPORT
   tx_amount: 1200.0
   tx_date: '2026-05-14'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216778454?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
   cmte_fppcid: '1488379'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
   tx_amount: 3000.0
   tx_date: '2026-05-14'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216778454?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-  cmte_fppcid: '1488379'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 25800.0
-  tx_date: '2026-05-14'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216778454?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
-  cmte_fppcid: '842018'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 1754.08
-  tx_date: '2026-05-13'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216765793?aid=SFO&name=Alice%20B.%20Toklas%20Lesbian%20and%20Gay%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 661.25
-  tx_date: '2026-05-13'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
@@ -63,28 +92,20 @@ recent_ies:
   tx_amount: 5000.0
   tx_date: '2026-05-13'
   attachment_url: ''
-- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-  cmte_fppcid: '1488862'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 1314.01
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760570?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 1769.07
-  tx_date: '2026-05-12'
+  tx_amount: 661.25
+  tx_date: '2026-05-13'
   attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 36380.31
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768912?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
+- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 1754.08
+  tx_date: '2026-05-13'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216765793?aid=SFO&name=Alice%20B.%20Toklas%20Lesbian%20and%20Gay%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -94,7 +115,7 @@ recent_ies:
   attachment_url: ''
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: ALBERT CHOW'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: OPPOSE
   tx_amount: 1031.96
   tx_date: '2026-05-12'
@@ -107,27 +128,6 @@ recent_ies:
   tx_amount: 1971.02
   tx_date: '2026-05-12'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760585?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_OPPOSING_ALAN%20WONG
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 36380.3
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768928?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 41727.94
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768944?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 18533.81
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768880?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -137,18 +137,11 @@ recent_ies:
   attachment_url: ''
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 22015.97
-  tx_date: '2026-05-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768896?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: OPPOSE
-  tx_amount: 1031.96
+  tx_amount: 18533.81
   tx_date: '2026-05-12'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768880?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -156,34 +149,56 @@ recent_ies:
   tx_amount: 2789.32
   tx_date: '2026-05-12'
   attachment_url: ''
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 682.91
-  tx_date: '2026-05-11'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760308?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1488862'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: SUPPORT
+  tx_amount: 1314.01
+  tx_date: '2026-05-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760570?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 22015.97
+  tx_date: '2026-05-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768896?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 918.03
-  tx_date: '2026-05-11'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760390?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
+  tx_amount: 36380.3
+  tx_date: '2026-05-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768928?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 36380.31
+  tx_date: '2026-05-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768912?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: LORI BROOKE'
   position: OPPOSE
-  tx_amount: 1062.63
-  tx_date: '2026-05-11'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760308?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
+  tx_amount: 1769.07
+  tx_date: '2026-05-12'
+  attachment_url: ''
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  ie_description: 'Board of Supervisors D04: ALBERT CHOW'
   position: OPPOSE
-  tx_amount: 339.63
-  tx_date: '2026-05-11'
+  tx_amount: 1031.96
+  tx_date: '2026-05-12'
   attachment_url: ''
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 41727.94
+  tx_date: '2026-05-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216768944?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -193,11 +208,11 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760390?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 1722.25
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 682.91
   tx_date: '2026-05-11'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760296?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_SUPPORTING_STEPHEN%20SHERRILL
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760308?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALBERT CHOW'
@@ -212,6 +227,34 @@ recent_ies:
   tx_amount: 469.11
   tx_date: '2026-05-11'
   attachment_url: ''
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 339.63
+  tx_date: '2026-05-11'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 918.03
+  tx_date: '2026-05-11'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760390?aid=SFO&name=GrowSF%20Supporting%20Alan%20Wong%20for%20Supervisor%202026_SUPPORTING_ALAN%20WONG
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 1722.25
+  tx_date: '2026-05-11'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760296?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 1062.63
+  tx_date: '2026-05-11'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216760308?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -230,21 +273,49 @@ recent_ies:
   cmte_fppcid: '1488379'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
+  tx_amount: 15000.0
+  tx_date: '2026-05-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+  cmte_fppcid: '1488379'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
   tx_amount: 500.0
   tx_date: '2026-05-08'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216778454?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+  cmte_fppcid: '1488379'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 15000.0
+  tx_date: '2026-05-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+  cmte_fppcid: '1488379'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 15000.0
+  tx_date: '2026-05-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216787656?aid=SFO&name=Committee%20to%20Support%20Supervisor%20Stephen%20Sherrill%202026_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 27520.82
+  tx_date: '2026-05-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216786111?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 480.77
+  tx_date: '2026-05-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216786111?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
 - cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
   cmte_fppcid: '842018'
   ie_description: 'Board of Education: PHIL KIM'
   position: SUPPORT
   tx_amount: 150.0
-  tx_date: '2026-05-07'
-  attachment_url: ''
-- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
-  cmte_fppcid: '842018'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 2470.0
   tx_date: '2026-05-07'
   attachment_url: ''
 - cmte_name: GrowSF Voter Guide
@@ -262,34 +333,13 @@ recent_ies:
   tx_amount: 1100.0
   tx_date: '2026-05-07'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216748558?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
+- cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+  cmte_fppcid: '842018'
   ie_description: 'Board of Education: PHIL KIM'
   position: SUPPORT
-  tx_amount: 27520.82
+  tx_amount: 2470.0
   tx_date: '2026-05-07'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216786111?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 480.77
-  tx_date: '2026-05-07'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216786111?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 24000.0
-  tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216773622?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 3000.0
-  tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216744677?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+  attachment_url: ''
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -297,43 +347,6 @@ recent_ies:
   tx_amount: 17224.0
   tx_date: '2026-05-06'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216773641?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 2500.0
-  tx_date: '2026-05-06'
-  attachment_url: ''
-- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-  cmte_fppcid: '1488862'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: OPPOSE
-  tx_amount: 7545.81
-  tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216736723?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_OPPOSING_ALAN%20WONG
-- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-  cmte_fppcid: '1488862'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: SUPPORT
-  tx_amount: 3203.27
-  tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216736711?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 2500.0
-  tx_date: '2026-05-06'
-  attachment_url: ''
-- cmte_name: SAN FRANCISCO PARENT ACTION PAC
-  cmte_fppcid: '1442994'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 9275.36
-  tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216740859?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -348,19 +361,56 @@ recent_ies:
   tx_amount: 44968.0
   tx_date: '2026-05-06'
   attachment_url: ''
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 2500.0
-  tx_date: '2026-05-06'
-  attachment_url: ''
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: SUPPORT
   tx_amount: 5030.54
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216736711?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 3000.0
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216744677?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1488862'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: OPPOSE
+  tx_amount: 7545.81
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216736723?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_OPPOSING_ALAN%20WONG
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 950.0
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216740859?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 24000.0
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216773622?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 9275.36
+  tx_date: '2026-05-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216740859?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1488862'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: SUPPORT
+  tx_amount: 3203.27
   tx_date: '2026-05-06'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216736711?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
@@ -370,13 +420,20 @@ recent_ies:
   tx_amount: 500.0
   tx_date: '2026-05-06'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216740859?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
-- cmte_name: SAN FRANCISCO PARENT ACTION PAC
-  cmte_fppcid: '1442994'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 950.0
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 2500.0
   tx_date: '2026-05-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216740859?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-05-06'
+  attachment_url: ''
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
@@ -384,6 +441,13 @@ recent_ies:
   tx_amount: 5560.71
   tx_date: '2026-05-06'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216744677?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 2500.0
+  tx_date: '2026-05-06'
+  attachment_url: ''
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -398,13 +462,6 @@ recent_ies:
   tx_amount: 14134.1
   tx_date: '2026-05-05'
   attachment_url: ''
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 50000.0
-  tx_date: '2026-05-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216737896?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
@@ -412,109 +469,25 @@ recent_ies:
   tx_amount: 18949.08
   tx_date: '2026-05-05'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216739132?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 17624.0
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216763888?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 661.25
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 2000.0
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 1000.0
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'
   position: SUPPORT
-  tx_amount: 54987.6
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733678?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 3353.0
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216734228?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+  tx_amount: 50000.0
+  tx_date: '2026-05-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216737896?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 29411.75
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: California Alliance of Family Owned Businesses PAC
-  cmte_fppcid: '1465611'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
   tx_amount: 5705.0
   tx_date: '2026-05-04'
   attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 3336.0
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216739148?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 2000.0
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 2000.0
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: California Alliance of Family Owned Businesses PAC
-  cmte_fppcid: '1465611'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 29411.75
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 22810.0
-  tx_date: '2026-05-04'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216739148?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 3250.0
-  tx_date: '2026-05-04'
-  attachment_url: ''
-- cmte_name: California Alliance of Family Owned Businesses PAC
-  cmte_fppcid: '1465611'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 5705.0
+  tx_amount: 2000.0
   tx_date: '2026-05-04'
   attachment_url: ''
 - cmte_name: Asian Americans for Representation
@@ -524,6 +497,34 @@ recent_ies:
   tx_amount: 5000.0
   tx_date: '2026-05-04'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 2000.0
+  tx_date: '2026-05-04'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 3250.0
+  tx_date: '2026-05-04'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 5705.0
+  tx_date: '2026-05-04'
+  attachment_url: ''
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 3353.0
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216734228?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
@@ -535,100 +536,72 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
+  tx_amount: 661.25
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 29411.75
+  tx_date: '2026-05-04'
+  attachment_url: ''
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
   tx_amount: 300.0
   tx_date: '2026-05-04'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'A: Earthquake Safety and Emergency Response Bond'
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
   position: SUPPORT
-  tx_amount: 2201.1
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726679?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_A
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
+  tx_amount: 54987.6
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733678?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
-  position: SUPPORT
-  tx_amount: 2378.2
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726695?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_B
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 1410.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 2640.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726616?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 2040.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
-- cmte_name: California Alliance of Family Owned Businesses PAC
-  cmte_fppcid: '1465611'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 2794.0
-  tx_date: '2026-05-03'
-  attachment_url: ''
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 2537.5
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726616?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
-  position: SUPPORT
-  tx_amount: 61150.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+  tx_amount: 1000.0
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216733980?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 2794.0
-  tx_date: '2026-05-03'
+  tx_amount: 29411.75
+  tx_date: '2026-05-04'
   attachment_url: ''
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'A: Earthquake Safety and Emergency Response Bond'
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 2378.2
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726679?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_A
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
+  tx_amount: 3336.0
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216739148?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 22810.0
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216739148?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
+  tx_amount: 2000.0
+  tx_date: '2026-05-04'
+  attachment_url: ''
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 3542.0
-  tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
+  tx_amount: 17624.0
+  tx_date: '2026-05-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216792385?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D02: LORI BROOKE'
@@ -638,18 +611,67 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726634?aid=SFO&name=GrowSF%20Voter%20Guide_OPPOSING_LORI%20BROOKE
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 680.0
+  tx_amount: 2640.0
   tx_date: '2026-05-03'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726616?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 2794.0
+  tx_date: '2026-05-03'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Education: PHIL KIM'
   position: SUPPORT
-  tx_amount: 2378.2
+  tx_amount: 1410.0
   tx_date: '2026-05-03'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 2040.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 2794.0
+  tx_date: '2026-05-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 2537.5
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726616?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Earthquake Safety and Emergency Response Bond'
+  position: SUPPORT
+  tx_amount: 2378.2
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726679?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_A
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 3542.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -659,11 +681,53 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726616?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 680.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726650?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
   ie_description: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   position: SUPPORT
   tx_amount: 1410.0
   tx_date: '2026-05-03'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726695?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_B
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 2378.2
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 61150.0
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726600?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
+  position: SUPPORT
+  tx_amount: 2378.2
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726695?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_B
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Earthquake Safety and Emergency Response Bond'
+  position: SUPPORT
+  tx_amount: 2201.1
+  tx_date: '2026-05-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216726679?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_MEASURE_A
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
@@ -672,20 +736,14 @@ recent_ies:
   tx_amount: 1000.0
   tx_date: '2026-05-01'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216717601?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
+- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1488862'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 1000.0
-  tx_date: '2026-05-01'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 1000.0
+  tx_amount: 2538.0
   tx_date: '2026-05-01'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216720765?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -701,6 +759,13 @@ recent_ies:
   tx_amount: 2472.32
   tx_date: '2026-05-01'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216717601?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 1000.0
+  tx_date: '2026-05-01'
+  attachment_url: ''
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: LORI BROOKE'
@@ -708,14 +773,13 @@ recent_ies:
   tx_amount: 1000.0
   tx_date: '2026-05-01'
   attachment_url: ''
-- cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-  cmte_fppcid: '1488862'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 2538.0
+  tx_amount: 1000.0
   tx_date: '2026-05-01'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216720765?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
+  attachment_url: ''
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -728,7 +792,7 @@ recent_ies:
   cmte_fppcid: '1488862'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: SUPPORT
-  tx_amount: 30000.0
+  tx_amount: 21460.41
   tx_date: '2026-04-29'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216715189?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
@@ -736,7 +800,7 @@ recent_ies:
   cmte_fppcid: '1488862'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: SUPPORT
-  tx_amount: 21460.41
+  tx_amount: 30000.0
   tx_date: '2026-04-29'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216715189?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
 - cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
@@ -750,22 +814,15 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 5600.0
+  tx_amount: 661.25
   tx_date: '2026-04-27'
   attachment_url: ''
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 661.25
+  tx_amount: 5600.0
   tx_date: '2026-04-27'
-  attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 14371.0
-  tx_date: '2026-04-26'
   attachment_url: ''
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
@@ -777,18 +834,18 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216697460?aid=SFO&name=Affordable%20SF%20Now%20supporting%20Natalie%20Gee%20for%20Supervisor%202026%2C%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_NATALIE%20GEE
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 14371.0
+  tx_date: '2026-04-26'
+  attachment_url: ''
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: NATALIE GEE'
   position: OPPOSE
   tx_amount: 18695.62
   tx_date: '2026-04-24'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216693833?aid=SFO&name=SF%20Believes_OPPOSING_NATALIE%20GEE
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 11531.0
-  tx_date: '2026-04-23'
-  attachment_url: ''
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -801,6 +858,13 @@ recent_ies:
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
   tx_amount: 34593.0
+  tx_date: '2026-04-23'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 11531.0
   tx_date: '2026-04-23'
   attachment_url: ''
 - cmte_name: SF Believes
@@ -831,6 +895,13 @@ recent_ies:
   tx_amount: 4010.43
   tx_date: '2026-04-17'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216719632?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 6121.0
+  tx_date: '2026-04-17'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216654526?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
@@ -843,58 +914,9 @@ recent_ies:
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 6121.0
-  tx_date: '2026-04-17'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216654526?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
   tx_amount: 19588.21
   tx_date: '2026-04-16'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216653891?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 2415.0
-  tx_date: '2026-04-15'
-  attachment_url: ''
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 661.25
-  tx_date: '2026-04-15'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
-  position: SUPPORT
-  tx_amount: 2500.0
-  tx_date: '2026-04-15'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 2500.0
-  tx_date: '2026-04-15'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 2500.0
-  tx_date: '2026-04-15'
-  attachment_url: ''
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: NATALIE GEE'
-  position: OPPOSE
-  tx_amount: 2500.0
-  tx_date: '2026-04-15'
-  attachment_url: ''
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
@@ -906,7 +928,42 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
+  tx_amount: 661.25
+  tx_date: '2026-04-15'
+  attachment_url: ''
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 2415.0
+  tx_date: '2026-04-15'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 2500.0
+  tx_date: '2026-04-15'
+  attachment_url: ''
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
   tx_amount: 5600.0
+  tx_date: '2026-04-15'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: NATALIE GEE'
+  position: OPPOSE
+  tx_amount: 2500.0
+  tx_date: '2026-04-15'
+  attachment_url: ''
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 2500.0
   tx_date: '2026-04-15'
   attachment_url: ''
 - cmte_name: Asian Americans for Representation
@@ -916,6 +973,13 @@ recent_ies:
   tx_amount: 13484.87
   tx_date: '2026-04-15'
   attachment_url: ''
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-04-15'
+  attachment_url: ''
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -923,20 +987,6 @@ recent_ies:
   tx_amount: 18000.0
   tx_date: '2026-04-14'
   attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 8664.0
-  tx_date: '2026-04-10'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216642786?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 21736.0
-  tx_date: '2026-04-10'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216642786?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Education: PHIL KIM'
@@ -944,20 +994,20 @@ recent_ies:
   tx_amount: 38850.0
   tx_date: '2026-04-10'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-04-09'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626407?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
+  tx_amount: 21736.0
+  tx_date: '2026-04-10'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216642786?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
-  tx_amount: 300.0
-  tx_date: '2026-04-09'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+  tx_amount: 8664.0
+  tx_date: '2026-04-10'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216642786?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -967,25 +1017,11 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626513?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
-  ie_description: 'Board of Education: PHIL KIM'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 1280.0
+  tx_amount: 600.0
   tx_date: '2026-04-09'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
-- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  cmte_fppcid: '1488188'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 3100.0
-  tx_date: '2026-04-09'
-  attachment_url: ''
-- cmte_name: GrowSF Voter Guide
-  cmte_fppcid: '1433436'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-04-09'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626513?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626407?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -1002,11 +1038,39 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 300.0
+  tx_date: '2026-04-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
+- cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  cmte_fppcid: '1488188'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 3100.0
+  tx_date: '2026-04-09'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-04-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626513?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_ALAN%20WONG
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
   position: SUPPORT
-  tx_amount: 600.0
+  tx_amount: 5000.0
   tx_date: '2026-04-09'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626407?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 1280.0
+  tx_date: '2026-04-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216626047?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_PHIL%20KIM
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
@@ -1014,39 +1078,18 @@ recent_ies:
   tx_amount: 4042.9
   tx_date: '2026-04-08'
   attachment_url: ''
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 1207.5
+  tx_date: '2026-04-08'
+  attachment_url: ''
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
   tx_amount: 26430.0
-  tx_date: '2026-04-08'
-  attachment_url: ''
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-04-08'
-  attachment_url: ''
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 22500.0
-  tx_date: '2026-04-08'
-  attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 24094.0
-  tx_date: '2026-04-08'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216715088?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
-  tx_amount: 661.25
   tx_date: '2026-04-08'
   attachment_url: ''
 - cmte_name: SF Believes
@@ -1067,23 +1110,37 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 3000.0
+  tx_amount: 5000.0
+  tx_date: '2026-04-08'
+  attachment_url: ''
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 24094.0
+  tx_date: '2026-04-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216715088?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 661.25
   tx_date: '2026-04-08'
   attachment_url: ''
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 1207.5
+  tx_amount: 22500.0
   tx_date: '2026-04-08'
   attachment_url: ''
-- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  cmte_fppcid: '1484891'
-  ie_description: 'Board of Supervisors D02: LORI BROOKE'
-  position: OPPOSE
-  tx_amount: 6059.2
-  tx_date: '2026-04-06'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216598165?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 3000.0
+  tx_date: '2026-04-08'
+  attachment_url: ''
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -1091,6 +1148,13 @@ recent_ies:
   tx_amount: 17647.0
   tx_date: '2026-04-06'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216705151?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
+- cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  cmte_fppcid: '1484891'
+  ie_description: 'Board of Supervisors D02: LORI BROOKE'
+  position: OPPOSE
+  tx_amount: 6059.2
+  tx_date: '2026-04-06'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216598165?aid=SFO&name=GrowSF%20Supporting%20Stephen%20Sherrill%20for%20Supervisor%202026_OPPOSING_LORI%20BROOKE
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -1123,14 +1187,14 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 5600.0
+  tx_amount: 661.25
   tx_date: '2026-03-27'
   attachment_url: ''
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 661.25
+  tx_amount: 5600.0
   tx_date: '2026-03-27'
   attachment_url: ''
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -1154,13 +1218,6 @@ recent_ies:
   tx_amount: 6092.51
   tx_date: '2026-03-20'
   attachment_url: ''
-- cmte_name: SF Believes
-  cmte_fppcid: '1487286'
-  ie_description: 'Board of Supervisors D04: ALAN WONG'
-  position: SUPPORT
-  tx_amount: 20802.75
-  tx_date: '2026-03-17'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216224450?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
@@ -1176,6 +1233,13 @@ recent_ies:
   tx_amount: 24705.65
   tx_date: '2026-03-17'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216224489?aid=SFO&name=SF%20Believes_SUPPORTING_STEPHEN%20SHERRILL
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 20802.75
+  tx_date: '2026-03-17'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216224450?aid=SFO&name=SF%20Believes_SUPPORTING_ALAN%20WONG
 - cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1484891'
   ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
@@ -1208,13 +1272,6 @@ recent_ies:
   cmte_fppcid: '1469330'
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
-  tx_amount: 5600.0
-  tx_date: '2026-03-11'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216119853?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
-- cmte_name: Asian Americans for Representation
-  cmte_fppcid: '1469330'
-  ie_description: 'Board of Supervisors D04: DAVID LEE'
-  position: SUPPORT
   tx_amount: 1150.0
   tx_date: '2026-03-11'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216119853?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
@@ -1223,6 +1280,13 @@ recent_ies:
   ie_description: 'Board of Supervisors D04: DAVID LEE'
   position: SUPPORT
   tx_amount: 585.35
+  tx_date: '2026-03-11'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216119853?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
+- cmte_name: Asian Americans for Representation
+  cmte_fppcid: '1469330'
+  ie_description: 'Board of Supervisors D04: DAVID LEE'
+  position: SUPPORT
+  tx_amount: 5600.0
   tx_date: '2026-03-11'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/216119853?aid=SFO&name=Asian%20Americans%20for%20Representation_SUPPORTING_DAVID%20LEE
 - cmte_name: Asian Americans for Representation
