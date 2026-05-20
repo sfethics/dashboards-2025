@@ -46,7 +46,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 267200.0
-    expenses: 140206.12
+    expenses: 155157.57
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
@@ -56,7 +56,7 @@ ie_candidates:
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     funds: 42000.0
-    expenses: 30500.0
+    expenses: 75500.0
   - position: SUPPORT
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
