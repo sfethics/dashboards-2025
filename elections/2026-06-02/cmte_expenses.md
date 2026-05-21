@@ -12,6 +12,11 @@ committees:
   cmte_nid: '126511772'
   committee_type: Major Donor
   total_expense: 14900.0
+- cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
+  cmte_fppcid: '1380710'
+  cmte_nid: '157084268'
+  committee_type: General Purpose
+  total_expense: 3422.13
 - cmte_name: HOTEL COUNCIL PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
@@ -42,7 +47,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 11535.66
+  total_expense: 11984.73
 - cmte_name: The Prado Group and Affiliated Entities
   cmte_fppcid: '1372011'
   cmte_nid: '203556801'
@@ -77,7 +82,12 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 162230.87
+  total_expense: 165592.12
+- cmte_name: Daniel Robinson
+  cmte_fppcid: '1482797'
+  cmte_nid: '212253490'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -158,7 +168,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 802767.17
+  total_expense: 894886.78
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -179,13 +189,13 @@ committees:
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
   committee_type: Primarily Formed Measure
-  total_expense: 177.38
+  total_expense: 167.5
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 167366.24
+  total_expense: 236558.35
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'

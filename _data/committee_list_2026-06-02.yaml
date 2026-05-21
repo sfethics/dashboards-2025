@@ -142,6 +142,9 @@ committees:
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
+- cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
+  cmte_fppcid: '1380710'
+  cmte_nid: '157084268'
 - cmte_name: Dignity Ca Service Employees International Union Seiu Local 2015
   cmte_fppcid: '1357256'
   cmte_nid: '161836779'
@@ -399,6 +402,9 @@ committees:
 - cmte_name: Working Families for San Francisco PAC
   cmte_fppcid: 00945303
   cmte_nid: unknown
+- cmte_name: Daniel Robinson
+  cmte_fppcid: '1482797'
+  cmte_nid: '212253490'
 - cmte_name: David Dewilde
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'

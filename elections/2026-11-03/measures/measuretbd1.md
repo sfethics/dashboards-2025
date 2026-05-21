@@ -15,7 +15,7 @@ committees:
   filer_nid: '215457455'
   filer_id: '1487105'
   committee_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-  funds: 5654.18
+  funds: 6004.18
   expenses: ''
   ies: ''
 multi_committees: []
@@ -28,11 +28,15 @@ contributors:
   - 400.0
 - - Sarah Mccuskey
   - 250.0
+- - Judith Riggle
+  - 250.0
 - - Peter Stern
   - 250.0
 - - Martha Abbene
   - 125.65
 - - Margaret Petrie
+  - 100.0
+- - Beverly Sambolin
   - 100.0
 - - Dinah Stroe
   - 100.0

@@ -13,8 +13,8 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 17800.0
-  expenses: 177.38
+  funds: 27800.0
+  expenses: 167.5
   ies: ''
 - position: SUPPORT
   filer_nid: '201619433'
@@ -27,7 +27,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 367750.0
+  funds: 377750.0
   expenses: 215293.23
   ies: ''
 multi_committees: []
@@ -40,18 +40,18 @@ contributors:
   - 20000.0
 - - SF Believes
   - 20000.0
+- - John Brooke
+  - 10000.0
 - - Leah Culver
   - 10000.0
 - - Nicholas Josefowitz
+  - 10000.0
+- - Daniel Robinson
   - 10000.0
 - - San Francisco Apartment Association Political Action Committee
   - 10000.0
 - - San Francisco Labor and Neighbor Education
   - 10000.0
-- - the Prado Group, Inc.
-  - 10000.0
-- - Stephen Dodson
-  - 5000.0
 
 ---
 
