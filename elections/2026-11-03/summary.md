@@ -49,25 +49,25 @@ measures:
     and Working on City Contracts.'
   contest_link: measuretbd1
   expenses: 0.0
-  funds: 5654.18
+  funds: 6004.18
 - contest_nid: '216006007'
   contest_name: 'TBD2: Proposed Charter Amendments Regarding City Governance'
   contest_link: measuretbd2
-  expenses: 757286.99
+  expenses: 1947050.35
   funds: 5360000.0
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
-  expenses: 717405.36
-  funds: 2620115.0
+  expenses: 931205.03
+  funds: 2645230.0
 contributors_bm:
 - - Michael Moritz
   - 2000000.0
 - - Lyna Lam
   - 1000000.0
-- - John Pritzker
-  - 1000000.0
 - - Christian Larsen
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Anthropic
   - 500000.0
@@ -107,12 +107,12 @@ top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
   cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  total_expense: 757286.99
+  total_expense: 1947050.35
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
-  total_expense: 717405.36
+  total_expense: 931205.03
 
 ---
 

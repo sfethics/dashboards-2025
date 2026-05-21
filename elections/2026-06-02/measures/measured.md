@@ -32,7 +32,7 @@ multi_committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 5556580.39
+  funds: 6056580.39
   expenses: 1471972.79
 contributors:
 - - Service Employees International Union Local 1021 Issues PAC
