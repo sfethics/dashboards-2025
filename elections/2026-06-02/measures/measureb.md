@@ -13,23 +13,37 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 27800.0
-  expenses: 167.5
+  funds: 30350.0
+  expenses: 11706.77
   ies: ''
 - position: SUPPORT
   filer_nid: '201619433'
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 3788.2
-  ies: 3788.2
+  expenses: 4975.7
+  ies: 4975.7
+- position: SUPPORT
+  filer_nid: '214918275'
+  filer_id: '1484891'
+  committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 615.95
+  ies: 615.95
 - position: SUPPORT
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
   funds: 377750.0
-  expenses: 215293.23
+  expenses: 267343.18
   ies: ''
+- position: SUPPORT
+  filer_nid: '215852865'
+  filer_id: '1488188'
+  committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 492.29
+  ies: 492.29
 multi_committees: []
 contributors:
 - - Chris Larsen

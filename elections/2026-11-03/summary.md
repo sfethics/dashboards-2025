@@ -11,15 +11,15 @@ candidate_pf:
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 178863.0
-  expenses: 27556.12
+  funds: 200143.0
+  expenses: 33045.06
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 1600.0
-  expenses: 6183.6
+  funds: 5100.0
+  expenses: 10948.6
   ies: 0.0
 - committee_type: candidate
   contest_nid: '214443849'
@@ -39,8 +39,8 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1200.0
-  expenses: 169.47
+  funds: 5600.0
+  expenses: 313.67
   ies: 0.0
 candidate_ie: []
 measures:
@@ -72,29 +72,29 @@ contributors_bm:
 - - Anthropic
   - 500000.0
 contributors_cand:
-- - Garry Tan
+- - Christin Evans
   - 1500.0
 - - Marisa Lavallee
+  - 1500.0
+- - Garry Tan
   - 1500.0
 - - Marcy Adelman
   - 1350.0
 - - Forrest Liu
   - 1100.0
-- - Kelly Kozak
-  - 1050.0
 top_cand_spends:
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 66557.18
+- cmte_nid: '214620516'
+  cmte_fppcid: '1482285'
+  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+  total_expense: 33005.56
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
   total_expense: 28247.89
-- cmte_nid: '214620516'
-  cmte_fppcid: '1482285'
-  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-  total_expense: 27556.12
 - cmte_nid: '214443884'
   cmte_fppcid: '1481892'
   cmte_name: DJ BROOKTER FOR SUPERVISOR 2026

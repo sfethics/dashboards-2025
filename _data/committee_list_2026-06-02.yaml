@@ -101,6 +101,10 @@ committees:
 - cmte_name: Term Limits Now - Yes on B!
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
+- cmte_name: Thriving Communities for All San Francisco Sponsored by Center for Empowered
+    Politics
+  cmte_fppcid: '1466523'
+  cmte_nid: '209932989'
 - cmte_name: Yes on a, San Franciscans for Fire, Earthquake, and Disaster Preparedness,
     Sponsored by San Francisco Firefighters Local 798
   cmte_fppcid: '1486676'
@@ -112,6 +116,9 @@ committees:
 - cmte_name: Yes on D - Stand Up for SF Sponsored by Labor Organizations
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
+- cmte_name: Affordable Housing Alliance Political Action Committee
+  cmte_fppcid: '822268'
+  cmte_nid: '6672999'
 - cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
@@ -157,6 +164,9 @@ committees:
 - cmte_name: Haney Ballot Measure Committee for California Opportunity
   cmte_fppcid: '1459009'
   cmte_nid: '216110546'
+- cmte_name: Ibew Local 1245 Political Action Committee
+  cmte_fppcid: '742993'
+  cmte_nid: '7520572'
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '921730'
   cmte_nid: '129492757'
@@ -189,12 +199,18 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Fire Fighters Local 798 P.a.c.
+  cmte_fppcid: '810802'
+  cmte_nid: '6685786'
 - cmte_name: San Francisco Fire Fighters Local 798 P.a.c. - Ballot Issues
   cmte_fppcid: '1462942'
   cmte_nid: '211998686'
 - cmte_name: San Francisco Labor Council Labor & Neighbor
   cmte_fppcid: '941562'
   cmte_nid: '6673767'
+- cmte_name: San Francisco League of Pissed Off Voters
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
 - cmte_name: Service Employees International Union Local 1021 Candidate PAC
   cmte_fppcid: '1296948'
   cmte_nid: '125730173'
@@ -245,6 +261,9 @@ committees:
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
+- cmte_name: United Association Political Action Fund
+  cmte_fppcid: '870129'
+  cmte_nid: '212147629'
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
@@ -256,6 +275,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: At&t California Employee Political Action Committee
   cmte_fppcid: '981470'
+  cmte_nid: unknown
+- cmte_name: Becerra for Governor 2026
+  cmte_fppcid: '1480025'
   cmte_nid: unknown
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
@@ -279,6 +301,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Canepa for Assessor-county Clerk-recorder 2026
   cmte_fppcid: '1486383'
+  cmte_nid: unknown
+- cmte_name: District 2 Democratic Club Smo
+  cmte_fppcid: '1466947'
   cmte_nid: unknown
 - cmte_name: Donnellan for Judge 2026
   cmte_fppcid: '1482691'
@@ -313,8 +338,11 @@ committees:
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
+- cmte_name: Harvey Milk Lgbtq Democratic Club
+  cmte_fppcid: '1383194'
+  cmte_nid: unknown
 - cmte_name: International Federation of Professional and Technical Engineers, Local
-    21 Issues PAC
+    21
   cmte_fppcid: '1362080'
   cmte_nid: unknown
 - cmte_name: 'International Union of Elevator Constructors Local #8 PAC'
@@ -361,17 +389,23 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
+- cmte_name: Richmond District Democratic Club
+  cmte_fppcid: '1372989'
+  cmte_nid: unknown
 - cmte_name: Rob Bonta for Ca Attorney General 2026
   cmte_fppcid: '1456428'
+  cmte_nid: unknown
+- cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
+  cmte_fppcid: '1432377'
+  cmte_nid: unknown
+- cmte_name: San Francisco Tenants Union
+  cmte_fppcid: '1453022'
   cmte_nid: unknown
 - cmte_name: San Francisco Women's Political Committee Voter Guide
   cmte_fppcid: '1448359'
   cmte_nid: unknown
 - cmte_name: Seiu California State Council for Working People
   cmte_fppcid: '960895'
-  cmte_nid: unknown
-- cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
-  cmte_fppcid: '1482711'
   cmte_nid: unknown
 - cmte_name: Service Employees International Union Local 721 Ctw, Clc Issues & Initiatives
     Sponsored by Service Employee Union
@@ -393,8 +427,15 @@ committees:
     Stage Employees (Iatse) PAC
   cmte_fppcid: '1302106'
   cmte_nid: unknown
+- cmte_name: United Democratic Club Slate Mail Organization
+  cmte_fppcid: '1385852'
+  cmte_nid: unknown
 - cmte_name: United Educators
   cmte_fppcid: '131128'
+  cmte_nid: unknown
+- cmte_name: United Food & Commercial Workers Local 5 PAC (Sponsored by United Food
+    & Commerical Workers Local 5)
+  cmte_fppcid: '1294035'
   cmte_nid: unknown
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'

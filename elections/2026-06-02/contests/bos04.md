@@ -13,14 +13,14 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 375147.88
-  expenses: 165260.35
+  funds: 389718.09
+  expenses: 278234.04
 - filer_nid: '214929589'
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
   candidate_name: DAVID LEE
-  funds: 98259.0
-  expenses: 39479.67
+  funds: 99659.0
+  expenses: 49885.4
 - filer_nid: '214951144'
   filer_id: '1485253'
   committee_name: JEREMY GRECO FOR SUPERVISOR 2026
@@ -31,14 +31,14 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 166703.22
-  expenses: 48699.4
+  funds: 172178.22
+  expenses: 90960.55
 - filer_nid: '215112140'
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 334391.0
-  expenses: 165725.64
+  funds: 355432.0
+  expenses: 284716.53
 ie_candidates:
 - candidate_name: DAVID LEE
   filer_id: '1484957'
@@ -56,12 +56,12 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 0.0
-    expenses: 9516.83
+    expenses: 9080.72
   - position: SUPPORT
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 16182.0
+    expenses: 17944.5
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes
@@ -70,7 +70,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 328555.0
+    funds: 318556.0
     expenses: 242851.3
   - position: SUPPORT
     filer_id: '1465611'
@@ -95,7 +95,7 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 385000.0
-    expenses: 256927.93
+    expenses: 253709.25
 - candidate_name: ALBERT CHOW
   filer_id: '1485609'
   committees:
@@ -114,9 +114,6 @@ contributors:
   - 50000.0
 - - San Francisco Labor Council Labor & Neighbor
   - 20000.0
-- - Building Owners and Managers Association of San Francisco PAC Independent Expenditures
-    Aka (boma-sf-pac-ie)
-  - 19998.0
 - - Maco Stewart
   - 10500.0
 - - National Union of Healthcare Workers Candidate Committee for Quality Patient Care
@@ -124,6 +121,9 @@ contributors:
   - 10000.0
 - - Noah Smith
   - 10000.0
+- - Building Owners and Managers Association of San Francisco PAC Independent Expenditures
+    Aka (boma-sf-pac-ie)
+  - 9999.0
 - - Amos Elliston
   - 5000.0
 - - International Federation of Professional and Technical Engineers, Local 21

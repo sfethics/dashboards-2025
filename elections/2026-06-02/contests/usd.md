@@ -13,20 +13,20 @@ candidates:
   filer_id: '1483649'
   committee_name: KIM FOR SCHOOL BOARD JUNE 2026
   candidate_name: PHIL KIM
-  funds: 65812.0
-  expenses: 40828.0
+  funds: 71062.0
+  expenses: 56382.38
 - filer_nid: '215120587'
   filer_id: '1485654'
   committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   candidate_name: BRANDEE MARCKMANN
-  funds: 70470.0
-  expenses: 37490.16
+  funds: 75643.0
+  expenses: 96208.96
 - filer_nid: '216603754'
   filer_id: '1488901'
   committee_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   candidate_name: VIRGINIA CHEUNG
-  funds: 4997.0
-  expenses: 923.31
+  funds: 7077.0
+  expenses: 2923.31
 ie_candidates:
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1488901'
@@ -43,7 +43,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 213623.61
+    expenses: 214811.11
   - position: SUPPORT
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
@@ -59,8 +59,10 @@ contributors:
   - 50000.0
 - - Mark Leno
   - 1000.0
+- - David Kim
+  - 700.0
 - - Virginia Cheung
-  - 535.0
+  - 545.0
 - - Sachin Agarwal
   - 500.0
 - - Matthew Alexander
@@ -72,8 +74,6 @@ contributors:
 - - Nancy Belmonte
   - 500.0
 - - Courtney Benoist
-  - 500.0
-- - Catherine Benson
   - 500.0
 
 ---

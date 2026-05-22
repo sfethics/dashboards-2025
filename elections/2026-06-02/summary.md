@@ -11,61 +11,66 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 910843.96
-  expenses: 369936.79
+  funds: 933151.96
+  expenses: 599614.84
   ies: ''
 - committee_type: candidate
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
-  funds: 141279.0
-  expenses: 79241.47
+  funds: 153782.0
+  expenses: 155514.65
   ies: ''
 - committee_type: candidate
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 978445.03
-  expenses: 423149.1
+  funds: 1020931.24
+  expenses: 707780.56
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 309200.0
+  funds: 309950.0
   expenses: 531710.15
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 338171.07999999996
+  expenses: 339358.57999999996
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 713555.0
-  expenses: 1282303.99
+  funds: 703556.0
+  expenses: 1280411.7
 measures:
+- contest_nid: '215121153'
+  contest_name: 'C: Decreases to Business Taxes'
+  contest_link: measurec
+  expenses: 1108.24
+  funds: ''
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
-  expenses: 219248.93
-  funds: 405550.0
+  expenses: 285133.89
+  funds: 408100.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
-  expenses: 737122.02
-  funds: 1973725.38
+  expenses: 1697822.77
+  funds: 1980487.03
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
-  expenses: 346428.36
-  funds: 1928910.0
+  expenses: 1230100.76
+  funds: 1957096.54
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
-  expenses: 1471972.79
-  funds: 6056580.39
+  expenses: 4578058.72
+  funds: 6305530.39
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
   - 860000.0
@@ -93,47 +98,46 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 714886.78
+  total_expense: 714886.88
+- cmte_nid: '213987622'
+  cmte_fppcid: '1479700'
+  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
+  total_expense: 336905.88
+- cmte_nid: '215112140'
+  cmte_fppcid: '1485709'
+  cmte_name: ALAN WONG FOR SUPERVISOR 2026
+  total_expense: 284716.53
+- cmte_nid: '214896050'
+  cmte_fppcid: '1484806'
+  cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+  total_expense: 278234.04
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 257196.32
-- cmte_nid: '201619433'
-  cmte_fppcid: '1433436'
-  cmte_name: GrowSF Voter Guide
-  total_expense: 247674.61
-- cmte_nid: '216048526'
-  cmte_fppcid: '1488862'
-  cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-  total_expense: 236558.35
-- cmte_nid: '214918275'
-  cmte_fppcid: '1484891'
-  cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-  total_expense: 198146.38
+  total_expense: 261581.47
 top_bm_spends:
-- cmte_nid: '193427405'
-  cmte_fppcid: '1431167'
-  cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 1768540.0
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  total_expense: 1471972.79
+  total_expense: 4578058.72
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  total_expense: 721097.65
+  total_expense: 1679310.29
+- cmte_nid: '193427405'
+  cmte_fppcid: '1431167'
+  cmte_name: Neighbors For A Better San Francisco Advocacy
+  total_expense: 1643540.0
 - cmte_nid: '215726436'
   cmte_fppcid: '1486676'
   cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  total_expense: 301829.06
-- cmte_nid: '6672693'
-  cmte_fppcid: '499432'
-  cmte_name: Williams-Sonoma, Inc.
-  total_expense: 300000.0
+  total_expense: 818225.72
+- cmte_nid: '216534507'
+  cmte_fppcid: '1489925'
+  cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  total_expense: 405000.0
 
 ---
 

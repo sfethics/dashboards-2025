@@ -9,27 +9,49 @@ breadcrumbs:
 - - 'A: Earthquake Safety and Emergency Response Bond'
   - elections/2026-06-02/measures/measurea
 committees:
+- position: OPPOSE
+  filer_nid: '215900661'
+  filer_id: ''
+  committee_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
+    JUNE 2026
+  funds: 5396.54
+  expenses: ''
+  ies: ''
 - position: SUPPORT
   filer_nid: '201619433'
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 4579.3
-  ies: 4579.3
+  expenses: 5766.8
+  ies: 5766.8
+- position: SUPPORT
+  filer_nid: '214918275'
+  filer_id: '1484891'
+  committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 615.95
+  ies: 615.95
 - position: SUPPORT
   filer_nid: '215726436'
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1408910.0
-  expenses: 301829.06
+  funds: 1431700.0
+  expenses: 818225.72
   ies: ''
+- position: SUPPORT
+  filer_nid: '215852865'
+  filer_id: '1488188'
+  committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 492.29
+  ies: 492.29
 - position: SUPPORT
   filer_nid: '216534507'
   filer_id: '1489925'
   committee_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   funds: 520000.0
-  expenses: 40020.0
+  expenses: 405000.0
   ies: ''
 multi_committees: []
 contributors:
