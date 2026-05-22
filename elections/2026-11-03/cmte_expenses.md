@@ -32,12 +32,12 @@ committees:
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
-  total_expense: 27556.12
+  total_expense: 33005.56
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
   committee_type: Candidate Controlled
-  total_expense: 3.95
+  total_expense: 4768.95
 - cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1483804'
   cmte_nid: '214772801'
@@ -67,12 +67,12 @@ committees:
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
   committee_type: Candidate Controlled
-  total_expense: 165.52
+  total_expense: 305.77
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1489126'
   cmte_nid: '216198377'
   committee_type: Candidate Controlled
-  total_expense: 3.95
+  total_expense: 7.9
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

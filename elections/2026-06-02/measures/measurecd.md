@@ -20,8 +20,8 @@ committees:
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 6056580.39
-  expenses: 1471972.79
+  funds: 6305530.39
+  expenses: 4578058.72
   ies: ''
 multi_committees: []
 contributors:
@@ -34,7 +34,7 @@ contributors:
 - - Chris Larsen
   - 500000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
-  - 302000.0
+  - 350000.0
 - - Williams-sonoma, Inc.
   - 300000.0
 - - Visa, Inc

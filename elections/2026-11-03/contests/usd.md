@@ -19,18 +19,30 @@ candidates:
   filer_id: '1483651'
   committee_name: KIM FOR SCHOOL BOARD 2026
   candidate_name: PHIL KIM
-  funds: 1600.0
-  expenses: 3.95
+  funds: 5100.0
+  expenses: 4768.95
 ie_candidates: []
 contributors:
 - - Gfc Courage Committee - Bay Area Chapter
   - 500.0
 - - Gfc Courage Committee - California Business Coalition
   - 500.0
+- - Gfc Courage Committee - East Bay Chapter
+  - 500.0
+- - Gfc Courage Committee - Excellence in Education Chapter
+  - 500.0
 - - Gfc Courage Committee - Golden State Chapter
   - 500.0
-- - Forrest Liu
-  - 100.0
+- - Gfc Courage Committee - Palo Alto Chapter
+  - 500.0
+- - Gfc Courage Committee - San Francisco Chapter
+  - 500.0
+- - Gfc Courage Committee - Sierra Chapter
+  - 500.0
+- - Susan Oberndorf
+  - 500.0
+- - William Oberndorf
+  - 500.0
 
 ---
 

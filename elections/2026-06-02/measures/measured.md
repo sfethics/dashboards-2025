@@ -11,12 +11,26 @@ breadcrumbs:
     Pay'
   - elections/2026-06-02/measures/measured
 committees:
+- position: OPPOSE
+  filer_nid: '214918275'
+  filer_id: '1484891'
+  committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 615.95
+  ies: 615.95
+- position: OPPOSE
+  filer_nid: '215852865'
+  filer_id: '1488188'
+  committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  funds: ''
+  expenses: 492.28
+  ies: 492.28
 - position: SUPPORT
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 1973725.38
-  expenses: 721097.65
+  funds: 1980487.03
+  expenses: 1679310.29
   ies: ''
 - position: SUPPORT
   filer_nid: '216048526'
@@ -24,25 +38,23 @@ committees:
   committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   funds: ''
-  expenses: 16024.37
-  ies: 16024.37
+  expenses: 17404.25
+  ies: 17404.25
 multi_committees:
 - position: MULTIPLE
   filer_nid: '215118470'
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 6056580.39
-  expenses: 1471972.79
+  funds: 6305530.39
+  expenses: 4578058.72
 contributors:
 - - Service Employees International Union Local 1021 Issues PAC
   - 600000.0
+- - Dignity Ca Service Employees International Union Seiu Local 2015
+  - 407981.32
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
   - 350000.0
-- - Dignity Ca Service Employees International Union Seiu Local 2015
-  - 207401.01
-- - Service Employees International Union - Seiu Local 2015 Issues PAC
-  - 200000.0
 - - International Federation of Professional and Technical Engineers, Local 21 Issues
     PAC
   - 120000.0
@@ -57,6 +69,9 @@ contributors:
   - 50000.0
 - - Service Employees International Union - Seiu Local 521
   - 50000.0
+- - San Francisco Labor & Neighbor Member Education / Political Issues Committee,
+    Sponsored by the San Francisco Labor Council
+  - 45000.0
 
 ---
 

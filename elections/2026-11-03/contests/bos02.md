@@ -13,8 +13,8 @@ candidates:
   filer_id: '1482285'
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   candidate_name: STEPHEN SHERRILL
-  funds: 178863.0
-  expenses: 27556.12
+  funds: 196093.0
+  expenses: 33005.56
 ie_candidates: []
 contributors:
 - - Sheeva Hamidieh

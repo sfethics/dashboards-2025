@@ -37,12 +37,12 @@ committees:
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 1768540.0
+  total_expense: 1643540.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 276692.31
+  total_expense: 282017.31
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -78,6 +78,12 @@ committees:
   cmte_nid: '209507341'
   committee_type: Major Donor
   total_expense: 100000.0
+- cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
+    POLITICS
+  cmte_fppcid: '1466523'
+  cmte_nid: '209932989'
+  committee_type: Primarily Formed Measure
+  total_expense: 628.69
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
@@ -92,27 +98,27 @@ committees:
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
   committee_type: Candidate Controlled
-  total_expense: 197457.63
+  total_expense: 336905.88
 - cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
   cmte_fppcid: '1483649'
   cmte_nid: '214769736'
   committee_type: Candidate Controlled
-  total_expense: 40828.0
+  total_expense: 56382.38
 - cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   cmte_fppcid: '1484332'
   cmte_nid: '214820258'
   committee_type: Candidate Controlled
-  total_expense: 164263.59
+  total_expense: 254074.98
 - cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
   committee_type: Candidate Controlled
-  total_expense: 5885.93
+  total_expense: 6304.34
 - cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
   committee_type: Candidate Controlled
-  total_expense: 165260.35
+  total_expense: 278234.04
 - cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
@@ -122,12 +128,12 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 198146.38
+  total_expense: 202720.18
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
-  total_expense: 39479.67
+  total_expense: 49885.4
 - cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -137,70 +143,70 @@ committees:
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
   committee_type: Primarily Formed Measure
-  total_expense: 721097.65
+  total_expense: 1679310.29
 - cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
   cmte_fppcid: '1485609'
   cmte_nid: '215019694'
   committee_type: Candidate Controlled
-  total_expense: 48699.4
+  total_expense: 90960.55
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1485709'
   cmte_nid: '215112140'
   committee_type: Candidate Controlled
-  total_expense: 165725.64
+  total_expense: 284716.53
 - cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
-  total_expense: 1471972.79
+  total_expense: 4578058.72
 - cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
   committee_type: Candidate Controlled
-  total_expense: 37490.16
+  total_expense: 96208.96
 - cmte_name: TERM LIMITS NOW - YES ON B!
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
   committee_type: Primarily Formed Measure
-  total_expense: 215293.23
+  total_expense: 267343.18
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 894886.78
+  total_expense: 834886.88
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
   cmte_nid: '215726436'
   committee_type: Primarily Formed Measure
-  total_expense: 301829.06
+  total_expense: 818225.72
 - cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
   committee_type: Primarily Formed Candidate
-  total_expense: 76585.0
+  total_expense: 28195.0
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 257196.32
+  total_expense: 261581.47
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
   committee_type: Primarily Formed Measure
-  total_expense: 167.5
+  total_expense: 11706.77
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 236558.35
+  total_expense: 255378.94
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
   committee_type: Primarily Formed Measure
-  total_expense: 40020.0
+  total_expense: 405000.0
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
@@ -215,12 +221,18 @@ committees:
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
   committee_type: Candidate Controlled
-  total_expense: 923.31
+  total_expense: 2923.31
 - cmte_name: SF Partnership and Affiliated Entity Advance SF
   cmte_fppcid: unknown
   cmte_nid: '216603835'
   committee_type: Major Donor
   total_expense: 8407.46
+- cmte_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
+    by International Union of Operating Engineers Local 3
+  cmte_fppcid: '1488209'
+  cmte_nid: '216673030'
+  committee_type: Primarily Formed Candidate
+  total_expense: 17375.0
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
@@ -261,7 +273,7 @@ committees:
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 6961.93
+  total_expense: 9241.01
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
