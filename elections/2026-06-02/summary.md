@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 703556.0
-  expenses: 1280411.7
+  expenses: 1318287.64
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -54,7 +54,7 @@ measures:
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 285133.89
-  funds: 408100.0
+  funds: 417100.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -98,7 +98,7 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 714886.88
+  total_expense: 740676.12
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -114,7 +114,7 @@ top_cand_spends:
 - cmte_nid: '215852865'
   cmte_fppcid: '1488188'
   cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 261581.47
+  total_expense: 265578.46
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
@@ -134,10 +134,10 @@ top_bm_spends:
   cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   total_expense: 818225.72
-- cmte_nid: '216534507'
-  cmte_fppcid: '1489925'
-  cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
-  total_expense: 405000.0
+- cmte_nid: '209507341'
+  cmte_fppcid: '1478129'
+  cmte_name: Saikat Chakrabarti
+  total_expense: 600000.0
 
 ---
 

@@ -17,6 +17,11 @@ committees:
   cmte_nid: '157084268'
   committee_type: General Purpose
   total_expense: 3422.13
+- cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
+  committee_type: General Purpose
+  total_expense: 480.0
 - cmte_name: HOTEL COUNCIL PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
@@ -77,18 +82,23 @@ committees:
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
   committee_type: Major Donor
-  total_expense: 100000.0
+  total_expense: 600000.0
 - cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
     POLITICS
   cmte_fppcid: '1466523'
   cmte_nid: '209932989'
   committee_type: Primarily Formed Measure
   total_expense: 628.69
+- cmte_name: Enrique Landa
+  cmte_fppcid: '1454305'
+  cmte_nid: '210576256'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 165592.12
+  total_expense: 173681.83
 - cmte_name: Daniel Robinson
   cmte_fppcid: '1482797'
   cmte_nid: '212253490'
@@ -174,7 +184,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 834886.88
+  total_expense: 860676.12
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -190,7 +200,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 261581.47
+  total_expense: 265578.46
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -258,7 +268,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 5000.0
+  total_expense: 10000.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'
