@@ -47,7 +47,7 @@ ie_candidates:
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
     funds: 0.0
-    expenses: 165592.12
+    expenses: 173681.83
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
@@ -66,7 +66,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 381084.48
+    expenses: 388731.54
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
@@ -84,12 +84,12 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 132906.56
+    expenses: 151048.74
   - position: OPPOSE
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 9840.7
+    expenses: 13837.69
   - position: SUPPORT
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,

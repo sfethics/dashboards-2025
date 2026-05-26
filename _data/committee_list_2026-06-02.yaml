@@ -211,6 +211,9 @@ committees:
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
+- cmte_name: Seiu Local 87 Political Action Committee
+  cmte_fppcid: '1366582'
+  cmte_nid: '151374533'
 - cmte_name: Service Employees International Union Local 1021 Candidate PAC
   cmte_fppcid: '1296948'
   cmte_nid: '125730173'
@@ -307,6 +310,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Donnellan for Judge 2026
   cmte_fppcid: '1482691'
+  cmte_nid: unknown
+- cmte_name: Durazo for Supervisor 2026 Attorney Fees Fund
+  cmte_fppcid: '1480691'
   cmte_nid: unknown
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
@@ -452,6 +458,9 @@ committees:
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
+- cmte_name: Enrique Landa
+  cmte_fppcid: '1454305'
+  cmte_nid: '210576256'
 - cmte_name: 'Jan Koum and Affiliated Entities: Manzanita Action Fund'
   cmte_fppcid: unknown
   cmte_nid: '211947314'
