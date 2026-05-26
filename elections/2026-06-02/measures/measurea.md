@@ -11,7 +11,7 @@ breadcrumbs:
 committees:
 - position: OPPOSE
   filer_nid: '215900661'
-  filer_id: ''
+  filer_id: '1491026'
   committee_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
     JUNE 2026
   funds: 5396.54

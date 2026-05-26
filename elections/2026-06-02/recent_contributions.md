@@ -69,7 +69,7 @@ late_contributions:
   tx_amount: 5000.0
   tx_date: '2026-05-20'
   contributor_fid: ''
-  recipient_fid: ''
+  recipient_fid: '1491026'
   recipient_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
     JUNE 2026
 - fullname: SERGEY BRIN
