@@ -21,8 +21,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 4975.7
-  ies: 4975.7
+  expenses: 10380.7
+  ies: 10380.7
 - position: SUPPORT
   filer_nid: '214918275'
   filer_id: '1484891'

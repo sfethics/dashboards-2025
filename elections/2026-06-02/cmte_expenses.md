@@ -47,7 +47,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 282017.31
+  total_expense: 316632.31
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -98,7 +98,7 @@ committees:
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
-  total_expense: 173681.83
+  total_expense: 192793.77
 - cmte_name: Daniel Robinson
   cmte_fppcid: '1482797'
   cmte_nid: '212253490'
@@ -184,7 +184,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 860676.12
+  total_expense: 890676.12
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'

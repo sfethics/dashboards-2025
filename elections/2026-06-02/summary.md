@@ -25,25 +25,25 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1020931.24
+  funds: 1020800.24
   expenses: 707780.56
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 309950.0
-  expenses: 531710.15
+  funds: 319950.0
+  expenses: 542060.15
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 339358.57999999996
+  expenses: 344763.57999999996
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 703556.0
-  expenses: 1318287.64
+  expenses: 1345449.58
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -53,24 +53,24 @@ measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
-  expenses: 285133.89
+  expenses: 290538.89
   funds: 417100.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 1697822.77
-  funds: 1980487.03
+  funds: 3265487.03
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
-  expenses: 1230100.76
-  funds: 1957096.54
+  expenses: 1235505.76
+  funds: 2009596.54
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 4578058.72
-  funds: 6305530.39
+  funds: 6505530.39
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
   - 860000.0
@@ -78,10 +78,10 @@ contributors_bm:
   - 700000.0
 - - Michael Moritz
   - 625000.0
+- - Saikat Chakrabarti
+  - 600000.0
 - - Service Employees International Union Local 1021 Issues PAC
   - 600000.0
-- - Christian Larsen
-  - 520000.0
 contributors_cand:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund
@@ -111,10 +111,10 @@ top_cand_spends:
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   total_expense: 278234.04
-- cmte_nid: '215852865'
-  cmte_fppcid: '1488188'
-  cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-  total_expense: 265578.46
+- cmte_nid: '201619433'
+  cmte_fppcid: '1433436'
+  cmte_name: GrowSF Voter Guide
+  total_expense: 274429.61
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'

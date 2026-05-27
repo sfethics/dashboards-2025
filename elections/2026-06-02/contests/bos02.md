@@ -41,7 +41,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 15331.5
+    expenses: 25681.5
   - position: SUPPORT
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -55,7 +55,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-    funds: 42750.0
+    funds: 52750.0
     expenses: 75500.0
   - position: SUPPORT
     filer_id: '1465611'
@@ -86,6 +86,8 @@ contributors:
   - 15000.0
 - - Phineas Barnes
   - 10000.0
+- - Garry Tan
+  - 10000.0
 - - Zachary Dewitt
   - 6150.0
 - - Meridee Moore
@@ -93,8 +95,6 @@ contributors:
 - - Christopher Conway
   - 5400.0
 - - Danny Conway
-  - 5400.0
-- - Robert J. Fisher
   - 5400.0
 
 ---
