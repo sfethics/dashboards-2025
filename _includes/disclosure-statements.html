@@ -14,6 +14,8 @@
                 summary figures shown here. To view all required campaign finance filings for this committee, including
                 older statements and other form types, visit the Ethics Commission's campaign finance statements
                 database.</p>
+
+            <p>Click on the "Download attachment" button to download the advertisement attachment associated with a 496 Independent Expenditure Report, if it's available.</p>
             {% if include.filings != '' %}
             <p><a href="https://netfile.com/public/SFO/campaign/filingsByFiler/{{ page.filer_nid }}"
                     class="btn btn-outline-primary" target="_blank" rel="noopener"><i class="fa fa-external-link-alt" aria-hidden="true"></i> View Statements in Database</a></p>
@@ -50,10 +52,10 @@
                             {%- endif %}
                             ({{filing.filing_activity_type}})
                         </a>
-                        {%- if attachments.size > 0 -%}
+                        {%- if attachments.size > 0 -%}<br>
                         {% for attachment in attachments %}
                         <a class="btn btn-outline-primary btn-sm ms-2" href="https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/{{ attachment.filing_id }}?aid=SFO&name=496_{{ attachment.filing_id }}" target="_blank">
-                            Download attachment</a>
+                            <i class="fa-regular fa-download" aria-hidden="true"></i> Download attachment</a>
                         {% endfor %}
                         {%- endif %}
                     </td>
