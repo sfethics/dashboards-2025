@@ -31,7 +31,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 172178.22
+  funds: 172047.22
   expenses: 90960.55
 - filer_nid: '215112140'
   filer_id: '1485709'
@@ -47,7 +47,7 @@ ie_candidates:
     filer_id: '1469330'
     committee_name: Asian Americans for Representation
     funds: 0.0
-    expenses: 173681.83
+    expenses: 192793.77
 - candidate_name: ALAN WONG
   filer_id: '1485709'
   committees:
@@ -61,7 +61,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 17944.5
+    expenses: 25994.5
   - position: SUPPORT
     filer_id: '1487286'
     committee_name: SF Believes

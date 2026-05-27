@@ -22,8 +22,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 5766.8
-  ies: 5766.8
+  expenses: 11171.8
+  ies: 11171.8
 - position: SUPPORT
   filer_nid: '214918275'
   filer_id: '1484891'
@@ -36,7 +36,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1431700.0
+  funds: 1484200.0
   expenses: 818225.72
   ies: ''
 - position: SUPPORT
@@ -71,10 +71,10 @@ contributors:
   - 100000.0
 - - Operating Engineers Local Union No 3 Issues Advocacy/ballot
   - 100000.0
+- - SF Believes
+  - 80000.0
 - - Webcor Construction Lp
   - 75000.0
-- - Arcadis Inc
-  - 62500.0
 
 ---
 

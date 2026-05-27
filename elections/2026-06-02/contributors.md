@@ -56,6 +56,17 @@ contributors:
   - cmte_fppcid: '1485878'
     cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 200000.0
+- tx_lastname: SAIKAT CHAKRABARTI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 600500.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 600000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
   tx_entitycode: Committee
   tx_cmteid: '1296947'
@@ -81,6 +92,24 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 407981.32
+- tx_lastname: CALIFORNIA WORKERS' JUSTICE COALITION SPONSORED BY SERVICE EMPLOYEES
+    INTERNATIONAL UNION LOCAL 1021
+  tx_entitycode: Committee
+  tx_cmteid: '1433122'
+  tx_amount: 400000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 400000.0
+- tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS -
+    LOCAL 21 TJ ANTHONY PAC FUND
+  tx_entitycode: Committee
+  tx_cmteid: '881248'
+  tx_amount: 385000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 385000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
   tx_cmteid: '1378400'
@@ -169,7 +198,7 @@ contributors:
 - tx_lastname: SF BELIEVES
   tx_entitycode: Committee
   tx_cmteid: '1487286'
-  tx_amount: 210000.0
+  tx_amount: 240000.0
   transactions:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
@@ -181,7 +210,7 @@ contributors:
   - cmte_fppcid: '1486676'
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 50000.0
+    tx_amount: 80000.0
 - tx_lastname: 'AMAZON.COM SERVICES LLC(RESPONSIBLE OFFICER: ANDREA  FAVA)'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -192,6 +221,15 @@ contributors:
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 200000.0
 - tx_lastname: 'EMERSON COLLECTIVE, LLC(RESPONSIBLE OFFICER: DIEDRA NELSON)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 200000.0
+- tx_lastname: META PLATFORMS, INC.
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 200000.0
@@ -258,17 +296,6 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 120000.0
-- tx_lastname: SAIKAT CHAKRABARTI
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 100500.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484969'
-    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-    tx_amount: 100000.0
 - tx_lastname: 'BROOKFIELD PROPERTY GROUP LLC((RESPONSIBLE OFFICER: HILARY WALKER)
     )'
   tx_entitycode: Other
@@ -649,6 +676,15 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 17522.48
+- tx_lastname: THE PRADO GROUP
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 17500.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 17500.0
 - tx_lastname: TMG PARTNERS RE LLC(DANIEL SIRI)
   tx_entitycode: Other
   tx_cmteid: ''
@@ -857,6 +893,14 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 10000.0
+- tx_lastname: GARRY TAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1488379'
+    cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+    tx_amount: 10000.0
 - tx_lastname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
   tx_entitycode: Committee
   tx_cmteid: '1459009'
@@ -902,6 +946,15 @@ contributors:
 - tx_lastname: RANGER PIPELINES, INC.
   tx_entitycode: Other
   tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 10000.0
+- tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_entitycode: Committee
+  tx_cmteid: '891575'
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -1395,15 +1448,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1488891'
     cmte_name: NO LIFETIME BAN
-    tx_amount: 5000.0
-- tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_entitycode: Committee
-  tx_cmteid: '891575'
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 5000.0
 - tx_lastname: SPENSER SKATES
   tx_entitycode: Individual
