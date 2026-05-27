@@ -14,6 +14,8 @@
                 summary figures shown here. To view all required campaign finance filings for this committee, including
                 older statements and other form types, visit the Ethics Commission's campaign finance statements
                 database.</p>
+
+            <p>Click on the "Download attachment" button to download the advertisement attachment associated with a 496 Independent Expenditure Report, if it's available.</p>
             {% if include.filings != '' %}
             <p><a href="https://netfile.com/public/SFO/campaign/filingsByFiler/{{ page.filer_nid }}"
                     class="btn btn-outline-primary" target="_blank" rel="noopener"><i class="fa fa-external-link-alt" aria-hidden="true"></i> View Statements in Database</a></p>
@@ -32,6 +34,7 @@
             </thead>
             <tbody>
                 {% for filing in include.filings %}
+                {% assign attachments = null %}
                 {% if filing.filing_activity_type != 'AttachmentsAdded' %}
                 <tr>
                     <td>{{ filing.filing_datetime }}</td>
@@ -43,11 +46,18 @@
                             FPPC Form 460 - Committee Campaign Statement
                             {%- elsif filing.form_name=='FPPC496' -%}
                             FPPC Form 496 - 24-hour Independent Expenditure Report
+                            {% assign attachments = include.filings | where_exp:"filing2","filing2.filing_activity_type == 'AttachmentsAdded' and filing2.filing_id == filing.filing_id" %}
                             {%- else -%}
                             {{filing.form_name}}
                             {%- endif %}
                             ({{filing.filing_activity_type}})
                         </a>
+                        {%- if attachments.size > 0 -%}<br>
+                        {% for attachment in attachments %}
+                        <a class="btn btn-outline-primary btn-sm ms-2" href="https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/{{ attachment.filing_id }}?aid=SFO&name=496_{{ attachment.filing_id }}" target="_blank">
+                            <i class="fa-regular fa-download" aria-hidden="true"></i> Download attachment</a>
+                        {% endfor %}
+                        {%- endif %}
                     </td>
                     <td>
                         {%- if filing.form_name=='FPPC460' -%}
