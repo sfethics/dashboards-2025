@@ -32,6 +32,21 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 860000.0
+- tx_lastname: SAIKAT CHAKRABARTI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 750500.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 600000.0
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 150000.0
 - tx_lastname: CHRISTIAN LARSEN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -56,17 +71,6 @@ contributors:
   - cmte_fppcid: '1485878'
     cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 200000.0
-- tx_lastname: SAIKAT CHAKRABARTI
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 600500.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484969'
-    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-    tx_amount: 600000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
   tx_entitycode: Committee
   tx_cmteid: '1296947'
@@ -296,6 +300,15 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 120000.0
+- tx_lastname: GROWSF VOTER GUIDE
+  tx_entitycode: Committee
+  tx_cmteid: '1433436'
+  tx_amount: 113741.36
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 113741.36
 - tx_lastname: 'BROOKFIELD PROPERTY GROUP LLC((RESPONSIBLE OFFICER: HILARY WALKER)
     )'
   tx_entitycode: Other
@@ -369,15 +382,6 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 100000.0
-- tx_lastname: GROWSF VOTER GUIDE
-  tx_entitycode: Committee
-  tx_cmteid: '1433436'
-  tx_amount: 98747.7
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-    tx_amount: 98747.7
 - tx_lastname: WEBCOR CONSTRUCTION LP
   tx_entitycode: Other
   tx_cmteid: ''
@@ -569,6 +573,23 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 25000.0
+- tx_lastname: DRIVE - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)
+  tx_entitycode: Committee
+  tx_cmteid: '880969'
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 25000.0
+- tx_lastname: GARRY'S LIST ACTION
+  tx_entitycode: Committee
+  tx_cmteid: '1490064'
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 25000.0
 - tx_lastname: JACKIE SAFIER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -729,6 +750,15 @@ contributors:
   - cmte_fppcid: '1488379'
     cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
     tx_amount: 15000.0
+- tx_lastname: GSW ARENA LLC(BRANDON SCHNEIDER)
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 15000.0
 - tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY
     PATIENT CARE AND UNION DEMOCRACY
   tx_entitycode: Committee
@@ -848,6 +878,15 @@ contributors:
   - cmte_fppcid: '1485633'
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 10000.0
+- tx_lastname: CALIFORNIA PROFESSIONAL FIREFIGHTERS BALLOT ISSUES COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '861767'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 10000.0
 - tx_lastname: COMCAST FINANCIAL AGENCY CORPORATION
   tx_entitycode: Other

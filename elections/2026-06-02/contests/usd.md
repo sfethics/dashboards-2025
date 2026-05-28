@@ -35,7 +35,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 108998.03
+    expenses: 110256.89
 - candidate_name: PHIL KIM
   filer_id: '1483649'
   committees:
