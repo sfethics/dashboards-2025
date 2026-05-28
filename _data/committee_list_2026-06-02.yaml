@@ -298,6 +298,9 @@ committees:
 - cmte_name: California Dream for All, Robert Rivas Ballot Measure Committee
   cmte_fppcid: '1451423'
   cmte_nid: unknown
+- cmte_name: California Professional Firefighters Ballot Issues Committee
+  cmte_fppcid: '861767'
+  cmte_nid: unknown
 - cmte_name: Californians to Protect Retirement and Life Savings, Sponsored by Building
     a Better California
   cmte_fppcid: '1488418'
@@ -315,11 +318,17 @@ committees:
 - cmte_name: Donnellan for Judge 2026
   cmte_fppcid: '1482691'
   cmte_nid: unknown
+- cmte_name: Drive - Dem, Rep, Ind Voter Ed (the PAC of the Int'l Brhd of Teamsters)
+  cmte_fppcid: '880969'
+  cmte_nid: unknown
 - cmte_name: Durazo for Supervisor 2026 Attorney Fees Fund
   cmte_fppcid: '1480691'
   cmte_nid: unknown
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
+  cmte_nid: unknown
+- cmte_name: Garry's List Action
+  cmte_fppcid: '1490064'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Bay Area Chapter
   cmte_fppcid: '1423911'

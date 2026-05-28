@@ -51,7 +51,7 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 200895.75
+    expenses: 233230.75
   - position: SUPPORT
     filer_id: '1488379'
     committee_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
@@ -61,7 +61,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 51933.02
+    expenses: 65401.27
 - candidate_name: LORI BROOKE
   filer_id: '1484332'
   committees:
