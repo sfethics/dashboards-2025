@@ -515,6 +515,7 @@ if (document.querySelector('#ie-measures_table')) {
             }
         },
         layout: {
+            topEnd: null,
             bottomEnd: {
                 paging: {
                     type: 'full'

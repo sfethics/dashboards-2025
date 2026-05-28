@@ -378,11 +378,11 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
             <div class="card-header custom-card-header card-header-stacked">
             <h3 id="ie-measures" class="hover-link mb-0">
-                <span class="">Independent Expenditures Regarding Ballot Measures</span>
+                <span class="">Recent Independent Expenditures Supporting/Opposing Ballot Measures</span>
             </h3>
             {% include card-toolbar.html offcanvas_id="ie-measuresTT" link="ie-measures" %}
             </div>
-                <div class="card-body">
+                <div class="card-body p-3 pt-0">
                     <table class="table caption-top dtify dt-bars mb-0" id="ie-measures_table">
                         <thead>
                             <tr>
@@ -412,7 +412,7 @@ electionnav: true
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
             <div class="card-header custom-card-header card-header-stacked">
             <h3 id="ie-candidates" class="hover-link mb-0">
-                <span class="">Independent Expenditures Regarding Candidates</span>
+                <span class="">Recent Independent Expenditures Supporting/Opposing Candidates</span>
             </h3>
             {% include card-toolbar.html offcanvas_id="ie-candidatesTT" link="ie-candidates" %}
             </div>
@@ -434,6 +434,50 @@ electionnav: true
                                 <td>{{ ie.candidate_name }}</td>
                                 <td>{{ ie.position }}</td>
                                 <td>{{ ie.total }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="mt-5"></div>
+        {%- endif %}
+
+        {%- if page.ies -%}
+        <div class="col-12">
+            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
+            <div class="card-header card-header-stacked custom-card-header">
+            <h3 id="schedule-d" class="hover-link mb-0">
+                <span class="">Expenditures Supporting/Opposing Candidates, Measures and Committees</span>
+            </h3>
+            {% include card-toolbar.html offcanvas_id="schedule-dTT" link="schedule-d" %}
+            </div>
+                <div class="card-body pt-0">
+                    <table class="table caption-top dtify dt-bars mb-0" id="schedule-d_table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Name</th>
+                                <th scope="col">Payment Type</th>
+                                <th scope="col">Position</th>
+                                <th scope="col">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for x in page.ies %}
+                            <tr>
+                                <td>
+                                    {%- if x.tx_cmteid -%}
+                                    <a
+                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">{{
+                                        x.name }}</a>
+                                    {%- else -%}
+                                    {{ x.name }}
+                                    {%- endif -%}
+                                </td>
+                                <td>{{ x.tx_descr }}</td>
+                                <td>{{ x.position }}</td>
+                                <td>{{ x.total }}</td>
                             </tr>
                             {% endfor %}
                         </tbody>
@@ -474,51 +518,6 @@ electionnav: true
                                     {{ x.name }}
                                     {%- endif -%}
                                 </td>
-                                <td>{{ x.position }}</td>
-                                <td>{{ x.total }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
-        <div class="mt-5"></div>
-        {%- endif %}
-
-        {%- if page.ies -%}
-        <div class="col-12">
-            <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
-            <div class="card-header card-header-stacked custom-card-header">
-            <h3 id="schedule-d" class="hover-link mb-0">
-                <span class="">Expenditures Supporting/Opposing Other Candidates, Measures and Committees</span>
-            </h3>
-            {% include card-toolbar.html offcanvas_id="schedule-dTT" link="schedule-d" %}
-            </div>
-
-                <div class="card-body pt-0">
-                    <table class="table caption-top dtify dt-bars mb-0" id="schedule-d_table">
-                        <thead>
-                            <tr>
-                                <th scope="col">Name</th>
-                                <th scope="col">Payment Type</th>
-                                <th scope="col">Position</th>
-                                <th scope="col">Total</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for x in page.ies %}
-                            <tr>
-                                <td>
-                                    {%- if x.tx_cmteid -%}
-                                    <a
-                                        href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{x.tx_cmteid}}.html">{{
-                                        x.name }}</a>
-                                    {%- else -%}
-                                    {{ x.name }}
-                                    {%- endif -%}
-                                </td>
-                                <td>{{ x.tx_descr }}</td>
                                 <td>{{ x.position }}</td>
                                 <td>{{ x.total }}</td>
                             </tr>
