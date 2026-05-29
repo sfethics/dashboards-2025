@@ -278,6 +278,17 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 137000.0
+- tx_lastname: BRANDEE MARCKMANN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 136000.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485654'
+    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
+    tx_amount: 135500.0
 - tx_lastname: DOORDASH, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -382,6 +393,15 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 100000.0
+- tx_lastname: GARRY'S LIST ACTION
+  tx_entitycode: Committee
+  tx_cmteid: '1490064'
+  tx_amount: 76000.0
+  transactions:
+  - cmte_fppcid: '1485633'
+    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
+      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+    tx_amount: 76000.0
 - tx_lastname: WEBCOR CONSTRUCTION LP
   tx_entitycode: Other
   tx_cmteid: ''
@@ -444,17 +464,6 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 53353.8
-- tx_lastname: BRANDEE MARCKMANN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 50500.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485654'
-    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 50000.0
 - tx_lastname: CALIFORNIA NURSES ASSOCIATION / NATIONAL NURSES ORGANIZING COMMITTEE
     (CNA / NNOC PAC)
   tx_entitycode: Committee
@@ -508,6 +517,14 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 50000.0
+- tx_lastname: THE SAN FRANCISCO FOUNDATION
+  tx_entitycode: Other
+  tx_cmteid: '1307803'
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1484969'
+    cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 50000.0
 - tx_lastname: WILLIAM S. FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -529,6 +546,15 @@ contributors:
 - tx_lastname: KAISER FOUNDATION HEALTH PLAN, INC AND HOSPITALS
   tx_entitycode: Other
   tx_cmteid: ''
+  tx_amount: 30000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 30000.0
+- tx_lastname: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  tx_entitycode: Committee
+  tx_cmteid: '1489925'
   tx_amount: 30000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -580,15 +606,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-    tx_amount: 25000.0
-- tx_lastname: GARRY'S LIST ACTION
-  tx_entitycode: Committee
-  tx_cmteid: '1490064'
-  tx_amount: 25000.0
-  transactions:
-  - cmte_fppcid: '1485633'
-    cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
-      RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 25000.0
 - tx_lastname: JACKIE SAFIER
   tx_entitycode: Individual
@@ -3007,6 +3024,17 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 1000.0
+- tx_lastname: RALPH LANE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485253'
+    cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_lastname: REBECCA PROWDA
   tx_entitycode: Individual
   tx_cmteid: ''

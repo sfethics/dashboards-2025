@@ -18,15 +18,15 @@ candidate_pf:
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
-  funds: 153782.0
+  funds: 238782.0
   expenses: 155514.65
   ies: ''
 - committee_type: candidate
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1020800.24
-  expenses: 707780.56
+  funds: 1049270.24
+  expenses: 708181.1
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 703556.0
-  expenses: 1387247.57
+  expenses: 1451242.8599999999
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -60,17 +60,17 @@ measures:
     Pay to Employees'' Pay'
   contest_link: measured
   expenses: 1697822.77
-  funds: 3290487.03
+  funds: 3340487.03
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 1235505.76
-  funds: 2184596.54
+  funds: 2214596.54
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
   expenses: 4578058.72
-  funds: 6545524.05
+  funds: 6596524.05
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
   - 860000.0
@@ -89,7 +89,7 @@ contributors_cand:
 - - Michael Moritz
   - 250000.0
 - - Brandee Marckmann
-  - 50500.0
+  - 136000.0
 - - Nicholas Josefowitz
   - 50500.0
 - - Service Employees International Union Local 1021 Candidate PAC
@@ -98,11 +98,16 @@ top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
-  total_expense: 791093.68
+  total_expense: 791961.73
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 336905.88
+- cmte_nid: '216048526'
+  cmte_fppcid: '1488862'
+  cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+  total_expense: 308506.18
 - cmte_nid: '215112140'
   cmte_fppcid: '1485709'
   cmte_name: ALAN WONG FOR SUPERVISOR 2026
@@ -111,10 +116,6 @@ top_cand_spends:
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   total_expense: 278234.04
-- cmte_nid: '201619433'
-  cmte_fppcid: '1433436'
-  cmte_name: GrowSF Voter Guide
-  total_expense: 274429.61
 top_bm_spends:
 - cmte_nid: '215118470'
   cmte_fppcid: '1485633'
@@ -137,7 +138,7 @@ top_bm_spends:
 - cmte_nid: '209507341'
   cmte_fppcid: '1478129'
   cmte_name: Saikat Chakrabarti
-  total_expense: 600000.0
+  total_expense: 750000.0
 
 ---
 

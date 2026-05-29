@@ -19,7 +19,7 @@ candidates:
   filer_id: '1485654'
   committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   candidate_name: BRANDEE MARCKMANN
-  funds: 75643.0
+  funds: 160643.0
   expenses: 96208.96
 - filer_nid: '216603754'
   filer_id: '1488901'
@@ -56,7 +56,7 @@ ie_candidates:
     expenses: 4824.08
 contributors:
 - - Brandee Marckmann
-  - 50000.0
+  - 135500.0
 - - Mark Leno
   - 1000.0
 - - David Kim

@@ -42,7 +42,7 @@ committees:
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 1643540.0
+  total_expense: 1663540.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -82,7 +82,7 @@ committees:
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
   committee_type: Major Donor
-  total_expense: 600000.0
+  total_expense: 750000.0
 - cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
     POLITICS
   cmte_fppcid: '1466523'
@@ -148,7 +148,7 @@ committees:
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
   committee_type: Candidate Controlled
-  total_expense: 3984.04
+  total_expense: 4384.58
 - cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
@@ -184,7 +184,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 941093.68
+  total_expense: 941961.73
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -211,7 +211,7 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 265378.94
+  total_expense: 308506.18
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
@@ -268,7 +268,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 10000.0
+  total_expense: 5000.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'

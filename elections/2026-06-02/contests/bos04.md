@@ -25,8 +25,8 @@ candidates:
   filer_id: '1485253'
   committee_name: JEREMY GRECO FOR SUPERVISOR 2026
   candidate_name: JEREMY GRECO
-  funds: 3943.93
-  expenses: 3984.04
+  funds: 4843.93
+  expenses: 4384.58
 - filer_nid: '215019694'
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
@@ -37,7 +37,7 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 355432.0
+  funds: 383002.0
   expenses: 284716.53
 ie_candidates:
 - candidate_name: DAVID LEE
@@ -56,7 +56,12 @@ ie_candidates:
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 0.0
-    expenses: 11580.72
+    expenses: 18928.92
+  - position: SUPPORT
+    filer_id: '1431167'
+    committee_name: Neighbors For A Better San Francisco Advocacy
+    funds: 0.0
+    expenses: 20000.0
   - position: SUPPORT
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
@@ -71,7 +76,7 @@ ie_candidates:
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 318556.0
-    expenses: 242851.3
+    expenses: 206371.7
   - position: SUPPORT
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
@@ -84,18 +89,18 @@ ie_candidates:
     filer_id: '1487286'
     committee_name: SF Believes
     funds: 0.0
-    expenses: 169131.3
+    expenses: 169999.35
   - position: OPPOSE
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 13837.69
+    expenses: 50317.29
   - position: SUPPORT
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
     funds: 385000.0
-    expenses: 261209.25
+    expenses: 294968.13
 - candidate_name: ALBERT CHOW
   filer_id: '1485609'
   committees:
@@ -104,6 +109,12 @@ ie_candidates:
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     funds: 0.0
     expenses: 1840.7
+  - position: SUPPORT
+    filer_id: '1488862'
+    committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
+      SPONSORED BY LABOR ORGANIZATIONS
+    funds: 0.0
+    expenses: 2020.16
 contributors:
 - - International Federation of Professional and Technical Engineers - Tj Anthony
     PAC Fund

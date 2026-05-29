@@ -36,7 +36,7 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1659200.0
+  funds: 1689200.0
   expenses: 818225.72
   ies: ''
 - position: SUPPORT
