@@ -174,8 +174,8 @@ committees:
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '921730'
   cmte_nid: '129492757'
-- cmte_name: International Federation of Professional and Technical Engineers - Local
-    21 Tj Anthony PAC Fund
+- cmte_name: International Federation of Professional and Technical Engineers - Tj
+    Anthony PAC Fund
   cmte_fppcid: '881248'
   cmte_nid: '121714486'
 - cmte_name: Laborers Pacific Southwest Regional Organizing Coalition Issues PAC
@@ -194,6 +194,9 @@ committees:
 - cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
   cmte_fppcid: '891394'
   cmte_nid: '121720608'
+- cmte_name: Professors for Educational Reform Aft 2121 Cope
+  cmte_fppcid: '890972'
+  cmte_nid: '121745106'
 - cmte_name: Richmond District Democratic Club
   cmte_fppcid: '882390'
   cmte_nid: '6668130'
@@ -259,6 +262,12 @@ committees:
 - cmte_name: Teamsters Local Union No 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
+- cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
+  cmte_fppcid: '1383218'
+  cmte_nid: '160514558'
+- cmte_name: Transport Workers Union Political Action Committee
+  cmte_fppcid: '744486'
+  cmte_nid: '121333348'
 - cmte_name: U.a. Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
@@ -298,6 +307,9 @@ committees:
 - cmte_name: California Dream for All, Robert Rivas Ballot Measure Committee
   cmte_fppcid: '1451423'
   cmte_nid: unknown
+- cmte_name: California Laborers for Equality and Progress (Small Contributor Committee)
+  cmte_fppcid: '781984'
+  cmte_nid: unknown
 - cmte_name: California Professional Firefighters Ballot Issues Committee
   cmte_fppcid: '861767'
   cmte_nid: unknown
@@ -312,6 +324,9 @@ committees:
 - cmte_name: Canepa for Assessor-county Clerk-recorder 2026
   cmte_fppcid: '1486383'
   cmte_nid: unknown
+- cmte_name: Catherine Stefani for Assembly 2026
+  cmte_fppcid: '1477293'
+  cmte_nid: unknown
 - cmte_name: District 2 Democratic Club Smo
   cmte_fppcid: '1466947'
   cmte_nid: unknown
@@ -323,6 +338,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Durazo for Supervisor 2026 Attorney Fees Fund
   cmte_fppcid: '1480691'
+  cmte_nid: unknown
+- cmte_name: Edwin M Lee Asian Pacific Democratic Club Smo
+  cmte_fppcid: '1342711'
   cmte_nid: unknown
 - cmte_name: Eleni Kounalakis Ballot Measure Committee
   cmte_fppcid: '1460720'
@@ -417,7 +435,7 @@ committees:
 - cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
   cmte_fppcid: '1432377'
   cmte_nid: unknown
-- cmte_name: San Francisco Tenants Union
+- cmte_name: San Francisco Tenants Union Smo
   cmte_fppcid: '1453022'
   cmte_nid: unknown
 - cmte_name: San Francisco Women's Political Committee Voter Guide
@@ -459,6 +477,10 @@ committees:
 - cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
+- cmte_name: Vote Planned Parenthood Northern California, a Project of Planned Parenthood
+    Northern California Action Fund
+  cmte_fppcid: '1276479'
+  cmte_nid: unknown
 - cmte_name: Working Families for San Francisco PAC
   cmte_fppcid: 00945303
   cmte_nid: unknown
@@ -495,9 +517,6 @@ committees:
 - cmte_name: Mick Hellman
   cmte_fppcid: '1392148'
   cmte_nid: '160534058'
-- cmte_name: San Francisco Foundation
-  cmte_fppcid: '1307803'
-  cmte_nid: '134728851'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

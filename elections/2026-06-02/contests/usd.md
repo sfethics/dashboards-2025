@@ -13,20 +13,20 @@ candidates:
   filer_id: '1483649'
   committee_name: KIM FOR SCHOOL BOARD JUNE 2026
   candidate_name: PHIL KIM
-  funds: 71062.0
-  expenses: 56382.38
+  funds: 71562.0
+  expenses: 63323.21
 - filer_nid: '215120587'
   filer_id: '1485654'
   committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   candidate_name: BRANDEE MARCKMANN
-  funds: 160643.0
-  expenses: 96208.96
+  funds: 162555.0
+  expenses: 146887.6
 - filer_nid: '216603754'
   filer_id: '1488901'
   committee_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   candidate_name: VIRGINIA CHEUNG
-  funds: 7077.0
-  expenses: 2923.31
+  funds: 7402.0
+  expenses: 3423.31
 ie_candidates:
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1488901'
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 10725.36
+    expenses: 13725.36
   - position: SUPPORT
     filer_id: '842018'
     committee_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
@@ -62,7 +62,7 @@ contributors:
 - - David Kim
   - 700.0
 - - Virginia Cheung
-  - 545.0
+  - 555.0
 - - Sachin Agarwal
   - 500.0
 - - Matthew Alexander

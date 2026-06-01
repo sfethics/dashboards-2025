@@ -30,7 +30,7 @@ committees:
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   funds: 3340487.03
-  expenses: 1679310.29
+  expenses: 2720577.32
   ies: ''
 - position: SUPPORT
   filer_nid: '216048526'
@@ -38,16 +38,16 @@ committees:
   committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   funds: ''
-  expenses: 17404.25
-  ies: 17404.25
+  expenses: 16418.72
+  ies: 16418.72
 multi_committees:
 - position: MULTIPLE
   filer_nid: '215118470'
   filer_id: '1485633'
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  funds: 6596524.05
-  expenses: 4578058.72
+  funds: 6600009.05
+  expenses: 5823650.33
 contributors:
 - - Saikat Chakrabarti
   - 600000.0

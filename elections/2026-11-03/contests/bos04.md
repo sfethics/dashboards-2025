@@ -13,7 +13,7 @@ candidates:
   filer_id: '1490199'
   committee_name: GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 5400.0
+  funds: 6400.0
   expenses: 305.77
 - filer_nid: '216198377'
   filer_id: '1489126'
@@ -29,6 +29,10 @@ contributors:
   - 500.0
 - - Christin Evans
   - 500.0
+- - Ralph Lane
+  - 500.0
+- - Steven Lee
+  - 500.0
 - - Lily Luu
   - 500.0
 - - Esther Marks
@@ -39,10 +43,6 @@ contributors:
   - 500.0
 - - Henry Lee
   - 300.0
-- - Sally Lee
-  - 300.0
-- - John Seagrave
-  - 250.0
 
 ---
 

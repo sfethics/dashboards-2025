@@ -13,19 +13,19 @@ candidates:
   filer_id: '1479700'
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   candidate_name: STEPHEN SHERRILL
-  funds: 499008.7
-  expenses: 336905.88
+  funds: 499278.7
+  expenses: 390059.23
 - filer_nid: '214820258'
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026
   candidate_name: LORI BROOKE
-  funds: 427650.8
-  expenses: 254074.98
+  funds: 436348.8
+  expenses: 349717.87
 - filer_nid: '214895723'
   filer_id: '1484703'
   committee_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   candidate_name: MONTHANUS RATANAPAKDEE
-  funds: 4942.46
+  funds: 5092.46
   expenses: 6304.34
 - filer_nid: '214896333'
   filer_id: '1484600'
@@ -74,7 +74,7 @@ ie_candidates:
     filer_id: '1484891'
     committee_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     funds: 0.0
-    expenses: 35845.64
+    expenses: 36595.64
 contributors:
 - - Nicholas Josefowitz
   - 50500.0
