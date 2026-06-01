@@ -14,7 +14,7 @@ committees:
   filer_id: '1491026'
   committee_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
     JUNE 2026
-  funds: 5396.54
+  funds: 7357.18
   expenses: ''
   ies: ''
 - position: SUPPORT
@@ -36,8 +36,8 @@ committees:
   filer_id: '1486676'
   committee_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-  funds: 1689200.0
-  expenses: 818225.72
+  funds: 1699200.0
+  expenses: 1191260.48
   ies: ''
 - position: SUPPORT
   filer_nid: '215852865'
@@ -51,7 +51,7 @@ committees:
   filer_id: '1489925'
   committee_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   funds: 520000.0
-  expenses: 405000.0
+  expenses: 478370.27
   ies: ''
 multi_committees: []
 contributors:

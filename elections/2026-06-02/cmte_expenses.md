@@ -52,7 +52,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 11984.73
+  total_expense: 14984.73
 - cmte_name: The Prado Group and Affiliated Entities
   cmte_fppcid: '1372011'
   cmte_nid: '203556801'
@@ -108,17 +108,17 @@ committees:
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
   committee_type: Candidate Controlled
-  total_expense: 336905.88
+  total_expense: 390059.23
 - cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
   cmte_fppcid: '1483649'
   cmte_nid: '214769736'
   committee_type: Candidate Controlled
-  total_expense: 56382.38
+  total_expense: 63323.21
 - cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   cmte_fppcid: '1484332'
   cmte_nid: '214820258'
   committee_type: Candidate Controlled
-  total_expense: 254074.98
+  total_expense: 349717.87
 - cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
@@ -128,7 +128,7 @@ committees:
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
   committee_type: Candidate Controlled
-  total_expense: 278234.04
+  total_expense: 331272.12
 - cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
@@ -138,12 +138,12 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 202720.18
+  total_expense: 205590.18
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
-  total_expense: 49885.4
+  total_expense: 49898.0
 - cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -153,70 +153,70 @@ committees:
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
   committee_type: Primarily Formed Measure
-  total_expense: 1679310.29
+  total_expense: 2720577.32
 - cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
   cmte_fppcid: '1485609'
   cmte_nid: '215019694'
   committee_type: Candidate Controlled
-  total_expense: 90960.55
+  total_expense: 95518.31
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1485709'
   cmte_nid: '215112140'
   committee_type: Candidate Controlled
-  total_expense: 284716.53
+  total_expense: 289286.74
 - cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
-  total_expense: 4578058.72
+  total_expense: 5823650.33
 - cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
   committee_type: Candidate Controlled
-  total_expense: 96208.96
+  total_expense: 146887.6
 - cmte_name: TERM LIMITS NOW - YES ON B!
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
   committee_type: Primarily Formed Measure
-  total_expense: 267343.18
+  total_expense: 317188.18
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 941961.73
+  total_expense: 963138.2
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
   cmte_nid: '215726436'
   committee_type: Primarily Formed Measure
-  total_expense: 818225.72
+  total_expense: 1191260.48
 - cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
   committee_type: Primarily Formed Candidate
-  total_expense: 28195.0
+  total_expense: 29005.0
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 265578.46
+  total_expense: 273510.6
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
   committee_type: Primarily Formed Measure
-  total_expense: 11706.77
+  total_expense: 12306.77
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 308506.18
+  total_expense: 343051.43
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
   committee_type: Primarily Formed Measure
-  total_expense: 435000.0
+  total_expense: 478370.27
 - cmte_name: Diana Nelson
   cmte_fppcid: unknown
   cmte_nid: '216585729'
@@ -231,7 +231,7 @@ committees:
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
   committee_type: Candidate Controlled
-  total_expense: 2923.31
+  total_expense: 3423.31
 - cmte_name: SF Partnership and Affiliated Entity Advance SF
   cmte_fppcid: unknown
   cmte_nid: '216603835'
@@ -283,7 +283,7 @@ committees:
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 9241.01
+  total_expense: 9306.51
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

@@ -32,7 +32,7 @@ committees:
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
-  total_expense: 33005.56
+  total_expense: 33108.27
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'

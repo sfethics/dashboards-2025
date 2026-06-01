@@ -13,8 +13,8 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 34350.0
-  expenses: 11706.77
+  funds: 38850.0
+  expenses: 12306.77
   ies: ''
 - position: SUPPORT
   filer_nid: '201619433'
@@ -34,8 +34,8 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 382750.0
-  expenses: 267343.18
+  funds: 392750.0
+  expenses: 317188.18
   ies: ''
 - position: SUPPORT
   filer_nid: '215852865'

@@ -11,8 +11,8 @@ candidate_pf:
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 200143.0
-  expenses: 33045.06
+  funds: 202343.0
+  expenses: 33147.77
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 5600.0
+  funds: 6600.0
   expenses: 313.67
   ies: 0.0
 candidate_ie: []
@@ -72,9 +72,9 @@ contributors_bm:
 - - Anthropic
   - 500000.0
 contributors_cand:
-- - Christin Evans
-  - 1500.0
 - - Marisa Lavallee
+  - 1500.0
+- - Christin Evans
   - 1500.0
 - - Garry Tan
   - 1500.0
@@ -90,7 +90,7 @@ top_cand_spends:
 - cmte_nid: '214620516'
   cmte_fppcid: '1482285'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-  total_expense: 33005.56
+  total_expense: 33108.27
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
