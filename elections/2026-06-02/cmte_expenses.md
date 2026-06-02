@@ -58,6 +58,11 @@ committees:
   cmte_nid: '203556801'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: Louise Muhlfeld
+  cmte_fppcid: '1435836'
+  cmte_nid: '208194440'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: David Dewilde
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'
@@ -242,7 +247,7 @@ committees:
   cmte_fppcid: '1488209'
   cmte_nid: '216673030'
   committee_type: Primarily Formed Candidate
-  total_expense: 17375.0
+  total_expense: 43875.0
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
