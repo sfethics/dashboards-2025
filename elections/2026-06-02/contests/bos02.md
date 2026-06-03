@@ -25,7 +25,7 @@ candidates:
   filer_id: '1484703'
   committee_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   candidate_name: MONTHANUS RATANAPAKDEE
-  funds: 5092.46
+  funds: 7192.46
   expenses: 6304.34
 - filer_nid: '214896333'
   filer_id: '1484600'

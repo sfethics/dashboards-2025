@@ -96,6 +96,11 @@ ie_candidates:
     funds: 0.0
     expenses: 54989.43
   - position: SUPPORT
+    filer_id: '1438874'
+    committee_name: California Working Families Party
+    funds: 0.0
+    expenses: 849.62
+  - position: SUPPORT
     filer_id: '1488862'
     committee_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026,
       SPONSORED BY LABOR ORGANIZATIONS
