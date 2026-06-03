@@ -34,7 +34,7 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 392750.0
+  funds: 442750.0
   expenses: 317188.18
   ies: ''
 - position: SUPPORT
@@ -49,9 +49,9 @@ contributors:
 - - Chris Larsen
   - 200000.0
 - - Michael Moritz
-  - 50000.0
+  - 80000.0
 - - Jerome Guillen
-  - 20000.0
+  - 30000.0
 - - SF Believes
   - 20000.0
 - - John Brooke
@@ -60,11 +60,11 @@ contributors:
   - 10000.0
 - - Nicholas Josefowitz
   - 10000.0
+- - Louise Muhlfeld
+  - 10000.0
 - - Daniel Robinson
   - 10000.0
 - - San Francisco Apartment Association Political Action Committee
-  - 10000.0
-- - San Francisco Labor and Neighbor Education
   - 10000.0
 
 ---

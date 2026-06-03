@@ -29,7 +29,7 @@ committees:
   filer_nid: '214966146'
   filer_id: '1484969'
   committee_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  funds: 3340487.03
+  funds: 3365829.94
   expenses: 2720577.32
   ies: ''
 - position: SUPPORT
@@ -47,7 +47,7 @@ multi_committees:
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   funds: 6600009.05
-  expenses: 5823650.33
+  expenses: 5836150.33
 contributors:
 - - Saikat Chakrabarti
   - 600000.0

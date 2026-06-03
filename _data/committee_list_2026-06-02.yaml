@@ -153,6 +153,9 @@ committees:
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
+- cmte_name: California Working Families Party
+  cmte_fppcid: '1438874'
+  cmte_nid: '203999708'
 - cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
   cmte_fppcid: '1380710'
   cmte_nid: '157084268'
@@ -454,6 +457,9 @@ committees:
 - cmte_name: Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
   cmte_fppcid: '1298012'
   cmte_nid: unknown
+- cmte_name: Teamsters Local 856 PAC
+  cmte_fppcid: '943044'
+  cmte_nid: unknown
 - cmte_name: Teamsters Local No 853 PAC
   cmte_fppcid: '1250157'
   cmte_nid: unknown
@@ -496,6 +502,9 @@ committees:
 - cmte_name: Enrique Landa
   cmte_fppcid: '1454305'
   cmte_nid: '210576256'
+- cmte_name: John Duggan and Affiliated Entities
+  cmte_fppcid: unknown
+  cmte_nid: '204021423'
 - cmte_name: 'Jan Koum and Affiliated Entities: Manzanita Action Fund'
   cmte_fppcid: unknown
   cmte_nid: '211947314'
@@ -520,6 +529,9 @@ committees:
 - cmte_name: Mick Hellman
   cmte_fppcid: '1392148'
   cmte_nid: '160534058'
+- cmte_name: Rosendin Electric Inc.
+  cmte_fppcid: '1333719'
+  cmte_nid: '216849377'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

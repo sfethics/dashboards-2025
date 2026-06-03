@@ -16,7 +16,7 @@ committees:
   cmte_fppcid: '1380710'
   cmte_nid: '157084268'
   committee_type: General Purpose
-  total_expense: 3422.13
+  total_expense: 5624.3
 - cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -58,6 +58,16 @@ committees:
   cmte_nid: '203556801'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: California Working Families Party
+  cmte_fppcid: '1438874'
+  cmte_nid: '203999708'
+  committee_type: General Purpose
+  total_expense: 849.62
+- cmte_name: JOHN DUGGAN AND AFFILIATED ENTITIES
+  cmte_fppcid: unknown
+  cmte_nid: '204021423'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: Louise Muhlfeld
   cmte_fppcid: '1435836'
   cmte_nid: '208194440'
@@ -82,7 +92,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '209507321'
   committee_type: Major Donor
-  total_expense: 20000.0
+  total_expense: 30000.0
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
@@ -174,7 +184,7 @@ committees:
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
-  total_expense: 5823650.33
+  total_expense: 5836150.33
 - cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
@@ -263,6 +273,11 @@ committees:
   cmte_nid: '216750427'
   committee_type: Major Donor
   total_expense: 5900.0
+- cmte_name: Rosendin Electric Inc.
+  cmte_fppcid: '1333719'
+  cmte_nid: '216849377'
+  committee_type: Major Donor
+  total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - INDEPENDENT EXPENDITURES AKA BOMA-SF-PAC-IE
   cmte_fppcid: '870449'
