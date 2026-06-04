@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 704417.75
-  expenses: 1501291.09
+  expenses: 1516991.09
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -103,15 +103,15 @@ top_cand_spends:
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   total_expense: 390059.23
-- cmte_nid: '214820258'
-  cmte_fppcid: '1484332'
-  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-  total_expense: 349717.87
 - cmte_nid: '216048526'
   cmte_fppcid: '1488862'
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-  total_expense: 343051.43
+  total_expense: 358751.43
+- cmte_nid: '214820258'
+  cmte_fppcid: '1484332'
+  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+  total_expense: 349717.87
 - cmte_nid: '214896050'
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
