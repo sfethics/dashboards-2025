@@ -12,25 +12,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
-  tx_amount: 25000.0
-  tx_date: '2026-06-02'
-  contributor_fid: '1462942'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: LOUISE MUHLFELD
-  tx_amount: 10000.0
-  tx_date: '2026-06-01'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: JEROME GUILLEN
-  tx_amount: 10000.0
-  tx_date: '2026-06-01'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
 - fullname: TEAMSTERS LOCAL 856 PAC
   tx_amount: 10000.0
   tx_date: '2026-06-01'
@@ -43,36 +24,15 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484703'
   recipient_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
-- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
-    POLITICS
-  tx_amount: 3018.55
-  tx_date: '2026-05-29'
-  contributor_fid: '1466523'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
-  tx_amount: 362.87
-  tx_date: '2026-05-29'
-  contributor_fid: '1380710'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: CATHERINE STEFANI FOR ASSEMBLY 2026
+- fullname: LOUISE MUHLFELD
   tx_amount: 10000.0
-  tx_date: '2026-05-29'
+  tx_date: '2026-06-01'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
-    POLITICS
-  tx_amount: 10122.19
-  tx_date: '2026-05-29'
-  contributor_fid: '1466523'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: SHORESTEIN COMPANY LLC(SANDRA SHORENSTEIN)
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: JEROME GUILLEN
   tx_amount: 10000.0
-  tx_date: '2026-05-29'
+  tx_date: '2026-06-01'
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
@@ -82,6 +42,19 @@ late_contributions:
   contributor_fid: '1380710'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
+  tx_amount: 362.87
+  tx_date: '2026-05-29'
+  contributor_fid: '1380710'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
+    POLITICS
+  tx_amount: 3018.55
+  tx_date: '2026-05-29'
+  contributor_fid: '1466523'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: CALIFORNIA LABORERS FOR EQUALITY AND PROGRESS (SMALL CONTRIBUTOR COMMITTEE)
   tx_amount: 10000.0
   tx_date: '2026-05-29'
@@ -89,6 +62,13 @@ late_contributions:
   recipient_fid: '1488209'
   recipient_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
     by International Union of Operating Engineers Local 3
+- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
+    POLITICS
+  tx_amount: 10122.19
+  tx_date: '2026-05-29'
+  contributor_fid: '1466523'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   tx_amount: 30000.0
   tx_date: '2026-05-28'
@@ -96,6 +76,32 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: CALIFORNIA PROFESSIONAL FIREFIGHTERS BALLOT ISSUES COMMITTEE
+  tx_amount: 10000.0
+  tx_date: '2026-05-27'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: SAIKAT CHAKRABARTI
+  tx_amount: 150000.0
+  tx_date: '2026-05-27'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: L. ASHTON CHASE
+  tx_amount: 2000.0
+  tx_date: '2026-05-27'
+  contributor_fid: ''
+  recipient_fid: '1488891'
+  recipient_name: NO LIFETIME BAN
+- fullname: THE SAN FRANCISCO FOUNDATION
+  tx_amount: 50000.0
+  tx_date: '2026-05-27'
+  contributor_fid: ''
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: DOUG ENGMANN
   tx_amount: 2000.0
   tx_date: '2026-05-27'
@@ -109,39 +115,6 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: THE SAN FRANCISCO FOUNDATION
-  tx_amount: 50000.0
-  tx_date: '2026-05-27'
-  contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: L. ASHTON CHASE
-  tx_amount: 2000.0
-  tx_date: '2026-05-27'
-  contributor_fid: ''
-  recipient_fid: '1488891'
-  recipient_name: NO LIFETIME BAN
-- fullname: SAIKAT CHAKRABARTI
-  tx_amount: 150000.0
-  tx_date: '2026-05-27'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: CALIFORNIA PROFESSIONAL FIREFIGHTERS BALLOT ISSUES COMMITTEE
-  tx_amount: 10000.0
-  tx_date: '2026-05-27'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: GARRY'S LIST ACTION
-  tx_amount: 51000.0
-  tx_date: '2026-05-27'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: GARRY'S LIST ACTION
   tx_amount: 25000.0
   tx_date: '2026-05-27'
@@ -149,6 +122,20 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: GARRY'S LIST ACTION
+  tx_amount: 51000.0
+  tx_date: '2026-05-27'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: THE PRADO GROUP
+  tx_amount: 17500.0
+  tx_date: '2026-05-26'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: GROWSF VOTER GUIDE
   tx_amount: 1150.0
   tx_date: '2026-05-26'
@@ -156,6 +143,13 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 5000.0
+  tx_date: '2026-05-26'
+  contributor_fid: '891575'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: META PLATFORMS, INC.
   tx_amount: 200000.0
   tx_date: '2026-05-26'
@@ -169,20 +163,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 5000.0
-  tx_date: '2026-05-26'
-  contributor_fid: '891575'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: THE PRADO GROUP
-  tx_amount: 17500.0
-  tx_date: '2026-05-26'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: GROWSF VOTER GUIDE
   tx_amount: 13455.0
   tx_date: '2026-05-25'
@@ -190,24 +170,24 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: CALIFORNIA WORKERS' JUSTICE COALITION SPONSORED BY SERVICE EMPLOYEES INTERNATIONAL
-    UNION LOCAL 1021
-  tx_amount: 400000.0
-  tx_date: '2026-05-22'
-  contributor_fid: '1433122'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: ANNE BERTRAND
-  tx_amount: 4000.0
+- fullname: DRIVE - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)
+  tx_amount: 25000.0
   tx_date: '2026-05-22'
   contributor_fid: ''
-  recipient_fid: '1488891'
-  recipient_name: NO LIFETIME BAN
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS - LOCAL
     21 TJ ANTHONY PAC FUND
   tx_amount: 385000.0
   tx_date: '2026-05-22'
   contributor_fid: '881248'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: CALIFORNIA WORKERS' JUSTICE COALITION SPONSORED BY SERVICE EMPLOYEES INTERNATIONAL
+    UNION LOCAL 1021
+  tx_amount: 400000.0
+  tx_date: '2026-05-22'
+  contributor_fid: '1433122'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: SF BELIEVES
@@ -229,38 +209,12 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488379'
   recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-- fullname: DRIVE - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)
-  tx_amount: 25000.0
+- fullname: ANNE BERTRAND
+  tx_amount: 4000.0
   tx_date: '2026-05-22'
   contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: SAN FRANCISCO GIANTS
-  tx_amount: 10000.0
-  tx_date: '2026-05-21'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: DIANE WILSEY
-  tx_amount: 5000.0
-  tx_date: '2026-05-21'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: DODGE AND COX
-  tx_amount: 50000.0
-  tx_date: '2026-05-21'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: MELISSA MA
-  tx_amount: 15000.0
-  tx_date: '2026-05-21'
-  contributor_fid: ''
-  recipient_fid: '1469330'
-  recipient_name: Asian Americans for Representation
+  recipient_fid: '1488891'
+  recipient_name: NO LIFETIME BAN
 - fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_amount: 48000.0
   tx_date: '2026-05-21'
@@ -268,32 +222,32 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: 'AMAZON.COM SERVICES LLC(RESPONSIBLE OFFICER: ANDREA  FAVA)'
-  tx_amount: 150000.0
-  tx_date: '2026-05-20'
+- fullname: DODGE AND COX
+  tx_amount: 50000.0
+  tx_date: '2026-05-21'
   contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: AURELIO ESPINOSA
-  tx_amount: 1000.0
-  tx_date: '2026-05-20'
-  contributor_fid: ''
-  recipient_fid: '1431167'
-  recipient_name: Neighbors For A Better San Francisco Advocacy
-- fullname: JAMES DALESSANDRO
-  tx_amount: 5000.0
-  tx_date: '2026-05-20'
-  contributor_fid: ''
-  recipient_fid: '1491026'
-  recipient_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
-    JUNE 2026
-- fullname: JOHN BROOKE
+- fullname: SAN FRANCISCO GIANTS
   tx_amount: 10000.0
-  tx_date: '2026-05-20'
+  tx_date: '2026-05-21'
   contributor_fid: ''
-  recipient_fid: '1488891'
-  recipient_name: NO LIFETIME BAN
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: MELISSA MA
+  tx_amount: 15000.0
+  tx_date: '2026-05-21'
+  contributor_fid: ''
+  recipient_fid: '1469330'
+  recipient_name: Asian Americans for Representation
+- fullname: DIANE WILSEY
+  tx_amount: 5000.0
+  tx_date: '2026-05-21'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
 - fullname: STRADA INVESTMENT GROUP
   tx_amount: 10000.0
   tx_date: '2026-05-20'
@@ -301,9 +255,28 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: SERGEY BRIN
-  tx_amount: 500000.0
-  tx_date: '2026-05-19'
+- fullname: AURELIO ESPINOSA
+  tx_amount: 1000.0
+  tx_date: '2026-05-20'
+  contributor_fid: ''
+  recipient_fid: '1431167'
+  recipient_name: Neighbors For A Better San Francisco Advocacy
+- fullname: JOHN BROOKE
+  tx_amount: 10000.0
+  tx_date: '2026-05-20'
+  contributor_fid: ''
+  recipient_fid: '1488891'
+  recipient_name: NO LIFETIME BAN
+- fullname: JAMES DALESSANDRO
+  tx_amount: 5000.0
+  tx_date: '2026-05-20'
+  contributor_fid: ''
+  recipient_fid: '1491026'
+  recipient_name: EQUAL FIRE PROTECTION FOR ALL COMMITTEE TO OPPOSE PROPOSITION A
+    JUNE 2026
+- fullname: 'AMAZON.COM SERVICES LLC(RESPONSIBLE OFFICER: ANDREA  FAVA)'
+  tx_amount: 150000.0
+  tx_date: '2026-05-20'
   contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
@@ -321,17 +294,18 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: JACKIE SAFIER
-  tx_amount: 25000.0
-  tx_date: '2026-05-18'
+- fullname: SERGEY BRIN
+  tx_amount: 500000.0
+  tx_date: '2026-05-19'
   contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
-  tx_amount: 28000.0
+- fullname: SAN FRANCISCO LABOR & NEIGHBOR MEMBER EDUCATION/POLITICAL ISSUES COMMITTEE,
+    SPONSORED BY THE SAN FRANCISCO LABOR COUNCIL
+  tx_amount: 10000.0
   tx_date: '2026-05-18'
-  contributor_fid: ''
+  contributor_fid: '970630'
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
@@ -349,11 +323,17 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SAN FRANCISCO LABOR & NEIGHBOR MEMBER EDUCATION/POLITICAL ISSUES COMMITTEE,
-    SPONSORED BY THE SAN FRANCISCO LABOR COUNCIL
-  tx_amount: 10000.0
+- fullname: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
+  tx_amount: 25000.0
   tx_date: '2026-05-18'
-  contributor_fid: '970630'
+  contributor_fid: '1462942'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
+  tx_amount: 28000.0
+  tx_date: '2026-05-18'
+  contributor_fid: ''
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
@@ -364,6 +344,13 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: JACKIE SAFIER
+  tx_amount: 25000.0
+  tx_date: '2026-05-18'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: GROWSF VOTER GUIDE
   tx_amount: 13.66
   tx_date: '2026-05-18'
@@ -371,13 +358,6 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
-  tx_amount: 25000.0
-  tx_date: '2026-05-18'
-  contributor_fid: '1462942'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: BUILD AFFORDABLE FASTER CALIFORNIA, SPONSORED BY TENANTS AND OWNERS DEVELOPMENT
     CORP.
   tx_amount: 2000.0
@@ -385,20 +365,6 @@ late_contributions:
   contributor_fid: '1388285'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: NOELLE MOSELEY
-  tx_amount: 10000.0
-  tx_date: '2026-05-15'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: 'STEPHENS & COMPANY, LLC(RESPONSIBLE OFFICER: LANE STEPHENS)'
-  tx_amount: 9000.0
-  tx_date: '2026-05-15'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: KATHERINE AUGUST DE-WILDE
   tx_amount: 50000.0
   tx_date: '2026-05-15'
@@ -408,31 +374,11 @@ late_contributions:
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
     POLITICS
-  tx_amount: 1276.89
-  tx_date: '2026-05-15'
-  contributor_fid: '1466523'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
-  tx_amount: 1740.39
-  tx_date: '2026-05-15'
-  contributor_fid: '1357256'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
-    POLITICS
   tx_amount: 402.41
   tx_date: '2026-05-15'
   contributor_fid: '1466523'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: GROWSF VOTER GUIDE
-  tx_amount: 52925.0
-  tx_date: '2026-05-15'
-  contributor_fid: '1433436'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: PATRICK KENNEDY
   tx_amount: 1000.0
   tx_date: '2026-05-15'
@@ -445,6 +391,19 @@ late_contributions:
   contributor_fid: '1380710'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
+    POLITICS
+  tx_amount: 1276.89
+  tx_date: '2026-05-15'
+  contributor_fid: '1466523'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
+  tx_amount: 217.55
+  tx_date: '2026-05-15'
+  contributor_fid: '1380710'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: SF PARTNERSHIP GOVERNMENT REFORM FUND
   tx_amount: 125000.0
   tx_date: '2026-05-15'
@@ -452,16 +411,30 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
-  tx_amount: 217.55
+- fullname: 'STEPHENS & COMPANY, LLC(RESPONSIBLE OFFICER: LANE STEPHENS)'
+  tx_amount: 9000.0
   tx_date: '2026-05-15'
-  contributor_fid: '1380710'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: GROWSF VOTER GUIDE
+  tx_amount: 52925.0
+  tx_date: '2026-05-15'
+  contributor_fid: '1433436'
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
+  tx_amount: 1740.39
+  tx_date: '2026-05-15'
+  contributor_fid: '1357256'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 100000.0
-  tx_date: '2026-05-14'
-  contributor_fid: '891575'
+- fullname: NOELLE MOSELEY
+  tx_amount: 10000.0
+  tx_date: '2026-05-15'
+  contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
@@ -471,13 +444,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 5000.0
-  tx_date: '2026-05-14'
-  contributor_fid: '891575'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: TARGET CORPORATION
   tx_amount: 50000.0
   tx_date: '2026-05-14'
@@ -485,13 +451,13 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
-  tx_amount: 2500.0
-  tx_date: '2026-05-13'
-  contributor_fid: '1243711'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 100000.0
+  tx_date: '2026-05-14'
+  contributor_fid: '891575'
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: 'GOOGLE LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER: ROB BIEDERMAN)'
   tx_amount: 155000.0
   tx_date: '2026-05-13'
@@ -512,16 +478,17 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: NELLIE LEVCHIN
-  tx_amount: 100000.0
-  tx_date: '2026-05-12'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
 - fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
   tx_amount: 550000.0
   tx_date: '2026-05-12'
   contributor_fid: '1431167'
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: GROWSF VOTER GUIDE
+  tx_amount: 12.5
+  tx_date: '2026-05-12'
+  contributor_fid: '1433436'
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
@@ -538,37 +505,36 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '842018'
   recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
-- fullname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
-  tx_amount: 500.0
-  tx_date: '2026-05-12'
-  contributor_fid: '1463427'
-  recipient_fid: '842018'
-  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
 - fullname: JONATHAN MEEKS
   tx_amount: 50000.0
   tx_date: '2026-05-12'
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: GROWSF VOTER GUIDE
-  tx_amount: 12.5
+- fullname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
+  tx_amount: 500.0
   tx_date: '2026-05-12'
-  contributor_fid: '1433436'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SAN FRANCISCO LABOR AND NEIGHBOR EDUCATION
-  tx_amount: 10000.0
-  tx_date: '2026-05-11'
-  contributor_fid: '970630'
-  recipient_fid: '1488891'
-  recipient_name: NO LIFETIME BAN
+  contributor_fid: '1463427'
+  recipient_fid: '842018'
+  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+- fullname: NELLIE LEVCHIN
+  tx_amount: 100000.0
+  tx_date: '2026-05-12'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
 - fullname: SILVANUS OBSORN ERICKSON
   tx_amount: 5000.0
   tx_date: '2026-05-11'
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: SAN FRANCISCO LABOR AND NEIGHBOR EDUCATION
+  tx_amount: 10000.0
+  tx_date: '2026-05-11'
+  contributor_fid: '970630'
+  recipient_fid: '1488891'
+  recipient_name: NO LIFETIME BAN
 - fullname: 'PROPEL:  PROGRESS FOR PEOPLE'
   tx_amount: 5000.0
   tx_date: '2026-05-11'
@@ -581,12 +547,6 @@ late_contributions:
   contributor_fid: '1384604'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: MERIDEE MOORE
-  tx_amount: 5000.0
-  tx_date: '2026-05-11'
-  contributor_fid: ''
-  recipient_fid: '1488379'
-  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: KAISER FOUNDATION HEALTH PLAN, INC AND HOSPITALS
   tx_amount: 30000.0
   tx_date: '2026-05-11'
@@ -594,6 +554,12 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: MERIDEE MOORE
+  tx_amount: 5000.0
+  tx_date: '2026-05-11'
+  contributor_fid: ''
+  recipient_fid: '1488379'
+  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: MARTHA KNUTZEN
   tx_amount: 75.0
   tx_date: '2026-05-09'
@@ -606,54 +572,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485654'
   recipient_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-- fullname: LUIS BELMONTE
-  tx_amount: 5900.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
-  tx_amount: 1000.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: DOORDASH, INC.
-  tx_amount: 100000.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: CALIFORNIA NURSES ASSOCIATION / NATIONAL NURSES ORGANIZING COMMITTEE (CNA
-    / NNOC PAC)
-  tx_amount: 50000.0
-  tx_date: '2026-05-08'
-  contributor_fid: '1401119'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: SCOTT PLANK
-  tx_amount: 1000.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
-    21
-  tx_amount: 15000.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: DOUGLAS MACMAHON
-  tx_amount: 1000.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: SAN FRANCISCO LABOR COUNCIL LABOR & NEIGHBOR
   tx_amount: 20000.0
   tx_date: '2026-05-08'
@@ -661,13 +579,6 @@ late_contributions:
   recipient_fid: '1488862'
   recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-- fullname: 'BEST BUY PURCHASING LLC(RESPONSIBLE OFFICER: MIKE HILTNER)'
-  tx_amount: 9500.0
-  tx_date: '2026-05-08'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO PAC INDEPENDENT
     EXPENDITURES AKA (BOMA-SF-PAC-IE)
   tx_amount: 9999.0
@@ -675,13 +586,61 @@ late_contributions:
   contributor_fid: '870449'
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
-  tx_amount: 4203.73
-  tx_date: '2026-05-07'
+- fullname: DOORDASH, INC.
+  tx_amount: 100000.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
+  tx_amount: 1000.0
+  tx_date: '2026-05-08'
   contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: DOUGLAS MACMAHON
+  tx_amount: 1000.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
+    21
+  tx_amount: 15000.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: LUIS BELMONTE
+  tx_amount: 5900.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: 'BEST BUY PURCHASING LLC(RESPONSIBLE OFFICER: MIKE HILTNER)'
+  tx_amount: 9500.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: SCOTT PLANK
+  tx_amount: 1000.0
+  tx_date: '2026-05-08'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: CALIFORNIA NURSES ASSOCIATION / NATIONAL NURSES ORGANIZING COMMITTEE (CNA
+    / NNOC PAC)
+  tx_amount: 50000.0
+  tx_date: '2026-05-08'
+  contributor_fid: '1401119'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: SAN FRANCISCO LABOR & NEIGHBOR MEMBER EDUCATION / POLITICAL ISSUES COMMITTEE,
     SPONSORED BY THE SAN FRANCISCO LABOR COUNCIL
   tx_amount: 45000.0
@@ -696,6 +655,13 @@ late_contributions:
   contributor_fid: '1388285'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
+  tx_amount: 4203.73
+  tx_date: '2026-05-07'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: SAN FRANCISCO CHAMBER OF COMMERCE
   tx_amount: 7000.0
   tx_date: '2026-05-07'
@@ -710,6 +676,12 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: CHRISTIAN LARSEN
+  tx_amount: 20000.0
+  tx_date: '2026-05-06'
+  contributor_fid: ''
+  recipient_fid: '1489925'
+  recipient_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
 - fullname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
   tx_amount: 500.0
   tx_date: '2026-05-06'
@@ -723,12 +695,32 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: CHRISTIAN LARSEN
-  tx_amount: 20000.0
-  tx_date: '2026-05-06'
+- fullname: KELLY JONES
+  tx_amount: 4000.0
+  tx_date: '2026-05-05'
   contributor_fid: ''
-  recipient_fid: '1489925'
-  recipient_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  recipient_fid: '842018'
+  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 CANDIDATE PAC
+  tx_amount: 50000.0
+  tx_date: '2026-05-05'
+  contributor_fid: '1296948'
+  recipient_fid: '1488862'
+  recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
+    BY LABOR ORGANIZATIONS
+- fullname: SF PARTNERSHIP GOVERNMENT REFORM FUND
+  tx_amount: 12000.0
+  tx_date: '2026-05-05'
+  contributor_fid: '982683'
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: GRETCHEN SISSON
+  tx_amount: 5000.0
+  tx_date: '2026-05-05'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY PATIENT
     CARE AND UNION DEMOCRACY
   tx_amount: 10000.0
@@ -737,32 +729,6 @@ late_contributions:
   recipient_fid: '1488862'
   recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 CANDIDATE PAC
-  tx_amount: 50000.0
-  tx_date: '2026-05-05'
-  contributor_fid: '1296948'
-  recipient_fid: '1488862'
-  recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
-    BY LABOR ORGANIZATIONS
-- fullname: GRETCHEN SISSON
-  tx_amount: 5000.0
-  tx_date: '2026-05-05'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: KELLY JONES
-  tx_amount: 4000.0
-  tx_date: '2026-05-05'
-  contributor_fid: ''
-  recipient_fid: '842018'
-  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
-- fullname: SF PARTNERSHIP GOVERNMENT REFORM FUND
-  tx_amount: 12000.0
-  tx_date: '2026-05-05'
-  contributor_fid: '982683'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS, LOCAL
     21 ISSUES PAC
   tx_amount: 70000.0
@@ -784,18 +750,6 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: RICHMOND DISTRICT DEMOCRATIC CLUB SLATE MAILER ORGANIZATION
-  tx_amount: 3000.0
-  tx_date: '2026-05-04'
-  contributor_fid: ''
-  recipient_fid: '882390'
-  recipient_name: Richmond District Democratic Club
-- fullname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  tx_amount: 2500.0
-  tx_date: '2026-05-04'
-  contributor_fid: '1484969'
-  recipient_fid: '882390'
-  recipient_name: Richmond District Democratic Club
 - fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
   tx_amount: 150000.0
   tx_date: '2026-05-04'
@@ -808,6 +762,18 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  tx_amount: 2500.0
+  tx_date: '2026-05-04'
+  contributor_fid: '1484969'
+  recipient_fid: '882390'
+  recipient_name: Richmond District Democratic Club
+- fullname: RICHMOND DISTRICT DEMOCRATIC CLUB SLATE MAILER ORGANIZATION
+  tx_amount: 3000.0
+  tx_date: '2026-05-04'
+  contributor_fid: ''
+  recipient_fid: '882390'
+  recipient_name: Richmond District Democratic Club
 - fullname: MICHAEL CAMPBELL
   tx_amount: 500.0
   tx_date: '2026-05-03'
@@ -821,10 +787,23 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: CRITCHFIELD MECHANICAL, INC.
+  tx_amount: 10000.0
+  tx_date: '2026-05-01'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
   tx_amount: 423.94
   tx_date: '2026-05-01'
   contributor_fid: '1380710'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+  tx_amount: 100000.0
+  tx_date: '2026-05-01'
+  contributor_fid: '1296947'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS, LOCAL
@@ -835,12 +814,24 @@ late_contributions:
   recipient_fid: '1488862'
   recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
+- fullname: DANIEL LURIE FOR MAYOR 2024
+  tx_amount: 10000.0
+  tx_date: '2026-05-01'
+  contributor_fid: '1463099'
+  recipient_fid: '842018'
+  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
 - fullname: GOVERN FOR CALIFORNIA ACTION COMMITTEE
   tx_amount: 20000.0
   tx_date: '2026-05-01'
   contributor_fid: ''
   recipient_fid: '1433436'
   recipient_name: GrowSF Voter Guide
+- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
+  tx_amount: 200000.0
+  tx_date: '2026-05-01'
+  contributor_fid: '1357256'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: GROWSF VOTER GUIDE
   tx_amount: 3085.0
   tx_date: '2026-05-01'
@@ -848,18 +839,12 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
-  tx_amount: 100000.0
+- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
+  tx_amount: 400.83
   tx_date: '2026-05-01'
-  contributor_fid: '1296947'
+  contributor_fid: '1380710'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: DANIEL LURIE FOR MAYOR 2024
-  tx_amount: 10000.0
-  tx_date: '2026-05-01'
-  contributor_fid: '1463099'
-  recipient_fid: '842018'
-  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
 - fullname: ARCADIS INC
   tx_amount: 62500.0
   tx_date: '2026-05-01'
@@ -867,26 +852,14 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: CHINESE PROGRESSIVE ASSOCIATION (NONPROFIT 501(C)(3))
-  tx_amount: 400.83
-  tx_date: '2026-05-01'
-  contributor_fid: '1380710'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: CRITCHFIELD MECHANICAL, INC.
-  tx_amount: 10000.0
-  tx_date: '2026-05-01'
+- fullname: ASSOCIATED GENERAL CONTRACTORS POLITICAL ACTION COMMITTEE OF CALIFORNIA
+  tx_amount: 15000.0
+  tx_date: '2026-04-30'
   contributor_fid: ''
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
-  tx_amount: 200000.0
-  tx_date: '2026-05-01'
-  contributor_fid: '1357256'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: ELIZABETH FISHER
+- fullname: WILLIAM FISHER
   tx_amount: 50000.0
   tx_date: '2026-04-30'
   contributor_fid: ''
@@ -904,45 +877,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: ROBERT FISHER
-  tx_amount: 50000.0
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
-- fullname: ASSOCIATED GENERAL CONTRACTORS POLITICAL ACTION COMMITTEE OF CALIFORNIA
-  tx_amount: 15000.0
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
-    21
-  tx_amount: 344.29
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: WEBCOR CONSTRUCTION LP
-  tx_amount: 75000.0
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: RYAN DELK
-  tx_amount: 2500.0
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: WILLIAM FISHER
-  tx_amount: 50000.0
-  tx_date: '2026-04-30'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
 - fullname: 'EMERSON COLLECTIVE, LLC(RESPONSIBLE OFFICER: DIEDRA NELSON)'
   tx_amount: 100000.0
   tx_date: '2026-04-30'
@@ -950,25 +884,44 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: ROBERT FISHER
+  tx_amount: 50000.0
+  tx_date: '2026-04-30'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: WEBCOR CONSTRUCTION LP
+  tx_amount: 75000.0
+  tx_date: '2026-04-30'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: MATTHEW PERRY
   tx_amount: 50000.0
   tx_date: '2026-04-30'
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: SINGULAR BUILDERS
-  tx_amount: 1000.0
-  tx_date: '2026-04-29'
+- fullname: ELIZABETH FISHER
+  tx_amount: 50000.0
+  tx_date: '2026-04-30'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: GREGORY FLYNN
-  tx_amount: 5000.0
-  tx_date: '2026-04-29'
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: RYAN DELK
+  tx_amount: 2500.0
+  tx_date: '2026-04-30'
   contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
+    21
+  tx_amount: 344.29
+  tx_date: '2026-04-30'
+  contributor_fid: ''
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   tx_amount: 5231.64
@@ -976,6 +929,19 @@ late_contributions:
   contributor_fid: '1488862'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: GREGORY FLYNN
+  tx_amount: 5000.0
+  tx_date: '2026-04-29'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: SINGULAR BUILDERS
+  tx_amount: 1000.0
+  tx_date: '2026-04-29'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: PHOEBE MAFFEI
   tx_amount: 300.0
   tx_date: '2026-04-29'
@@ -989,6 +955,18 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: ALEXANDER DURSIN
+  tx_amount: 600.0
+  tx_date: '2026-04-28'
+  contributor_fid: ''
+  recipient_fid: '842018'
+  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
+  tx_amount: 4160.62
+  tx_date: '2026-04-28'
+  contributor_fid: '1357256'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: HENSEL PHELPS
   tx_amount: 1000.0
   tx_date: '2026-04-28'
@@ -996,25 +974,12 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
-  tx_amount: 4160.62
-  tx_date: '2026-04-28'
-  contributor_fid: '1357256'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: ALEXANDER DURSIN
-  tx_amount: 600.0
-  tx_date: '2026-04-28'
+- fullname: SCOTT ANDREAS
+  tx_amount: 1500.0
+  tx_date: '2026-04-27'
   contributor_fid: ''
   recipient_fid: '842018'
   recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
-- fullname: BXP, INC.
-  tx_amount: 10000.0
-  tx_date: '2026-04-27'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_amount: 100000.0
   tx_date: '2026-04-27'
@@ -1022,13 +987,12 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: VISA, INC
-  tx_amount: 250000.0
+- fullname: PHINEAS BARNES
+  tx_amount: 15000.0
   tx_date: '2026-04-27'
   contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+  recipient_fid: '1433436'
+  recipient_name: GrowSF Voter Guide
 - fullname: SUTTER HEALTH
   tx_amount: 50000.0
   tx_date: '2026-04-27'
@@ -1036,18 +1000,20 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: PHINEAS BARNES
-  tx_amount: 15000.0
+- fullname: VISA, INC
+  tx_amount: 250000.0
   tx_date: '2026-04-27'
   contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_name: GrowSF Voter Guide
-- fullname: SCOTT ANDREAS
-  tx_amount: 1500.0
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: BXP, INC.
+  tx_amount: 10000.0
   tx_date: '2026-04-27'
   contributor_fid: ''
-  recipient_fid: '842018'
-  recipient_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: OPERATING ENGINEERS 3 STATEWIDE PAC
   tx_amount: 20000.0
   tx_date: '2026-04-24'
@@ -1061,13 +1027,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: SAN FRANCISCO LABORER'S LOCAL 261 PAC
-  tx_amount: 10000.0
-  tx_date: '2026-04-24'
-  contributor_fid: '981076'
-  recipient_fid: '1488209'
-  recipient_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
-    by International Union of Operating Engineers Local 3
 - fullname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS POWER PAC SMALL CONTRIBUTOR
     COMMITTEE
   tx_amount: 20000.0
@@ -1076,6 +1035,18 @@ late_contributions:
   recipient_fid: '1488209'
   recipient_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
     by International Union of Operating Engineers Local 3
+- fullname: SF BELIEVES
+  tx_amount: 20000.0
+  tx_date: '2026-04-24'
+  contributor_fid: '1487286'
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: UNITED EDUCATORS OF SAN FRANCISCO COMMITTEE ON POLITICAL EDUCATION
+  tx_amount: 5000.0
+  tx_date: '2026-04-24'
+  contributor_fid: '822448'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: FIROUZEH HAERI
   tx_amount: 5000.0
   tx_date: '2026-04-24'
@@ -1083,11 +1054,12 @@ late_contributions:
   recipient_fid: '1488379'
   recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: SF BELIEVES
-  tx_amount: 20000.0
+  tx_amount: 40000.0
   tx_date: '2026-04-24'
   contributor_fid: '1487286'
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: SF BELIEVES
   tx_amount: 20000.0
   tx_date: '2026-04-24'
@@ -1095,19 +1067,20 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: SF BELIEVES
-  tx_amount: 40000.0
+- fullname: SAN FRANCISCO LABORER'S LOCAL 261 PAC
+  tx_amount: 10000.0
   tx_date: '2026-04-24'
-  contributor_fid: '1487286'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: UNITED EDUCATORS OF SAN FRANCISCO COMMITTEE ON POLITICAL EDUCATION
-  tx_amount: 5000.0
-  tx_date: '2026-04-24'
-  contributor_fid: '822448'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  contributor_fid: '981076'
+  recipient_fid: '1488209'
+  recipient_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
+    by International Union of Operating Engineers Local 3
+- fullname: NIGEL STAPLES
+  tx_amount: 2750.0
+  tx_date: '2026-04-23'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: ARCHITECTURAL GLASS & ALUMINUM CO INC
   tx_amount: 10000.0
   tx_date: '2026-04-23'
@@ -1122,13 +1095,6 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
-    21
-  tx_amount: 199.0
-  tx_date: '2026-04-23'
-  contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: BRYAN EVANS
   tx_amount: 2750.0
   tx_date: '2026-04-23'
@@ -1136,13 +1102,13 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: NIGEL STAPLES
-  tx_amount: 2750.0
+- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
+    21
+  tx_amount: 199.0
   tx_date: '2026-04-23'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC
   tx_amount: 10000.0
   tx_date: '2026-04-22'
@@ -1181,13 +1147,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: EDESIGNC INC.
-  tx_amount: 1000.0
-  tx_date: '2026-04-21'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: JOSHUA OLSHANSKY
   tx_amount: 50000.0
   tx_date: '2026-04-21'
@@ -1195,6 +1154,13 @@ late_contributions:
   recipient_fid: '1487286'
   recipient_name: SF Believes
 - fullname: ROD HEISLER CONSTRUCTION & MANAGEMENT
+  tx_amount: 1000.0
+  tx_date: '2026-04-21'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: EDESIGNC INC.
   tx_amount: 1000.0
   tx_date: '2026-04-21'
   contributor_fid: ''
@@ -1214,14 +1180,12 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: CALRETAILERS ISSUES POLITICAL ACTION COMMITTEE, SPONSORED BY THE CALIFORNIA
-    RETAILERS ASSOCIATION
-  tx_amount: 20000.0
+- fullname: PHIN BARNES
+  tx_amount: 10000.0
   tx_date: '2026-04-20'
   contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+  recipient_fid: '1484891'
+  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
 - fullname: UNITED EDUCATORS OF SAN FRANCISCO COMMITTEE ON POLITICAL EDUCATION
   tx_amount: 15000.0
   tx_date: '2026-04-20'
@@ -1234,13 +1198,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: CHARLES PANKOW BUILDERES, LTD.
-  tx_amount: 5000.0
-  tx_date: '2026-04-20'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: AMIR RUBIN
   tx_amount: 12500.0
   tx_date: '2026-04-20'
@@ -1259,14 +1216,31 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: PHIN BARNES
-  tx_amount: 10000.0
+- fullname: CHARLES PANKOW BUILDERES, LTD.
+  tx_amount: 5000.0
   tx_date: '2026-04-20'
   contributor_fid: ''
-  recipient_fid: '1484891'
-  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: CALRETAILERS ISSUES POLITICAL ACTION COMMITTEE, SPONSORED BY THE CALIFORNIA
+    RETAILERS ASSOCIATION
+  tx_amount: 20000.0
+  tx_date: '2026-04-20'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: DIGITAL DISCLOSURE(JAMES JACKSON)
   tx_amount: 1000.0
+  tx_date: '2026-04-17'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: CALIFORNIANS TO PROTECT RETIREMENT AND LIFE SAVINGS, SPONSORED BY BUILDING
+    A BETTER CALIFORNIA
+  tx_amount: 25000.0
   tx_date: '2026-04-17'
   contributor_fid: ''
   recipient_fid: '1486676'
@@ -1278,27 +1252,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1485654'
   recipient_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-- fullname: CALIFORNIANS TO PROTECT RETIREMENT AND LIFE SAVINGS, SPONSORED BY BUILDING
-    A BETTER CALIFORNIA
-  tx_amount: 25000.0
-  tx_date: '2026-04-17'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: MARINA SECURITY SERVICES, INC.
-  tx_amount: 2500.0
-  tx_date: '2026-04-16'
-  contributor_fid: ''
-  recipient_fid: '1488379'
-  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
-    21
-  tx_amount: 388.58
-  tx_date: '2026-04-16'
-  contributor_fid: ''
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   tx_amount: 546.2
@@ -1306,6 +1259,19 @@ late_contributions:
   contributor_fid: '1488862'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
+    21
+  tx_amount: 388.58
+  tx_date: '2026-04-16'
+  contributor_fid: ''
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+- fullname: MARINA SECURITY SERVICES, INC.
+  tx_amount: 2500.0
+  tx_date: '2026-04-16'
+  contributor_fid: ''
+  recipient_fid: '1488379'
+  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: PACIFIC GAS AND ELECTRIC COMPANY
   tx_amount: 250000.0
   tx_date: '2026-04-15'
@@ -1335,12 +1301,6 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
-  tx_amount: 1500.0
-  tx_date: '2026-04-14'
-  contributor_fid: '1357256'
-  recipient_fid: '1484969'
-  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: MIGUEL GUZMAN
   tx_amount: 1000.0
   tx_date: '2026-04-14'
@@ -1348,26 +1308,32 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: MATTHEW PAIGE
-  tx_amount: 2500.0
-  tx_date: '2026-04-13'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
+- fullname: DIGNITY CA SERVICE EMPLOYEES INTERNATIONAL UNION SEIU LOCAL 2015
+  tx_amount: 1500.0
+  tx_date: '2026-04-14'
+  contributor_fid: '1357256'
+  recipient_fid: '1484969'
+  recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
 - fullname: BENJAMIN BOLOGNA
   tx_amount: 5000.0
   tx_date: '2026-04-13'
   contributor_fid: ''
   recipient_fid: '1484891'
   recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-- fullname: JONATHAN GANS
-  tx_amount: 5000.0
+- fullname: MANZANITA ACTION FUND
+  tx_amount: 250000.0
   tx_date: '2026-04-13'
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: MANZANITA ACTION FUND
-  tx_amount: 250000.0
+- fullname: MATTHEW PAIGE
+  tx_amount: 2500.0
+  tx_date: '2026-04-13'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: JONATHAN GANS
+  tx_amount: 5000.0
   tx_date: '2026-04-13'
   contributor_fid: ''
   recipient_fid: '1487286'
@@ -1378,13 +1344,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1469330'
   recipient_name: Asian Americans for Representation
-- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
-  tx_amount: 100000.0
-  tx_date: '2026-04-10'
-  contributor_fid: '1431167'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   tx_amount: 10792.73
@@ -1392,19 +1351,13 @@ late_contributions:
   contributor_fid: '1488862'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: GROWSF VOTER GUIDE
-  tx_amount: 25000.0
-  tx_date: '2026-04-09'
-  contributor_fid: '1433436'
+- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+  tx_amount: 100000.0
+  tx_date: '2026-04-10'
+  contributor_fid: '1431167'
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: STEVEN SWIG
-  tx_amount: 2500.0
-  tx_date: '2026-04-09'
-  contributor_fid: ''
-  recipient_fid: '1488379'
-  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
   tx_amount: 100000.0
   tx_date: '2026-04-09'
@@ -1419,12 +1372,19 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: ALISON PINCUS
-  tx_amount: 25000.0
-  tx_date: '2026-04-08'
+- fullname: STEVEN SWIG
+  tx_amount: 2500.0
+  tx_date: '2026-04-09'
   contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
+  recipient_fid: '1488379'
+  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+- fullname: GROWSF VOTER GUIDE
+  tx_amount: 25000.0
+  tx_date: '2026-04-09'
+  contributor_fid: '1433436'
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: WILLIAMS-SONOMA, INC.
   tx_amount: 300000.0
   tx_date: '2026-04-08'
@@ -1432,6 +1392,12 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: ALISON PINCUS
+  tx_amount: 25000.0
+  tx_date: '2026-04-08'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
 - fullname: GAP, INC.
   tx_amount: 100000.0
   tx_date: '2026-04-08'
@@ -1439,20 +1405,6 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
-  tx_amount: 10000.0
-  tx_date: '2026-04-07'
-  contributor_fid: '1431167'
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: KILROY REALTY, L.P.
-  tx_amount: 25000.0
-  tx_date: '2026-04-07'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
     21
   tx_amount: 35980.92
@@ -1460,10 +1412,10 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 7000.0
+- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY
+  tx_amount: 10000.0
   tx_date: '2026-04-07'
-  contributor_fid: ''
+  contributor_fid: '1431167'
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
@@ -1474,15 +1426,29 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: TONY XU
-  tx_amount: 250000.0
-  tx_date: '2026-04-06'
+- fullname: SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 7000.0
+  tx_date: '2026-04-07'
   contributor_fid: ''
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: KILROY REALTY, L.P.
+  tx_amount: 25000.0
+  tx_date: '2026-04-07'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: KILROY REALTY, L.P.
   tx_amount: 75000.0
+  tx_date: '2026-04-06'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: TONY XU
+  tx_amount: 250000.0
   tx_date: '2026-04-06'
   contributor_fid: ''
   recipient_fid: '1485633'
@@ -1507,6 +1473,13 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1433436'
   recipient_name: GrowSF Voter Guide
+- fullname: MICHAEL MORITZ
+  tx_amount: 500000.0
+  tx_date: '2026-04-02'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: DODGE AND COX
   tx_amount: 100000.0
   tx_date: '2026-04-02'
@@ -1514,8 +1487,8 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: MICHAEL MORITZ
-  tx_amount: 500000.0
+- fullname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
+  tx_amount: 15000.0
   tx_date: '2026-04-02'
   contributor_fid: ''
   recipient_fid: '1485633'
@@ -1529,13 +1502,6 @@ late_contributions:
   recipient_fid: '1488862'
   recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-- fullname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
-  tx_amount: 15000.0
-  tx_date: '2026-04-02'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: CHRIS LARSEN
   tx_amount: 500000.0
   tx_date: '2026-04-01'
@@ -1554,6 +1520,13 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488379'
   recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+- fullname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
+  tx_amount: 6722.49
+  tx_date: '2026-03-31'
+  contributor_fid: ''
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: ESTHER MARKS
   tx_amount: 1500.0
   tx_date: '2026-03-31'
@@ -1567,19 +1540,13 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: SF PARTNERSHIP AND AFFILIATED ENTITY ADVANCE SF
-  tx_amount: 6722.49
-  tx_date: '2026-03-31'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: MATT FARRON
-  tx_amount: 25000.0
+- fullname: AT&T CALIFORNIA EMPLOYEE POLITICAL ACTION COMMITTEE
+  tx_amount: 5000.0
   tx_date: '2026-03-30'
   contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: AMOS ELLISTON
   tx_amount: 5000.0
   tx_date: '2026-03-30'
@@ -1598,22 +1565,20 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: AT&T CALIFORNIA EMPLOYEE POLITICAL ACTION COMMITTEE
-  tx_amount: 5000.0
+- fullname: MATT FARRON
+  tx_amount: 25000.0
   tx_date: '2026-03-30'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: TEAMSTERS LOCAL NO 853 PAC
-  tx_amount: 1000.0
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: SILVANUS OSBORN ERICKSON
+  tx_amount: 2000.0
   tx_date: '2026-03-27'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: S OSBORN (OZ) ERICKSON
-  tx_amount: 2000.0
+  recipient_fid: '1488379'
+  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
+- fullname: TEAMSTERS LOCAL NO 853 PAC
+  tx_amount: 1000.0
   tx_date: '2026-03-27'
   contributor_fid: ''
   recipient_fid: '1486676'
@@ -1625,16 +1590,17 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488379'
   recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-- fullname: SILVANUS OSBORN ERICKSON
-  tx_amount: 2000.0
-  tx_date: '2026-03-27'
-  contributor_fid: ''
-  recipient_fid: '1488379'
-  recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
 - fullname: SF BELIEVES
   tx_amount: 30000.0
   tx_date: '2026-03-27'
   contributor_fid: '1487286'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: S OSBORN (OZ) ERICKSON
+  tx_amount: 2000.0
+  tx_date: '2026-03-27'
+  contributor_fid: ''
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
@@ -1651,12 +1617,6 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: ERICA LAWSON
-  tx_amount: 4900.0
-  tx_date: '2026-03-25'
-  contributor_fid: ''
-  recipient_fid: '1484891'
-  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
 - fullname: CHRIS LARSEN
   tx_amount: 200000.0
   tx_date: '2026-03-25'
@@ -1664,6 +1624,12 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
+- fullname: ERICA LAWSON
+  tx_amount: 4900.0
+  tx_date: '2026-03-25'
+  contributor_fid: ''
+  recipient_fid: '1484891'
+  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
 - fullname: JEFF LAWSON
   tx_amount: 4900.0
   tx_date: '2026-03-25'
@@ -1689,25 +1655,6 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: JEAN-PIERRE CONTE
-  tx_amount: 100000.0
-  tx_date: '2026-03-23'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
-- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY COMMITTEE
-  tx_amount: 5000.0
-  tx_date: '2026-03-23'
-  contributor_fid: '1431167'
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: SILVERADO CONTRACTORS INC.
-  tx_amount: 2500.0
-  tx_date: '2026-03-23'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY PATIENT
     CARE AND UNION DEMOCRACY
   tx_amount: 5000.0
@@ -1715,23 +1662,36 @@ late_contributions:
   contributor_fid: '1318200'
   recipient_fid: '1484969'
   recipient_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-- fullname: PRISCILLA WOODS
-  tx_amount: 4900.0
-  tx_date: '2026-03-20'
+- fullname: JEAN-PIERRE CONTE
+  tx_amount: 100000.0
+  tx_date: '2026-03-23'
   contributor_fid: ''
-  recipient_fid: '1484891'
-  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-- fullname: UNITED CONTRACTORS
-  tx_amount: 25000.0
-  tx_date: '2026-03-20'
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: SILVERADO CONTRACTORS INC.
+  tx_amount: 2500.0
+  tx_date: '2026-03-23'
   contributor_fid: ''
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: NEIGHBORS FOR A BETTER SAN FRANCISCO ADVOCACY COMMITTEE
+  tx_amount: 5000.0
+  tx_date: '2026-03-23'
+  contributor_fid: '1431167'
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
 - fullname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
   tx_amount: 5000.0
   tx_date: '2026-03-20'
   contributor_fid: '1459009'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: UNITED CONTRACTORS
+  tx_amount: 25000.0
+  tx_date: '2026-03-20'
+  contributor_fid: ''
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
@@ -1741,6 +1701,24 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: PRISCILLA WOODS
+  tx_amount: 4900.0
+  tx_date: '2026-03-20'
+  contributor_fid: ''
+  recipient_fid: '1484891'
+  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+- fullname: SCOTT LEACHMAN
+  tx_amount: 4900.0
+  tx_date: '2026-03-19'
+  contributor_fid: ''
+  recipient_fid: '1484891'
+  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+- fullname: WARD WOODS
+  tx_amount: 4900.0
+  tx_date: '2026-03-19'
+  contributor_fid: ''
+  recipient_fid: '1484891'
+  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
 - fullname: COMCAST CORPORATION
   tx_amount: 5000.0
   tx_date: '2026-03-19'
@@ -1754,15 +1732,9 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
-- fullname: SCOTT LEACHMAN
-  tx_amount: 4900.0
-  tx_date: '2026-03-19'
-  contributor_fid: ''
-  recipient_fid: '1484891'
-  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-- fullname: WARD WOODS
-  tx_amount: 4900.0
-  tx_date: '2026-03-19'
+- fullname: ZACH JONES
+  tx_amount: 30000.0
+  tx_date: '2026-03-18'
   contributor_fid: ''
   recipient_fid: '1484891'
   recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -1773,12 +1745,13 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: ZACH JONES
-  tx_amount: 30000.0
-  tx_date: '2026-03-18'
-  contributor_fid: ''
-  recipient_fid: '1484891'
-  recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
+- fullname: TEAMSTERS JOINT COUNCIL NO 7 PAC
+  tx_amount: 5000.0
+  tx_date: '2026-03-17'
+  contributor_fid: '1257632'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS - TJ
     ANTHONY PAC FUND
   tx_amount: 75000.0
@@ -1787,29 +1760,14 @@ late_contributions:
   recipient_fid: '1488862'
   recipient_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
-- fullname: TEAMSTERS JOINT COUNCIL NO 7 PAC
-  tx_amount: 5000.0
-  tx_date: '2026-03-17'
-  contributor_fid: '1257632'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: JMB CONSTRUCTION INC.
-  tx_amount: 5000.0
+- fullname: LEAH CULVER
+  tx_amount: 10000.0
   tx_date: '2026-03-16'
   contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: FONTENOY ENGINEERING INC.
   tx_amount: 5000.0
-  tx_date: '2026-03-16'
-  contributor_fid: '1459009'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: TMG PARTNERS RE LLC(DANIEL SIRI)
-  tx_amount: 17500.0
   tx_date: '2026-03-16'
   contributor_fid: ''
   recipient_fid: '1486676'
@@ -1828,14 +1786,8 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1466153'
   recipient_name: Uber Innovation Ballot Measure Committee
-- fullname: LEAH CULVER
-  tx_amount: 10000.0
-  tx_date: '2026-03-16'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: FONTENOY ENGINEERING INC.
-  tx_amount: 5000.0
+- fullname: TMG PARTNERS RE LLC(DANIEL SIRI)
+  tx_amount: 17500.0
   tx_date: '2026-03-16'
   contributor_fid: ''
   recipient_fid: '1486676'
@@ -1847,18 +1799,39 @@ late_contributions:
   contributor_fid: '840002'
   recipient_fid: '1485878'
   recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: SANDRA PRICE OTELLINI
-  tx_amount: 1000.0
-  tx_date: '2026-03-14'
+- fullname: HANEY BALLOT MEASURE COMMITTEE FOR CALIFORNIA OPPORTUNITY
+  tx_amount: 5000.0
+  tx_date: '2026-03-16'
+  contributor_fid: '1459009'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: JMB CONSTRUCTION INC.
+  tx_amount: 5000.0
+  tx_date: '2026-03-16'
   contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: ANDY HANSEN
   tx_amount: 2500.0
   tx_date: '2026-03-14'
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: SANDRA PRICE OTELLINI
+  tx_amount: 1000.0
+  tx_date: '2026-03-14'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: GHILOTTI BROS, INC.
+  tx_amount: 1500.0
+  tx_date: '2026-03-13'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: CALIFORNIA NURSES ASSOCIATION POLITICAL ACTION COMMITTEE(CNA-PAC)
   tx_amount: 5000.0
   tx_date: '2026-03-13'
@@ -1877,46 +1850,20 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1484891'
   recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-- fullname: GHILOTTI BROS, INC.
-  tx_amount: 1500.0
-  tx_date: '2026-03-13'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: MICHAEL MORANDI
   tx_amount: 1500.0
   tx_date: '2026-03-13'
   contributor_fid: ''
   recipient_fid: '1488379'
   recipient_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
-- fullname: NICHOLAS JOSEFOWITZ
-  tx_amount: 10000.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
-- fullname: JEROME GUILLEN
-  tx_amount: 20000.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1485878'
-  recipient_name: TERM LIMITS NOW - YES ON B!
 - fullname: DAVID PEELER
   tx_amount: 4900.0
   tx_date: '2026-03-12'
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: LABORERS PACIFIC SOUTHWEST REGIONAL ORGANIZING COALITION ISSUES PAC
-  tx_amount: 100000.0
-  tx_date: '2026-03-12'
-  contributor_fid: '1358725'
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: NICHOLAS WEININGER
-  tx_amount: 100.0
+- fullname: SCOTT DONOHUE
+  tx_amount: 500.0
   tx_date: '2026-03-12'
   contributor_fid: ''
   recipient_fid: '1488188'
@@ -1928,37 +1875,32 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: SCOTT DONOHUE
+- fullname: JEROME GUILLEN
+  tx_amount: 20000.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: LABORERS PACIFIC SOUTHWEST REGIONAL ORGANIZING COALITION ISSUES PAC
+  tx_amount: 100000.0
+  tx_date: '2026-03-12'
+  contributor_fid: '1358725'
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: JORDAN HURWICH
+  tx_amount: 1000.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: JOSHUA MARCH
   tx_amount: 500.0
   tx_date: '2026-03-12'
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: JONATHAN SEED
-  tx_amount: 500.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: DAVIS LIU
-  tx_amount: 500.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: BAXTER STEIN
-  tx_amount: 100.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: PATRICK PURVIS
-  tx_amount: 3000.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: BENJAMIN SIMON
+- fullname: THOMAS SCHRAG
   tx_amount: 500.0
   tx_date: '2026-03-12'
   contributor_fid: ''
@@ -1970,8 +1912,50 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: JORDAN HURWICH
-  tx_amount: 1000.0
+- fullname: BENJAMIN SIMON
+  tx_amount: 500.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: BAXTER STEIN
+  tx_amount: 100.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: DAVIS LIU
+  tx_amount: 500.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: NICHOLAS WEININGER
+  tx_amount: 100.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: JOSH ECHOLS
+  tx_amount: 100.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: NICHOLAS JOSEFOWITZ
+  tx_amount: 10000.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1485878'
+  recipient_name: TERM LIMITS NOW - YES ON B!
+- fullname: JONATHAN SEED
+  tx_amount: 500.0
+  tx_date: '2026-03-12'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+- fullname: PATRICK PURVIS
+  tx_amount: 3000.0
   tx_date: '2026-03-12'
   contributor_fid: ''
   recipient_fid: '1488188'
@@ -1982,26 +1966,8 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: THOMAS SCHRAG
-  tx_amount: 500.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
 - fullname: CLAY CAMPAIGNE
   tx_amount: 350.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: JOSHUA MARCH
-  tx_amount: 500.0
-  tx_date: '2026-03-12'
-  contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: JOSH ECHOLS
-  tx_amount: 100.0
   tx_date: '2026-03-12'
   contributor_fid: ''
   recipient_fid: '1488188'
@@ -2032,13 +1998,6 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: SPRINKLER FITTERS & APPRENTICES LOCAL 483 LOCAL POLITICAL ACTION COMM.
-  tx_amount: 5000.0
-  tx_date: '2026-03-09'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: TEAMSTERS LOCAL UNION 350 PAC
   tx_amount: 2500.0
   tx_date: '2026-03-09'
@@ -2052,44 +2011,25 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1469330'
   recipient_name: Asian Americans for Representation
-- fullname: JARED FRIEDMAN
-  tx_amount: 4900.0
-  tx_date: '2026-03-08'
+- fullname: SPRINKLER FITTERS & APPRENTICES LOCAL 483 LOCAL POLITICAL ACTION COMM.
+  tx_amount: 5000.0
+  tx_date: '2026-03-09'
   contributor_fid: ''
-  recipient_fid: '1488188'
-  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: JARED FRIEDMAN
   tx_amount: 4900.0
   tx_date: '2026-03-08'
   contributor_fid: ''
   recipient_fid: '1484891'
   recipient_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
-- fullname: NOAH SMITH
-  tx_amount: 10000.0
-  tx_date: '2026-03-06'
+- fullname: JARED FRIEDMAN
+  tx_amount: 4900.0
+  tx_date: '2026-03-08'
   contributor_fid: ''
   recipient_fid: '1488188'
   recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-- fullname: HEATHER NODELMAN
-  tx_amount: 75000.0
-  tx_date: '2026-03-06'
-  contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
-- fullname: MICHAEL O'SHAUGHNESSY CONSTRUCTION INC.
-  tx_amount: 2500.0
-  tx_date: '2026-03-06'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-- fullname: ELENI KOUNALAKIS BALLOT MEASURE COMMITTEE
-  tx_amount: 10000.0
-  tx_date: '2026-03-06'
-  contributor_fid: ''
-  recipient_fid: '1486676'
-  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
 - fullname: WILSON MEANY LP
   tx_amount: 5000.0
   tx_date: '2026-03-06'
@@ -2097,6 +2037,18 @@ late_contributions:
   recipient_fid: '1486676'
   recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: HEATHER NODELMAN
+  tx_amount: 75000.0
+  tx_date: '2026-03-06'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
+- fullname: NOAH SMITH
+  tx_amount: 10000.0
+  tx_date: '2026-03-06'
+  contributor_fid: ''
+  recipient_fid: '1488188'
+  recipient_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
 - fullname: OLEG NODELMAN
   tx_amount: 75000.0
   tx_date: '2026-03-06'
@@ -2109,19 +2061,32 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487286'
   recipient_name: SF Believes
+- fullname: ELENI KOUNALAKIS BALLOT MEASURE COMMITTEE
+  tx_amount: 10000.0
+  tx_date: '2026-03-06'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: MICHAEL O'SHAUGHNESSY CONSTRUCTION INC.
+  tx_amount: 2500.0
+  tx_date: '2026-03-06'
+  contributor_fid: ''
+  recipient_fid: '1486676'
+  recipient_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+    SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+- fullname: ADAM CLAMMER
+  tx_amount: 101000.0
+  tx_date: '2026-03-05'
+  contributor_fid: ''
+  recipient_fid: '1487286'
+  recipient_name: SF Believes
 - fullname: ESTHER MARKS
   tx_amount: 1000.0
   tx_date: '2026-03-05'
   contributor_fid: ''
   recipient_fid: '1488891'
   recipient_name: NO LIFETIME BAN
-- fullname: WILLIAM S. FISHER
-  tx_amount: 50000.0
-  tx_date: '2026-03-05'
-  contributor_fid: ''
-  recipient_fid: '1485633'
-  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
-    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: ROBERT J. FISHER
   tx_amount: 50000.0
   tx_date: '2026-03-05'
@@ -2129,12 +2094,13 @@ late_contributions:
   recipient_fid: '1485633'
   recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-- fullname: ADAM CLAMMER
-  tx_amount: 101000.0
+- fullname: WILLIAM S. FISHER
+  tx_amount: 50000.0
   tx_date: '2026-03-05'
   contributor_fid: ''
-  recipient_fid: '1487286'
-  recipient_name: SF Believes
+  recipient_fid: '1485633'
+  recipient_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
+    ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
 - fullname: UBER INNOVATION BALLOT MEASURE COMMITTEE
   tx_amount: 50000.0
   tx_date: '2026-03-04'

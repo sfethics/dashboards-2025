@@ -163,7 +163,7 @@ committees:
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
   committee_type: Candidate Controlled
-  total_expense: 4384.58
+  total_expense: 5381.93
 - cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'

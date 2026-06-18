@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1073064.27
-  expenses: 770359.75
+  funds: 1084406.27
+  expenses: 771357.1
   ies: ''
 candidate_ie:
 - contest_nid: '214167039'
@@ -42,7 +42,7 @@ candidate_ie:
 - contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 704417.75
+  funds: 709417.75
   expenses: 1516991.09
 measures:
 - contest_nid: '215121153'
@@ -54,7 +54,7 @@ measures:
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
   expenses: 340983.89
-  funds: 481600.0
+  funds: 471600.0
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
@@ -65,7 +65,7 @@ measures:
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
   expenses: 1681910.79
-  funds: 2251557.18
+  funds: 2216557.18
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
