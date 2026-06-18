@@ -17,7 +17,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 931205.03
+  total_expense: 940692.76
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -58,11 +58,16 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 2444.35
+- cmte_name: GREAT HIGHWAY FOR EVERYONE
+  cmte_fppcid: '1487005'
+  cmte_nid: '215573474'
+  committee_type: Primarily Formed Measure
+  total_expense: 7783.18
 - cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
-  total_expense: 1947050.35
+  total_expense: 3035973.77
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
@@ -73,6 +78,16 @@ committees:
   cmte_nid: '216198377'
   committee_type: Candidate Controlled
   total_expense: 7.9
+- cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
+  cmte_fppcid: '1484332'
+  cmte_nid: '216289152'
+  committee_type: Candidate Controlled
+  total_expense: 39.5
+- cmte_name: FAIR HOUSING
+  cmte_fppcid: '1490845'
+  cmte_nid: '216747316'
+  committee_type: Primarily Formed Measure
+  total_expense: 124061.34
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

@@ -13,25 +13,31 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 5360000.0
-  expenses: 1947050.35
+  funds: 6365595.78
+  expenses: 3035973.77
   ies: ''
 multi_committees: []
 contributors:
 - - Michael Moritz
-  - 2000000.0
+  - 2005595.78
 - - Lyna Lam
   - 1000000.0
 - - Christian Larsen
   - 1000000.0
 - - John Pritzker
   - 1000000.0
+- - Dagmar Dolby
+  - 500000.0
 - - Michael Seibel
   - 250000.0
+- - Jennifer Caldwell
+  - 125000.0
+- - John Fisher
+  - 125000.0
 - - Blake Byers
   - 100000.0
-- - Hotel Council of San Francisco PAC
-  - 10000.0
+- - Potomac Trust
+  - 100000.0
 
 ---
 

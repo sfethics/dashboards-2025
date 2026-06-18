@@ -13,13 +13,13 @@ candidates:
   filer_id: '1483804'
   committee_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   candidate_name: EMANUEL YEKUTIEL
-  funds: 284694.89
+  funds: 539694.89
   expenses: 66557.18
 - filer_nid: '214783692'
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 76227.0
+  funds: 136227.0
   expenses: 28247.89
 - filer_nid: '214884831'
   filer_id: '1484606'

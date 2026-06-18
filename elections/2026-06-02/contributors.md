@@ -482,15 +482,6 @@ contributors:
     cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
       RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
     tx_amount: 50000.0
-- tx_lastname: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
-  tx_entitycode: Committee
-  tx_cmteid: '1462942'
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 50000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 521
   tx_entitycode: Other
   tx_cmteid: ''
@@ -636,6 +627,15 @@ contributors:
 - tx_lastname: ROSENDIN ELECTRIC, INC.
   tx_entitycode: Other
   tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 25000.0
+- tx_lastname: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
+  tx_entitycode: Committee
+  tx_cmteid: '1462942'
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1486676'
@@ -939,15 +939,6 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 10000.0
-- tx_lastname: CATHERINE STEFANI FOR ASSEMBLY 2026
-  tx_entitycode: Committee
-  tx_cmteid: '1477293'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 10000.0
 - tx_lastname: COMCAST FINANCIAL AGENCY CORPORATION
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1078,14 +1069,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1488891'
     cmte_name: NO LIFETIME BAN
-    tx_amount: 10000.0
-- tx_lastname: SHORESTEIN COMPANY LLC(SANDRA SHORENSTEIN)
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1485878'
-    cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 10000.0
 - tx_lastname: STRADA INVESTMENT GROUP
   tx_entitycode: Other
@@ -1501,6 +1484,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1485878'
     cmte_name: TERM LIMITS NOW - YES ON B!
+    tx_amount: 5000.0
+- tx_lastname: HILARY SHIRAZI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1488188'
+    cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 5000.0
 - tx_lastname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS, LOCAL
     21

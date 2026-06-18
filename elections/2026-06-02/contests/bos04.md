@@ -25,8 +25,8 @@ candidates:
   filer_id: '1485253'
   committee_name: JEREMY GRECO FOR SUPERVISOR 2026
   candidate_name: JEREMY GRECO
-  funds: 4843.93
-  expenses: 4384.58
+  funds: 4899.93
+  expenses: 5381.93
 - filer_nid: '215019694'
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
@@ -37,7 +37,7 @@ candidates:
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 393522.0
+  funds: 404808.0
   expenses: 289286.74
 ie_candidates:
 - candidate_name: DAVID LEE
@@ -75,7 +75,7 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1488188'
     committee_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
-    funds: 318556.0
+    funds: 323556.0
     expenses: 207221.7
   - position: SUPPORT
     filer_id: '1465611'

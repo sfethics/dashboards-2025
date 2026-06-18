@@ -25,7 +25,7 @@ candidates:
   filer_id: '1484091'
   committee_name: THEO ELLINGTON FOR SUPERVISOR 2026
   candidate_name: THEO ELLINGTON
-  funds: 131345.0
+  funds: 386345.0
   expenses: 17860.47
 ie_candidates: []
 contributors:
