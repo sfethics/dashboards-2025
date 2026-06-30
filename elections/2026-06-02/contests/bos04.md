@@ -31,7 +31,7 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 172947.22
+  funds: 225141.22
   expenses: 95518.31
 - filer_nid: '215112140'
   filer_id: '1485709'

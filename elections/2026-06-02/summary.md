@@ -11,7 +11,7 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 944369.96
+  funds: 952499.96
   expenses: 748411.08
   ies: ''
 - committee_type: candidate
@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1084406.27
+  funds: 1136600.27
   expenses: 771357.1
   ies: ''
 candidate_ie:

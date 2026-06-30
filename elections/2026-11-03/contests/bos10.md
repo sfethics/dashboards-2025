@@ -19,7 +19,7 @@ candidates:
   filer_id: '1482707'
   committee_name: J.R. EPPLER FOR SUPERVISOR 2026
   candidate_name: J.R. EPPLER
-  funds: 31928.0
+  funds: 91928.0
   expenses: 13394.88
 - filer_nid: '214808596'
   filer_id: '1484091'

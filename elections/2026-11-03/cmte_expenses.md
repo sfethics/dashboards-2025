@@ -62,12 +62,12 @@ committees:
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
   committee_type: Primarily Formed Measure
-  total_expense: 7783.18
+  total_expense: 7858.87
 - cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
-  total_expense: 3035973.77
+  total_expense: 4370468.22
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
@@ -87,7 +87,7 @@ committees:
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
   committee_type: Primarily Formed Measure
-  total_expense: 124061.34
+  total_expense: 139198.46
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

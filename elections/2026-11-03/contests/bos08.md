@@ -25,7 +25,7 @@ candidates:
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   candidate_name: MICHAEL NGUYEN
-  funds: 18870.0
+  funds: 78870.0
   expenses: 2444.35
 ie_candidates: []
 contributors:

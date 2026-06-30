@@ -13,8 +13,8 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 6365595.78
-  expenses: 3035973.77
+  funds: 7115595.78
+  expenses: 4370468.22
   ies: ''
 multi_committees: []
 contributors:
@@ -28,16 +28,16 @@ contributors:
   - 1000000.0
 - - Dagmar Dolby
   - 500000.0
+- - John Wolthuis
+  - 500000.0
 - - Michael Seibel
   - 250000.0
+- - Michelle Boyers
+  - 200000.0
 - - Jennifer Caldwell
   - 125000.0
 - - John Fisher
   - 125000.0
-- - Blake Byers
-  - 100000.0
-- - Potomac Trust
-  - 100000.0
 
 ---
 

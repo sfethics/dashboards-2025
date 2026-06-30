@@ -70,6 +70,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 500000.0
+- tx_lastname: JOHN WOLTHUIS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 500000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500000.0
 - tx_lastname: RIPPLE LABS INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -99,6 +107,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 250000.0
+- tx_lastname: MICHELLE BOYERS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 200000.0
 - tx_lastname: JENNIFER CALDWELL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -146,6 +162,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
+    tx_amount: 100000.0
+- tx_lastname: DYLAN HIRSCH-SHELL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
     tx_amount: 100000.0
 - tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_entitycode: Other
@@ -226,13 +250,13 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 60000.0
-- tx_lastname: DYLAN HIRSCH-SHELL
+- tx_lastname: DAVID SINGER
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 50000.0
   transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: INTERSECT POWER, LLC(MICHAEL WHEELER)
   tx_entitycode: Other
@@ -353,7 +377,26 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 6000.0
+- tx_lastname: JASON PRADO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5500.0
+  transactions:
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 5000.0
 - tx_lastname: ANDREW MCCOY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 5000.0
+- tx_lastname: AUDREY KUEN LIU
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5000.0
@@ -369,6 +412,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
+    tx_amount: 5000.0
+- tx_lastname: JACK GOOD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
     tx_amount: 5000.0
 - tx_lastname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS ISSUES PAC
   tx_entitycode: Committee
@@ -459,14 +510,6 @@ contributors:
   - cmte_fppcid: '1487105'
     cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
     tx_amount: 3359.8
-- tx_lastname: AUDREY KUEN LIU
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -475,6 +518,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 2500.0
+- tx_lastname: ANDRES SALERNO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2000.0
 - tx_lastname: GARRY TAN
   tx_entitycode: Individual
   tx_cmteid: ''
