@@ -13,13 +13,13 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING
-  funds: 162055.37
-  expenses: 124061.34
+  funds: 230990.37
+  expenses: 139198.46
   ies: ''
 multi_committees: []
 contributors:
 - - Dylan Hirsch-shell
-  - 50000.0
+  - 100000.0
 - - Charles Good
   - 25000.0
 - - Aditya Bhumbla
@@ -36,7 +36,7 @@ contributors:
   - 10000.0
 - - Anne Richards
   - 6000.0
-- - Andrew Mccoy
+- - Jack Good
   - 5000.0
 
 ---

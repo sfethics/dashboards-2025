@@ -13,8 +13,8 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: GREAT HIGHWAY FOR EVERYONE
-  funds: 8136.0
-  expenses: 7783.18
+  funds: 10476.0
+  expenses: 7858.87
   ies: ''
 multi_committees: []
 contributors:
@@ -24,19 +24,19 @@ contributors:
   - 500.0
 - - Natalie Gee
   - 250.0
+- - Meagan Levitan
+  - 250.0
+- - Stacey Sobel
+  - 250.0
+- - Anthony Villa
+  - 200.0
+- - Michelle Bonilla
+  - 100.0
 - - Alan Burradell
   - 100.0
 - - Winton Cleary
   - 100.0
 - - Heather Davies
-  - 100.0
-- - Grace Fan Lai
-  - 100.0
-- - Winnie Ngan-chi Fung
-  - 100.0
-- - Patricia Goodwin
-  - 100.0
-- - Judy Hollingsworth
   - 100.0
 
 ---

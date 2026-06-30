@@ -19,7 +19,7 @@ candidates:
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026
   candidate_name: LORI BROOKE
-  funds: 436348.8
+  funds: 444478.8
   expenses: 349717.87
 - filer_nid: '214895723'
   filer_id: '1484703'
