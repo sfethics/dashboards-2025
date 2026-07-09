@@ -70,7 +70,23 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 500000.0
+- tx_lastname: EMERSON COLLECTIVE LLC(DIEDRA NELSON)
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 500000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500000.0
 - tx_lastname: JOHN WOLTHUIS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 500000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 500000.0
+- tx_lastname: L. JOHN DOERR III
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 500000.0
@@ -95,6 +111,22 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 250000.0
+- tx_lastname: ANTHONY SALEWSKI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 250000.0
+- tx_lastname: MATTHEW PAIGE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 250000.0
@@ -301,6 +333,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 25000.0
+- tx_lastname: ADITYA BHUMBLA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 15250.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 15250.0
 - tx_lastname: UA LOCAL 38 COPE FUND
   tx_entitycode: Committee
   tx_cmteid: '746875'
@@ -313,14 +353,14 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: ADITYA BHUMBLA
+- tx_lastname: SCOTT FEENEY
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 10000.0
+  tx_amount: 10062.5
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
-    tx_amount: 10000.0
+    tx_amount: 10062.5
 - tx_lastname: ALEXANDER REILLY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -361,15 +401,23 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 10000.0
-- tx_lastname: SCOTT FEENEY
+- tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 10000.0
+  tx_amount: 7300.0
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
-    tx_amount: 10000.0
-- tx_lastname: ANNE RICHARDS
+    tx_amount: 7300.0
+- tx_lastname: AUDREY KUEN LIU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 6000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 6000.0
+- tx_lastname: JACK GOOD
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 6000.0
@@ -388,15 +436,15 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 5000.0
-- tx_lastname: ANDREW MCCOY
+- tx_lastname: RISHAV ROUT
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 5000.0
+  tx_amount: 5246.4
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
-    tx_amount: 5000.0
-- tx_lastname: AUDREY KUEN LIU
+    tx_amount: 5246.4
+- tx_lastname: ANDREW MCCOY
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5000.0
@@ -413,8 +461,16 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
-- tx_lastname: JACK GOOD
+- tx_lastname: JEFFERSON LEE
   tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 5000.0
+- tx_lastname: NEIGHBORS AND COMMUNITIES UNITED
+  tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 5000.0
   transactions:
@@ -430,7 +486,7 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
-- tx_lastname: RISHAV ROUT
+- tx_lastname: RITA TAMERIUS
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 5000.0
@@ -474,6 +530,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
+- tx_lastname: TYLER BREISACHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 5000.0
 - tx_lastname: WILLIAM OKEEFFE JR.
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -482,6 +546,14 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4990.0
+- tx_lastname: WEI SELENA CHU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 4900.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 4900.0
 - tx_lastname: CHRISTIN EVANS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -510,6 +582,14 @@ contributors:
   - cmte_fppcid: '1487105'
     cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
     tx_amount: 3359.8
+- tx_lastname: JAMES STEARNS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -526,6 +606,30 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 2000.0
+- tx_lastname: JACKSON WONG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2000.0
+- tx_lastname: RANJAN ROUT
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2000.0
+- tx_lastname: BELINDA LIU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1500.0
 - tx_lastname: GARRY TAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -568,6 +672,25 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 350.0
+- tx_lastname: WILLIAM DAVIES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1270.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1270.0
+- tx_lastname: ALBERT CHOW
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: FORREST LIU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -629,6 +752,22 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: ALBERT SCHAFFER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
+- tx_lastname: ASHWIN BHUMBLA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: BARBARA SPALDING
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -706,6 +845,14 @@ contributors:
   - cmte_fppcid: '1484606'
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: DAVID HIRTZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: DOUGLAS CROFT
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -788,6 +935,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: KARA MAHONEY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: KATHY CHAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -799,6 +954,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: KEVIN MOSES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: KIMIKO BURTON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -887,6 +1050,20 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: MARY JUNG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 250.0
 - tx_lastname: MATTHEW GOLDMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -928,6 +1105,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: PETER WENDELL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: RACE BANNON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1057,14 +1242,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: TYLER BREISACHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 1000.0
 - tx_lastname: VANITA LOUIE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1087,14 +1264,6 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: WILLIAM DAVIES
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 1000.0
 - tx_lastname: WILLIAM WANG
   tx_entitycode: Individual
   tx_cmteid: ''

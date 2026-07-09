@@ -1731,6 +1731,14 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 4500.0
+- tx_lastname: MONTHANUS RATANAPAKDEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 4173.82
+  transactions:
+  - cmte_fppcid: '1484703'
+    cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
+    tx_amount: 4173.82
 - tx_lastname: ANDY HANSEN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1928,14 +1936,6 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 2450.0
-- tx_lastname: MONTHANUS RATANAPAKDEE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2200.0
-  transactions:
-  - cmte_fppcid: '1484703'
-    cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
-    tx_amount: 2200.0
 - tx_lastname: AARON PESKIN
   tx_entitycode: Individual
   tx_cmteid: ''

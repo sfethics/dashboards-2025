@@ -13,31 +13,31 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: GREAT HIGHWAY FOR EVERYONE
-  funds: 10476.0
-  expenses: 7858.87
+  funds: 27630.0
+  expenses: 16096.33
   ies: ''
 multi_committees: []
 contributors:
 - - William Okeeffe Jr.
   - 4990.0
+- - Wei Selena Chu
+  - 4900.0
+- - Albert Chow
+  - 1000.0
+- - David Hirtz
+  - 1000.0
+- - Peter Wendell
+  - 1000.0
+- - Christina Shih
+  - 600.0
 - - Susan Lew
   - 500.0
-- - Natalie Gee
-  - 250.0
-- - Meagan Levitan
-  - 250.0
-- - Stacey Sobel
-  - 250.0
-- - Anthony Villa
-  - 200.0
-- - Michelle Bonilla
-  - 100.0
-- - Alan Burradell
-  - 100.0
-- - Winton Cleary
-  - 100.0
-- - Heather Davies
-  - 100.0
+- - Trevor Wright
+  - 500.0
+- - Andrew Trice
+  - 350.0
+- - John Gregson
+  - 300.0
 
 ---
 

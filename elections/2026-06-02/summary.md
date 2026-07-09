@@ -11,8 +11,8 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 952499.96
-  expenses: 748411.08
+  funds: 954473.78
+  expenses: 751273.02
   ies: ''
 - committee_type: candidate
   contest_nid: '214769647'
@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214896046'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1136600.27
+  funds: 1145150.27
   expenses: 771357.1
   ies: ''
 candidate_ie:
@@ -53,8 +53,8 @@ measures:
 - contest_nid: '215271121'
   contest_name: 'B: Lifetime Term Limits for Mayor and Members of the Board of Supervisors'
   contest_link: measureb
-  expenses: 340983.89
-  funds: 471600.0
+  expenses: 349027.36
+  funds: 471600.37
 - contest_nid: '215832793'
   contest_name: 'D: Increases to Business Tax Based on Comparison of Top Executive''s
     Pay to Employees'' Pay'
