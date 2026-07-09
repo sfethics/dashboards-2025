@@ -19,13 +19,13 @@ candidates:
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 136227.0
+  funds: 231531.0
   expenses: 28247.89
 - filer_nid: '214884831'
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   candidate_name: MICHAEL NGUYEN
-  funds: 78870.0
+  funds: 108234.0
   expenses: 2444.35
 ie_candidates: []
 contributors:

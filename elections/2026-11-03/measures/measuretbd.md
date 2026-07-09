@@ -13,8 +13,8 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING
-  funds: 230990.37
-  expenses: 139198.46
+  funds: 278668.27
+  expenses: 255340.53
   ies: ''
 multi_committees: []
 contributors:
@@ -23,10 +23,10 @@ contributors:
 - - Charles Good
   - 25000.0
 - - Aditya Bhumbla
-  - 10000.0
-- - Democratic Socialists of America, San Francisco Chapter
-  - 10000.0
+  - 15250.0
 - - Scott Feeney
+  - 10062.5
+- - Democratic Socialists of America, San Francisco Chapter
   - 10000.0
 - - Jeffrey May
   - 10000.0
@@ -35,9 +35,9 @@ contributors:
 - - Alexander Reilly
   - 10000.0
 - - Anne Richards
-  - 6000.0
+  - 7300.0
 - - Jack Good
-  - 5000.0
+  - 6000.0
 
 ---
 

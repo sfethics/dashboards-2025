@@ -138,7 +138,7 @@ committees:
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
   committee_type: Candidate Controlled
-  total_expense: 6304.34
+  total_expense: 9166.28
 - cmte_name: NATALIE GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
@@ -220,7 +220,7 @@ committees:
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
   committee_type: Primarily Formed Measure
-  total_expense: 12306.77
+  total_expense: 20350.24
 - cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   cmte_fppcid: '1488862'

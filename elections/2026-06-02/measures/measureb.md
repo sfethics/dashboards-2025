@@ -13,8 +13,8 @@ committees:
   filer_nid: '215900904'
   filer_id: '1488891'
   committee_name: NO LIFETIME BAN
-  funds: 38850.0
-  expenses: 12306.77
+  funds: 38850.37
+  expenses: 20350.24
   ies: ''
 - position: SUPPORT
   filer_nid: '201619433'
