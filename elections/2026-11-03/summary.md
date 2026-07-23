@@ -25,7 +25,7 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 528283.0
+  funds: 568753.0
   expenses: 56987.04
   ies: 0.0
 - committee_type: candidate
@@ -53,8 +53,8 @@ measures:
 - contest_nid: '216006007'
   contest_name: 'TBD2: Proposed Charter Amendments Regarding City Governance'
   contest_link: measuretbd2
-  expenses: 5257423.22
-  funds: 8615595.78
+  expenses: 5487991.48
+  funds: 8640595.78
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
@@ -68,18 +68,18 @@ measures:
 - contest_nid: '216779916'
   contest_name: 'TBD4: Allowing Private Cars on Greath Highway in Sunset Dunes Park'
   contest_link: measuretbd4
-  expenses: 16096.33
-  funds: 27630.0
+  expenses: 26586.2
+  funds: 31596.0
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
-- - Lyna Lam
-  - 1000000.0
 - - Christian Larsen
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Ripple Labs Inc.
+- - L. John Doerr Iii
   - 500000.0
 contributors_cand:
 - - Christin Evans
@@ -117,7 +117,7 @@ top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
   cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  total_expense: 5257423.22
+  total_expense: 5487991.48
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
@@ -130,7 +130,7 @@ top_bm_spends:
 - cmte_nid: '215573474'
   cmte_fppcid: '1487005'
   cmte_name: GREAT HIGHWAY FOR EVERYONE
-  total_expense: 16096.33
+  total_expense: 26586.2
 
 ---
 

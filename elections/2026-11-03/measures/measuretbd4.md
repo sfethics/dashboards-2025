@@ -13,8 +13,8 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: GREAT HIGHWAY FOR EVERYONE
-  funds: 27630.0
-  expenses: 16096.33
+  funds: 31596.0
+  expenses: 26586.2
   ies: ''
 multi_committees: []
 contributors:
@@ -22,22 +22,22 @@ contributors:
   - 4990.0
 - - Wei Selena Chu
   - 4900.0
+- - Christina Shih
+  - 1100.0
 - - Albert Chow
   - 1000.0
 - - David Hirtz
   - 1000.0
 - - Peter Wendell
   - 1000.0
-- - Christina Shih
-  - 600.0
+- - Braden Edwards
+  - 500.0
 - - Susan Lew
   - 500.0
 - - Trevor Wright
   - 500.0
-- - Andrew Trice
+- - Suzanne Dumont
   - 350.0
-- - John Gregson
-  - 300.0
 
 ---
 

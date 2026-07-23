@@ -324,6 +324,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 25000.0
+- tx_lastname: JEREMY STOPPELMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 25000.0
 - tx_lastname: UNION OF AMERICAN PHYSICIANS AND DENTISTS SMALL CONTRIBUTOR COMMITTEE
   tx_entitycode: Other
   tx_cmteid: '1356185'
@@ -691,6 +699,14 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
+- tx_lastname: CHRISTINA SHIH
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1100.0
 - tx_lastname: FORREST LIU
   tx_entitycode: Individual
   tx_cmteid: ''

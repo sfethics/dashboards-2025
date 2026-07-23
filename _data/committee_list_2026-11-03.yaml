@@ -11,11 +11,14 @@ committees:
   cmte_fppcid: '1489126'
   cmte_nid: '216198377'
 - cmte_name: Albert Chow for Supervisor - General 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1492163'
   cmte_nid: '216878122'
-- cmte_name: Alex Behrend for Supervisor 2026
+- cmte_name: Alex Behrend for All - Supervisor 2026
   cmte_fppcid: unknown
   cmte_nid: '216883068'
+- cmte_name: Alida Fisher for Board of Education 2026
+  cmte_fppcid: '1492843'
+  cmte_nid: '216963896'
 - cmte_name: Autumn Brown Garibay for Board of Education 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'
@@ -31,6 +34,9 @@ committees:
 - cmte_name: Elect Shawn M. Richard for District 10 Supervisor 2026
   cmte_fppcid: '1491677'
   cmte_nid: '216767735'
+- cmte_name: Elijah I. Ball
+  cmte_fppcid: '1492919'
+  cmte_nid: '216963991'
 - cmte_name: Gary Mc Coy for Supervisor 2026
   cmte_fppcid: '1484080'
   cmte_nid: '214783692'
@@ -81,7 +87,7 @@ committees:
   cmte_fppcid: '1468206'
   cmte_nid: '211490608'
 - cmte_name: Nick Berg for Supervisor 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1492180'
   cmte_nid: '216871542'
 - cmte_name: P.j Bastiany for Supervisor 2026
   cmte_fppcid: '1481624'
@@ -92,7 +98,7 @@ committees:
 - cmte_name: Reina Tello for School Board 2026
   cmte_fppcid: '1490256'
   cmte_nid: '216584147'
-- cmte_name: Ryan Hazelton for Board of Education 2026
+- cmte_name: Ryan Hazelton for San Francisco Board of Education 2026
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
 - cmte_name: Stephen Sherrill for Supervisor 2026 General
@@ -114,12 +120,25 @@ committees:
     San Francisco
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
+- cmte_name: Electrical Industry Service Bureau, Inc. Labor-management Committee for
+    the Electrical Construction Industry Mpo
+  cmte_fppcid: unknown
+  cmte_nid: '217033530'
+- cmte_name: Fair Ballot Access
+  cmte_fppcid: unknown
+  cmte_nid: '217019367'
 - cmte_name: Fair Housing
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
 - cmte_name: Great Highway for Everyone
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
+- cmte_name: Our City Our Bank
+  cmte_fppcid: '1488530'
+  cmte_nid: '217045555'
+- cmte_name: San Franciscans for Affordable Homes, Sponsored by the Nph Action Fund
+  cmte_fppcid: unknown
+  cmte_nid: '216956820'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'

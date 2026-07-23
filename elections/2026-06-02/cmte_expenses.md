@@ -273,11 +273,6 @@ committees:
   cmte_nid: '216750427'
   committee_type: Major Donor
   total_expense: 5900.0
-- cmte_name: Rosendin Electric Inc.
-  cmte_fppcid: '1333719'
-  cmte_nid: '216849377'
-  committee_type: Major Donor
-  total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - INDEPENDENT EXPENDITURES AKA BOMA-SF-PAC-IE
   cmte_fppcid: '870449'
@@ -330,7 +325,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 110506.89
+  total_expense: 111403.94
 
 ---
 
