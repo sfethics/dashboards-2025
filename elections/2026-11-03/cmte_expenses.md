@@ -62,12 +62,12 @@ committees:
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
   committee_type: Primarily Formed Measure
-  total_expense: 16096.33
+  total_expense: 26586.2
 - cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
-  total_expense: 5257423.22
+  total_expense: 5487991.48
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
