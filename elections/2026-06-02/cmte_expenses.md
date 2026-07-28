@@ -7,6 +7,11 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the June 02, 2026 election
 committees:
+- cmte_name: San Francisco Police Officers Association PAC
+  cmte_fppcid: '1315969'
+  cmte_nid: '11282770'
+  committee_type: General Purpose
+  total_expense: 500.0
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
@@ -247,11 +252,6 @@ committees:
   cmte_nid: '216603754'
   committee_type: Candidate Controlled
   total_expense: 3423.31
-- cmte_name: SF Partnership and Affiliated Entity Advance SF
-  cmte_fppcid: unknown
-  cmte_nid: '216603835'
-  committee_type: Major Donor
-  total_expense: 8407.46
 - cmte_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
     by International Union of Operating Engineers Local 3
   cmte_fppcid: '1488209'

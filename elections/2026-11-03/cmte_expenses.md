@@ -58,6 +58,11 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 2444.35
+- cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
+  cmte_fppcid: '1487291'
+  cmte_nid: '215424978'
+  committee_type: Candidate Controlled
+  total_expense: 3582.29
 - cmte_name: GREAT HIGHWAY FOR EVERYONE
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
@@ -88,6 +93,11 @@ committees:
   cmte_nid: '216747316'
   committee_type: Primarily Formed Measure
   total_expense: 255340.53
+- cmte_name: GRECO FOR SUPERVISOR 2026
+  cmte_fppcid: '1491969'
+  cmte_nid: '216781160'
+  committee_type: Candidate Controlled
+  total_expense: 617.68
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

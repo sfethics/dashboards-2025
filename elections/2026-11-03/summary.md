@@ -8,6 +8,13 @@ breadcrumbs:
   - /elections/2026-11-03/
 candidate_pf:
 - committee_type: candidate
+  contest_nid: '206022015'
+  contest_name: Public Defender
+  contest_link: pdr
+  funds: 20011.0
+  expenses: 3582.29
+  ies: 0.0
+- committee_type: candidate
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
@@ -39,8 +46,8 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 6600.0
-  expenses: 313.67
+  funds: 7700.0
+  expenses: 931.35
   ies: 0.0
 candidate_ie: []
 measures:
@@ -50,26 +57,27 @@ measures:
   contest_link: measuretbd1
   expenses: 0.0
   funds: 6004.18
-- contest_nid: '216006007'
-  contest_name: 'TBD2: Proposed Charter Amendments Regarding City Governance'
-  contest_link: measuretbd2
-  expenses: 5487991.48
-  funds: 8640595.78
 - contest_nid: '216284732'
   contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
   contest_link: measuretbd3
   expenses: 940692.76
   funds: 2700305.0
 - contest_nid: '216747293'
-  contest_name: 'TBD: Affordable Housing Guarantee Act'
+  contest_name: 'TBD: Changes to Real Property Transfer Tax'
   contest_link: measuretbd
   expenses: 255340.53
   funds: 278668.27
 - contest_nid: '216779916'
-  contest_name: 'TBD4: Allowing Private Cars on Greath Highway in Sunset Dunes Park'
+  contest_name: 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
   contest_link: measuretbd4
   expenses: 26586.2
   funds: 31596.0
+- contest_nid: MULTI-1
+  contest_name: 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
+  contest_link: measuretbd2tbd6tbd8
+  expenses: 5487991.48
+  funds: 8640595.78
 contributors_bm:
 - - Michael Moritz
   - 2005595.78

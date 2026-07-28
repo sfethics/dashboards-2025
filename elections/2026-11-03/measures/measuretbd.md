@@ -2,11 +2,11 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD: Affordable Housing Guarantee Act'
+title: 'TBD: Changes to Real Property Transfer Tax'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD: Affordable Housing Guarantee Act'
+- - 'TBD: Changes to Real Property Transfer Tax'
   - elections/2026-11-03/measures/measuretbd
 committees:
 - position: SUPPORT
