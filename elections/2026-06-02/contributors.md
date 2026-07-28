@@ -801,6 +801,15 @@ contributors:
   - cmte_fppcid: '1484969'
     cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 14820.04
+- tx_lastname: S OSBORN (OZ) ERICKSON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 11900.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 11900.0
 - tx_lastname: MACO STEWART
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1547,6 +1556,15 @@ contributors:
   - cmte_fppcid: '1485878'
     cmte_name: TERM LIMITS NOW - YES ON B!
     tx_amount: 5000.0
+- tx_lastname: OPERATING ENGINEERS LOCAL UNION 3 STATEWIDE PAC
+  tx_entitycode: Committee
+  tx_cmteid: '981697'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1486676'
+    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
+      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
+    tx_amount: 5000.0
 - tx_lastname: 'PROPEL:  PROGRESS FOR PEOPLE'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -2033,15 +2051,6 @@ contributors:
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: S OSBORN (OZ) ERICKSON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2000.0
-  transactions:
-  - cmte_fppcid: '1486676'
-    cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
-      SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
-    tx_amount: 2000.0
 - tx_lastname: HEATHER DAVIES
   tx_entitycode: Individual
   tx_cmteid: ''

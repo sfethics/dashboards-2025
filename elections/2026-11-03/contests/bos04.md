@@ -21,15 +21,21 @@ candidates:
   candidate_name: ALAN WONG
   funds: 200.0
   expenses: 7.9
+- filer_nid: '216781160'
+  filer_id: '1491969'
+  committee_name: GRECO FOR SUPERVISOR 2026
+  candidate_name: JEREMY GRECO
+  funds: 1100.0
+  expenses: 617.68
 ie_candidates: []
 contributors:
+- - Ralph Lane
+  - 1000.0
 - - Daniel Anderson
   - 500.0
 - - Rene Bloch
   - 500.0
 - - Christin Evans
-  - 500.0
-- - Ralph Lane
   - 500.0
 - - Steven Lee
   - 500.0

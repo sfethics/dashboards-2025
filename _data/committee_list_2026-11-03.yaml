@@ -49,6 +49,9 @@ committees:
 - cmte_name: J.r. Eppler for Supervisor 2026
   cmte_fppcid: '1482707'
   cmte_nid: '214577156'
+- cmte_name: Jeremy Greco for Supervisor 2026
+  cmte_fppcid: '1485253'
+  cmte_nid: '214951144'
 - cmte_name: Joaquin Torres for Assessor-recorder 2026
   cmte_fppcid: '1487412'
   cmte_nid: '215593851'
@@ -71,6 +74,9 @@ committees:
 - cmte_name: Lisa Wynn for Board of Supervisors 2026
   cmte_fppcid: unknown
   cmte_nid: '216825139'
+- cmte_name: Loli-tello for School Board 2026
+  cmte_fppcid: unknown
+  cmte_nid: '216293478'
 - cmte_name: Lori Brooke for Supervisor 2026 General
   cmte_fppcid: '1484332'
   cmte_nid: '216289152'
@@ -107,6 +113,9 @@ committees:
 - cmte_name: Theo Ellington for Supervisor 2026
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
+- cmte_name: Tim Tung for Board of Education 2026
+  cmte_fppcid: unknown
+  cmte_nid: '217052017'
 - cmte_name: Turon for Board of Education 2026
   cmte_fppcid: '1482971'
   cmte_nid: '216621779'

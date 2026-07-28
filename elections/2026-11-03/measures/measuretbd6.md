@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: "TBD2: Extending the City Administrator\u2019s Duties and Changes to City Contracting"
+title: 'TBD6: Changes to Ballot Measure Process'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - "TBD2: Extending the City Administrator\u2019s Duties and Changes to City Contracting"
-  - elections/2026-11-03/measures/measuretbd2
+- - 'TBD6: Changes to Ballot Measure Process'
+  - elections/2026-11-03/measures/measuretbd6
 committees: []
 multi_committees:
 - position: SUPPORT
