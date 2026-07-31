@@ -14,13 +14,13 @@ candidates:
   committee_name: KIM FOR SCHOOL BOARD JUNE 2026
   candidate_name: PHIL KIM
   funds: 71562.0
-  expenses: 63323.21
+  expenses: 71233.21
 - filer_nid: '215120587'
   filer_id: '1485654'
   committee_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   candidate_name: BRANDEE MARCKMANN
-  funds: 162555.0
-  expenses: 146887.6
+  funds: 162968.15
+  expenses: 175894.21
 - filer_nid: '216603754'
   filer_id: '1488901'
   committee_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026

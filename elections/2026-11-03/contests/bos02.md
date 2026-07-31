@@ -19,8 +19,8 @@ candidates:
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
   candidate_name: LORI BROOKE
-  funds: 4050.0
-  expenses: 39.5
+  funds: 4085.0
+  expenses: 4585.0
 ie_candidates: []
 contributors:
 - - Sheeva Hamidieh

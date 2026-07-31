@@ -7,6 +7,11 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the November 03, 2026 election
 committees:
+- cmte_name: SAN FRANCISCO PARENT PAC
+  cmte_fppcid: '1442994'
+  cmte_nid: '201848961'
+  committee_type: Primarily Formed Measure
+  total_expense: 15310.99
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -37,7 +42,7 @@ committees:
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
   committee_type: Candidate Controlled
-  total_expense: 4768.95
+  total_expense: 4808.45
 - cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1483804'
   cmte_nid: '214772801'
@@ -68,6 +73,11 @@ committees:
   cmte_nid: '215573474'
   committee_type: Primarily Formed Measure
   total_expense: 26586.2
+- cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2026
+  cmte_fppcid: '1487911'
+  cmte_nid: '215729166'
+  committee_type: Candidate Controlled
+  total_expense: 4062.63
 - cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
@@ -87,7 +97,12 @@ committees:
   cmte_fppcid: '1484332'
   cmte_nid: '216289152'
   committee_type: Candidate Controlled
-  total_expense: 39.5
+  total_expense: 4585.0
+- cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+  cmte_fppcid: '1490256'
+  cmte_nid: '216584147'
+  committee_type: Candidate Controlled
+  total_expense: 2599.21
 - cmte_name: FAIR HOUSING
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
@@ -98,6 +113,11 @@ committees:
   cmte_nid: '216781160'
   committee_type: Candidate Controlled
   total_expense: 617.68
+- cmte_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
+  cmte_fppcid: '1491734'
+  cmte_nid: '216824591'
+  committee_type: Candidate Controlled
+  total_expense: 399.0
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

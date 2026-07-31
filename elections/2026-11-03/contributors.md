@@ -472,6 +472,29 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
+- tx_lastname: CHRISTIN EVANS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1482707'
+    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2500.0
 - tx_lastname: JEFFERSON LEE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -565,26 +588,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4900.0
-- tx_lastname: CHRISTIN EVANS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 4500.0
-  transactions:
-  - cmte_fppcid: '1482707'
-    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490199'
-    cmte_name: GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 2500.0
 - tx_lastname: STAN SHIELDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -702,6 +705,26 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
+- tx_lastname: NATALIE GEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 150.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 150.0
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 250.0
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 100.0
 - tx_lastname: CHRISTINA SHIH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -743,23 +766,6 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 550.0
-- tx_lastname: NATALIE GEE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1050.0
-  transactions:
-  - cmte_fppcid: '1481892'
-    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 150.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 150.0
-  - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 250.0
 - tx_lastname: AARON PESKIN
   tx_entitycode: Individual
   tx_cmteid: ''
