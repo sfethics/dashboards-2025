@@ -1776,11 +1776,11 @@ contributors:
 - tx_lastname: ESTHER MARKS
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 3500.0
+  tx_amount: 4000.0
   transactions:
   - cmte_fppcid: '1484332'
     cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-    tx_amount: 500.0
+    tx_amount: 1000.0
   - cmte_fppcid: '1484806'
     cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
@@ -1843,6 +1843,26 @@ contributors:
     cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
       SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
     tx_amount: 2750.0
+- tx_lastname: AARON PESKIN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484957'
+    cmte_name: DAVID LEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485609'
+    cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1485654'
+    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
 - tx_lastname: ANVIL BUILDERS, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1954,23 +1974,6 @@ contributors:
   - cmte_fppcid: '1484891'
     cmte_name: GROWSF SUPPORTING STEPHEN SHERRILL FOR SUPERVISOR 2026
     tx_amount: 2450.0
-- tx_lastname: AARON PESKIN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2000.0
-  transactions:
-  - cmte_fppcid: '1484806'
-    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484957'
-    cmte_name: DAVID LEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485609'
-    cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1485654'
-    cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: DOUG ENGMANN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3145,6 +3148,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1485709'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: RICH WALLER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484806'
+    cmte_name: NATALIE GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: RICHARD YUEN
   tx_entitycode: Individual

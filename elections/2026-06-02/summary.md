@@ -11,15 +11,15 @@ candidate_pf:
   contest_nid: '214167039'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 954473.78
-  expenses: 751273.02
+  funds: 960748.78
+  expenses: 843085.75
   ies: ''
 - committee_type: candidate
   contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
-  funds: 241519.0
-  expenses: 213634.12
+  funds: 241932.15
+  expenses: 250550.73
   ies: ''
 - committee_type: candidate
   contest_nid: '214896046'
@@ -33,7 +33,7 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 319950.0
-  expenses: 588613.4
+  expenses: 592613.4
 - contest_nid: '214769647'
   contest_name: Board of Education
   contest_link: usd
@@ -43,7 +43,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 709417.75
-  expenses: 1516991.09
+  expenses: 1520991.09
 measures:
 - contest_nid: '215121153'
   contest_name: 'C: Decreases to Business Taxes'
@@ -99,6 +99,10 @@ top_cand_spends:
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
   total_expense: 813138.2
+- cmte_nid: '214820258'
+  cmte_fppcid: '1484332'
+  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
+  total_expense: 441530.6
 - cmte_nid: '213987622'
   cmte_fppcid: '1479700'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
@@ -108,10 +112,6 @@ top_cand_spends:
   cmte_name: AFFORDABLE SF NOW SUPPORTING NATALIE GEE FOR SUPERVISOR 2026, SPONSORED
     BY LABOR ORGANIZATIONS
   total_expense: 358751.43
-- cmte_nid: '214820258'
-  cmte_fppcid: '1484332'
-  cmte_name: LORI BROOKE FOR SUPERVISOR 2026
-  total_expense: 349717.87
 - cmte_nid: '214896050'
   cmte_fppcid: '1484806'
   cmte_name: NATALIE GEE FOR SUPERVISOR 2026
@@ -135,10 +135,10 @@ top_bm_spends:
   cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   total_expense: 1191260.48
-- cmte_nid: '209507341'
-  cmte_fppcid: '1478129'
-  cmte_name: Saikat Chakrabarti
-  total_expense: 750000.0
+- cmte_nid: '216534507'
+  cmte_fppcid: '1489925'
+  cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
+  total_expense: 478370.27
 
 ---
 

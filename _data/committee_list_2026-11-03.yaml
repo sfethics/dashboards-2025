@@ -148,6 +148,9 @@ committees:
 - cmte_name: San Franciscans for Affordable Homes, Sponsored by the Nph Action Fund
   cmte_fppcid: unknown
   cmte_nid: '216956820'
+- cmte_name: San Francisco Parent PAC
+  cmte_fppcid: '1442994'
+  cmte_nid: '201848961'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'

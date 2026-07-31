@@ -18,15 +18,15 @@ candidate_pf:
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 202343.0
-  expenses: 33147.77
+  funds: 202378.0
+  expenses: 37693.27
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 5100.0
-  expenses: 10948.6
+  funds: 27359.55
+  expenses: 18048.94
   ies: 0.0
 - committee_type: candidate
   contest_nid: '214443849'
@@ -91,7 +91,7 @@ contributors_bm:
   - 500000.0
 contributors_cand:
 - - Christin Evans
-  - 2000.0
+  - 2500.0
 - - Marisa Lavallee
   - 1500.0
 - - Garry Tan
@@ -139,6 +139,10 @@ top_bm_spends:
   cmte_fppcid: '1487005'
   cmte_name: GREAT HIGHWAY FOR EVERYONE
   total_expense: 26586.2
+- cmte_nid: '201848961'
+  cmte_fppcid: '1442994'
+  cmte_name: SAN FRANCISCO PARENT PAC
+  total_expense: 15310.99
 
 ---
 

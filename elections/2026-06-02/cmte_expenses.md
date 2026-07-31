@@ -12,11 +12,6 @@ committees:
   cmte_nid: '11282770'
   committee_type: General Purpose
   total_expense: 500.0
-- cmte_name: Silvanus Osborn Erickson
-  cmte_fppcid: '1273721'
-  cmte_nid: '126511772'
-  committee_type: Major Donor
-  total_expense: 14900.0
 - cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
   cmte_fppcid: '1380710'
   cmte_nid: '157084268'
@@ -57,7 +52,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 14984.73
+  total_expense: 15621.289999999999
 - cmte_name: The Prado Group and Affiliated Entities
   cmte_fppcid: '1372011'
   cmte_nid: '203556801'
@@ -73,11 +68,6 @@ committees:
   cmte_nid: '204021423'
   committee_type: Major Donor
   total_expense: 10000.0
-- cmte_name: Louise Muhlfeld
-  cmte_fppcid: '1435836'
-  cmte_nid: '208194440'
-  committee_type: Major Donor
-  total_expense: 10000.0
 - cmte_name: David Dewilde
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'
@@ -88,32 +78,17 @@ committees:
   cmte_nid: '208697921'
   committee_type: Candidate Controlled
   total_expense: 2000.0
-- cmte_name: Katherine August DeWilde
-  cmte_fppcid: '1398795'
-  cmte_nid: '209506314'
-  committee_type: Major Donor
-  total_expense: 50000.0
 - cmte_name: Jerome Guillen
   cmte_fppcid: unknown
   cmte_nid: '209507321'
   committee_type: Major Donor
   total_expense: 30000.0
-- cmte_name: Saikat Chakrabarti
-  cmte_fppcid: '1478129'
-  cmte_nid: '209507341'
-  committee_type: Major Donor
-  total_expense: 750000.0
 - cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
     POLITICS
   cmte_fppcid: '1466523'
   cmte_nid: '209932989'
   committee_type: Primarily Formed Measure
   total_expense: 628.69
-- cmte_name: Enrique Landa
-  cmte_fppcid: '1454305'
-  cmte_nid: '210576256'
-  committee_type: Major Donor
-  total_expense: 10000.0
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
@@ -133,12 +108,12 @@ committees:
   cmte_fppcid: '1483649'
   cmte_nid: '214769736'
   committee_type: Candidate Controlled
-  total_expense: 63323.21
+  total_expense: 71233.21
 - cmte_name: LORI BROOKE FOR SUPERVISOR 2026
   cmte_fppcid: '1484332'
   cmte_nid: '214820258'
   committee_type: Candidate Controlled
-  total_expense: 349717.87
+  total_expense: 441530.6
 - cmte_name: MONTHANUS RATANAPAKDEE FOR DISTRICT 2 SUPERVISOR 2026
   cmte_fppcid: '1484703'
   cmte_nid: '214895723'
@@ -158,7 +133,7 @@ committees:
   cmte_fppcid: '1484891'
   cmte_nid: '214918275'
   committee_type: Primarily Formed Candidate
-  total_expense: 205590.18
+  total_expense: 234000.18
 - cmte_name: DAVID LEE FOR SUPERVISOR 2026
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
@@ -194,7 +169,7 @@ committees:
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
   committee_type: Candidate Controlled
-  total_expense: 146887.6
+  total_expense: 175894.21
 - cmte_name: TERM LIMITS NOW - YES ON B!
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
@@ -220,7 +195,7 @@ committees:
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
   committee_type: Primarily Formed Candidate
-  total_expense: 273510.6
+  total_expense: 306640.9
 - cmte_name: NO LIFETIME BAN
   cmte_fppcid: '1488891'
   cmte_nid: '215900904'
@@ -237,11 +212,6 @@ committees:
   cmte_nid: '216534507'
   committee_type: Primarily Formed Measure
   total_expense: 478370.27
-- cmte_name: Diana Nelson
-  cmte_fppcid: unknown
-  cmte_nid: '216585729'
-  committee_type: Major Donor
-  total_expense: 15000.0
 - cmte_name: San Francisco Chamber of Commerce (Major Donor)
   cmte_fppcid: unknown
   cmte_nid: '216585910'
@@ -263,11 +233,6 @@ committees:
   cmte_nid: '216701453'
   committee_type: General Purpose
   total_expense: 144678.07
-- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
-  cmte_fppcid: '1225686'
-  cmte_nid: '216724533'
-  committee_type: Major Donor
-  total_expense: 100000.0
 - cmte_name: Luis Belmonte
   cmte_fppcid: '1447783'
   cmte_nid: '216750427'
@@ -289,16 +254,11 @@ committees:
   cmte_nid: '6672661'
   committee_type: Major Donor
   total_expense: 75000.0
-- cmte_name: Williams-Sonoma, Inc.
-  cmte_fppcid: '499432'
-  cmte_nid: '6672693'
-  committee_type: Major Donor
-  total_expense: 300000.0
 - cmte_name: Alice B. Toklas Lesbian and Gay Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 9306.51
+  total_expense: 9844.01
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
