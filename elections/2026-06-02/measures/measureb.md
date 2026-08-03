@@ -34,8 +34,8 @@ committees:
   filer_nid: '215271192'
   filer_id: '1485878'
   committee_name: TERM LIMITS NOW - YES ON B!
-  funds: 432750.0
-  expenses: 317188.18
+  funds: 448000.0
+  expenses: 438666.2
   ies: ''
 - position: SUPPORT
   filer_nid: '215852865'

@@ -25,8 +25,8 @@ candidates:
   filer_id: '1488901'
   committee_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   candidate_name: VIRGINIA CHEUNG
-  funds: 7402.0
-  expenses: 3423.31
+  funds: 8596.0
+  expenses: 4923.31
 ie_candidates:
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1488901'
@@ -59,21 +59,21 @@ contributors:
   - 135500.0
 - - Mark Leno
   - 1000.0
+- - Virginia Cheung
+  - 889.0
 - - David Kim
   - 700.0
-- - Virginia Cheung
-  - 555.0
 - - Sachin Agarwal
   - 500.0
 - - Matthew Alexander
+  - 500.0
+- - James Ausman
   - 500.0
 - - Sara Barz
   - 500.0
 - - Christopher Bass
   - 500.0
 - - Nancy Belmonte
-  - 500.0
-- - Courtney Benoist
   - 500.0
 
 ---

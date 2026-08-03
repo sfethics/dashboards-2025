@@ -16,7 +16,7 @@ committees:
   cmte_fppcid: '1380710'
   cmte_nid: '157084268'
   committee_type: General Purpose
-  total_expense: 5624.3
+  total_expense: 9029.23
 - cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -63,11 +63,6 @@ committees:
   cmte_nid: '203999708'
   committee_type: General Purpose
   total_expense: 849.62
-- cmte_name: JOHN DUGGAN AND AFFILIATED ENTITIES
-  cmte_fppcid: unknown
-  cmte_nid: '204021423'
-  committee_type: Major Donor
-  total_expense: 10000.0
 - cmte_name: David Dewilde
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'
@@ -78,11 +73,6 @@ committees:
   cmte_nid: '208697921'
   committee_type: Candidate Controlled
   total_expense: 2000.0
-- cmte_name: Jerome Guillen
-  cmte_fppcid: unknown
-  cmte_nid: '209507321'
-  committee_type: Major Donor
-  total_expense: 30000.0
 - cmte_name: THRIVING COMMUNITIES FOR ALL SAN FRANCISCO SPONSORED BY CENTER FOR EMPOWERED
     POLITICS
   cmte_fppcid: '1466523'
@@ -94,16 +84,11 @@ committees:
   cmte_nid: '212046236'
   committee_type: General Purpose
   total_expense: 192793.77
-- cmte_name: Daniel Robinson
-  cmte_fppcid: '1482797'
-  cmte_nid: '212253490'
-  committee_type: Major Donor
-  total_expense: 10000.0
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
   committee_type: Candidate Controlled
-  total_expense: 390059.23
+  total_expense: 427275.16
 - cmte_name: KIM FOR SCHOOL BOARD JUNE 2026
   cmte_fppcid: '1483649'
   cmte_nid: '214769736'
@@ -123,7 +108,7 @@ committees:
   cmte_fppcid: '1484806'
   cmte_nid: '214896050'
   committee_type: Candidate Controlled
-  total_expense: 331272.12
+  total_expense: 409056.2
 - cmte_name: JEREMY KIRSHNER FOR SAN FRANCISCO SUPERVISOR 2026
   cmte_fppcid: '1484600'
   cmte_nid: '214896333'
@@ -138,7 +123,7 @@ committees:
   cmte_fppcid: '1484957'
   cmte_nid: '214929589'
   committee_type: Candidate Controlled
-  total_expense: 49898.0
+  total_expense: 99959.0
 - cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -148,23 +133,23 @@ committees:
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
   committee_type: Primarily Formed Measure
-  total_expense: 2720577.32
+  total_expense: 3212441.53
 - cmte_name: ALBERT CHOW FOR SUPERVISOR 2026
   cmte_fppcid: '1485609'
   cmte_nid: '215019694'
   committee_type: Candidate Controlled
-  total_expense: 95518.31
+  total_expense: 169630.36
 - cmte_name: ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1485709'
   cmte_nid: '215112140'
   committee_type: Candidate Controlled
-  total_expense: 289286.74
+  total_expense: 410727.79
 - cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
-  total_expense: 5836150.33
+  total_expense: 5999222.71
 - cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
@@ -174,23 +159,23 @@ committees:
   cmte_fppcid: '1485878'
   cmte_nid: '215271192'
   committee_type: Primarily Formed Measure
-  total_expense: 317188.18
+  total_expense: 438666.2
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 963138.2
+  total_expense: 993138.2
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
   cmte_nid: '215726436'
   committee_type: Primarily Formed Measure
-  total_expense: 1191260.48
+  total_expense: 1673311.19
 - cmte_name: COMMITTEE TO SUPPORT SUPERVISOR STEPHEN SHERRILL 2026
   cmte_fppcid: '1488379'
   cmte_nid: '215838066'
   committee_type: Primarily Formed Candidate
-  total_expense: 29005.0
+  total_expense: 51250.0
 - cmte_name: GROWSF SUPPORTING ALAN WONG FOR SUPERVISOR 2026
   cmte_fppcid: '1488188'
   cmte_nid: '215852865'
@@ -206,28 +191,23 @@ committees:
   cmte_fppcid: '1488862'
   cmte_nid: '216048526'
   committee_type: Primarily Formed Candidate
-  total_expense: 358751.43
+  total_expense: 377973.93
 - cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   cmte_fppcid: '1489925'
   cmte_nid: '216534507'
   committee_type: Primarily Formed Measure
   total_expense: 478370.27
-- cmte_name: San Francisco Chamber of Commerce (Major Donor)
-  cmte_fppcid: unknown
-  cmte_nid: '216585910'
-  committee_type: Major Donor
-  total_expense: 30526.22
 - cmte_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
   committee_type: Candidate Controlled
-  total_expense: 3423.31
+  total_expense: 4923.31
 - cmte_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
     by International Union of Operating Engineers Local 3
   cmte_fppcid: '1488209'
   cmte_nid: '216673030'
   committee_type: Primarily Formed Candidate
-  total_expense: 43875.0
+  total_expense: 48870.01
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
