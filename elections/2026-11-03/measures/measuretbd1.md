@@ -15,7 +15,7 @@ committees:
   filer_nid: '215457455'
   filer_id: '1487105'
   committee_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-  funds: 6004.18
+  funds: 6104.18
   expenses: ''
   ies: ''
 multi_committees: []
@@ -34,11 +34,11 @@ contributors:
   - 250.0
 - - Martha Abbene
   - 125.65
+- - Carol Inocencio
+  - 100.0
 - - Margaret Petrie
   - 100.0
 - - Beverly Sambolin
-  - 100.0
-- - Dinah Stroe
   - 100.0
 
 ---

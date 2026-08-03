@@ -154,6 +154,9 @@ committees:
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
+- cmte_name: Ifpte Local 21
+  cmte_fppcid: '881248'
+  cmte_nid: '121714486'
 - cmte_name: National Union of Healthcare Workers Candidate Committee for Quality
     Patient Care and Union Democracy
   cmte_fppcid: '1318200'
@@ -167,12 +170,24 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+  cmte_fppcid: '991828'
+  cmte_nid: '6673394'
 - cmte_name: San Francisco Forward Sponsored by San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
+- cmte_name: San Francisco Young Democrats
+  cmte_fppcid: '961946'
+  cmte_nid: '6673486'
+- cmte_name: Sheet Metal Workers Local Union 104 Political Committee
+  cmte_fppcid: '850381'
+  cmte_nid: '121450458'
 - cmte_name: Teamsters Local Union No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
+- cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
+  cmte_fppcid: '1383218'
+  cmte_nid: '160514558'
 - cmte_name: Ua Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
@@ -192,14 +207,20 @@ committees:
 - cmte_name: Gfc Courage Committee - California Business Coalition
   cmte_fppcid: '1423919'
   cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Common Sense Chapter
+  cmte_fppcid: '1424659'
+  cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - East Bay Chapter
   cmte_fppcid: '1416434'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Excellence in Education Chapter
   cmte_fppcid: '1420855'
   cmte_nid: unknown
-- cmte_name: Gfc Courage Committee - Golden State Chapter
+- cmte_name: Gfc Courage Committee - Golden Gate Chapter
   cmte_fppcid: '1425929'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - Marin Chapter
+  cmte_fppcid: '1435894'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Palo Alto Chapter
   cmte_fppcid: '1416422'
@@ -210,7 +231,17 @@ committees:
 - cmte_name: Gfc Courage Committee - Sierra Chapter
   cmte_fppcid: '1416442'
   cmte_nid: unknown
-- cmte_name: 'International Union of Elevator Constructors Local # 8 PAC'
+- cmte_name: Gfc Courage Committee - Southern California Chapter
+  cmte_fppcid: '1435445'
+  cmte_nid: unknown
+- cmte_name: Govern for California Courage Committee
+  cmte_fppcid: '1392639'
+  cmte_nid: unknown
+- cmte_name: Ibew Local 6 Political Account
+  cmte_fppcid: '1056662'
+  cmte_nid: unknown
+- cmte_name: International Union of Elevator Constructors Local 8 PAC Sponsored by
+    International Union of Elevator Constructors Local 8
   cmte_fppcid: '1220653'
   cmte_nid: unknown
 - cmte_name: Jackie Speier for Supervisor 2028
@@ -219,8 +250,14 @@ committees:
 - cmte_name: Jesse Gabriel for Assembly 2026
   cmte_fppcid: '1476845'
   cmte_nid: unknown
+- cmte_name: Josh Becker for Senate 2028
+  cmte_fppcid: '1477807'
+  cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Patrick Ahrens for Assembly 2026
+  cmte_fppcid: '1476866'
   cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
@@ -231,14 +268,31 @@ committees:
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
   cmte_nid: unknown
+- cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
+    Stage Employees (Iatse) PAC
+  cmte_fppcid: '1302106'
+  cmte_nid: unknown
 - cmte_name: Toni Atkins for Governor 2026
   cmte_fppcid: '1466114'
   cmte_nid: unknown
 - cmte_name: Union of American Physicians and Dentists Small Contributor Committee
   cmte_fppcid: '1356185'
   cmte_nid: unknown
+- cmte_name: United Food & Commercial Workers Local 5 PAC (Sponsored by United Food
+    & Commercial Workers Local 5)
+  cmte_fppcid: '1294035'
+  cmte_nid: unknown
+- cmte_name: United Food and Commerical Workers Western States Council Candidate PAC
+  cmte_fppcid: '910874'
+  cmte_nid: unknown
 - cmte_name: Nick Melvoin for Congress
   cmte_fppcid: FEC_C00831289
+  cmte_nid: unknown
+- cmte_name: Remedy PAC
+  cmte_fppcid: FEC_C00566059
+  cmte_nid: unknown
+- cmte_name: Stand Up PAC
+  cmte_fppcid: FEC_C00872879
   cmte_nid: unknown
 
 ---

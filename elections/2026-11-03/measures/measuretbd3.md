@@ -14,8 +14,8 @@ committees:
   filer_id: '1479782'
   committee_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
     A THRIVING SAN FRANCISCO
-  funds: 2700305.0
-  expenses: 940692.76
+  funds: 3450315.0
+  expenses: 1077112.6
   ies: ''
 multi_committees: []
 contributors:
@@ -23,10 +23,14 @@ contributors:
   - 500000.0
 - - Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb, Inc.
   - 500000.0
+- - Openai
+  - 500000.0
 - - Ripple Labs Inc.
   - 500000.0
 - - Visa, Inc.
   - 250000.0
+- - Emerson Collective Llc(diedra Nelson)
+  - 200000.0
 - - Another Planet Entertainment Llc(gregg Perloff)
   - 100000.0
 - - Chime Financial
@@ -34,10 +38,6 @@ contributors:
 - - Electrical Industry Service Bureau, Inc.
   - 100000.0
 - - Empire Distribution Inc.
-  - 100000.0
-- - Jeffrey Lawson
-  - 100000.0
-- - Uber Innovation Ballot Measure Committee
   - 100000.0
 
 ---
