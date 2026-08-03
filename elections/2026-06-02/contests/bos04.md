@@ -13,14 +13,14 @@ candidates:
   filer_id: '1484806'
   committee_name: NATALIE GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
-  funds: 401792.12
-  expenses: 331272.12
+  funds: 405160.12
+  expenses: 409056.2
 - filer_nid: '214929589'
   filer_id: '1484957'
   committee_name: DAVID LEE FOR SUPERVISOR 2026
   candidate_name: DAVID LEE
   funds: 99959.0
-  expenses: 49898.0
+  expenses: 99959.0
 - filer_nid: '214951144'
   filer_id: '1485253'
   committee_name: JEREMY GRECO FOR SUPERVISOR 2026
@@ -31,14 +31,14 @@ candidates:
   filer_id: '1485609'
   committee_name: ALBERT CHOW FOR SUPERVISOR 2026
   candidate_name: ALBERT CHOW
-  funds: 233691.22
-  expenses: 95518.31
+  funds: 240401.22
+  expenses: 169630.36
 - filer_nid: '215112140'
   filer_id: '1485709'
   committee_name: ALAN WONG FOR SUPERVISOR 2026
   candidate_name: ALAN WONG
-  funds: 404808.0
-  expenses: 289286.74
+  funds: 412371.0
+  expenses: 410727.79
 ie_candidates:
 - candidate_name: DAVID LEE
   filer_id: '1484957'

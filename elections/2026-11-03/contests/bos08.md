@@ -13,41 +13,47 @@ candidates:
   filer_id: '1483804'
   committee_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   candidate_name: EMANUEL YEKUTIEL
-  funds: 539694.89
-  expenses: 66557.18
+  funds: 764340.99
+  expenses: 220359.53
 - filer_nid: '214783692'
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 231531.0
-  expenses: 28247.89
+  funds: 260136.0
+  expenses: 93897.98
 - filer_nid: '214884831'
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   candidate_name: MICHAEL NGUYEN
-  funds: 108234.0
-  expenses: 2444.35
+  funds: 144727.94
+  expenses: 46703.67
+- filer_nid: '215728828'
+  filer_id: '1488280'
+  committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
+  candidate_name: DARSHINI PATEL
+  funds: 20353.5
+  expenses: 6402.02
 ie_candidates: []
 contributors:
+- - Darshini Patel
+  - 2000.0
+- - Carrie Barnes
+  - 1500.0
 - - Kelly Kozak
   - 1050.0
 - - Marcy Adelman
   - 1000.0
 - - Race Bannon
   - 1000.0
-- - Robert Holgate
+- - Daniel Bergerac
   - 1000.0
-- - Daniel Irish
+- - Todd David
   - 1000.0
-- - Naomi Laguana
+- - Christin Evans
   - 1000.0
-- - Mark Leno
+- - Paul Gaetani
   - 1000.0
-- - Thomas Raffin
-  - 1000.0
-- - Will Rollins
-  - 1000.0
-- - Guodong Tian
+- - Kyle Hill
   - 1000.0
 
 ---
