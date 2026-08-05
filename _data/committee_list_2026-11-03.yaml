@@ -170,9 +170,15 @@ committees:
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
+- cmte_name: San Francisco Democratic County Central Committee
+  cmte_fppcid: '742051'
+  cmte_nid: '6673375'
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
+- cmte_name: San Francisco Forward Sponsored by San Francisco Chamber of Commerce
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
@@ -258,12 +264,6 @@ committees:
   cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
-  cmte_nid: unknown
-- cmte_name: San Francisco Democratic County Central Committee
-  cmte_fppcid: '742051'
-  cmte_nid: unknown
-- cmte_name: San Francisco Forward Sponsored by San Francisco Chamber of Commerce
-  cmte_fppcid: '891575'
   cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
