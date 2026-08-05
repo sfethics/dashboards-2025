@@ -8,7 +8,7 @@ electionnav: true
         <div class="row">
             <div class="d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3 mb-3 mt-3">
                 <div class="flex-grow-1">
-                    <h1 class="mb-1">{{ page.title }}</h1>
+                    <h1 class="mb-1">{{ page.title }} - <span class="formatted-date">{{ page.election }}</span></h1>
                 </div>
 
                 <div class="d-flex gap-2 flex-shrink-0">
@@ -29,7 +29,7 @@ electionnav: true
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion">
                 <div class="accordion-body">
-                    <p>This table shows the most recent independent expenditures during the late reporting period of the current election cycle.</p>
+                    <p>This table shows the most recent independent expenditures during the late reporting period of the <span class="formatted-date">{{ page.election }}</span> election.</p>
                     <p>An “independent expenditure” is an expenditure made in connection with a communication (e.g., a billboard, advertisement, or mailing) that expressly advocates 
                         the election or defeat of a clearly identified candidate or the qualification, passage, or defeat of a clearly identified measure. An independent expenditure 
                         is a payment that is not made to—or at the behest of—the affected candidate or committee.</p>
