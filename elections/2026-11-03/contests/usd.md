@@ -27,6 +27,12 @@ candidates:
   candidate_name: LAURANCE LEE
   funds: 3303.0
   expenses: 4062.63
+- filer_nid: '216584147'
+  filer_id: '1490256'
+  committee_name: REINA TELLO FOR SCHOOL BOARD 2026
+  candidate_name: REINA LOLI-TRELLO
+  funds: 5937.55
+  expenses: 2599.21
 - filer_nid: '216824591'
   filer_id: '1491734'
   committee_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
@@ -41,6 +47,8 @@ candidates:
   expenses: 327.45
 ie_candidates: []
 contributors:
+- - Matthew Alexander
+  - 500.0
 - - David Byrd
   - 500.0
 - - Merijane Chalmers
@@ -53,13 +61,11 @@ contributors:
   - 500.0
 - - Joseph Dick
   - 500.0
+- - Christin Evans
+  - 500.0
 - - Gfc Courage Committee - Bay Area Chapter
   - 500.0
 - - Gfc Courage Committee - California Business Coalition
-  - 500.0
-- - Gfc Courage Committee - East Bay Chapter
-  - 500.0
-- - Gfc Courage Committee - Excellence in Education Chapter
   - 500.0
 
 ---
