@@ -327,6 +327,9 @@ committees:
 - cmte_name: Canepa for Assessor-county Clerk-recorder 2026
   cmte_fppcid: '1486383'
   cmte_nid: unknown
+- cmte_name: Catherine Stefani for Assembly 2026
+  cmte_fppcid: '1477293'
+  cmte_nid: unknown
 - cmte_name: District 2 Democratic Club Smo
   cmte_fppcid: '1466947'
   cmte_nid: unknown
@@ -375,15 +378,16 @@ committees:
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
-- cmte_name: Harvey Milk Lgbtq Democratic Club
-  cmte_fppcid: '1383194'
-  cmte_nid: unknown
 - cmte_name: International Federation of Professional and Technical Engineers, Local
     21
   cmte_fppcid: '1362080'
   cmte_nid: unknown
 - cmte_name: 'International Union of Elevator Constructors Local #8 PAC'
   cmte_fppcid: '1220653'
+  cmte_nid: unknown
+- cmte_name: International Union of Operating Engineers Stationary Engineers Local
+    39
+  cmte_fppcid: '1230857'
   cmte_nid: unknown
 - cmte_name: Jones
   cmte_fppcid: PENDING
@@ -445,7 +449,7 @@ committees:
   cmte_fppcid: '960895'
   cmte_nid: unknown
 - cmte_name: Service Employees International Union Local 721 Ctw, Clc Issues & Initiatives
-    Sponsored by Service Employee Union
+    Sponsored by Service Employee Unions
   cmte_fppcid: '891044'
   cmte_nid: unknown
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
@@ -462,6 +466,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Teamsters Local Union 350 PAC
   cmte_fppcid: '1406838'
+  cmte_nid: unknown
+- cmte_name: the Harvey Milk Lgbtq Democratic Club Slate
+  cmte_fppcid: '1383194'
   cmte_nid: unknown
 - cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
     Stage Employees (Iatse) PAC
