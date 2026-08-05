@@ -470,6 +470,32 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 6000.0
+- tx_lastname: CHRISTIN EVANS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5500.0
+  transactions:
+  - cmte_fppcid: '1482707'
+    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2500.0
 - tx_lastname: JASON PRADO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -599,26 +625,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4900.0
-- tx_lastname: CHRISTIN EVANS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 4500.0
-  transactions:
-  - cmte_fppcid: '1482707'
-    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 2500.0
 - tx_lastname: STAN SHIELDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -803,6 +809,23 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: NICK PODELL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: PAUL GAETANI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -876,6 +899,23 @@ contributors:
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
+- tx_lastname: MUHAMMAD MAHMOOD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487291'
+    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 100.0
 - tx_lastname: VANITA LOUIE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -915,6 +955,20 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 1500.0
+- tx_lastname: CHRIS CHANG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: CHRISTOPHER CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1178,6 +1232,20 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: MARK LENO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: MICHAEL EISLER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1192,35 +1260,7 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: MUHAMMAD MAHMOOD
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487291'
-    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: NICHOLAS JOSEFOWITZ
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: NICK PODELL
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1500.0
@@ -1318,6 +1358,17 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: JAMES CALLOWAY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1450.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 950.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: ALBERT CHOW
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1332,6 +1383,23 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
+- tx_lastname: BRUCE AGID
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1350.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 100.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 250.0
 - tx_lastname: ELIZABETH FUNK
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1480,6 +1548,71 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: HEATHER MCCARTY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+- tx_lastname: MARY JUNG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 250.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 250.0
+- tx_lastname: NATALIE GEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 150.0
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 250.0
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 100.0
+- tx_lastname: PATRICK WOLFF
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: RONALD CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1539,23 +1672,6 @@ contributors:
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 150.0
-- tx_lastname: NATALIE GEE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1150.0
-  transactions:
-  - cmte_fppcid: '1481892'
-    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 150.0
-  - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 250.0
 - tx_lastname: DENISE APTEKAR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1584,20 +1700,6 @@ contributors:
   - cmte_fppcid: '1484606'
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 100.0
-- tx_lastname: BRUCE AGID
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1100.0
-  transactions:
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 100.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: CHRISTINA SHIH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1853,16 +1955,16 @@ contributors:
   - cmte_fppcid: '1481892'
     cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
     tx_amount: 1000.0
-- tx_lastname: CHRIS CHANG
+- tx_lastname: CHASEL LEE
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
 - tx_lastname: CINDY MCCULLAGH
   tx_entitycode: Individual
@@ -1885,6 +1987,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: DANIEL ANDERSON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: DANIEL BERGERAC
   tx_entitycode: Individual
@@ -2081,6 +2194,17 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: GILBERT WONG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
 - tx_lastname: GREGORY CONDES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2165,6 +2289,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: JEFFERY WOO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
 - tx_lastname: JEFFREY NEBEL
   tx_entitycode: Individual
@@ -2451,17 +2586,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: MARK LENO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: MARTHA EHMANN CONTE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2473,20 +2597,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: MARY JUNG
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 250.0
 - tx_lastname: MATT HANEY FOR ASSEMBLY 2026
   tx_entitycode: Committee
   tx_cmteid: '1476944'
@@ -2638,6 +2748,17 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: PAUL MELBOSTAD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 500.0
 - tx_lastname: PETER GORENCE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2667,6 +2788,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: RALPH LANE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491969'
+    cmte_name: GRECO FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: RANEE LAN
   tx_entitycode: Individual
@@ -2884,6 +3016,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1406838'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
 - tx_lastname: THOMAS HORN
   tx_entitycode: Individual

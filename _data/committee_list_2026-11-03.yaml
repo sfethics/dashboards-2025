@@ -7,6 +7,9 @@ breadcrumbs:
 - - Committee List
 title: Active committees in the November 03, 2026 election
 committees:
+- cmte_name: Alan Wong for Supervisor 2026
+  cmte_fppcid: '1485709'
+  cmte_nid: '215112140'
 - cmte_name: Alan Wong for Supervisor 2026 General
   cmte_fppcid: '1489126'
   cmte_nid: '216198377'
@@ -182,7 +185,7 @@ committees:
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
-- cmte_name: Teamsters Local Union No. 665
+- cmte_name: Teamsters Union Local No. 665 PAC
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
 - cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
@@ -262,11 +265,11 @@ committees:
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
   cmte_nid: unknown
-- cmte_name: Teamsters Local No. 350 PAC
-  cmte_fppcid: '1406838'
-  cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
+  cmte_nid: unknown
+- cmte_name: Teamsters Local Union 350 PAC
+  cmte_fppcid: '1406838'
   cmte_nid: unknown
 - cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
     Stage Employees (Iatse) PAC

@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 29948.0
-  expenses: 15777.18
+  funds: 35885.55
+  expenses: 18376.39
   ies: 0.0
 - committee_type: candidate
   contest_nid: '214443849'
@@ -60,8 +60,8 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 1100.0
-  expenses: 617.68
+  funds: 41770.1
+  expenses: 13832.24
   ies: 0.0
 candidate_ie: []
 measures:
@@ -104,15 +104,15 @@ contributors_bm:
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
 contributors_cand:
-- - Luis Belmonte
-  - 2000.0
+- - Christin Evans
+  - 3000.0
 - - Stefano Sangiacomo
   - 2000.0
-- - Darshini Patel
+- - Nick Podell
   - 2000.0
-- - Christin Evans
+- - Todd David
   - 2000.0
-- - Christina Sangiacomo
+- - Paul Gaetani
   - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'

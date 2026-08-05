@@ -9,6 +9,18 @@ breadcrumbs:
 - - Board of Supervisors D04
   - elections/2026-11-03/contests/bos04
 candidates:
+- filer_nid: '216135683'
+  filer_id: '1490199'
+  committee_name: GEE FOR SUPERVISOR 2026
+  candidate_name: NATALIE GEE
+  funds: 7210.12
+  expenses: 5561.03
+- filer_nid: '216198377'
+  filer_id: '1489126'
+  committee_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+  candidate_name: ALAN WONG
+  funds: 33459.98
+  expenses: 7653.53
 - filer_nid: '216781160'
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
@@ -18,15 +30,25 @@ candidates:
 ie_candidates: []
 contributors:
 - - Ralph Lane
+  - 1000.0
+- - Daniel Anderson
   - 500.0
-- - Billy Davies
-  - 150.0
-- - Jeremy Greco
-  - 150.0
-- - Gordon Mar
-  - 150.0
-- - Denise Selleck
-  - 100.0
+- - Rene Bloch
+  - 500.0
+- - James Calloway
+  - 500.0
+- - Philip Cannon
+  - 500.0
+- - Chris Chang
+  - 500.0
+- - Johnny Cheng
+  - 500.0
+- - Wendy Cheng
+  - 500.0
+- - Christin Evans
+  - 500.0
+- - Amy Fong
+  - 500.0
 
 ---
 
