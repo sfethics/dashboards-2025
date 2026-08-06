@@ -7,11 +7,21 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the November 03, 2026 election
 committees:
+- cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
+  committee_type: General Purpose
+  total_expense: 480.0
 - cmte_name: SAN FRANCISCO PARENT PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 15310.99
+- cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  cmte_fppcid: '1471154'
+  cmte_nid: '211776936'
+  committee_type: Primarily Formed Measure
+  total_expense: 697412.62
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'

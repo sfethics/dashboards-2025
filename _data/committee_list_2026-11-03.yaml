@@ -17,7 +17,7 @@ committees:
   cmte_fppcid: '1492163'
   cmte_nid: '216878122'
 - cmte_name: Alex Behrend for All - Supervisor 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1493283'
   cmte_nid: '216883068'
 - cmte_name: Alida Fisher for Board of Education 2026
   cmte_fppcid: '1492843'
@@ -116,7 +116,7 @@ committees:
 - cmte_name: Theo Ellington for Supervisor 2026
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
-- cmte_name: Tim Tung for Board of Education 2026
+- cmte_name: Tim Tung for School Board 2026
   cmte_fppcid: unknown
   cmte_nid: '217052017'
 - cmte_name: Turon for Board of Education 2026
@@ -145,11 +145,14 @@ committees:
 - cmte_name: Great Highway for Everyone
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
+- cmte_name: No on a, Stop the Engardio Recall
+  cmte_fppcid: '1477355'
+  cmte_nid: '212872841'
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
 - cmte_name: San Franciscans for Affordable Homes, Sponsored by the Nph Action Fund
-  cmte_fppcid: unknown
+  cmte_fppcid: '1492671'
   cmte_nid: '216956820'
 - cmte_name: San Francisco Parent PAC
   cmte_fppcid: '1442994'
@@ -182,6 +185,9 @@ committees:
 - cmte_name: San Francisco Forward Sponsored by San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
+- cmte_name: San Francisco League of Pissed Off Voters
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
@@ -268,11 +274,29 @@ committees:
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
   cmte_nid: unknown
+- cmte_name: Re-elect Scott Wiener for State Senate 2024
+  cmte_fppcid: '1434666'
+  cmte_nid: unknown
+- cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
+  cmte_fppcid: '1432377'
+  cmte_nid: unknown
+- cmte_name: San Francisco Women's Political Committee Voter Guide
+  cmte_fppcid: '1448359'
+  cmte_nid: unknown
+- cmte_name: San Francisco Yimby Slate Mailer Organization
+  cmte_fppcid: '1472524'
+  cmte_nid: unknown
+- cmte_name: SF Eastern Neighborhoods Democratic Club Smo
+  cmte_fppcid: '1405412'
+  cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
   cmte_nid: unknown
 - cmte_name: Teamsters Local Union 350 PAC
   cmte_fppcid: '1406838'
+  cmte_nid: unknown
+- cmte_name: the Harvey Milk Lgbt Democratic Club Voter Guide
+  cmte_fppcid: '1383194'
   cmte_nid: unknown
 - cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
     Stage Employees (Iatse) PAC
@@ -284,6 +308,9 @@ committees:
 - cmte_name: Union of American Physicians and Dentists Small Contributor Committee
   cmte_fppcid: '1356185'
   cmte_nid: unknown
+- cmte_name: United Democratic Club Slate Mailer Organization
+  cmte_fppcid: '1385852'
+  cmte_nid: unknown
 - cmte_name: United Food & Commercial Workers Local 5 PAC (Sponsored by United Food
     & Commercial Workers Local 5)
   cmte_fppcid: '1294035'
@@ -291,6 +318,12 @@ committees:
 - cmte_name: United Food and Commerical Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
+- cmte_name: Westside Family Democratic Club Slate Mailer
+  cmte_fppcid: '1466485'
+  cmte_nid: unknown
+- cmte_name: San Francisco Laborer's Local 261 P.a.c.
+  cmte_fppcid: '981076'
+  cmte_nid: '6673776'
 - cmte_name: Nick Melvoin for Congress
   cmte_fppcid: FEC_C00831289
   cmte_nid: unknown

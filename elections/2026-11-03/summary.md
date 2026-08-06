@@ -85,8 +85,8 @@ measures:
   contest_name: 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measuretbd4
-  expenses: 26586.2
-  funds: 31596.0
+  expenses: 723998.82
+  funds: 847469.0
 - contest_nid: MULTI-1
   contest_name: 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
   contest_link: measuretbd2tbd6tbd8
@@ -97,9 +97,9 @@ contributors_bm:
   - 2005595.78
 - - John Pritzker
   - 1000000.0
-- - Christian Larsen
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - Christian Larsen
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -145,6 +145,10 @@ top_bm_spends:
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
   total_expense: 1077112.6
+- cmte_nid: '211776936'
+  cmte_fppcid: '1471154'
+  cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  total_expense: 697412.62
 - cmte_nid: '216747316'
   cmte_fppcid: '1490845'
   cmte_name: FAIR HOUSING
@@ -153,10 +157,6 @@ top_bm_spends:
   cmte_fppcid: '1487005'
   cmte_name: GREAT HIGHWAY FOR EVERYONE
   total_expense: 26586.2
-- cmte_nid: '201848961'
-  cmte_fppcid: '1442994'
-  cmte_name: SAN FRANCISCO PARENT PAC
-  total_expense: 15310.99
 
 ---
 
