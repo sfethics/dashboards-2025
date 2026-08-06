@@ -1,7 +1,7 @@
 ---
 layout: recent_ies
 permalink: /recent-ies/
-election: '2026-11-03'
+election: '2026-06-02'
 breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures

@@ -1,7 +1,7 @@
 ---
 layout: recent_contributions
 permalink: /recent-contributions/
-election: '2026-11-03'
+election: '2026-06-02'
 breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions

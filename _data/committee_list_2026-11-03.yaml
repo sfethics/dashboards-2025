@@ -154,6 +154,9 @@ committees:
 - cmte_name: San Francisco Parent PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
+- cmte_name: Save Sunset Dunes Sponsored by Friends of Sunset Dunes
+  cmte_fppcid: '1471154'
+  cmte_nid: '211776936'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
