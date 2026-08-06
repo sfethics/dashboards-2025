@@ -9,6 +9,13 @@ breadcrumbs:
 - - 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park'
   - elections/2026-11-03/measures/measuretbd4
 committees:
+- position: OPPOSE
+  filer_nid: '211776936'
+  filer_id: '1471154'
+  committee_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  funds: 815873.0
+  expenses: 697412.62
+  ies: ''
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
@@ -18,26 +25,26 @@ committees:
   ies: ''
 multi_committees: []
 contributors:
-- - William Okeeffe Jr.
-  - 4990.0
-- - Wei Selena Chu
-  - 4900.0
-- - Christina Shih
-  - 1100.0
-- - Albert Chow
-  - 1000.0
-- - David Hirtz
-  - 1000.0
-- - Peter Wendell
-  - 1000.0
-- - Braden Edwards
-  - 500.0
-- - Susan Lew
-  - 500.0
-- - Trevor Wright
-  - 500.0
-- - Suzanne Dumont
-  - 350.0
+- - Jeremy Stoppelman
+  - 350000.0
+- - Emmett Shear
+  - 75000.0
+- - Anatoly Yakovenko
+  - 50000.0
+- - Benjamin Spero
+  - 49900.0
+- - Wojciech Zaremba
+  - 35000.0
+- - Friends of Great Highway Park, Inc. dba Friends of Sunset Dunes
+  - 25000.0
+- - Michel Krieger
+  - 20000.0
+- - Kid Safe SF
+  - 18750.0
+- - Ian Storm Taylor
+  - 15000.0
+- - Heidi Moseson Lidow
+  - 10250.0
 
 ---
 
