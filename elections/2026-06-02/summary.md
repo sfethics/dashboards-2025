@@ -19,7 +19,7 @@ candidate_pf:
   contest_name: Board of Education
   contest_link: usd
   funds: 243126.15
-  expenses: 252050.73
+  expenses: 253550.73
   ies: ''
 - committee_type: candidate
   contest_nid: '214896046'
@@ -64,12 +64,12 @@ measures:
 - contest_nid: '215900603'
   contest_name: 'A: Earthquake Safety and Emergency Response Bond'
   contest_link: measurea
-  expenses: 2163961.5
+  expenses: 2193961.5
   funds: 2284207.18
 - contest_nid: MULTI-1
   contest_name: 'C,D: Measures C and D'
   contest_link: measurecd
-  expenses: 5999222.71
+  expenses: 6011722.71
   funds: 6600009.05
 contributors_bm:
 - - Neighbors for a Better San Francisco Advocacy
@@ -120,20 +120,20 @@ top_bm_spends:
   cmte_fppcid: '1485633'
   cmte_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND ECONOMIC
     RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
-  total_expense: 5999222.71
+  total_expense: 6011722.71
 - cmte_nid: '214966146'
   cmte_fppcid: '1484969'
   cmte_name: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   total_expense: 3212441.53
+- cmte_nid: '193427405'
+  cmte_fppcid: '1431167'
+  cmte_name: Neighbors For A Better San Francisco Advocacy
+  total_expense: 1817540.0
 - cmte_nid: '215726436'
   cmte_fppcid: '1486676'
   cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   total_expense: 1673311.19
-- cmte_nid: '193427405'
-  cmte_fppcid: '1431167'
-  cmte_name: Neighbors For A Better San Francisco Advocacy
-  total_expense: 1643540.0
 - cmte_nid: '216534507'
   cmte_fppcid: '1489925'
   cmte_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
