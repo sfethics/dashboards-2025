@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD8: Changes to Executive Branch Management'
+title: "E: City Administrator\u2019s Authority and Changes to City Contracting"
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD8: Changes to Executive Branch Management'
-  - elections/2026-11-03/measures/measuretbd8
+- - "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  - elections/2026-11-03/measures/measuree
 committees: []
 multi_committees:
 - position: SUPPORT

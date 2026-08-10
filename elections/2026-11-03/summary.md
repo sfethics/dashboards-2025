@@ -72,24 +72,24 @@ measures:
   expenses: 0.0
   funds: 6104.18
 - contest_nid: '216284732'
-  contest_name: 'TBD3: Parcel Tax to Fund Public Transit Operations'
-  contest_link: measuretbd3
+  contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
+  contest_link: measureh
   expenses: 1077112.6
   funds: 3450315.0
 - contest_nid: '216747293'
-  contest_name: 'TBD: Changes to Real Property Transfer Tax'
-  contest_link: measuretbd
+  contest_name: 'I: Changes to Real Property Transfer Tax'
+  contest_link: measurei
   expenses: 255340.53
   funds: 280668.27
 - contest_nid: '216779916'
-  contest_name: 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+  contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
-  contest_link: measuretbd4
+  contest_link: measureg
   expenses: 761998.82
   funds: 847469.0
 - contest_nid: MULTI-1
-  contest_name: 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
-  contest_link: measuretbd2tbd6tbd8
+  contest_name: 'D,E,F: Measures D, E, and F'
+  contest_link: measuredef
   expenses: 5487991.48
   funds: 8640595.78
 contributors_bm:
@@ -153,10 +153,10 @@ top_bm_spends:
   cmte_fppcid: '1490845'
   cmte_name: FAIR HOUSING
   total_expense: 255340.53
-- cmte_nid: '6668151'
-  cmte_fppcid: '891575'
-  cmte_name: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  total_expense: 60000.0
+- cmte_nid: '212872598'
+  cmte_fppcid: '1466153'
+  cmte_name: UBER INNOVATION BALLOT MEASURE COMMITTEE
+  total_expense: 100000.0
 
 ---
 

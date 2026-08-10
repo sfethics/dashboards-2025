@@ -2,20 +2,19 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
+title: 'D,E,F: Measures D, E, and F'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
-  - elections/2026-11-03/measures/measuretbd2tbd6tbd8
+- - 'D,E,F: Measures D, E, and F'
+  - elections/2026-11-03/measures/measuredef
 related_measures:
-- link: measuretbd2
-  description: "TBD2: Extending the City Administrator\u2019s Duties and Changes to\
-    \ City Contracting"
-- link: measuretbd6
-  description: 'TBD6: Changes to Ballot Measure Process'
-- link: measuretbd8
-  description: 'TBD8: Changes to Executive Branch Management'
+- link: measured
+  description: 'D: Changes to Ballot Measure Process'
+- link: measuree
+  description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+- link: measuref
+  description: 'F: Changes to Executive Branch Management'
 committees:
 - position: SUPPORT
   filer_nid: '216006060'
