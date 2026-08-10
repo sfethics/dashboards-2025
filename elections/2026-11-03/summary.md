@@ -19,7 +19,7 @@ candidate_pf:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 206203.0
-  expenses: 63365.55
+  expenses: 65365.55
   ies: 0.0
 - committee_type: candidate
   contest_nid: '212794907'
@@ -40,14 +40,14 @@ candidate_pf:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 1189558.43
-  expenses: 367363.2
+  expenses: 367863.2
   ies: 0.0
 - committee_type: candidate
   contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
   funds: 84569.0
-  expenses: 32524.83
+  expenses: 32774.83
   ies: 0.0
 - committee_type: candidate
   contest_nid: '215593808'
@@ -80,12 +80,12 @@ measures:
   contest_name: 'TBD: Changes to Real Property Transfer Tax'
   contest_link: measuretbd
   expenses: 255340.53
-  funds: 278668.27
+  funds: 280668.27
 - contest_nid: '216779916'
   contest_name: 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measuretbd4
-  expenses: 723998.82
+  expenses: 761998.82
   funds: 847469.0
 - contest_nid: MULTI-1
   contest_name: 'TBD2,TBD6,TBD8: Measures TBD2, TBD6, and TBD8'
@@ -122,7 +122,7 @@ top_cand_spends:
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
-  total_expense: 93897.98
+  total_expense: 94397.98
 - cmte_nid: '214808596'
   cmte_fppcid: '1484091'
   cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
@@ -134,7 +134,7 @@ top_cand_spends:
 - cmte_nid: '214620516'
   cmte_fppcid: '1482285'
   cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-  total_expense: 58780.55
+  total_expense: 60780.55
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
@@ -148,15 +148,15 @@ top_bm_spends:
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  total_expense: 697412.62
+  total_expense: 735412.62
 - cmte_nid: '216747316'
   cmte_fppcid: '1490845'
   cmte_name: FAIR HOUSING
   total_expense: 255340.53
-- cmte_nid: '215573474'
-  cmte_fppcid: '1487005'
-  cmte_name: GREAT HIGHWAY FOR EVERYONE
-  total_expense: 26586.2
+- cmte_nid: '6668151'
+  cmte_fppcid: '891575'
+  cmte_name: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  total_expense: 60000.0
 
 ---
 

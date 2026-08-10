@@ -21,7 +21,7 @@ committees:
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
   committee_type: Primarily Formed Measure
-  total_expense: 697412.62
+  total_expense: 735412.62
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -47,7 +47,7 @@ committees:
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
-  total_expense: 58780.55
+  total_expense: 60780.55
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
@@ -62,7 +62,7 @@ committees:
   cmte_fppcid: '1484080'
   cmte_nid: '214783692'
   committee_type: Candidate Controlled
-  total_expense: 93897.98
+  total_expense: 94397.98
 - cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
@@ -73,6 +73,11 @@ committees:
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
   total_expense: 46703.67
+- cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
+  cmte_fppcid: '1485253'
+  cmte_nid: '214951144'
+  committee_type: Candidate Controlled
+  total_expense: 506.05
 - cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
   cmte_fppcid: '1487291'
   cmte_nid: '215424978'
@@ -87,7 +92,7 @@ committees:
   cmte_fppcid: '1487329'
   cmte_nid: '215579031'
   committee_type: Candidate Controlled
-  total_expense: 32524.83
+  total_expense: 32774.83
 - cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
   cmte_fppcid: '1487412'
   cmte_nid: '215593851'
@@ -148,9 +153,24 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
+- cmte_name: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
+  committee_type: General Purpose
+  total_expense: 60000.0
+- cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
+  cmte_fppcid: '842018'
+  cmte_nid: '6673011'
+  committee_type: General Purpose
+  total_expense: 6812.66
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
+  committee_type: General Purpose
+  total_expense: 9500.0
+- cmte_name: SAN FRANCISCO DEPUTY SHERIFFS' ASSOCIATION POLITICAL ACTION COMMITTEE
+  cmte_fppcid: '991828'
+  cmte_nid: '6673394'
   committee_type: General Purpose
   total_expense: 500.0
 

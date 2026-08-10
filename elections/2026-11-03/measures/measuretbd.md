@@ -13,7 +13,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING
-  funds: 278668.27
+  funds: 280668.27
   expenses: 255340.53
   ies: ''
 multi_committees: []
@@ -36,8 +36,8 @@ contributors:
   - 10000.0
 - - Anne Richards
   - 7300.0
-- - Jack Good
-  - 6000.0
+- - Andrew Mccoy
+  - 7000.0
 
 ---
 

@@ -601,6 +601,14 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 300.0
+- tx_lastname: ANDREW MCCOY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 7000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 7000.0
 - tx_lastname: AUDREY KUEN LIU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -698,14 +706,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5100.0
-- tx_lastname: ANDREW MCCOY
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 5000.0
 - tx_lastname: BLUE JAY TRANSIT, INC.
   tx_entitycode: Other
   tx_cmteid: ''
