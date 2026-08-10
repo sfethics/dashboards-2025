@@ -14,7 +14,7 @@ candidates:
   committee_name: MATT DORSEY FOR SUPERVISOR 2026
   candidate_name: MATT DORSEY
   funds: 84569.0
-  expenses: 32524.83
+  expenses: 32774.83
 ie_candidates: []
 contributors:
 - - Michael Sanberg

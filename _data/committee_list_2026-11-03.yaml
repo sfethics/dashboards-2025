@@ -34,6 +34,9 @@ committees:
 - cmte_name: Dj Brookter for Supervisor 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
+- cmte_name: Daniel Lurie for Mayor 2024
+  cmte_fppcid: '1463099'
+  cmte_nid: '208599394'
 - cmte_name: Elect Shawn M. Richard for District 10 Supervisor 2026
   cmte_fppcid: '1491677'
   cmte_nid: '216767735'
@@ -160,6 +163,15 @@ committees:
 - cmte_name: Save Sunset Dunes Sponsored by Friends of Sunset Dunes
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
+- cmte_name: Yes on L, Fund the Bus
+  cmte_fppcid: '1468797'
+  cmte_nid: '211486142'
+- cmte_name: Alice B. Toklas Lgbtq Democratic Club PAC
+  cmte_fppcid: '842018'
+  cmte_nid: '6673011'
+- cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
+  cmte_fppcid: '931558'
+  cmte_nid: '6667750'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'

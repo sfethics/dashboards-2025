@@ -14,7 +14,7 @@ committees:
   filer_id: '1471154'
   committee_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   funds: 815873.0
-  expenses: 697412.62
+  expenses: 735412.62
   ies: ''
 - position: SUPPORT
   filer_nid: '215573474'

@@ -14,7 +14,7 @@ candidates:
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   candidate_name: STEPHEN SHERRILL
   funds: 202118.0
-  expenses: 58780.55
+  expenses: 60780.55
 - filer_nid: '216289152'
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
