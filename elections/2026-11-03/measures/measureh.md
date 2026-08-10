@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD3: Parcel Tax to Fund Public Transit Operations'
+title: 'H: Parcel Tax to Fund Public Muni Operations'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD3: Parcel Tax to Fund Public Transit Operations'
-  - elections/2026-11-03/measures/measuretbd3
+- - 'H: Parcel Tax to Fund Public Muni Operations'
+  - elections/2026-11-03/measures/measureh
 committees:
 - position: SUPPORT
   filer_nid: '214099226'

@@ -52,7 +52,7 @@ committees:
   committee_name: SUPPORTING OUR FIREFIGHTERS - YES ON PROPOSITION A
   funds: 520000.0
   expenses: 478370.27
-  ies: ''
+  ies: 30000.0
 multi_committees: []
 contributors:
 - - Christian Larsen

@@ -26,7 +26,7 @@ candidates:
   committee_name: VIRGINIA CHEUNG FOR SAN FRANCISCO SCHOOL BOARD OF EDUCATION 2026
   candidate_name: VIRGINIA CHEUNG
   funds: 8596.0
-  expenses: 4923.31
+  expenses: 6423.31
 ie_candidates:
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1488901'

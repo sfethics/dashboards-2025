@@ -11,7 +11,7 @@ committees:
   cmte_fppcid: '1315969'
   cmte_nid: '11282770'
   committee_type: General Purpose
-  total_expense: 500.0
+  total_expense: 1000.0
 - cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
   cmte_fppcid: '1380710'
   cmte_nid: '157084268'
@@ -26,7 +26,7 @@ committees:
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
   committee_type: General Purpose
-  total_expense: 15000.0
+  total_expense: 30000.0
 - cmte_name: UNITE HERE Local 2 Issues Committee
   cmte_fppcid: '1384604'
   cmte_nid: '160011229'
@@ -42,7 +42,7 @@ committees:
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
-  total_expense: 1663540.0
+  total_expense: 1837540.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -78,12 +78,22 @@ committees:
   cmte_fppcid: '1466523'
   cmte_nid: '209932989'
   committee_type: Primarily Formed Measure
-  total_expense: 628.69
+  total_expense: 1547.94
+- cmte_name: SAN FRANCISCO FIRE FIGHTERS LOCAL 798 P.A.C. - BALLOT ISSUES
+  cmte_fppcid: '1462942'
+  cmte_nid: '211998686'
+  committee_type: General Purpose
+  total_expense: 3500.0
 - cmte_name: Asian Americans for Representation
   cmte_fppcid: '1469330'
   cmte_nid: '212046236'
   committee_type: General Purpose
   total_expense: 192793.77
+- cmte_name: Uber Innovation Ballot Measure Committee
+  cmte_fppcid: '1466153'
+  cmte_nid: '212872598'
+  committee_type: General Purpose
+  total_expense: 100000.0
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026
   cmte_fppcid: '1479700'
   cmte_nid: '213987622'
@@ -149,7 +159,7 @@ committees:
   cmte_fppcid: '1485633'
   cmte_nid: '215118470'
   committee_type: Primarily Formed Measure
-  total_expense: 5999222.71
+  total_expense: 6011722.71
 - cmte_name: BRANDEE MARCKMANN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1485654'
   cmte_nid: '215120587'
@@ -164,7 +174,7 @@ committees:
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose
-  total_expense: 993138.2
+  total_expense: 1053138.2
 - cmte_name: YES ON A, SAN FRANCISCANS FOR FIRE, EARTHQUAKE, AND DISASTER PREPAREDNESS,
     SPONSORED BY SAN FRANCISCO FIREFIGHTERS LOCAL 798
   cmte_fppcid: '1486676'
@@ -201,7 +211,7 @@ committees:
   cmte_fppcid: '1488901'
   cmte_nid: '216603754'
   committee_type: Candidate Controlled
-  total_expense: 4923.31
+  total_expense: 6423.31
 - cmte_name: Working Families for Stephen Sherrill for Supervisor 2026, Sponsored
     by International Union of Operating Engineers Local 3
   cmte_fppcid: '1488209'
@@ -228,7 +238,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 5000.0
+  total_expense: 44000.0
 - cmte_name: Webcor Builders
   cmte_fppcid: '499740'
   cmte_nid: '6672661'
@@ -243,7 +253,12 @@ committees:
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
   committee_type: General Purpose
-  total_expense: 26954.0
+  total_expense: 100232.2
+- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+  cmte_fppcid: '991828'
+  cmte_nid: '6673394'
+  committee_type: General Purpose
+  total_expense: 500.0
 - cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
     Political Action Committee
   cmte_fppcid: '991525'
@@ -255,7 +270,17 @@ committees:
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
   committee_type: General Purpose
-  total_expense: 60000.0
+  total_expense: 80000.0
+- cmte_name: SAN FRANCISCO LABOR COUNCIL LABOR & NEIGHBOR
+  cmte_fppcid: '941562'
+  cmte_nid: '6673767'
+  committee_type: General Purpose
+  total_expense: 500.0
+- cmte_name: United Educators of San Francisco Committee on Political Education
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
+  committee_type: General Purpose
+  total_expense: 16000.0
 - cmte_name: San Francisco Women's Political Committee
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'
@@ -265,7 +290,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 111403.94
+  total_expense: 112903.94
 
 ---
 

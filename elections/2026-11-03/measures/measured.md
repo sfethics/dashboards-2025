@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD6: Changes to Ballot Measure Process'
+title: 'D: Changes to Ballot Measure Process'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD6: Changes to Ballot Measure Process'
-  - elections/2026-11-03/measures/measuretbd6
+- - 'D: Changes to Ballot Measure Process'
+  - elections/2026-11-03/measures/measured
 committees: []
 multi_committees:
 - position: SUPPORT

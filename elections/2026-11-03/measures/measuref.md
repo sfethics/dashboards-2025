@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: "TBD2: Extending the City Administrator\u2019s Duties and Changes to City Contracting"
+title: 'F: Changes to Executive Branch Management'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - "TBD2: Extending the City Administrator\u2019s Duties and Changes to City Contracting"
-  - elections/2026-11-03/measures/measuretbd2
+- - 'F: Changes to Executive Branch Management'
+  - elections/2026-11-03/measures/measuref
 committees: []
 multi_committees:
 - position: SUPPORT

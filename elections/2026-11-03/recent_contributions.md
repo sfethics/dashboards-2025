@@ -1,6 +1,5 @@
 ---
 layout: recent_contributions
-permalink: /recent-contributions/
 election: '2026-06-02'
 breadcrumbs:
 - - Recent Contributions

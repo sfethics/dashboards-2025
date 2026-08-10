@@ -436,9 +436,6 @@ committees:
 - cmte_name: Rob Bonta for Ca Attorney General 2026
   cmte_fppcid: '1456428'
   cmte_nid: unknown
-- cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
-  cmte_fppcid: '1432377'
-  cmte_nid: unknown
 - cmte_name: San Francisco Tenants Union Smo
   cmte_fppcid: '1453022'
   cmte_nid: unknown
@@ -454,6 +451,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
+  cmte_nid: unknown
+- cmte_name: SF League of Pissed Off Voters
+  cmte_fppcid: '1432377'
   cmte_nid: unknown
 - cmte_name: Sprinkler Fitters & Apprentices Local 483 Local Political Action Comm.
   cmte_fppcid: '1298012'

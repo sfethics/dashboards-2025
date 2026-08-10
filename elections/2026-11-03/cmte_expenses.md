@@ -12,11 +12,16 @@ committees:
   cmte_nid: '157471084'
   committee_type: General Purpose
   total_expense: 480.0
+- cmte_name: HOTEL COUNCIL OF SAN FRANCISCO PAC
+  cmte_fppcid: '1381090'
+  cmte_nid: '157756164'
+  committee_type: General Purpose
+  total_expense: 10000.0
 - cmte_name: SAN FRANCISCO PARENT PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 15310.99
+  total_expense: 15901.91
 - cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
@@ -27,6 +32,11 @@ committees:
   cmte_nid: '212794940'
   committee_type: Candidate Controlled
   total_expense: 6179.65
+- cmte_name: UBER INNOVATION BALLOT MEASURE COMMITTEE
+  cmte_fppcid: '1466153'
+  cmte_nid: '212872598'
+  committee_type: General Purpose
+  total_expense: 100000.0
 - cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
   cmte_fppcid: '1479782'
@@ -157,12 +167,12 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 60000.0
+  total_expense: 10000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 6812.66
+  total_expense: 9974.6
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

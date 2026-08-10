@@ -47,7 +47,7 @@ multi_committees:
   committee_name: YES ON C, NO ON D TO PROTECT SAN FRANCISCO'S SMALL BUSINESSES AND
     ECONOMIC RECOVERY, SPONSORED BY SAN FRANCISCO CIVIC ORGANIZATIONS
   funds: 6600009.05
-  expenses: 5999222.71
+  expenses: 6011722.71
 contributors:
 - - Saikat Chakrabarti
   - 600000.0

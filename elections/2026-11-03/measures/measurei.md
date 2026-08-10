@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD: Changes to Real Property Transfer Tax'
+title: 'I: Changes to Real Property Transfer Tax'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD: Changes to Real Property Transfer Tax'
-  - elections/2026-11-03/measures/measuretbd
+- - 'I: Changes to Real Property Transfer Tax'
+  - elections/2026-11-03/measures/measurei
 committees:
 - position: SUPPORT
   filer_nid: '216747316'

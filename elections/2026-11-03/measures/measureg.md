@@ -2,12 +2,12 @@
 layout: contest_bmc
 election: '2026-11-03'
 candidate: false
-title: 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park'
+title: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park'
 breadcrumbs:
 - - Nov 03, 2026
   - elections/2026-11-03
-- - 'TBD4: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park'
-  - elections/2026-11-03/measures/measuretbd4
+- - 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park'
+  - elections/2026-11-03/measures/measureg
 committees:
 - position: OPPOSE
   filer_nid: '211776936'
