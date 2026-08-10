@@ -74,14 +74,14 @@ electionnav: true
         <div class="col-lg-6 h-100">
             {%- if page.contributors_cand -%}
             <div>
-{% include contributors-table.html
-title='Top Contributors Across Candidate Contests'
-subtitle='Contributions made to Candidate Committees & Primarily Formed Committees'
-contributors=page.contributors_cand
-election=page.election
-link="cand"
-table_class="dtify_contributors"
-%}
+            {% include contributors-table.html
+            title='Top Contributors Across Candidate Contests'
+            subtitle='Contributions made to Candidate Committees & Primarily Formed Committees'
+            contributors=page.contributors_cand
+            election=page.election
+            link="cand"
+            table_class="dtify_contributors"
+            %}
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
@@ -114,9 +114,11 @@ table_class="dtify_contributors"
                         </tbody>
                     </table>   
                     <div class="d-flex column-gap-1">                
-                        <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{page.election}}/cmte_expenses">
+                            View committee expenses for this election
+                        </a>
                         {% if site.current_elections contains page.election %}
-                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-ies">
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{page.election}}/recent_ies">
                             View recent independent expenditures
                         </a>
                         {% endif %}
@@ -232,14 +234,14 @@ table_class="dtify_contributors"
         <div class="col-lg-6 h-100">
             {%- if page.contributors_bm -%}
             <div>
-{% include contributors-table.html
-title='Top Contributors Across Ballot Measures'
-subtitle='Contributions made to Primarily Formed Ballot Measure Committees'
-contributors=page.contributors_bm
-election=page.election
-link="bm"
-table_class="dtify_contributors"
-%}
+            {% include contributors-table.html
+            title='Top Contributors Across Ballot Measures'
+            subtitle='Contributions made to Primarily Formed Ballot Measure Committees'
+            contributors=page.contributors_bm
+            election=page.election
+            link="bm"
+            table_class="dtify_contributors"
+            %}
             </div>
             {%- endif -%}            
             <div class="card border-0 box-shadow-expenditures rounded-4 h-100">
@@ -272,9 +274,11 @@ table_class="dtify_contributors"
                         </tbody>
                     </table>
                     <div class="d-flex column-gap-1">
-                        <a class="btn btn-outline-primary" href="cmte_expenses">View committee expenses for this election</a>
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{page.election}}/cmte_expenses">
+                            View committee expenses for this election
+                        </a>
                         {% if site.current_elections contains page.election %}
-                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/recent-ies">
+                        <a class="btn btn-outline-primary" href="{{site.baseurl}}/elections/{{page.election}}/recent_ies">
                             View recent independent expenditures
                         </a>
                         {% endif %}
