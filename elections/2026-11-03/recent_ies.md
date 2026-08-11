@@ -1,5 +1,6 @@
 ---
 layout: recent_ies
+permalink: /recent-ies/
 election: '2026-06-02'
 breadcrumbs:
 - - Recent Independent Expenditures
