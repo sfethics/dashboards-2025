@@ -7,6 +7,11 @@ breadcrumbs:
 - - Committee Expenses
 title: Total expenses by committees in the November 03, 2026 election
 committees:
+- cmte_name: Dean Preston
+  cmte_fppcid: '1373175'
+  cmte_nid: '124340525'
+  committee_type: Major Donor
+  total_expense: 7500.0
 - cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
