@@ -333,6 +333,9 @@ committees:
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
+- cmte_name: Dean Preston
+  cmte_fppcid: '1373175'
+  cmte_nid: '124340525'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

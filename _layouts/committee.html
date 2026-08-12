@@ -74,6 +74,14 @@ electionnav: true
       Includes committee activity disclosed between <span class="formatted-date">{{page.dates[0]}}</span>
       and <span class="formatted-date">{{page.dates[1]}}</span>
     </p>
+      {% if site.data.measure_candidate_data[page.election].redesignated_committee_ids %} 
+      {% if site.data.measure_candidate_data[page.election].redesignated_committee_ids contains page.filer_id %} 
+      <p class="mb-0 mt-1 fst-italic">
+        This committee has been redesignated as a ballot measure committee for the <span>{{page.election | date: "%B%e, %Y" }}</span> election. 
+        <br>Committee details on this page may include activity from the committee's designation in a previous election.
+      </p>
+      {% endif %}
+      {% endif %}
     
 
     <!-- Total Contributions -->

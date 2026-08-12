@@ -1,5 +1,7 @@
 '2026-11-03' :
   pubfi_disbursement_date: 'June 15, 2026'
+  redesignated_committee_ids:
+  - '1471154'
 '2026-06-02': 
   'A: Earthquake Safety and Emergency Response Bond':
     measure_official_desc: 'To improve fire, earthquake, and emergency response by retrofitting, improving, expanding, constructing, and/or replacing: deteriorating pipes, tunnels, and related facilities to ensure firefighters can 

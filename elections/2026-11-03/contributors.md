@@ -434,6 +434,20 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
+- tx_lastname: DEAN PRESTON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 18500.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487291'
+    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 17500.0
 - tx_lastname: ADITYA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -467,20 +481,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: DEAN PRESTON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 11000.0
-  transactions:
-  - cmte_fppcid: '1481892'
-    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487291'
-    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 10000.0
 - tx_lastname: STEPHEN DODSON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -730,6 +730,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
+    tx_amount: 5000.0
+- tx_lastname: LISA ARJES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
     tx_amount: 5000.0
 - tx_lastname: NEIGHBORS AND COMMUNITIES UNITED
   tx_entitycode: Other
@@ -2150,6 +2158,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
+- tx_lastname: ANDREW CASTEEL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: ANDREW MCDANIEL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3168,6 +3184,14 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: PATRICK SKAIN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: PAUL MELBOSTAD
   tx_entitycode: Individual
   tx_cmteid: ''

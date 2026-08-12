@@ -13,14 +13,14 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 815873.0
+  funds: 816873.0
   expenses: 735412.62
   ies: ''
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: GREAT HIGHWAY FOR EVERYONE
-  funds: 31596.0
+  funds: 37596.0
   expenses: 26586.2
   ies: ''
 multi_committees: []
