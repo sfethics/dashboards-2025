@@ -91,15 +91,15 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 8640595.78
+  funds: 8790595.78
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
   - 1000000.0
 - - Christian Larsen
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
