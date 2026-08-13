@@ -174,6 +174,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 200000.0
+- tx_lastname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1241892'
+  tx_amount: 150000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 150000.0
 - tx_lastname: JOHN FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
