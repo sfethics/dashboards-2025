@@ -151,6 +151,9 @@ committees:
 - cmte_name: No on a, Stop the Engardio Recall
   cmte_fppcid: '1477355'
   cmte_nid: '212872841'
+- cmte_name: No on G, Save Sunset Dunes Sponsored by Friends of Sunset Dunes
+  cmte_fppcid: '1471154'
+  cmte_nid: '211776936'
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
@@ -160,9 +163,9 @@ committees:
 - cmte_name: San Francisco Parent PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
-- cmte_name: Save Sunset Dunes Sponsored by Friends of Sunset Dunes
-  cmte_fppcid: '1471154'
-  cmte_nid: '211776936'
+- cmte_name: Workers Against Foreclosures
+  cmte_fppcid: '1493873'
+  cmte_nid: '217091337'
 - cmte_name: Yes on L, Fund the Bus
   cmte_fppcid: '1468797'
   cmte_nid: '211486142'

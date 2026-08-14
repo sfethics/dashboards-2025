@@ -125,7 +125,7 @@ contributors:
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 25000.0
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 350000.0
 - tx_lastname: MATTHEW PAIGE
   tx_entitycode: Individual
@@ -317,7 +317,7 @@ contributors:
   tx_amount: 75000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 75000.0
 - tx_lastname: MARCO HELLMAN
   tx_entitycode: Individual
@@ -325,7 +325,7 @@ contributors:
   tx_amount: 60000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
@@ -345,7 +345,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 50000.0
 - tx_lastname: DAVID SINGER
   tx_entitycode: Individual
@@ -364,6 +364,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 50000.0
+- tx_lastname: SAIKAT CHAKRABARTI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1493873'
+    cmte_name: WORKERS AGAINST FORECLOSURES
+    tx_amount: 50000.0
 - tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
   tx_entitycode: Other
   tx_cmteid: ''
@@ -379,7 +387,7 @@ contributors:
   tx_amount: 49900.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 49900.0
 - tx_lastname: WOJCIECH ZAREMBA
   tx_entitycode: Individual
@@ -387,7 +395,7 @@ contributors:
   tx_amount: 35000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 35000.0
 - tx_lastname: CHARLES GOOD
   tx_entitycode: Individual
@@ -403,7 +411,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 25000.0
 - tx_lastname: HANSON BRIDGETT LLP
   tx_entitycode: Other
@@ -429,7 +437,7 @@ contributors:
   tx_amount: 20500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 20000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -440,7 +448,7 @@ contributors:
   tx_amount: 18750.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
 - tx_lastname: DEAN PRESTON
   tx_entitycode: Individual
@@ -470,7 +478,7 @@ contributors:
   tx_amount: 15000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 15000.0
 - tx_lastname: NICHOLAS JOSEFOWITZ
   tx_entitycode: Individual
@@ -478,7 +486,7 @@ contributors:
   tx_amount: 11500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -495,7 +503,7 @@ contributors:
   tx_amount: 10950.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 9950.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -521,7 +529,7 @@ contributors:
   tx_amount: 10250.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10250.0
 - tx_lastname: SCOTT FEENEY
   tx_entitycode: Individual
@@ -548,7 +556,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
 - tx_lastname: DAVID STIEPLEMAN
   tx_entitycode: Individual
@@ -556,7 +564,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
 - tx_lastname: DEMOCRATIC SOCIALISTS OF AMERICA, SAN FRANCISCO CHAPTER
   tx_entitycode: Other
@@ -588,7 +596,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
@@ -604,7 +612,7 @@ contributors:
   tx_amount: 7300.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 7000.0
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -639,7 +647,7 @@ contributors:
   tx_amount: 6000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -690,7 +698,7 @@ contributors:
   tx_amount: 5500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -701,7 +709,7 @@ contributors:
   tx_amount: 5346.4
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 100.0
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
@@ -712,7 +720,7 @@ contributors:
   tx_amount: 5100.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5100.0
 - tx_lastname: BLUE JAY TRANSIT, INC.
   tx_entitycode: Other
@@ -729,7 +737,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5000.0
 - tx_lastname: JEFFERSON LEE
   tx_entitycode: Individual
@@ -838,7 +846,7 @@ contributors:
   tx_amount: 4250.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2500.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -858,7 +866,7 @@ contributors:
   tx_amount: 4057.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 4057.0
 - tx_lastname: KAITLYN KRIEGER
   tx_entitycode: Individual
@@ -866,7 +874,7 @@ contributors:
   tx_amount: 3500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -883,7 +891,7 @@ contributors:
   tx_amount: 3500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 3000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -902,7 +910,7 @@ contributors:
   tx_amount: 3000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2500.0
   - cmte_fppcid: '1482285'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
@@ -929,7 +937,7 @@ contributors:
   tx_amount: 2500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2500.0
 - tx_lastname: BETTE WADSWORTH
   tx_entitycode: Individual
@@ -937,7 +945,7 @@ contributors:
   tx_amount: 2100.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2100.0
 - tx_lastname: ANDRES SALERNO
   tx_entitycode: Individual
@@ -1054,7 +1062,7 @@ contributors:
   tx_amount: 2000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
 - tx_lastname: JEFFREY PANZER
   tx_entitycode: Individual
@@ -1186,7 +1194,7 @@ contributors:
   tx_amount: 2000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
 - tx_lastname: AMY MORRIS
   tx_entitycode: Individual
@@ -1194,7 +1202,7 @@ contributors:
   tx_amount: 1750.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1750.0
 - tx_lastname: MUHAMMAD MAHMOOD
   tx_entitycode: Individual
@@ -1250,7 +1258,7 @@ contributors:
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
@@ -1406,7 +1414,7 @@ contributors:
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1500.0
 - tx_lastname: JOCELYN BLUMENROSE
   tx_entitycode: Individual
@@ -1484,7 +1492,7 @@ contributors:
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1500.0
 - tx_lastname: LEE HOUSKEEPER
   tx_entitycode: Individual
@@ -1632,7 +1640,7 @@ contributors:
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -1713,7 +1721,7 @@ contributors:
   tx_amount: 1350.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -1861,7 +1869,7 @@ contributors:
   tx_amount: 1250.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 250.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -2063,7 +2071,7 @@ contributors:
   tx_amount: 1100.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -2093,7 +2101,7 @@ contributors:
   tx_amount: 1005.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1005.0
 - tx_lastname: AARON TARTAKOVSKY
   tx_entitycode: Individual
@@ -2164,7 +2172,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: ANDREW CASTEEL
   tx_entitycode: Individual
@@ -2172,7 +2180,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: ANDREW MCDANIEL
   tx_entitycode: Individual
@@ -2180,7 +2188,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: ANNA MORFIT
   tx_entitycode: Individual
@@ -2295,7 +2303,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: CAITLIN O'NEILL
   tx_entitycode: Individual
@@ -2358,7 +2366,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: CINDY MCCULLAGH
   tx_entitycode: Individual
@@ -2517,7 +2525,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: ERIN PETTIGREW
   tx_entitycode: Individual
@@ -2640,7 +2648,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: JAMES MESSINA
   tx_entitycode: Individual
@@ -2761,7 +2769,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: JUSTIN MCBAINE
   tx_entitycode: Individual
@@ -2788,7 +2796,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: KARI ROCCA
   tx_entitycode: Individual
@@ -2851,7 +2859,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: KENNETH JONES
   tx_entitycode: Individual
@@ -2878,7 +2886,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: KIMIKO BURTON
   tx_entitycode: Individual
@@ -2897,7 +2905,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: KYLE HILL
   tx_entitycode: Individual
@@ -2957,7 +2965,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: LORETTA LYNCH
   tx_entitycode: Individual
@@ -3039,7 +3047,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: MATT HANEY FOR ASSEMBLY 2026
   tx_entitycode: Committee
@@ -3228,7 +3236,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: PETER WENDELL
   tx_entitycode: Individual
@@ -3384,7 +3392,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: SETH SPALDING
   tx_entitycode: Individual
@@ -3425,7 +3433,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1471154'
-    cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: STEVE GRAU
   tx_entitycode: Individual

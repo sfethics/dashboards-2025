@@ -27,7 +27,7 @@ committees:
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 15901.91
-- cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
   committee_type: Primarily Formed Measure
@@ -162,7 +162,7 @@ committees:
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
   committee_type: Candidate Controlled
-  total_expense: 399.0
+  total_expense: 788.26
 - cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'

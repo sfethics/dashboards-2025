@@ -26,7 +26,7 @@ candidate_pf:
   contest_name: Board of Education
   contest_link: usd
   funds: 35885.55
-  expenses: 18376.39
+  expenses: 18765.65
   ies: 0.0
 - committee_type: candidate
   contest_nid: '214443849'
@@ -87,6 +87,11 @@ measures:
   contest_link: measureg
   expenses: 761998.82
   funds: 854469.0
+- contest_nid: '217168072'
+  contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
+  contest_link: measurej
+  expenses: 0.0
+  funds: 50000.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
@@ -95,11 +100,11 @@ measures:
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
-- - Lyna Lam
+- - John Pritzker
   - 1000000.0
 - - Christian Larsen
   - 1000000.0
-- - John Pritzker
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -147,7 +152,7 @@ top_bm_spends:
   total_expense: 1077112.6
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
-  cmte_name: SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   total_expense: 735412.62
 - cmte_nid: '216747316'
   cmte_fppcid: '1490845'
