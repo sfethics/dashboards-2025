@@ -38,7 +38,7 @@ candidates:
   committee_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
   candidate_name: RYAN HAZELTON
   funds: 11519.0
-  expenses: 399.0
+  expenses: 788.26
 - filer_nid: '216837806'
   filer_id: '1491849'
   committee_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
