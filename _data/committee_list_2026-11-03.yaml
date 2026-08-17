@@ -157,15 +157,16 @@ committees:
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
-- cmte_name: San Franciscans for Affordable Homes, Sponsored by the Nph Action Fund
-  cmte_fppcid: '1492671'
-  cmte_nid: '216956820'
 - cmte_name: San Francisco Parent PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
 - cmte_name: Workers Against Foreclosures
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
+- cmte_name: Yes on C - San Franciscans for Affordable Homes, Sponsored by the Nph
+    Action Fund
+  cmte_fppcid: '1492671'
+  cmte_nid: '216956820'
 - cmte_name: Yes on L, Fund the Bus
   cmte_fppcid: '1468797'
   cmte_nid: '211486142'
@@ -188,6 +189,9 @@ committees:
 - cmte_name: North Coast States Regional Council of Carpenters Issues PAC
   cmte_fppcid: '1219354'
   cmte_nid: '167821491'
+- cmte_name: Nph Action Fund Political Issues Committee
+  cmte_fppcid: '1387772'
+  cmte_nid: '160921235'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

@@ -80,13 +80,23 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 255340.53
-  funds: 288168.27
+  funds: 289168.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 761998.82
   funds: 854469.0
+- contest_nid: '216965957'
+  contest_name: 'C: Contributions to the Housing Fund'
+  contest_link: measurec
+  expenses: 0.0
+  funds: 400000.0
+- contest_nid: '217045518'
+  contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  contest_link: measureb
+  expenses: 0.0
+  funds: 2500.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -100,11 +110,11 @@ measures:
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
-- - John Pritzker
+- - Lyna Lam
   - 1000000.0
 - - Christian Larsen
   - 1000000.0
-- - Lyna Lam
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
