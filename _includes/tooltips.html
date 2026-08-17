@@ -531,8 +531,8 @@
             <p>A candidate-controlled committee is a campaign committee that is controlled directly or indirectly by a
                 candidate for local office.</p>
             {% if page.layout == 'contest_candidate' %}
-            <p>The table sums up the total funds and expenses by each candidate-controlled committee in this candidate
-                contest.</p>
+            <p>This table sums up the total funds and expenses by each candidate-controlled committee in this candidate
+                contest. This table does not include candidates that have not reported any funds or expenses.</p>
             {% elsif page.layout == 'election' %}
             <p>The table sums up the total funds and expenses by candidate-controlled committees for each candidate
                 contest in this election.</p>
@@ -576,10 +576,10 @@
                 decisions with any candidate or candidate controlled committee. Third-party committees are not subject
                 to contribution limits.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Funds are aggregated by summing the itemized and unitemized contributions reported
-                on Form 460 schedules A and C and contributions received on Form 497 and Form 496P3. 
-                Only funds from primarily formed committees are included. Expenses are aggregated by summing the
-                itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
+            <p>Total Funds are calculated by summing the itemized and unitemized contributions reported
+                on Form 460 schedules A and C, late contributions reported on Form 497 and Form 496P3, and public funds received by candidates. 
+                Only funds from candidate committees and primarily formed committees are included. Total Expenses are calculated by summing the
+                itemized and unitemized expenditures reported on Form 460 schedule E, and
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
             {% include tooltips-guidance.html %}
         </div>
@@ -602,10 +602,10 @@
 
             <h3 class="fs-5">How This Data is Calculated</h3>
             <p>The totals shown represent the combined funds raised and spent by committees
-                seeking to influence a ballot measure. Funds are aggregated by summing the itemized and unitemized
-                contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form
-                496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the
-                itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
+                seeking to influence a ballot measure. Total Funds are calculated by summing the itemized and unitemized
+                contributions reported on Form 460 schedules A and C and late contributions reported on Form 497 and Form
+                496P3. Only funds from primarily formed committees are included. Total Expenses are calculated by summing the
+                itemized and unitemized expenditures reported on Form 460 schedule E, and
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
             {% include tooltips-guidance.html %}
         </div>
@@ -630,10 +630,10 @@
 
             <h3 class="fs-5">How This Data is Calculated</h3>
             <p class="text-secondary">The totals shown represent the combined funds raised and spent by a committee
-                seeking to influence the ballot measure. Funds are aggregated by summing the itemized and unitemized
+                seeking to influence the ballot measure. Total Funds are calculated by summing the itemized and unitemized
                 contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form
-                496P3. Only funds from primarily formed committees are included. Expenses are aggregated by summing the
-                itemized and unitemized expenditures reported on Form 460 schedule E. Expenses also include any
+                496P3. Only funds from primarily formed committees are included. Total Expenses are calculated by summing the
+                itemized and unitemized expenditures reported on Form 460 schedule E, and
                 independent expenditures reported on Form 496. Figures are rounded to the nearest thousand.</p>
             {% include tooltips-guidance.html %}
         </div>
@@ -654,9 +654,9 @@
 
             <h3 class="fs-5">How This Data is Calculated</h3>
             <p class="text-secondary">The totals shown represent the combined funds raised and spent by all multi-ballot
-                measure committees in the current election. Funds are aggregated by summing the itemized and unitemized
+                measure committees in the current election. Total Funds are calculated by summing the itemized and unitemized
                 contributions reported on Form 460 schedules A and C and contributions received on Form 497 and Form
-                496P3. Expenses are aggregated by summing the itemized and unitemized expenditures reported on Form 460
+                496P3. Total Expenses are calculated by summing the itemized and unitemized expenditures reported on Form 460
                 schedule E. Figures are rounded to the nearest thousand.</p>
             {% include tooltips-guidance.html %}
         </div>
@@ -718,9 +718,9 @@
                 not candidate-controlled committees. These committees raise funds and make expenditures independently of
                 any candidate's campaign.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules
+            <p>Total Funds are calculated by summing the itemized and unitemized contributions reported on Form 460 schedules
                 A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed
-                committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
+                committees are included. Total Expenses are calculated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
             {% include tooltips-guidance.html %}
@@ -739,9 +739,9 @@
                 candidate-controlled committees. These committees raise funds and make expenditures independently of any
                 candidate's campaign.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules
+            <p>Total Funds are calculated by summing the itemized and unitemized contributions reported on Form 460 schedules
                 A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed
-                committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
+                committees are included. Total Expenses are calculated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
             {% include tooltips-guidance.html %}
@@ -763,9 +763,9 @@
                 decisions with any candidate or candidate controlled committee. Third-party committees are not subject
                 to contribution limits.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules
+            <p>Total Funds are calculated by summing the itemized and unitemized contributions reported on Form 460 schedules
                 A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed
-                committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
+                committees are included. Total Expenses are calculated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
             {% include tooltips-guidance.html %}
@@ -783,7 +783,7 @@
         <div class="text-secondary">
             <p>This table shows spendings made independently of any campaign to support or oppose a ballot measure.
             </p>
-            <p>Expenditures data comes from Form 496, with total expenditures aggregated by ballot measure and
+            <p>Expenditures data comes from Form 496, with total expenditures grouped by ballot measure and
                 position reported on the form.</p>
             <p>Form 496 disclosures are filed within the 90-day "late reporting" period preceding an election and are due within 24 hours of expenditures 
                 totaling $1,000 or more to support or oppose a single candidate or ballot measure.</p>
@@ -804,7 +804,7 @@
         <div class="text-secondary">
             <param>This table shows spendings made independently of any campaign to support or oppose a candidate for
                 office.</p>
-            <p>Expenditures data comes from Form 496, with total expenditures aggregated by name of candidate
+            <p>Expenditures data comes from Form 496, with total expenditures grouped by name of candidate
                 and position reported on the form.</p>
             <p>Form 496 disclosures are filed within the 90-day "late reporting" period preceding an election and are due within 24 hours of expenditures 
                 totaling $1,000 or more to support or oppose a single candidate or ballot measure.</p>
@@ -869,9 +869,9 @@
                 decisions with any candidate or candidate controlled committee. Third-party committees are not subject
                 to contribution limits.</p>
             <h3 class="fs-5">How This Data is Calculated</h3>
-            <p>Funds are aggregated by summing the itemized and unitemized contributions reported on Form 460 schedules
+            <p>Funds are calculated by summing the itemized and unitemized contributions reported on Form 460 schedules
                 A and C and contributions received on Form 497 and Form 496P3. Only funds from primarily formed
-                committees are included. Expenses are aggregated by summing the expenditures reported on Form 460
+                committees are included. Expenses are calculated by summing the expenditures reported on Form 460
                 schedule D, and late period independent expenditures reported on Form 496. Figures are rounded to the
                 nearest thousand.</p>
             {% include tooltips-guidance.html %}                
