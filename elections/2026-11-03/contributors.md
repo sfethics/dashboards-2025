@@ -116,6 +116,15 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 500000.0
+- tx_lastname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1387772'
+  tx_amount: 400000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 400000.0
 - tx_lastname: JEREMY STOPPELMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -598,6 +607,35 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
+- tx_lastname: CHRISTIN EVANS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 8000.0
+  transactions:
+  - cmte_fppcid: '1482707'
+    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484332'
+    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 2500.0
+  - cmte_fppcid: '1488530'
+    cmte_name: OUR CITY OUR BANK
+    tx_amount: 2500.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -655,32 +693,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: CHRISTIN EVANS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5500.0
-  transactions:
-  - cmte_fppcid: '1482707'
-    cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490199'
-    cmte_name: GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484332'
-    cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1490256'
-    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
-    tx_amount: 2500.0
 - tx_lastname: JASON PRADO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2820,6 +2832,14 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: KAT SIEGAL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: KATHLEEN MCINTOSH
   tx_entitycode: Individual
   tx_cmteid: ''
