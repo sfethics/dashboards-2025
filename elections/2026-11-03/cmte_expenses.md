@@ -27,6 +27,11 @@ committees:
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 15901.91
+- cmte_name: Saikat Chakrabarti
+  cmte_fppcid: '1478129'
+  cmte_nid: '209507341'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
