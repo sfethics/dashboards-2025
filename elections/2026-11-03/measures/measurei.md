@@ -13,7 +13,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING
-  funds: 289168.27
+  funds: 291168.27
   expenses: 255340.53
   ies: ''
 multi_committees: []

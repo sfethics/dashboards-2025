@@ -13,13 +13,15 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: OUR CITY OUR BANK
-  funds: 2500.0
+  funds: 3500.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Christin Evans
   - 2500.0
+- - National Union of Healthcare Workers
+  - 1000.0
 
 ---
 

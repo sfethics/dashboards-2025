@@ -224,6 +224,20 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: JARED FRIEDMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100750.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 250.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 100000.0
 - tx_lastname: ANOTHER PLANET ENTERTAINMENT LLC(GREGG PERLOFF)
   tx_entitycode: Other
   tx_cmteid: ''
@@ -916,6 +930,14 @@ contributors:
   - cmte_fppcid: '1487105'
     cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
     tx_amount: 3359.8
+- tx_lastname: AMY MORRIS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3250.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 3250.0
 - tx_lastname: SARA BARZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1208,14 +1230,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
-- tx_lastname: AMY MORRIS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1750.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 1750.0
 - tx_lastname: MUHAMMAD MAHMOOD
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2391,6 +2405,14 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: CYRUS HILL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: DAN NEWMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2616,6 +2638,14 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: GRANT STAVELY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 1000.0
 - tx_lastname: GREGORY CONDES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3187,6 +3217,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: NATIONAL UNION OF HEALTHCARE WORKERS
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: OUR CITY OUR BANK
+    tx_amount: 1000.0
 - tx_lastname: NICHOLAS COLINA
   tx_entitycode: Individual
   tx_cmteid: ''
