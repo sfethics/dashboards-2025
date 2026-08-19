@@ -176,6 +176,9 @@ committees:
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
   cmte_fppcid: '931558'
   cmte_nid: '6667750'
+- cmte_name: Growsf Voter Guide
+  cmte_fppcid: '1433436'
+  cmte_nid: '201619433'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
