@@ -13,57 +13,62 @@ candidate_pf:
   contest_link: pdr
   funds: 20011.0
   expenses: 3582.29
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 206203.0
   expenses: 65365.55
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
   funds: 35885.55
   expenses: 18765.65
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 691923.0
   expenses: 180904.29
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 1189558.43
   expenses: 367863.2
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
   funds: 84569.0
   expenses: 32774.83
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '215593808'
   contest_name: Assessor-Recorder
   contest_link: asr
   funds: 51200.0
   expenses: 5802.01
-  ies: 0.0
+  ies: ''
 - committee_type: candidate
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 41770.1
   expenses: 13832.24
-  ies: 0.0
-candidate_ie: []
+  ies: ''
+candidate_ie:
+- contest_nid: '212794907'
+  contest_name: Board of Education
+  contest_link: usd
+  funds: 0.0
+  expenses: 39400.0
 measures:
 - contest_nid: '215815438'
   contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
@@ -86,7 +91,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 855969.0
+  funds: 880969.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -134,6 +139,10 @@ top_cand_spends:
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 220359.53
+- cmte_nid: '6685673'
+  cmte_fppcid: '1311218'
+  cmte_name: United Educators of San Francisco Candidate PAC
+  total_expense: 151803.94
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -146,10 +155,6 @@ top_cand_spends:
   cmte_fppcid: '1481892'
   cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   total_expense: 61432.61
-- cmte_nid: '214620516'
-  cmte_fppcid: '1482285'
-  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-  total_expense: 60780.55
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
