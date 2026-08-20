@@ -30,7 +30,7 @@ candidates:
 - filer_nid: '216584147'
   filer_id: '1490256'
   committee_name: REINA TELLO FOR SCHOOL BOARD 2026
-  candidate_name: REINA LOLI-TRELLO
+  candidate_name: REINA LOLI-TELLO
   funds: 5937.55
   expenses: 2599.21
 - filer_nid: '216824591'
@@ -46,6 +46,14 @@ candidates:
   funds: 8526.0
   expenses: 327.45
 ie_candidates:
+- candidate_name: REINA LOLI-TELLO
+  filer_id: '1490256'
+  committees:
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 12933.33
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:

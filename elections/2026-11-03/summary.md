@@ -68,7 +68,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 13233.33
+  expenses: 39400.0
 measures:
 - contest_nid: '215815438'
   contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
@@ -139,6 +139,10 @@ top_cand_spends:
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 220359.53
+- cmte_nid: '6685673'
+  cmte_fppcid: '1311218'
+  cmte_name: United Educators of San Francisco Candidate PAC
+  total_expense: 151803.94
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -151,10 +155,6 @@ top_cand_spends:
   cmte_fppcid: '1481892'
   cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   total_expense: 61432.61
-- cmte_nid: '214620516'
-  cmte_fppcid: '1482285'
-  cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-  total_expense: 60780.55
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

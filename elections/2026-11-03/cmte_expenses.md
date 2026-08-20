@@ -187,17 +187,17 @@ committees:
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
   committee_type: General Purpose
-  total_expense: 9500.0
+  total_expense: 10000.0
 - cmte_name: SAN FRANCISCO DEPUTY SHERIFFS' ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
   committee_type: General Purpose
-  total_expense: 500.0
+  total_expense: 1000.0
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 13983.33
+  total_expense: 151803.94
 
 ---
 
