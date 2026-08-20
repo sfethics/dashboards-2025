@@ -45,7 +45,15 @@ candidates:
   candidate_name: AUTUMN GARIBAY
   funds: 8526.0
   expenses: 327.45
-ie_candidates: []
+ie_candidates:
+- candidate_name: RYAN HAZELTON
+  filer_id: '1491734'
+  committees:
+  - position: SUPPORT
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 13233.33
 contributors:
 - - Matthew Alexander
   - 500.0

@@ -173,7 +173,7 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
-- cmte_name: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+- cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
@@ -193,6 +193,11 @@ committees:
   cmte_nid: '6673394'
   committee_type: General Purpose
   total_expense: 500.0
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  cmte_nid: '6685673'
+  committee_type: General Purpose
+  total_expense: 13983.33
 
 ---
 
