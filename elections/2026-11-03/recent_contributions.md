@@ -11,6 +11,18 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1471154'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: CHRISTIAN LARSEN
+  tx_amount: 487500.0
+  tx_date: '2026-08-19'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- fullname: BRANDEE MARCKMANN
+  tx_amount: 1000.0
+  tx_date: '2026-08-19'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_name: OUR CITY OUR BANK
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS
   tx_amount: 1000.0
   tx_date: '2026-08-17'
