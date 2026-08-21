@@ -16,6 +16,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 2005595.78
+- tx_lastname: CHRISTIAN LARSEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1487500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1487500.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -24,14 +32,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 1000000.0
-- tx_lastname: CHRISTIAN LARSEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000000.0
-  transactions:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 1000000.0
@@ -989,6 +989,20 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING
     tx_amount: 2000.0
+- tx_lastname: BRANDEE MARCKMANN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1488530'
+    cmte_name: OUR CITY OUR BANK
+    tx_amount: 1000.0
 - tx_lastname: CARRIE BARNES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2300,17 +2314,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: BRANDEE MARCKMANN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1481892'
-    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: BRIAN COOPER
   tx_entitycode: Individual

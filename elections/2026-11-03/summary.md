@@ -101,7 +101,7 @@ measures:
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 0.0
-  funds: 3500.0
+  funds: 4500.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -111,15 +111,15 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 8890595.78
+  funds: 9378095.78
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
-- - John Pritzker
-  - 1000000.0
 - - Christian Larsen
-  - 1000000.0
+  - 1487500.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
