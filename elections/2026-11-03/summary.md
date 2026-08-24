@@ -69,6 +69,11 @@ candidate_ie:
   contest_link: usd
   funds: 0.0
   expenses: 39400.0
+- contest_nid: '214772786'
+  contest_name: Board of Supervisors D08
+  contest_link: bos08
+  funds: 0.0
+  expenses: 1782.42
 measures:
 - contest_nid: '215815438'
   contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
@@ -111,15 +116,15 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 9378095.78
+  funds: 9380595.78
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0

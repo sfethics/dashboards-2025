@@ -37,6 +37,11 @@ committees:
   cmte_nid: '211776936'
   committee_type: Primarily Formed Measure
   total_expense: 735412.62
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  cmte_nid: '211792942'
+  committee_type: General Purpose
+  total_expense: 1782.42
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -176,7 +181,7 @@ committees:
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
-  committee_type: General Purpose
+  committee_type: ''
   total_expense: 10000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
