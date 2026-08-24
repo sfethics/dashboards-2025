@@ -5,6 +5,13 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 1782.42
+  tx_date: '2026-08-21'
+  attachment_url: ''
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'

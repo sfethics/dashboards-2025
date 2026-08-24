@@ -5,24 +5,31 @@ breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions
 late_contributions:
-- fullname: JEREMY STOPPELMAN
-  tx_amount: 25000.0
+- fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
+    21 TJ ANTHONY PAC FUND
+  tx_amount: 15000.0
   tx_date: '2026-08-19'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: CHRISTIAN LARSEN
-  tx_amount: 487500.0
-  tx_date: '2026-08-19'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  contributor_fid: '881248'
+  recipient_fid: '1471862'
+  recipient_name: Building a Working SF Sponsored by Labor Organizations
 - fullname: BRANDEE MARCKMANN
   tx_amount: 1000.0
   tx_date: '2026-08-19'
   contributor_fid: ''
   recipient_fid: '1488530'
   recipient_name: OUR CITY OUR BANK
+- fullname: CHRISTIAN LARSEN
+  tx_amount: 487500.0
+  tx_date: '2026-08-19'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- fullname: JEREMY STOPPELMAN
+  tx_amount: 25000.0
+  tx_date: '2026-08-19'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS
   tx_amount: 1000.0
   tx_date: '2026-08-17'
@@ -54,6 +61,12 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1471154'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: KAT SIEGAL
+  tx_amount: 1000.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING
 - fullname: JARED FRIEDMAN
   tx_amount: 100000.0
   tx_date: '2026-08-13'
@@ -66,33 +79,21 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1488530'
   recipient_name: OUR CITY OUR BANK
-- fullname: KAT SIEGAL
-  tx_amount: 1000.0
-  tx_date: '2026-08-13'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
 - fullname: SAIKAT CHAKRABARTI
   tx_amount: 50000.0
   tx_date: '2026-08-12'
   contributor_fid: ''
   recipient_fid: '1493873'
   recipient_name: WORKERS AGAINST FORECLOSURES
-- fullname: PATRICK SKAIN
-  tx_amount: 1000.0
-  tx_date: '2026-08-11'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_name: GREAT HIGHWAY FOR EVERYONE
 - fullname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
   tx_amount: 150000.0
   tx_date: '2026-08-11'
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-- fullname: LISA ARJES
-  tx_amount: 5000.0
-  tx_date: '2026-08-10'
+- fullname: PATRICK SKAIN
+  tx_amount: 1000.0
+  tx_date: '2026-08-11'
   contributor_fid: ''
   recipient_fid: '1487005'
   recipient_name: GREAT HIGHWAY FOR EVERYONE
@@ -108,6 +109,18 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1471154'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: LESLIE HUME
+  tx_amount: 2500.0
+  tx_date: '2026-08-10'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- fullname: LISA ARJES
+  tx_amount: 5000.0
+  tx_date: '2026-08-10'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_name: GREAT HIGHWAY FOR EVERYONE
 - fullname: FRIENDS OF GREAT HIGHWAY PARK, INC. DBA FRIENDS OF SUNSET DUNES
   tx_amount: 25000.0
   tx_date: '2026-08-05'

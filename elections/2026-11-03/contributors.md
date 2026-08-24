@@ -911,6 +911,20 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: LESLIE HUME
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 2500.0
 - tx_lastname: MATTHEW BREZINA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2986,17 +3000,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: LESLIE HUME
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
