@@ -5,6 +5,13 @@ breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions
 late_contributions:
+- fullname: MATTHEW PAIGE
+  tx_amount: 25000.0
+  tx_date: '2026-08-24'
+  contributor_fid: ''
+  recipient_fid: '1492671'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
     21 TJ ANTHONY PAC FUND
   tx_amount: 15000.0
@@ -97,12 +104,12 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1487005'
   recipient_name: GREAT HIGHWAY FOR EVERYONE
-- fullname: DEAN PRESTON
-  tx_amount: 7500.0
+- fullname: LISA ARJES
+  tx_amount: 5000.0
   tx_date: '2026-08-10'
   contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_fid: '1487005'
+  recipient_name: GREAT HIGHWAY FOR EVERYONE
 - fullname: ANDREW CASTEEL
   tx_amount: 1000.0
   tx_date: '2026-08-10'
@@ -115,12 +122,12 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-- fullname: LISA ARJES
-  tx_amount: 5000.0
+- fullname: DEAN PRESTON
+  tx_amount: 7500.0
   tx_date: '2026-08-10'
   contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_name: GREAT HIGHWAY FOR EVERYONE
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING
 - fullname: FRIENDS OF GREAT HIGHWAY PARK, INC. DBA FRIENDS OF SUNSET DUNES
   tx_amount: 25000.0
   tx_date: '2026-08-05'

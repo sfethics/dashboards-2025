@@ -181,7 +181,7 @@ committees:
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
-  committee_type: ''
+  committee_type: General Purpose
   total_expense: 10000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
