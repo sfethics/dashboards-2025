@@ -101,7 +101,7 @@ measures:
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 0.0
-  funds: 400000.0
+  funds: 425000.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb

@@ -176,6 +176,9 @@ committees:
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
+- cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
+  cmte_fppcid: '931558'
+  cmte_nid: '6667750'
 - cmte_name: Growsf Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -199,6 +202,9 @@ committees:
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
+- cmte_name: San Francisco Democratic County Central Committee
+  cmte_fppcid: '742051'
+  cmte_nid: '6673375'
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
@@ -208,6 +214,9 @@ committees:
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
+- cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
+  cmte_fppcid: '891575'
+  cmte_nid: '6668151'
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
@@ -232,9 +241,6 @@ committees:
 - cmte_name: Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb,
     Inc.
   cmte_fppcid: '1437557'
-  cmte_nid: unknown
-- cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
-  cmte_fppcid: '931558'
   cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'
@@ -303,12 +309,6 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
-- cmte_name: San Francisco Democratic County Central Committee
-  cmte_fppcid: '742051'
-  cmte_nid: unknown
-- cmte_name: San Francisco Laborer's Local 261 P.a.c.
-  cmte_fppcid: '981076'
-  cmte_nid: unknown
 - cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
   cmte_fppcid: '1432377'
   cmte_nid: unknown
@@ -321,9 +321,6 @@ committees:
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
   cmte_nid: unknown
-- cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
-  cmte_fppcid: '891575'
-  cmte_nid: '6668151'
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
   cmte_nid: unknown
@@ -362,6 +359,9 @@ committees:
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
+- cmte_name: San Francisco Laborer's Local 261 P.a.c.
+  cmte_fppcid: '981076'
+  cmte_nid: '6673776'
 - cmte_name: Nick Melvoin for Congress
   cmte_fppcid: FEC_C00831289
   cmte_nid: unknown

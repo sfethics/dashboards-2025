@@ -139,7 +139,7 @@ contributors:
 - tx_lastname: MATTHEW PAIGE
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 250500.0
+  tx_amount: 275500.0
   transactions:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -147,6 +147,10 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 250000.0
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 25000.0
 - tx_lastname: MICHAEL SEIBEL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -316,15 +320,6 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 100000.0
-- tx_lastname: ADVANCED TECHNOLOGY ALLIANCE
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 75000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
-    tx_amount: 75000.0
 - tx_lastname: AUTODESK
   tx_entitycode: Other
   tx_cmteid: ''
@@ -341,6 +336,15 @@ contributors:
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 75000.0
+- tx_lastname: LYFT, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 75000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
     tx_amount: 75000.0
 - tx_lastname: MARCO HELLMAN
   tx_entitycode: Individual
