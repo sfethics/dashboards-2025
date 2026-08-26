@@ -37,6 +37,11 @@ ie_candidates:
 - candidate_name: GARY MCCOY
   filer_id: '1484080'
   committees:
+  - position: OPPOSE
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 4677.5
   - position: SUPPORT
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations

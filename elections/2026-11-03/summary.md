@@ -69,11 +69,16 @@ candidate_ie:
   contest_link: usd
   funds: 0.0
   expenses: 39400.0
+- contest_nid: '214443849'
+  contest_name: Board of Supervisors D10
+  contest_link: bos10
+  funds: 0.0
+  expenses: 6547.5
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 0.0
-  expenses: 1782.42
+  expenses: 6459.92
 measures:
 - contest_nid: '215815438'
   contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
@@ -85,11 +90,11 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 3450315.0
+  funds: 3502315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 255340.53
+  expenses: 265340.53
   funds: 291168.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes

@@ -27,7 +27,23 @@ candidates:
   candidate_name: THEO ELLINGTON
   funds: 472302.0
   expenses: 77400.01
-ie_candidates: []
+ie_candidates:
+- candidate_name: THEO ELLINGTON
+  filer_id: '1484091'
+  committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 3347.5
+- candidate_name: J.R. EPPLER
+  filer_id: '1482707'
+  committees:
+  - position: OPPOSE
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 3200.0
 contributors:
 - - Anne Cervantes
   - 1000.0
