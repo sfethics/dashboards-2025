@@ -22,6 +22,11 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 10000.0
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  cmte_nid: '201619433'
+  committee_type: General Purpose
+  total_expense: 11225.0
 - cmte_name: SAN FRANCISCO PARENT PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -178,6 +183,12 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
+- cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
+    Fair Housing
+  cmte_fppcid: unknown
+  cmte_nid: '217253424'
+  committee_type: Primarily Formed Measure
+  total_expense: 10000.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'

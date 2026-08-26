@@ -160,6 +160,10 @@ committees:
 - cmte_name: San Francisco Parent PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
+- cmte_name: San Francisco Dsa (Nonprofit 501(c)(4)), Primarily Formed to Support
+    Fair Housing
+  cmte_fppcid: unknown
+  cmte_nid: '217253424'
 - cmte_name: Workers Against Foreclosures
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'

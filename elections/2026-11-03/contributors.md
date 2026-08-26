@@ -214,6 +214,15 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 125000.0
+- tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 102000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 102000.0
 - tx_lastname: BLAKE BYERS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -398,15 +407,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1493873'
     cmte_name: WORKERS AGAINST FORECLOSURES
-    tx_amount: 50000.0
-- tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
     tx_amount: 50000.0
 - tx_lastname: BENJAMIN SPERO
   tx_entitycode: Individual
