@@ -400,6 +400,15 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 50000.0
+- tx_lastname: JPMORGAN CHASE & CO. PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1257506'
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 50000.0
 - tx_lastname: SAIKAT CHAKRABARTI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3268,6 +3277,14 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: PATRICK LEISER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: PATRICK SKAIN
   tx_entitycode: Individual
   tx_cmteid: ''

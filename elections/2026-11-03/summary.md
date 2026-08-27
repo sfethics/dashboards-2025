@@ -90,7 +90,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 3502315.0
+  funds: 3552315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -101,7 +101,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 880969.0
+  funds: 881969.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -127,9 +127,9 @@ contributors_bm:
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0

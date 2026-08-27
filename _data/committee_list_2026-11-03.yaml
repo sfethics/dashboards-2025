@@ -301,6 +301,9 @@ committees:
 - cmte_name: Josh Becker for Senate 2028
   cmte_fppcid: '1477807'
   cmte_nid: unknown
+- cmte_name: Jpmorgan Chase & Co. PAC
+  cmte_fppcid: '1257506'
+  cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
   cmte_nid: unknown
@@ -360,6 +363,9 @@ committees:
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'
+- cmte_name: Dylan Hirsch-shell
+  cmte_fppcid: unknown
+  cmte_nid: '217230896'
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'

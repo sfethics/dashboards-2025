@@ -183,6 +183,11 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
+- cmte_name: Dylan Hirsch-Shell
+  cmte_fppcid: unknown
+  cmte_nid: '217230896'
+  committee_type: Major Donor
+  total_expense: 5000.0
 - cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
   cmte_fppcid: unknown
