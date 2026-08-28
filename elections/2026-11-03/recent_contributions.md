@@ -5,6 +5,24 @@ breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions
 late_contributions:
+- fullname: VALERIE BLOCK
+  tx_amount: 1000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: LAWRENCE CUSHMAN
+  tx_amount: 10000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1493867'
+  recipient_name: CLEAN UP THE CHARTER
+- fullname: DYLAN HIRSCH-SHELL
+  tx_amount: 5000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JPMORGAN CHASE & CO. PAC
   tx_amount: 50000.0
   tx_date: '2026-08-25'
@@ -12,6 +30,12 @@ late_contributions:
   recipient_fid: '1479782'
   recipient_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
     A THRIVING SAN FRANCISCO
+- fullname: LAURA YAKOVENKO
+  tx_amount: 200000.0
+  tx_date: '2026-08-25'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: PATRICK LEISER
   tx_amount: 1000.0
   tx_date: '2026-08-25'
@@ -62,25 +86,25 @@ late_contributions:
   tx_date: '2026-08-17'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS
   tx_amount: 1000.0
   tx_date: '2026-08-17'
   contributor_fid: ''
   recipient_fid: '1488530'
   recipient_name: OUR CITY OUR BANK
+- fullname: GRANT STAVELY
+  tx_amount: 1000.0
+  tx_date: '2026-08-15'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: MACO STEWART
   tx_amount: 10000.0
   tx_date: '2026-08-15'
   contributor_fid: ''
   recipient_fid: '1433436'
   recipient_name: GrowSF Voter Guide
-- fullname: GRANT STAVELY
-  tx_amount: 1000.0
-  tx_date: '2026-08-15'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
 - fullname: AMY MORRIS
   tx_amount: 1500.0
   tx_date: '2026-08-14'
@@ -94,18 +118,18 @@ late_contributions:
   recipient_fid: '1492671'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
+- fullname: KAT SIEGAL
+  tx_amount: 1000.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JARED FRIEDMAN
   tx_amount: 100000.0
   tx_date: '2026-08-13'
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-- fullname: KAT SIEGAL
-  tx_amount: 1000.0
-  tx_date: '2026-08-13'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
 - fullname: CHRISTIN EVANS
   tx_amount: 2500.0
   tx_date: '2026-08-13'
@@ -117,7 +141,7 @@ late_contributions:
   tx_date: '2026-08-12'
   contributor_fid: ''
   recipient_fid: '1493873'
-  recipient_name: WORKERS AGAINST FORECLOSURES
+  recipient_name: TAX FORECLOSURES, YES ON J
 - fullname: PATRICK SKAIN
   tx_amount: 1000.0
   tx_date: '2026-08-11'
@@ -141,7 +165,7 @@ late_contributions:
   tx_date: '2026-08-10'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: ANDREW CASTEEL
   tx_amount: 1000.0
   tx_date: '2026-08-10'

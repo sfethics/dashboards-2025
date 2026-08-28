@@ -12,7 +12,7 @@ committees:
 - position: SUPPORT
   filer_nid: '217091337'
   filer_id: '1493873'
-  committee_name: WORKERS AGAINST FORECLOSURES
+  committee_name: TAX FORECLOSURES, YES ON J
   funds: 50000.0
   expenses: ''
   ies: ''

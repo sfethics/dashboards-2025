@@ -95,13 +95,13 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 265340.53
-  funds: 291168.27
+  funds: 296168.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 881969.0
+  funds: 1082969.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -112,6 +112,11 @@ measures:
   contest_link: measureb
   expenses: 0.0
   funds: 4500.0
+- contest_nid: '217079148'
+  contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  contest_link: measurea
+  expenses: 0.0
+  funds: 10000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -127,9 +132,9 @@ contributors_bm:
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -181,7 +186,7 @@ top_bm_spends:
   total_expense: 735412.62
 - cmte_nid: '216747316'
   cmte_fppcid: '1490845'
-  cmte_name: FAIR HOUSING
+  cmte_name: FAIR HOUSING, YES ON I
   total_expense: 255340.53
 - cmte_nid: '212872598'
   cmte_fppcid: '1466153'

@@ -163,7 +163,7 @@ committees:
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
   total_expense: 2599.21
-- cmte_name: FAIR HOUSING
+- cmte_name: FAIR HOUSING, YES ON I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
   committee_type: Primarily Formed Measure
