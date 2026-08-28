@@ -16,13 +16,13 @@ late_contributions:
   tx_date: '2026-08-26'
   contributor_fid: ''
   recipient_fid: '1493867'
-  recipient_name: Clean Up The Charter
+  recipient_name: CLEAN UP THE CHARTER
 - fullname: DYLAN HIRSCH-SHELL
   tx_amount: 5000.0
   tx_date: '2026-08-26'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JPMORGAN CHASE & CO. PAC
   tx_amount: 50000.0
   tx_date: '2026-08-25'
@@ -86,7 +86,7 @@ late_contributions:
   tx_date: '2026-08-17'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS
   tx_amount: 1000.0
   tx_date: '2026-08-17'
@@ -98,7 +98,7 @@ late_contributions:
   tx_date: '2026-08-15'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: MACO STEWART
   tx_amount: 10000.0
   tx_date: '2026-08-15'
@@ -123,7 +123,7 @@ late_contributions:
   tx_date: '2026-08-13'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JARED FRIEDMAN
   tx_amount: 100000.0
   tx_date: '2026-08-13'
@@ -141,7 +141,7 @@ late_contributions:
   tx_date: '2026-08-12'
   contributor_fid: ''
   recipient_fid: '1493873'
-  recipient_name: WORKERS AGAINST FORECLOSURES
+  recipient_name: TAX FORECLOSURES, YES ON J
 - fullname: PATRICK SKAIN
   tx_amount: 1000.0
   tx_date: '2026-08-11'
@@ -165,7 +165,7 @@ late_contributions:
   tx_date: '2026-08-10'
   contributor_fid: ''
   recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: ANDREW CASTEEL
   tx_amount: 1000.0
   tx_date: '2026-08-10'

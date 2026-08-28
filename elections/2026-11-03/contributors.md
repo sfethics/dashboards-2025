@@ -228,7 +228,7 @@ contributors:
   tx_amount: 105000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 105000.0
 - tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
   tx_entitycode: Other
@@ -423,7 +423,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1493873'
-    cmte_name: WORKERS AGAINST FORECLOSURES
+    cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
 - tx_lastname: BENJAMIN SPERO
   tx_entitycode: Individual
@@ -447,7 +447,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 25000.0
 - tx_lastname: FRIENDS OF GREAT HIGHWAY PARK, INC. DBA FRIENDS OF SUNSET DUNES
   tx_entitycode: Other
@@ -506,7 +506,7 @@ contributors:
     cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
     tx_amount: 500.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 17500.0
 - tx_lastname: ADITYA BHUMBLA
   tx_entitycode: Individual
@@ -514,7 +514,7 @@ contributors:
   tx_amount: 15250.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 15250.0
 - tx_lastname: IAN STORM TAYLOR
   tx_entitycode: Individual
@@ -555,6 +555,17 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 500.0
+- tx_lastname: LAWRENCE CUSHMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER
+    tx_amount: 10000.0
 - tx_lastname: UA LOCAL 38 COPE FUND
   tx_entitycode: Committee
   tx_cmteid: '746875'
@@ -584,7 +595,7 @@ contributors:
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 100.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10062.5
 - tx_lastname: ALEXANDER REILLY
   tx_entitycode: Individual
@@ -592,7 +603,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10000.0
 - tx_lastname: ANDREW SUTHERLAND
   tx_entitycode: Individual
@@ -616,7 +627,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10000.0
 - tx_lastname: HOTEL COUNCIL OF SAN FRANCISCO PAC
   tx_entitycode: Committee
@@ -632,7 +643,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10000.0
 - tx_lastname: RE-ELECT SCOTT WIENER FOR STATE SENATE 2024
   tx_entitycode: Committee
@@ -666,7 +677,7 @@ contributors:
     cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
     tx_amount: 500.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
   - cmte_fppcid: '1488530'
     cmte_name: OUR CITY OUR BANK
@@ -677,7 +688,7 @@ contributors:
   tx_amount: 7300.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 7300.0
 - tx_lastname: LUCAS LUX
   tx_entitycode: Individual
@@ -696,7 +707,7 @@ contributors:
   tx_amount: 7000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 7000.0
 - tx_lastname: AUDREY KUEN LIU
   tx_entitycode: Individual
@@ -704,7 +715,7 @@ contributors:
   tx_amount: 6000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 6000.0
 - tx_lastname: JACK GOOD
   tx_entitycode: Individual
@@ -712,7 +723,7 @@ contributors:
   tx_amount: 6000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 6000.0
 - tx_lastname: MARK BUELL
   tx_entitycode: Individual
@@ -737,7 +748,7 @@ contributors:
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
 - tx_lastname: PHINEAS BARNES
   tx_entitycode: Individual
@@ -759,7 +770,7 @@ contributors:
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 100.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5246.4
 - tx_lastname: MAX ELMAN
   tx_entitycode: Individual
@@ -792,7 +803,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
 - tx_lastname: LISA ARJES
   tx_entitycode: Individual
@@ -808,7 +819,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
 - tx_lastname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS ISSUES PAC
   tx_entitycode: Committee
@@ -825,7 +836,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
 - tx_lastname: TEAMSTERS JOINT COUNCIL NO. 7
   tx_entitycode: Other
@@ -869,7 +880,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
 - tx_lastname: WILLIAM OKEEFFE JR.
   tx_entitycode: Individual
@@ -990,7 +1001,7 @@ contributors:
   tx_amount: 2500.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
@@ -998,7 +1009,7 @@ contributors:
   tx_amount: 2500.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
 - tx_lastname: SAN FRANCISCO LABORER'S LOCAL 261 P.A.C.
   tx_entitycode: Committee
@@ -1022,7 +1033,7 @@ contributors:
   tx_amount: 2000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2000.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
@@ -1137,7 +1148,7 @@ contributors:
   tx_amount: 2000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2000.0
 - tx_lastname: JEFF DANIEL
   tx_entitycode: Individual
@@ -1235,7 +1246,7 @@ contributors:
   tx_amount: 2000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2000.0
 - tx_lastname: STEFANO SANGIACOMO
   tx_entitycode: Individual
@@ -1344,7 +1355,7 @@ contributors:
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1500.0
 - tx_lastname: CHRIS CHANG
   tx_entitycode: Individual
@@ -1863,7 +1874,7 @@ contributors:
   tx_amount: 1270.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1270.0
 - tx_lastname: ALFRED WILLIAMS
   tx_entitycode: Individual
@@ -2250,7 +2261,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: ALEX AINSLIE
   tx_entitycode: Individual
@@ -2304,7 +2315,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: AVA DECKER
   tx_entitycode: Individual
@@ -2460,7 +2471,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: DAN NEWMAN
   tx_entitycode: Individual
@@ -2693,7 +2704,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: GREGORY CONDES
   tx_entitycode: Individual
@@ -2723,7 +2734,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: HORACE JOHNSON
   tx_entitycode: Individual
@@ -2879,7 +2890,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: KAREN KREIDER YODER
   tx_entitycode: Individual
@@ -2917,7 +2928,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: KATHLEEN MCINTOSH
   tx_entitycode: Individual
@@ -2977,7 +2988,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
 - tx_lastname: KIMBERLEE HOWLEY
   tx_entitycode: Individual
@@ -3321,7 +3332,7 @@ contributors:
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
   - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 500.0
 - tx_lastname: PETER GORENCE
   tx_entitycode: Individual

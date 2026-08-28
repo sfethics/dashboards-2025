@@ -22,6 +22,9 @@ committees:
 - cmte_name: Alida Fisher for Board of Education 2026
   cmte_fppcid: '1492843'
   cmte_nid: '216963896'
+- cmte_name: Anita Martinez for College Board 2026
+  cmte_fppcid: '1493829'
+  cmte_nid: '217060161'
 - cmte_name: Autumn Brown Garibay for Board of Education 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'
@@ -43,6 +46,9 @@ committees:
 - cmte_name: Elijah I. Ball
   cmte_fppcid: '1492919'
   cmte_nid: '216963991'
+- cmte_name: Erwin Tam for Community College Board 2026
+  cmte_fppcid: '1494389'
+  cmte_nid: '217090483'
 - cmte_name: Gary Mc Coy for Supervisor 2026
   cmte_fppcid: '1484080'
   cmte_nid: '214783692'
@@ -92,12 +98,18 @@ committees:
 - cmte_name: Matt Dorsey for Supervisor 2026
   cmte_fppcid: '1487329'
   cmte_nid: '215579031'
+- cmte_name: Mei Ling Hui for College Board 2026
+  cmte_fppcid: '1494227'
+  cmte_nid: '217073020'
 - cmte_name: Michael Nguyen for Supervisor 2026
   cmte_fppcid: '1484606'
   cmte_nid: '214884831'
 - cmte_name: Michela Alioto-pier for Supervisor 2026
   cmte_fppcid: '1468206'
   cmte_nid: '211490608'
+- cmte_name: Monroe Lace for City College 2026
+  cmte_fppcid: '1493786'
+  cmte_nid: '217090585'
 - cmte_name: Nick Berg for Supervisor 2026
   cmte_fppcid: '1492180'
   cmte_nid: '216871542'
@@ -120,7 +132,7 @@ committees:
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
 - cmte_name: Tim Tung for School Board 2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1493505'
   cmte_nid: '217052017'
 - cmte_name: Turon for Board of Education 2026
   cmte_fppcid: '1482971'
@@ -128,24 +140,24 @@ committees:
 - cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
-- cmte_name: Crush Ice SF, a Committee in Support of Proposition Tbd
-  cmte_fppcid: '1487105'
-  cmte_nid: '215457455'
 - cmte_name: Clean Up the Charter
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
+- cmte_name: Crush Ice SF, a Committee in Support of Proposition Tbd
+  cmte_fppcid: '1487105'
+  cmte_nid: '215457455'
 - cmte_name: Daniel Lurie Ballot Measure Committee - Safe, Affordable Muni for a Thriving
     San Francisco
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
 - cmte_name: Electrical Industry Service Bureau, Inc. Labor-management Committee for
     the Electrical Construction Industry Mpo
-  cmte_fppcid: unknown
+  cmte_fppcid: '1393126'
   cmte_nid: '217033530'
 - cmte_name: Fair Ballot Access
-  cmte_fppcid: unknown
+  cmte_fppcid: '1494100'
   cmte_nid: '217019367'
-- cmte_name: Fair Housing
+- cmte_name: Fair Housing, Yes on I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
 - cmte_name: Great Highway for Everyone
@@ -167,7 +179,7 @@ committees:
     Fair Housing
   cmte_fppcid: unknown
   cmte_nid: '217253424'
-- cmte_name: Workers Against Foreclosures
+- cmte_name: Tax Foreclosures, Yes on J
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
 - cmte_name: Yes on C - San Franciscans for Affordable Homes, Sponsored by the Nph
