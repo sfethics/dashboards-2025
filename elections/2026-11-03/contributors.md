@@ -179,6 +179,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 250000.0
+- tx_lastname: LAURA YAKOVENKO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 200000.0
 - tx_lastname: MICHELLE BOYERS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -214,6 +222,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 125000.0
+- tx_lastname: DYLAN HIRSCH-SHELL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 105000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING
+    tx_amount: 105000.0
 - tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
   tx_entitycode: Other
   tx_cmteid: ''
@@ -268,14 +284,6 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
-    tx_amount: 100000.0
-- tx_lastname: DYLAN HIRSCH-SHELL
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 100000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING
     tx_amount: 100000.0
 - tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_entitycode: Other
@@ -1725,6 +1733,17 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: VALERIE BLOCK
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: VIKRUM AIYER
   tx_entitycode: Individual
