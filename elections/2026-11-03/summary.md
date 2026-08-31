@@ -80,12 +80,6 @@ candidate_ie:
   funds: 0.0
   expenses: 6459.92
 measures:
-- contest_nid: '215815438'
-  contest_name: 'TBD1: Barring Former ICE and Border Patrol Employees from City Jobs
-    and Working on City Contracts.'
-  contest_link: measuretbd1
-  expenses: 0.0
-  funds: 6104.18
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
@@ -106,7 +100,7 @@ measures:
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 0.0
-  funds: 425000.0
+  funds: 475000.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
@@ -126,15 +120,15 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 9380595.78
+  funds: 9590595.78
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -180,6 +174,10 @@ top_bm_spends:
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
   total_expense: 1077112.6
+- cmte_nid: '193427405'
+  cmte_fppcid: '1431167'
+  cmte_name: Neighbors For A Better San Francisco Advocacy
+  total_expense: 855000.0
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
@@ -188,10 +186,6 @@ top_bm_spends:
   cmte_fppcid: '1490845'
   cmte_name: FAIR HOUSING, YES ON I
   total_expense: 255340.53
-- cmte_nid: '212872598'
-  cmte_fppcid: '1466153'
-  cmte_name: UBER INNOVATION BALLOT MEASURE COMMITTEE
-  total_expense: 100000.0
 
 ---
 

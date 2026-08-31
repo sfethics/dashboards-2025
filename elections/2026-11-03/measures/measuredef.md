@@ -20,7 +20,7 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 9380595.78
+  funds: 9590595.78
   expenses: 5487991.48
   ies: ''
 multi_committees: []
@@ -41,9 +41,9 @@ contributors:
   - 500000.0
 - - John Wolthuis
   - 500000.0
+- - Michael Seibel
+  - 450000.0
 - - Matthew Paige
-  - 250000.0
-- - Anthony Salewski
   - 250000.0
 
 ---

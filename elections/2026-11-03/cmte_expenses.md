@@ -22,6 +22,11 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 10000.0
+- cmte_name: Neighbors For A Better San Francisco Advocacy
+  cmte_fppcid: '1431167'
+  cmte_nid: '193427405'
+  committee_type: General Purpose
+  total_expense: 875000.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'

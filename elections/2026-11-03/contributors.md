@@ -116,6 +116,17 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 500000.0
+- tx_lastname: MICHAEL SEIBEL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 450500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 450000.0
 - tx_lastname: JEREMY STOPPELMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -151,17 +162,6 @@ contributors:
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
       ACTION FUND
     tx_amount: 25000.0
-- tx_lastname: MICHAEL SEIBEL
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 250500.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 250000.0
 - tx_lastname: ANTHONY SALEWSKI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -425,6 +425,15 @@ contributors:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
+- tx_lastname: THE SAN FRANCISCO FOUNDATION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 50000.0
 - tx_lastname: BENJAMIN SPERO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -652,6 +661,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 10000.0
+- tx_lastname: SAN FRANCISCO POLICE OFFICERS ASSOCIATION ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1317554'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 10000.0
 - tx_lastname: CHRISTIN EVANS
   tx_entitycode: Individual
@@ -968,14 +985,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: STAN SHIELDS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 3359.8
-  transactions:
-  - cmte_fppcid: '1487105'
-    cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-    tx_amount: 3359.8
 - tx_lastname: AMY MORRIS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2173,14 +2182,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 100.0
-- tx_lastname: CECILIA LONDON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1068.73
-  transactions:
-  - cmte_fppcid: '1487105'
-    cmte_name: CRUSH ICE SF, A COMMITTEE IN SUPPORT OF PROPOSITION TBD
-    tx_amount: 1068.73
 - tx_lastname: KELLY KOZAK
   tx_entitycode: Individual
   tx_cmteid: ''
