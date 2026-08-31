@@ -5,6 +5,38 @@ breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions
 late_contributions:
+- fullname: SAN FRANCISCO POLICE OFFICERS ASSOCIATION ISSUES PAC
+  tx_amount: 10000.0
+  tx_date: '2026-08-27'
+  contributor_fid: '1317554'
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- fullname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
+  tx_amount: 50000.0
+  tx_date: '2026-08-27'
+  contributor_fid: ''
+  recipient_fid: unknown
+  recipient_name: No on I, SF for Accountability in Housing sponsored by the San Francisco
+    Building and Construction Trades Council and the San Francisco Chamber of Commerce
+- fullname: MICHAEL SEIBEL
+  tx_amount: 200000.0
+  tx_date: '2026-08-27'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- fullname: THE SAN FRANCISCO FOUNDATION
+  tx_amount: 50000.0
+  tx_date: '2026-08-27'
+  contributor_fid: ''
+  recipient_fid: '1492671'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
+- fullname: DYLAN HIRSCH-SHELL
+  tx_amount: 5000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: VALERIE BLOCK
   tx_amount: 1000.0
   tx_date: '2026-08-26'
@@ -17,12 +49,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1493867'
   recipient_name: CLEAN UP THE CHARTER
-- fullname: DYLAN HIRSCH-SHELL
-  tx_amount: 5000.0
-  tx_date: '2026-08-26'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JPMORGAN CHASE & CO. PAC
   tx_amount: 50000.0
   tx_date: '2026-08-25'
@@ -56,24 +82,18 @@ late_contributions:
   recipient_fid: '1492671'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-- fullname: BRANDEE MARCKMANN
-  tx_amount: 1000.0
-  tx_date: '2026-08-19'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_name: OUR CITY OUR BANK
 - fullname: JEREMY STOPPELMAN
   tx_amount: 25000.0
   tx_date: '2026-08-19'
   contributor_fid: ''
   recipient_fid: '1471154'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: CHRISTIAN LARSEN
-  tx_amount: 487500.0
+- fullname: BRANDEE MARCKMANN
+  tx_amount: 1000.0
   tx_date: '2026-08-19'
   contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  recipient_fid: '1488530'
+  recipient_name: OUR CITY OUR BANK
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS LOCAL
     21 TJ ANTHONY PAC FUND
   tx_amount: 15000.0
@@ -81,6 +101,12 @@ late_contributions:
   contributor_fid: '881248'
   recipient_fid: '1471862'
   recipient_name: Building a Working SF Sponsored by Labor Organizations
+- fullname: CHRISTIAN LARSEN
+  tx_amount: 487500.0
+  tx_date: '2026-08-19'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
 - fullname: CYRUS HILL
   tx_amount: 1000.0
   tx_date: '2026-08-17'
@@ -105,12 +131,6 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1433436'
   recipient_name: GrowSF Voter Guide
-- fullname: AMY MORRIS
-  tx_amount: 1500.0
-  tx_date: '2026-08-14'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
   tx_amount: 400000.0
   tx_date: '2026-08-14'
@@ -118,6 +138,18 @@ late_contributions:
   recipient_fid: '1492671'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
+- fullname: AMY MORRIS
+  tx_amount: 1500.0
+  tx_date: '2026-08-14'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: CHRISTIN EVANS
+  tx_amount: 2500.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_name: OUR CITY OUR BANK
 - fullname: KAT SIEGAL
   tx_amount: 1000.0
   tx_date: '2026-08-13'
@@ -130,36 +162,30 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-- fullname: CHRISTIN EVANS
-  tx_amount: 2500.0
-  tx_date: '2026-08-13'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_name: OUR CITY OUR BANK
 - fullname: SAIKAT CHAKRABARTI
   tx_amount: 50000.0
   tx_date: '2026-08-12'
   contributor_fid: ''
   recipient_fid: '1493873'
   recipient_name: TAX FORECLOSURES, YES ON J
-- fullname: PATRICK SKAIN
-  tx_amount: 1000.0
-  tx_date: '2026-08-11'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_name: GREAT HIGHWAY FOR EVERYONE
 - fullname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
   tx_amount: 150000.0
   tx_date: '2026-08-11'
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-- fullname: LISA ARJES
-  tx_amount: 5000.0
-  tx_date: '2026-08-10'
+- fullname: PATRICK SKAIN
+  tx_amount: 1000.0
+  tx_date: '2026-08-11'
   contributor_fid: ''
   recipient_fid: '1487005'
   recipient_name: GREAT HIGHWAY FOR EVERYONE
+- fullname: LESLIE HUME
+  tx_amount: 2500.0
+  tx_date: '2026-08-10'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
 - fullname: DEAN PRESTON
   tx_amount: 7500.0
   tx_date: '2026-08-10'
@@ -172,12 +198,12 @@ late_contributions:
   contributor_fid: ''
   recipient_fid: '1471154'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: LESLIE HUME
-  tx_amount: 2500.0
+- fullname: LISA ARJES
+  tx_amount: 5000.0
   tx_date: '2026-08-10'
   contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  recipient_fid: '1487005'
+  recipient_name: GREAT HIGHWAY FOR EVERYONE
 - fullname: DANIEL SCHEINMAN
   tx_amount: 10000.0
   tx_date: '2026-08-05'

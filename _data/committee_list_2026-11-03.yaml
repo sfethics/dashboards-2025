@@ -143,9 +143,6 @@ committees:
 - cmte_name: Clean Up the Charter
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
-- cmte_name: Crush Ice SF, a Committee in Support of Proposition Tbd
-  cmte_fppcid: '1487105'
-  cmte_nid: '215457455'
 - cmte_name: Daniel Lurie Ballot Measure Committee - Safe, Affordable Muni for a Thriving
     San Francisco
   cmte_fppcid: '1479782'
@@ -169,6 +166,10 @@ committees:
 - cmte_name: No on G, Save Sunset Dunes Sponsored by Friends of Sunset Dunes
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
+- cmte_name: No on I, SF for Accountability in Housing Sponsored by the San Francisco
+    Building and Construction Trades Council and the San Francisco Chamber of Commerce
+  cmte_fppcid: unknown
+  cmte_nid: '217233128'
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
@@ -218,6 +219,9 @@ committees:
 - cmte_name: Nph Action Fund Political Issues Committee
   cmte_fppcid: '1387772'
   cmte_nid: '160921235'
+- cmte_name: Neighbors for a Better San Francisco Advocacy
+  cmte_fppcid: '1431167'
+  cmte_nid: '193427405'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -230,6 +234,9 @@ committees:
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
+- cmte_name: San Francisco Police Officers Association Issues PAC
+  cmte_fppcid: '1317554'
+  cmte_nid: '6666443'
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
