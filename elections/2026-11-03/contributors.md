@@ -2121,6 +2121,20 @@ contributors:
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 150.0
+- tx_lastname: MYRNA MELGAR
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1150.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 250.0
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 400.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_lastname: DENISE APTEKAR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2474,6 +2488,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1000.0
+- tx_lastname: DALE CARLSON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR BALLOT ACCESS
+    tx_amount: 1000.0
 - tx_lastname: DAN NEWMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2595,6 +2617,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: DOUGLAS ENGMANN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR BALLOT ACCESS
+    tx_amount: 1000.0
 - tx_lastname: DWAYNE JONES
   tx_entitycode: Individual
   tx_cmteid: ''

@@ -32,7 +32,7 @@ committees:
   cmte_nid: '201619433'
   committee_type: General Purpose
   total_expense: 11225.0
-- cmte_name: SAN FRANCISCO PARENT PAC
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
@@ -51,7 +51,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 1782.42
+  total_expense: 5413.26
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'

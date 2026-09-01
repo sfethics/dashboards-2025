@@ -8,7 +8,14 @@ breadcrumbs:
   - elections/2026-11-03
 - - 'D: Changes to Ballot Measure Process'
   - elections/2026-11-03/measures/measured
-committees: []
+committees:
+- position: OPPOSE
+  filer_nid: '217019367'
+  filer_id: '1494100'
+  committee_name: FAIR BALLOT ACCESS
+  funds: 2000.0
+  expenses: ''
+  ies: ''
 multi_committees:
 - position: SUPPORT
   filer_nid: '216006060'
@@ -16,6 +23,11 @@ multi_committees:
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
   funds: 9590595.78
   expenses: 5487991.48
+contributors:
+- - Dale Carlson
+  - 1000.0
+- - Douglas Engmann
+  - 1000.0
 
 ---
 

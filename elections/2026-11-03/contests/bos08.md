@@ -46,7 +46,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: ''
-    expenses: 1782.42
+    expenses: 5413.26
 contributors:
 - - Darshini Patel
   - 2000.0
