@@ -78,7 +78,7 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 0.0
-  expenses: 6459.92
+  expenses: 10090.76
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -101,6 +101,11 @@ measures:
   contest_link: measurec
   expenses: 0.0
   funds: 475000.0
+- contest_nid: '217019352'
+  contest_name: 'D: Changes to Ballot Measure Process'
+  contest_link: measured
+  expenses: 0.0
+  funds: 2000.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
@@ -126,9 +131,9 @@ contributors_bm:
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -137,11 +142,11 @@ contributors_cand:
   - 3000.0
 - - Stefano Sangiacomo
   - 2000.0
-- - Nick Podell
+- - Joel Panzer
   - 2000.0
-- - Todd David
+- - Carrie Barnes
   - 2000.0
-- - Paul Gaetani
+- - Eric Andresen
   - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'

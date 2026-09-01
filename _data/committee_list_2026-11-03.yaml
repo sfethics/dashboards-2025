@@ -40,6 +40,9 @@ committees:
 - cmte_name: Daniel Lurie for Mayor 2024
   cmte_fppcid: '1463099'
   cmte_nid: '208599394'
+- cmte_name: David Chiu for City Attorney 2024
+  cmte_fppcid: '1466331'
+  cmte_nid: '209647307'
 - cmte_name: Elect Shawn M. Richard for District 10 Supervisor 2026
   cmte_fppcid: '1491677'
   cmte_nid: '216767735'
@@ -173,7 +176,7 @@ committees:
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
-- cmte_name: San Francisco Parent PAC
+- cmte_name: San Francisco Parent Action PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
 - cmte_name: San Francisco Dsa (Nonprofit 501(c)(4)), Primarily Formed to Support
@@ -258,6 +261,9 @@ committees:
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
+- cmte_name: United Democratic Club of San Francisco
+  cmte_fppcid: '1383372'
+  cmte_nid: '158910556'
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
@@ -286,9 +292,6 @@ committees:
 - cmte_name: Gfc Courage Committee - Excellence in Education Chapter
   cmte_fppcid: '1420855'
   cmte_nid: unknown
-- cmte_name: Gfc Courage Committee - Golden Gate Chapter
-  cmte_fppcid: '1425929'
-  cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Marin Chapter
   cmte_fppcid: '1435894'
   cmte_nid: unknown
@@ -297,6 +300,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - San Francisco Chapter
   cmte_fppcid: '1416440'
+  cmte_nid: unknown
+- cmte_name: Gfc Courage Committee - SF Public Schools
+  cmte_fppcid: '1425929'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Sierra Chapter
   cmte_fppcid: '1416442'
