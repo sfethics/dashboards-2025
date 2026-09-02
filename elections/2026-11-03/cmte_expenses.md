@@ -12,6 +12,11 @@ committees:
   cmte_nid: '124340525'
   committee_type: Major Donor
   total_expense: 7500.0
+- cmte_name: Silvanus Osborn Erickson
+  cmte_fppcid: '1273721'
+  cmte_nid: '126511772'
+  committee_type: Major Donor
+  total_expense: 5000.0
 - cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -31,12 +36,12 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 11225.0
+  total_expense: 128211.0
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 15901.91
+  total_expense: 19323.079999999998
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'

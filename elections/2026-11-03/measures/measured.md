@@ -12,7 +12,7 @@ committees:
 - position: OPPOSE
   filer_nid: '217019367'
   filer_id: '1494100'
-  committee_name: FAIR BALLOT ACCESS
+  committee_name: FAIR ACCESS NO ON D
   funds: 2000.0
   expenses: ''
   ies: ''

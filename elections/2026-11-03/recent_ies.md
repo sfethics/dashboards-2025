@@ -5,6 +5,48 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 62619.0
+  tx_date: '2026-08-31'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 54367.0
+  tx_date: '2026-08-31'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217340863?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 1292.64
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 1042.0
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 333.33
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 253.2
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'

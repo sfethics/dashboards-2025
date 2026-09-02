@@ -32,7 +32,7 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 691923.0
+  funds: 751923.0
   expenses: 180904.29
   ies: ''
 - committee_type: candidate
@@ -68,23 +68,23 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 39400.0
+  expenses: 42321.17
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 0.0
-  expenses: 6547.5
+  expenses: 60914.5
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 0.0
-  expenses: 10090.76
+  expenses: 72709.76
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 3552315.0
+  funds: 3802315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -95,12 +95,12 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1082969.0
+  funds: 1107969.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 0.0
-  funds: 475000.0
+  funds: 482710.48
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -131,9 +131,9 @@ contributors_bm:
   - 2005595.78
 - - Christian Larsen
   - 1487500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
@@ -157,6 +157,10 @@ top_cand_spends:
   cmte_fppcid: '1311218'
   cmte_name: United Educators of San Francisco Candidate PAC
   total_expense: 151803.94
+- cmte_nid: '201619433'
+  cmte_fppcid: '1433436'
+  cmte_name: GrowSF Voter Guide
+  total_expense: 128211.0
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -165,10 +169,6 @@ top_cand_spends:
   cmte_fppcid: '1484091'
   cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
   total_expense: 77400.01
-- cmte_nid: '214443884'
-  cmte_fppcid: '1481892'
-  cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-  total_expense: 61432.61
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

@@ -80,6 +80,9 @@ committees:
 - cmte_name: John Jersin for Board of Education 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
+- cmte_name: Jaime Huling for San Francisco Board of Education 2024 Officeholder Committee
+  cmte_fppcid: '1468481'
+  cmte_nid: '211491250'
 - cmte_name: Kim for School Board 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
@@ -154,7 +157,7 @@ committees:
     the Electrical Construction Industry Mpo
   cmte_fppcid: '1393126'
   cmte_nid: '217033530'
-- cmte_name: Fair Ballot Access
+- cmte_name: Fair Access No on D
   cmte_fppcid: '1494100'
   cmte_nid: '217019367'
 - cmte_name: Fair Housing, Yes on I
@@ -394,9 +397,15 @@ committees:
 - cmte_name: Dylan Hirsch-shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'
+- cmte_name: Jeffrey Lawson
+  cmte_fppcid: '1409024'
+  cmte_nid: '209506922'
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
+- cmte_name: Silvanus Osborn Erickson
+  cmte_fppcid: '1273721'
+  cmte_nid: '126511772'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
