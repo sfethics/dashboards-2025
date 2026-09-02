@@ -127,6 +127,15 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 450000.0
+- tx_lastname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1387772'
+  tx_amount: 407710.48
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 407710.48
 - tx_lastname: JEREMY STOPPELMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -138,15 +147,15 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 375000.0
-- tx_lastname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '1387772'
-  tx_amount: 400000.0
+- tx_lastname: JEFFREY LAWSON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 350000.0
   transactions:
-  - cmte_fppcid: '1492671'
-    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
-      ACTION FUND
-    tx_amount: 400000.0
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 350000.0
 - tx_lastname: MATTHEW PAIGE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -303,15 +312,6 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 100000.0
-- tx_lastname: JEFFREY LAWSON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 100000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
-    tx_amount: 100000.0
 - tx_lastname: MATTHEW SONSINI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -457,6 +457,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 25000.0
+- tx_lastname: DONALD J EDWARDS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 25000.0
 - tx_lastname: FRIENDS OF GREAT HIGHWAY PARK, INC. DBA FRIENDS OF SUNSET DUNES
   tx_entitycode: Other
@@ -2494,7 +2502,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1494100'
-    cmte_name: FAIR BALLOT ACCESS
+    cmte_name: FAIR ACCESS NO ON D
     tx_amount: 1000.0
 - tx_lastname: DAN NEWMAN
   tx_entitycode: Individual
@@ -2623,7 +2631,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1494100'
-    cmte_name: FAIR BALLOT ACCESS
+    cmte_name: FAIR ACCESS NO ON D
     tx_amount: 1000.0
 - tx_lastname: DWAYNE JONES
   tx_entitycode: Individual

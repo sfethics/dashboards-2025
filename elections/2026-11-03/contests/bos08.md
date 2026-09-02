@@ -47,6 +47,14 @@ ie_candidates:
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: ''
     expenses: 5413.26
+- candidate_name: EMANUEL YEKUTIEL
+  filer_id: '1483804'
+  committees:
+  - position: SUPPORT
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 62619.0
 contributors:
 - - Darshini Patel
   - 2000.0

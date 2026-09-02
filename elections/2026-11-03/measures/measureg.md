@@ -13,7 +13,7 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1045373.0
+  funds: 1070373.0
   expenses: 735412.62
   ies: ''
 - position: SUPPORT
@@ -37,14 +37,14 @@ contributors:
   - 49900.0
 - - Wojciech Zaremba
   - 35000.0
+- - Donald J Edwards
+  - 25000.0
 - - Friends of Great Highway Park, Inc. dba Friends of Sunset Dunes
   - 25000.0
 - - Michel Krieger
   - 20000.0
 - - Kid Safe SF
   - 18750.0
-- - Ian Storm Taylor
-  - 15000.0
 
 ---
 

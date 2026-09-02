@@ -42,7 +42,7 @@ candidates:
 - filer_nid: '216837806'
   filer_id: '1491849'
   committee_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-  candidate_name: AUTUMN GARIBAY
+  candidate_name: AUTUMN BROWN GARIBAY
   funds: 8526.0
   expenses: 327.45
 ie_candidates:
@@ -62,6 +62,14 @@ ie_candidates:
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
     expenses: 13233.33
+- candidate_name: AUTUMN BROWN GARIBAY
+  filer_id: '1491849'
+  committees:
+  - position: SUPPORT
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 2921.17
 contributors:
 - - Matthew Alexander
   - 500.0
