@@ -119,6 +119,10 @@ committees:
 - cmte_name: Nick Berg for Supervisor 2026
   cmte_fppcid: '1492180'
   cmte_nid: '216871542'
+- cmte_name: Nancy Tung for Democratic County Central Committee 2024 Officeholder
+    Committee
+  cmte_fppcid: '1463425'
+  cmte_nid: '208632466'
 - cmte_name: P.j Bastiany for Supervisor 2026
   cmte_fppcid: '1481624'
   cmte_nid: '214611048'
@@ -143,6 +147,9 @@ committees:
 - cmte_name: Turon for Board of Education 2026
   cmte_fppcid: '1482971'
   cmte_nid: '216621779'
+- cmte_name: Team Manny, Manny Yekutiel for Supervisor 2026
+  cmte_fppcid: '1486185'
+  cmte_nid: '217128861'
 - cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
@@ -338,6 +345,9 @@ committees:
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
   cmte_nid: unknown
+- cmte_name: Our Kids Our Future PAC
+  cmte_fppcid: PENDING
+  cmte_nid: unknown
 - cmte_name: Patrick Ahrens for Assembly 2026
   cmte_fppcid: '1476866'
   cmte_nid: unknown
@@ -394,6 +404,9 @@ committees:
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'
+- cmte_name: Diana Nelson
+  cmte_fppcid: unknown
+  cmte_nid: '216585729'
 - cmte_name: Dylan Hirsch-shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'

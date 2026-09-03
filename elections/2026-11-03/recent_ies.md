@@ -11,7 +11,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 62619.0
   tx_date: '2026-08-31'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217340909?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_EMANUEL%20YEKUTIEL
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -81,7 +81,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 1782.42
   tx_date: '2026-08-21'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217270011?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'

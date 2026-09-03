@@ -11,7 +11,7 @@ committees:
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'
   committee_type: Major Donor
-  total_expense: 7500.0
+  total_expense: 107500.0
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
@@ -193,6 +193,11 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
+- cmte_name: ANITA MARTINEZ FOR COLLEGE BOARD 2026
+  cmte_fppcid: '1493829'
+  cmte_nid: '217060161'
+  committee_type: Candidate Controlled
+  total_expense: 1249.5
 - cmte_name: Dylan Hirsch-Shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'

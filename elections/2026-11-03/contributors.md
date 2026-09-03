@@ -231,6 +231,20 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 125000.0
+- tx_lastname: DEAN PRESTON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 118500.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487291'
+    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 117500.0
 - tx_lastname: DYLAN HIRSCH-SHELL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -511,20 +525,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
-- tx_lastname: DEAN PRESTON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 18500.0
-  transactions:
-  - cmte_fppcid: '1481892'
-    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487291'
-    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 17500.0
 - tx_lastname: ADITYA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1341,6 +1341,17 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 350.0
+- tx_lastname: ANITA MARTINEZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1529.5
+  transactions:
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 280.0
+  - cmte_fppcid: '1493829'
+    cmte_name: ANITA MARTINEZ FOR COLLEGE BOARD 2026
+    tx_amount: 1249.5
 - tx_lastname: ALASTAIR MACTAGGART
   tx_entitycode: Individual
   tx_cmteid: ''
