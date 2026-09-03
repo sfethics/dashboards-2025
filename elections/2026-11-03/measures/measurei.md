@@ -13,17 +13,17 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 296168.27
+  funds: 396168.27
   expenses: 255340.53
   ies: ''
 multi_committees: []
 contributors:
+- - Dean Preston
+  - 117500.0
 - - Dylan Hirsch-shell
   - 105000.0
 - - Charles Good
   - 25000.0
-- - Dean Preston
-  - 17500.0
 - - Aditya Bhumbla
   - 15250.0
 - - Scott Feeney

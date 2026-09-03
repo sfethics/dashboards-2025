@@ -63,6 +63,13 @@ candidate_pf:
   funds: 41770.1
   expenses: 13832.24
   ies: ''
+- committee_type: candidate
+  contest_nid: '216963967'
+  contest_name: Community College Board
+  contest_link: ccb
+  funds: 1256.74
+  expenses: 1249.5
+  ies: ''
 candidate_ie:
 - contest_nid: '212794907'
   contest_name: Board of Education
@@ -89,7 +96,7 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 265340.53
-  funds: 296168.27
+  funds: 396168.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
@@ -140,13 +147,13 @@ contributors_bm:
 contributors_cand:
 - - Christin Evans
   - 3000.0
-- - Stefano Sangiacomo
+- - Christina Sangiacomo
   - 2000.0
-- - Joel Panzer
+- - Nick Podell
   - 2000.0
 - - Carrie Barnes
   - 2000.0
-- - Eric Andresen
+- - Todd David
   - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'
