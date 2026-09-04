@@ -662,6 +662,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10000.0
+- tx_lastname: MICHAEL BRADLEY EISLER REVOCABLE TRUST
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_lastname: RE-ELECT SCOTT WIENER FOR STATE SENATE 2024
   tx_entitycode: Committee
   tx_cmteid: '1434666'

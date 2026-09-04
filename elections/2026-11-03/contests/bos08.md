@@ -31,7 +31,7 @@ candidates:
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 20353.5
+  funds: 80353.5
   expenses: 6402.02
 ie_candidates:
 - candidate_name: GARY MCCOY
@@ -40,12 +40,12 @@ ie_candidates:
   - position: OPPOSE
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
-    funds: ''
+    funds: 0.0
     expenses: 4677.5
   - position: SUPPORT
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
-    funds: ''
+    funds: 0.0
     expenses: 5413.26
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
@@ -53,9 +53,16 @@ ie_candidates:
   - position: SUPPORT
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
-    funds: ''
-    expenses: 62619.0
+    funds: 0.0
+    expenses: 65854.29
+  - position: SUPPORT
+    filer_id: '1486185'
+    committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    funds: 10000.0
+    expenses: 0.0
 contributors:
+- - Michael Bradley Eisler Revocable Trust
+  - 10000.0
 - - Darshini Patel
   - 2000.0
 - - Carrie Barnes
@@ -73,8 +80,6 @@ contributors:
 - - Christin Evans
   - 1000.0
 - - Paul Gaetani
-  - 1000.0
-- - Kyle Hill
   - 1000.0
 
 ---

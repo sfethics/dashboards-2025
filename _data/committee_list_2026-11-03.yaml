@@ -147,6 +147,10 @@ committees:
 - cmte_name: Turon for Board of Education 2026
   cmte_fppcid: '1482971'
   cmte_nid: '216621779'
+- cmte_name: From the Neighborhood, for the City, Supporting Theo Ellington for Supervisor
+    2026
+  cmte_fppcid: unknown
+  cmte_nid: '217267598'
 - cmte_name: Team Manny, Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
