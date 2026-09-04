@@ -35,7 +35,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 57714.5
+    expenses: 61067.44
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
   committees:

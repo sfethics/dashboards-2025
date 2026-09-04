@@ -7,6 +7,20 @@ title: Recent Independent Expenditures
 recent_ies:
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 3352.94
+  tx_date: '2026-09-02'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 3235.29
+  tx_date: '2026-09-02'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
   position: SUPPORT
   tx_amount: 62619.0

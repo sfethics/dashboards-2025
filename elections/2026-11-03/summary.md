@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1189558.43
+  funds: 1249558.43
   expenses: 367863.2
   ies: ''
 - committee_type: candidate
@@ -80,12 +80,12 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 0.0
-  expenses: 60914.5
+  expenses: 64267.44
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 0.0
-  expenses: 72709.76
+  funds: 10000.0
+  expenses: 75945.05
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -145,13 +145,13 @@ contributors_bm:
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
 contributors_cand:
+- - Michael Bradley Eisler Revocable Trust
+  - 10000.0
 - - Christin Evans
   - 3000.0
-- - Christina Sangiacomo
+- - Gfc Courage Committee - San Francisco Chapter
   - 2000.0
-- - Nick Podell
-  - 2000.0
-- - Carrie Barnes
+- - Paul Gaetani
   - 2000.0
 - - Todd David
   - 2000.0
@@ -167,7 +167,7 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 128211.0
+  total_expense: 134799.23
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026

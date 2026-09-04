@@ -36,7 +36,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 128211.0
+  total_expense: 134799.23
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -87,7 +87,7 @@ committees:
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
-  total_expense: 60780.55
+  total_expense: 70780.55
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
