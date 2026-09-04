@@ -11,7 +11,7 @@ breadcrumbs:
 candidates:
 - filer_nid: '217060161'
   filer_id: '1493829'
-  committee_name: ANITA MARTINEZ FOR COLLEGE BOARD 2026
+  committee_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
   candidate_name: ANITA MARTINEZ
   funds: 1256.74
   expenses: 1249.5

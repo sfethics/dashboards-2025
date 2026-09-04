@@ -236,7 +236,14 @@ electionnav: true
                             <tr>
                                 <td class="fw-medium">
                                     {%- if committee.filer_id == 'unknown' -%}
-                                    {{ committee.committee_name }}
+                                        {% if committee.filer_nid %}
+                                        <a
+                                            href="{{site.baseurl}}/elections/{{page.election}}/committees/SFEC{{committee.filer_nid}}">
+                                            {{ committee.committee_name }}
+                                        </a>
+                                        {% else %}
+                                        {{ committee.committee_name }}
+                                        {% endif %}
                                     {%- else -%}
                                     <a
                                         href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee.filer_id}}.html">

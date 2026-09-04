@@ -16,7 +16,15 @@ committees:
   funds: 396168.27
   expenses: 255340.53
   ies: ''
-multi_committees: []
+multi_committees:
+- position: MULTIPLE
+  filer_nid: '217233128'
+  filer_id: unknown
+  committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+  funds: 50000.0
+  expenses: 0
 contributors:
 - - Dean Preston
   - 117500.0

@@ -22,12 +22,12 @@ committees:
 - cmte_name: Alida Fisher for Board of Education 2026
   cmte_fppcid: '1492843'
   cmte_nid: '216963896'
-- cmte_name: Anita Martinez for College Board 2026
-  cmte_fppcid: '1493829'
-  cmte_nid: '217060161'
 - cmte_name: Autumn Brown Garibay for Board of Education 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'
+- cmte_name: Bunny for City College Board 2026
+  cmte_fppcid: '1495068'
+  cmte_nid: '217230804'
 - cmte_name: Darshini Patel for Supervisor 2026
   cmte_fppcid: '1488280'
   cmte_nid: '215728828'
@@ -67,6 +67,9 @@ committees:
 - cmte_name: Jeremy Greco for Supervisor 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
+- cmte_name: Jeremy Lee for City College Board 2026
+  cmte_fppcid: '1495277'
+  cmte_nid: '217234321'
 - cmte_name: Joaquin Torres for Assessor-recorder 2026
   cmte_fppcid: '1487412'
   cmte_nid: '215593851'
@@ -92,15 +95,15 @@ committees:
 - cmte_name: Lisa Wynn for Board of Supervisors 2026
   cmte_fppcid: unknown
   cmte_nid: '216825139'
-- cmte_name: Loli-tello for School Board 2026
-  cmte_fppcid: unknown
-  cmte_nid: '216293478'
 - cmte_name: Lori Brooke for Supervisor 2026 General
   cmte_fppcid: '1484332'
   cmte_nid: '216289152'
 - cmte_name: Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1483804'
   cmte_nid: '214772801'
+- cmte_name: Martinez for College Board 2026; Anita
+  cmte_fppcid: '1493829'
+  cmte_nid: '217060161'
 - cmte_name: Matt Dorsey for Supervisor 2026
   cmte_fppcid: '1487329'
   cmte_nid: '215579031'
@@ -110,9 +113,6 @@ committees:
 - cmte_name: Michael Nguyen for Supervisor 2026
   cmte_fppcid: '1484606'
   cmte_nid: '214884831'
-- cmte_name: Michela Alioto-pier for Supervisor 2026
-  cmte_fppcid: '1468206'
-  cmte_nid: '211490608'
 - cmte_name: Monroe Lace for City College 2026
   cmte_fppcid: '1493786'
   cmte_nid: '217090585'
@@ -132,6 +132,9 @@ committees:
 - cmte_name: Reina Tello for School Board 2026
   cmte_fppcid: '1490256'
   cmte_nid: '216584147'
+- cmte_name: Ruth Ferguson for City College Board 2026
+  cmte_fppcid: '1494600'
+  cmte_nid: '217168240'
 - cmte_name: Ryan Hazelton for San Francisco Board of Education 2026
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
@@ -147,6 +150,10 @@ committees:
 - cmte_name: Turon for Board of Education 2026
   cmte_fppcid: '1482971'
   cmte_nid: '216621779'
+- cmte_name: Families for a Vibrant SF Supporting Ellington for Supervisor, 2026 -
+    Sponsored by Abundance Network
+  cmte_fppcid: unknown
+  cmte_nid: '217269106'
 - cmte_name: From the Neighborhood, for the City, Supporting Theo Ellington for Supervisor
     2026
   cmte_fppcid: unknown
@@ -183,10 +190,9 @@ committees:
 - cmte_name: No on G, Save Sunset Dunes Sponsored by Friends of Sunset Dunes
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
-- cmte_name: No on I, SF for Accountability in Housing Sponsored by the San Francisco
-    Building and Construction Trades Council and the San Francisco Chamber of Commerce
+- cmte_name: No on Prop B - San Franciscans for Fiscal Responsibility
   cmte_fppcid: unknown
-  cmte_nid: '217233128'
+  cmte_nid: '217206996'
 - cmte_name: Our City Our Bank
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
@@ -204,6 +210,11 @@ committees:
     Action Fund
   cmte_fppcid: '1492671'
   cmte_nid: '216956820'
+- cmte_name: Yes on C, No on I, SF for Accountability in Housing Sponsored by the
+    San Francisco Building and Construction Trades Council and the San Francisco Chamber
+    of Commerce
+  cmte_fppcid: unknown
+  cmte_nid: '217233128'
 - cmte_name: Yes on L, Fund the Bus
   cmte_fppcid: '1468797'
   cmte_nid: '211486142'

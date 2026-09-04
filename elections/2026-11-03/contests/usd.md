@@ -50,6 +50,7 @@ ie_candidates:
   filer_id: '1490256'
   committees:
   - position: SUPPORT
+    filer_nid: '6685673'
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
@@ -58,6 +59,7 @@ ie_candidates:
   filer_id: '1491734'
   committees:
   - position: SUPPORT
+    filer_nid: '6685673'
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
@@ -66,6 +68,7 @@ ie_candidates:
   filer_id: '1491849'
   committees:
   - position: SUPPORT
+    filer_nid: '201848961'
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''

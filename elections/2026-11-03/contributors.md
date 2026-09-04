@@ -19,11 +19,15 @@ contributors:
 - tx_lastname: CHRISTIAN LARSEN
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 1487500.0
+  tx_amount: 1987500.0
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 1487500.0
+  - cmte_fppcid: unknown
+    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
+      SUPERVISOR 2026
+    tx_amount: 500000.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -212,6 +216,20 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 150000.0
+- tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 150000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 100000.0
+  - cmte_fppcid: unknown
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: JOHN FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -300,15 +318,6 @@ contributors:
       THRIVING SAN FRANCISCO
     tx_amount: 100000.0
 - tx_lastname: CHIME FINANCIAL
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 100000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
-    tx_amount: 100000.0
-- tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 100000.0
@@ -1358,7 +1367,7 @@ contributors:
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 280.0
   - cmte_fppcid: '1493829'
-    cmte_name: ANITA MARTINEZ FOR COLLEGE BOARD 2026
+    cmte_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
     tx_amount: 1249.5
 - tx_lastname: ALASTAIR MACTAGGART
   tx_entitycode: Individual
