@@ -79,7 +79,7 @@ candidate_ie:
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 0.0
+  funds: 500000.0
   expenses: 64267.44
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
@@ -133,6 +133,11 @@ measures:
   contest_link: measuredef
   expenses: 5487991.48
   funds: 9590595.78
+- contest_nid: MULTI-2
+  contest_name: 'C,I: Measures C and I'
+  contest_link: measureci
+  expenses: 0.0
+  funds: 50000.0
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
@@ -145,15 +150,15 @@ contributors_bm:
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
 contributors_cand:
+- - Christian Larsen
+  - 500000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
 - - Christin Evans
   - 3000.0
-- - Gfc Courage Committee - San Francisco Chapter
+- - Christina Sangiacomo
   - 2000.0
-- - Paul Gaetani
-  - 2000.0
-- - Todd David
+- - Luis Belmonte
   - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'

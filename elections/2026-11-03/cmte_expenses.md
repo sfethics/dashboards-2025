@@ -193,7 +193,7 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
-- cmte_name: ANITA MARTINEZ FOR COLLEGE BOARD 2026
+- cmte_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
   cmte_fppcid: '1493829'
   cmte_nid: '217060161'
   committee_type: Candidate Controlled

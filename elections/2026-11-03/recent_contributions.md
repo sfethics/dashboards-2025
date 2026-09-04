@@ -105,8 +105,9 @@ late_contributions:
   tx_date: '2026-08-27'
   contributor_fid: ''
   recipient_fid: unknown
-  recipient_name: No on I, SF for Accountability in Housing sponsored by the San Francisco
-    Building and Construction Trades Council and the San Francisco Chamber of Commerce
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: LAWRENCE CUSHMAN
   tx_amount: 10000.0
   tx_date: '2026-08-26'
