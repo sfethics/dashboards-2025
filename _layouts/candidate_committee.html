@@ -609,10 +609,14 @@ electionnav: true
                                 {% for committee in page.third_party[3] %}
                                 <tr>
                                     <td>
+                                        {% if committee[1] == 'unknown' %}
+                                            {{ committee[0] }}
+                                        {% else %}
                                         <a
                                             href="{{site.baseurl}}/elections/{{page.election}}/committees/CA{{committee[1]}}">
                                             {{ committee[0] }}
                                         </a>
+                                        {% endif %}
                                     </td>
                                     <td>{{ committee[2] }}</td>
                                     <td>{{ committee[3] }}</td>

@@ -85,7 +85,7 @@
           {% for cmte in site.data[data_file].committees %}
             {% if cmte.cmte_fppcid contains "FEC_" %}
               {% comment %} skip FEC committees {% endcomment %}
-            {% elsif cmte.cmte_fppcid != "unknown" %}
+            {% else %}
               <tr>
                 {% if cmte.cmte_nid == "unknown" %}
                   <td>
@@ -97,6 +97,13 @@
                       <i class="fa-light fa-arrow-up-right-from-square ms-1" aria-hidden="true"></i>
                     </a>
                     <span class="badge text-bg-light ms-2">CAL-ACCESS</span>
+                  </td>
+                {% elsif cmte.cmte_fppcid == "unknown" %}
+                  <td>
+                    <a class="committee-link"
+                       href="{{site.baseurl}}/elections/{{include.election}}/committees/SFEC{{ cmte.cmte_nid }}.html">
+                      {{ cmte.cmte_name | truncate: 75 }}
+                    </a>
                   </td>
                 {% else %}
                   <td>
