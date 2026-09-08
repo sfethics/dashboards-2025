@@ -5,6 +5,13 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 40000.0
+  tx_date: '2026-09-04'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -25,14 +32,28 @@ recent_ies:
   position: SUPPORT
   tx_amount: 62619.0
   tx_date: '2026-08-31'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217340909?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_EMANUEL%20YEKUTIEL
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217389993?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_EMANUEL%20YEKUTIEL
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
   tx_amount: 54367.0
   tx_date: '2026-08-31'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217340863?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217389968?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 3700.0
+  tx_date: '2026-08-31'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217389968?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 2200.0
+  tx_date: '2026-08-31'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217389993?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_EMANUEL%20YEKUTIEL
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'

@@ -13,7 +13,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 396168.27
+  funds: 397668.27
   expenses: 255340.53
   ies: ''
 multi_committees:
@@ -23,7 +23,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 50000.0
+  funds: 80000.0
   expenses: 0
 contributors:
 - - Dean Preston

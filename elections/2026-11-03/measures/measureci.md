@@ -20,13 +20,17 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 50000.0
+  funds: 80000.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Electrical Industry Service Bureau, Inc.
   - 50000.0
+- - U.a. Local 38 Cope Fund
+  - 25000.0
+- - Sheet Metal Workers' International Association Local Union No. 104 Issues Committee
+  - 5000.0
 
 ---
 

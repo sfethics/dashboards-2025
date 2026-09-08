@@ -67,7 +67,7 @@ candidate_pf:
   contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
-  funds: 1256.74
+  funds: 1430.65
   expenses: 1249.5
   ies: ''
 candidate_ie:
@@ -80,12 +80,12 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 500000.0
-  expenses: 64267.44
+  expenses: 67967.44
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 10000.0
-  expenses: 75945.05
+  funds: 20000.0
+  expenses: 118145.05
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -96,7 +96,7 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 265340.53
-  funds: 396168.27
+  funds: 397668.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
@@ -122,7 +122,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 0.0
-  funds: 10000.0
+  funds: 130000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -137,12 +137,12 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 50000.0
+  funds: 80000.0
 contributors_bm:
 - - Michael Moritz
   - 2005595.78
 - - Christian Larsen
-  - 1487500.0
+  - 1587500.0
 - - Lyna Lam
   - 1000000.0
 - - John Pritzker
@@ -154,11 +154,11 @@ contributors_cand:
   - 500000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
+- - Alison Gelb Pincus
+  - 10000.0
 - - Christin Evans
   - 3000.0
-- - Christina Sangiacomo
-  - 2000.0
-- - Luis Belmonte
+- - Gfc Courage Committee - San Francisco Chapter
   - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'
@@ -172,7 +172,7 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 134799.23
+  total_expense: 140699.23
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
