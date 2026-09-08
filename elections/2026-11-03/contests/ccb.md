@@ -15,10 +15,18 @@ candidates:
   candidate_name: ANITA MARTINEZ
   funds: 1256.74
   expenses: 1249.5
+- filer_nid: '217073020'
+  filer_id: '1494227'
+  committee_name: MEI LING HUI FOR COLLEGE BOARD 2026
+  candidate_name: MEI LING HUI
+  funds: 173.91
+  expenses: 0.0
 ie_candidates: []
 contributors:
 - - Anita Martinez
   - 1249.5
+- - Mei Ling Hui
+  - 173.91
 - - Unitemized Schedule C
   - 7.24
 

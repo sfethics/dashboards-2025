@@ -8,6 +8,21 @@ breadcrumbs:
 title: Top Contributors in the November 03, 2026 election
 threshold: 1000
 contributors:
+- tx_lastname: CHRISTIAN LARSEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2087500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1487500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER
+    tx_amount: 100000.0
+  - cmte_fppcid: unknown
+    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
+      SUPERVISOR 2026
+    tx_amount: 500000.0
 - tx_lastname: MICHAEL MORITZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -16,18 +31,6 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 2005595.78
-- tx_lastname: CHRISTIAN LARSEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1987500.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 1487500.0
-  - cmte_fppcid: unknown
-    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
-      SUPERVISOR 2026
-    tx_amount: 500000.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -506,6 +509,16 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 25000.0
+- tx_lastname: U.A. LOCAL 38 COPE FUND
+  tx_entitycode: Committee
+  tx_cmteid: '746875'
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: unknown
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
 - tx_lastname: UNION OF AMERICAN PHYSICIANS AND DENTISTS SMALL CONTRIBUTOR COMMITTEE
   tx_entitycode: Other
   tx_cmteid: '1356185'
@@ -549,6 +562,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 15000.0
+- tx_lastname: TMG PARTNERS R.E., LLC(MICHAEL COVARRUBIAS)
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER
     tx_amount: 15000.0
 - tx_lastname: NICHOLAS JOSEFOWITZ
   tx_entitycode: Individual
@@ -630,6 +651,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 10000.0
+- tx_lastname: ALISON GELB PINCUS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 10000.0
 - tx_lastname: ANDREW SUTHERLAND
   tx_entitycode: Individual
@@ -831,6 +860,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
+- tx_lastname: ERICKSON SILVANUS O.
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER
+    tx_amount: 5000.0
 - tx_lastname: EVAN WILLIIAMS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -879,6 +916,17 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 5000.0
+- tx_lastname: SHEET METAL WORKERS' INTERNATIONAL ASSOCIATION LOCAL UNION NO. 104
+    ISSUES COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1351785'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: unknown
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 5000.0
 - tx_lastname: TEAMSTERS JOINT COUNCIL NO. 7
   tx_entitycode: Other
@@ -968,6 +1016,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 4057.0
+- tx_lastname: ANDRES SALERNO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 3500.0
 - tx_lastname: KAITLYN KRIEGER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1061,14 +1117,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2100.0
-- tx_lastname: ANDRES SALERNO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 2000.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
   tx_cmteid: ''

@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 5413.26
+    expenses: 45413.26
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -57,14 +57,16 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 65854.29
+    expenses: 68054.29
   - position: SUPPORT
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    funds: 10000.0
+    funds: 20000.0
     expenses: 0.0
 contributors:
+- - Alison Gelb Pincus
+  - 10000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
 - - Darshini Patel
@@ -82,8 +84,6 @@ contributors:
 - - Todd David
   - 1000.0
 - - Christin Evans
-  - 1000.0
-- - Paul Gaetani
   - 1000.0
 
 ---

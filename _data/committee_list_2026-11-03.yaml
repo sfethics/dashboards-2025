@@ -233,7 +233,7 @@ committees:
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
-- cmte_name: International Federation of Professional and Technical Engineers Local
+- cmte_name: International Federation of Professional and Technical Engineers - Local
     21 Tj Anthony PAC Fund
   cmte_fppcid: '881248'
   cmte_nid: '121714486'
@@ -280,7 +280,7 @@ committees:
 - cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
   cmte_fppcid: '1383218'
   cmte_nid: '160514558'
-- cmte_name: Ua Local 38 Cope Fund
+- cmte_name: U.a. Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
 - cmte_name: Uber Innovation Ballot Measure Committee
@@ -338,6 +338,9 @@ committees:
 - cmte_name: Govern for California Courage Committee
   cmte_fppcid: '1392639'
   cmte_nid: unknown
+- cmte_name: Grow SF Voter Guide Mailer
+  cmte_fppcid: '1486398'
+  cmte_nid: unknown
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '1056662'
   cmte_nid: unknown
@@ -384,6 +387,10 @@ committees:
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
   cmte_nid: unknown
+- cmte_name: Sheet Metal Workers' International Association Local Union No. 104 Issues
+    Committee
+  cmte_fppcid: '1351785'
+  cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
   cmte_nid: unknown
@@ -428,6 +435,9 @@ committees:
 - cmte_name: Jeffrey Lawson
   cmte_fppcid: '1409024'
   cmte_nid: '209506922'
+- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
+  cmte_fppcid: '1225686'
+  cmte_nid: '216724533'
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'

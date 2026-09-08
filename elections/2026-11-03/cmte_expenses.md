@@ -36,7 +36,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 134799.23
+  total_expense: 140699.23
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -56,7 +56,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 5413.26
+  total_expense: 45413.26
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -173,6 +173,11 @@ committees:
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
   total_expense: 2599.21
+- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
+  cmte_fppcid: '1225686'
+  cmte_nid: '216724533'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: FAIR HOUSING, YES ON I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
