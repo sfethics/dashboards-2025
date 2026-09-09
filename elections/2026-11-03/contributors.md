@@ -8,6 +8,14 @@ breadcrumbs:
 title: Top Contributors in the November 03, 2026 election
 threshold: 1000
 contributors:
+- tx_lastname: MICHAEL MORITZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2105595.78
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 2105595.78
 - tx_lastname: CHRISTIAN LARSEN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -23,14 +31,6 @@ contributors:
     cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
       SUPERVISOR 2026
     tx_amount: 500000.0
-- tx_lastname: MICHAEL MORITZ
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2005595.78
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 2005595.78
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1093,6 +1093,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
+- tx_lastname: MICHAEL R GLASER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1372,6 +1380,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
+- tx_lastname: ESTHER MARKS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1750.0
+  transactions:
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 1250.0
 - tx_lastname: MUHAMMAD MAHMOOD
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3400,6 +3419,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: NICHOLAS STERNGROVR
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: PATRICIA LEE
   tx_entitycode: Individual
   tx_cmteid: ''
