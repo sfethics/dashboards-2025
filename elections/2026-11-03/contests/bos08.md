@@ -42,13 +42,13 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 4677.5
+    expenses: 8010.83
   - position: SUPPORT
     filer_nid: '211792942'
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 45413.26
+    expenses: 55413.26
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -57,7 +57,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 68054.29
+    expenses: 71387.62
   - position: SUPPORT
     filer_nid: '217128861'
     filer_id: '1486185'

@@ -80,12 +80,12 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 500000.0
-  expenses: 67967.44
+  expenses: 71300.78
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 20000.0
-  expenses: 118145.05
+  expenses: 134811.71
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -96,13 +96,13 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 265340.53
-  funds: 397668.27
+  funds: 398918.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1107969.0
+  funds: 1111469.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -132,7 +132,7 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 9590595.78
+  funds: 9690595.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
@@ -140,7 +140,7 @@ measures:
   funds: 80000.0
 contributors_bm:
 - - Michael Moritz
-  - 2005595.78
+  - 2105595.78
 - - Christian Larsen
   - 1587500.0
 - - Lyna Lam
@@ -172,7 +172,7 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 140699.23
+  total_expense: 150699.23
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026

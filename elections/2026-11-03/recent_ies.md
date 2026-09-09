@@ -9,6 +9,34 @@ recent_ies:
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
+  tx_amount: 10000.0
+  tx_date: '2026-09-08'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 3333.34
+  tx_date: '2026-09-08'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: OPPOSE
+  tx_amount: 3333.33
+  tx_date: '2026-09-08'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 3333.33
+  tx_date: '2026-09-08'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
   tx_amount: 40000.0
   tx_date: '2026-09-04'
   attachment_url: ''
