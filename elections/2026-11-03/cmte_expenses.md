@@ -42,6 +42,11 @@ committees:
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 19323.079999999998
+- cmte_name: Benjamin Spero
+  cmte_fppcid: unknown
+  cmte_nid: '204547209'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
@@ -123,7 +128,7 @@ committees:
   cmte_nid: '215424978'
   committee_type: Candidate Controlled
   total_expense: 3582.29
-- cmte_name: GREAT HIGHWAY FOR EVERYONE
+- cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
   committee_type: Primarily Formed Measure
@@ -214,6 +219,12 @@ committees:
   cmte_nid: '217253424'
   committee_type: Primarily Formed Measure
   total_expense: 10000.0
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: unknown
+  cmte_nid: '217267598'
+  committee_type: Primarily Formed Candidate
+  total_expense: 25000.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'

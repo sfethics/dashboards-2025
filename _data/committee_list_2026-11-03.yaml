@@ -164,7 +164,7 @@ committees:
 - cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
-- cmte_name: Clean Up the Charter
+- cmte_name: Clean Up the Charter - Yes on a
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
 - cmte_name: Daniel Lurie Ballot Measure Committee - Safe, Affordable Muni for a Thriving
@@ -181,9 +181,6 @@ committees:
 - cmte_name: Fair Housing, Yes on I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
-- cmte_name: Great Highway for Everyone
-  cmte_fppcid: '1487005'
-  cmte_nid: '215573474'
 - cmte_name: No on a, Stop the Engardio Recall
   cmte_fppcid: '1477355'
   cmte_nid: '212872841'
@@ -193,9 +190,6 @@ committees:
 - cmte_name: No on Prop B - San Franciscans for Fiscal Responsibility
   cmte_fppcid: unknown
   cmte_nid: '217206996'
-- cmte_name: Our City Our Bank
-  cmte_fppcid: '1488530'
-  cmte_nid: '217045555'
 - cmte_name: San Francisco Parent Action PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -206,6 +200,9 @@ committees:
 - cmte_name: Tax Foreclosures, Yes on J
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
+- cmte_name: Yes on B, Our City Our Bank
+  cmte_fppcid: '1488530'
+  cmte_nid: '217045555'
 - cmte_name: Yes on C - San Franciscans for Affordable Homes, Sponsored by the Nph
     Action Fund
   cmte_fppcid: '1492671'
@@ -215,6 +212,9 @@ committees:
     of Commerce
   cmte_fppcid: unknown
   cmte_nid: '217233128'
+- cmte_name: Yes on G, Great Highway for Everyone
+  cmte_fppcid: '1487005'
+  cmte_nid: '215573474'
 - cmte_name: Yes on L, Fund the Bus
   cmte_fppcid: '1468797'
   cmte_nid: '211486142'
@@ -274,7 +274,7 @@ committees:
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
-- cmte_name: Teamsters Union Local No. 665 PAC
+- cmte_name: Teamsters Local Union No. 665 PAC
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
 - cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
@@ -423,6 +423,9 @@ committees:
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
+- cmte_name: Benjamin Spero
+  cmte_fppcid: unknown
+  cmte_nid: '204547209'
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'
@@ -444,6 +447,9 @@ committees:
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
+- cmte_name: Susie Tompkins Buell
+  cmte_fppcid: '498448'
+  cmte_nid: '151425904'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

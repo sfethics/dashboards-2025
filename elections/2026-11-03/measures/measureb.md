@@ -12,7 +12,7 @@ committees:
 - position: SUPPORT
   filer_nid: '217045555'
   filer_id: '1488530'
-  committee_name: OUR CITY OUR BANK
+  committee_name: YES ON B, OUR CITY OUR BANK
   funds: 4500.0
   expenses: ''
   ies: ''

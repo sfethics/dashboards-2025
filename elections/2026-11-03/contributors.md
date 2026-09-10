@@ -25,7 +25,7 @@ contributors:
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 1487500.0
   - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 100000.0
   - cmte_fppcid: unknown
     cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
@@ -186,6 +186,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 250000.0
+- tx_lastname: LAURA YAKOVENKO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 250000.0
 - tx_lastname: VISA, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -195,14 +203,6 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 250000.0
-- tx_lastname: LAURA YAKOVENKO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 200000.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 200000.0
 - tx_lastname: MICHELLE BOYERS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -409,14 +409,6 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 60000.0
-- tx_lastname: ANATOLY YAKOVENKO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 50000.0
 - tx_lastname: DAVID SINGER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -569,7 +561,7 @@ contributors:
   tx_amount: 15000.0
   transactions:
   - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 15000.0
 - tx_lastname: NICHOLAS JOSEFOWITZ
   tx_entitycode: Individual
@@ -611,7 +603,7 @@ contributors:
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 10000.0
 - tx_lastname: UA LOCAL 38 COPE FUND
   tx_entitycode: Committee
@@ -751,7 +743,7 @@ contributors:
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
   - cmte_fppcid: '1488530'
-    cmte_name: OUR CITY OUR BANK
+    cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2500.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
@@ -866,7 +858,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 5000.0
 - tx_lastname: EVAN WILLIIAMS
   tx_entitycode: Individual
@@ -890,7 +882,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 5000.0
 - tx_lastname: NEIGHBORS AND COMMUNITIES UNITED
   tx_entitycode: Other
@@ -978,7 +970,7 @@ contributors:
   tx_amount: 4990.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4990.0
 - tx_lastname: WEI SELENA CHU
   tx_entitycode: Individual
@@ -986,7 +978,7 @@ contributors:
   tx_amount: 4900.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4900.0
 - tx_lastname: ROBIN PAM
   tx_entitycode: Individual
@@ -1066,6 +1058,20 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1406838'
+  tx_amount: 3500.0
+  transactions:
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 2500.0
 - tx_lastname: AMY MORRIS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1117,6 +1123,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2500.0
+- tx_lastname: TEAMSTERS LOCAL UNION NO. 665 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1280975'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 2500.0
 - tx_lastname: BETTE WADSWORTH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1137,7 +1151,7 @@ contributors:
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1488530'
-    cmte_name: OUR CITY OUR BANK
+    cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 1000.0
 - tx_lastname: CARRIE BARNES
   tx_entitycode: Individual
@@ -1905,7 +1919,7 @@ contributors:
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 100.0
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
 - tx_lastname: BRUCE AGID
   tx_entitycode: Individual
@@ -2126,7 +2140,7 @@ contributors:
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 250.0
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
@@ -2146,7 +2160,7 @@ contributors:
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 150.0
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 250.0
   - cmte_fppcid: '1490256'
     cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
@@ -2272,7 +2286,7 @@ contributors:
   tx_amount: 1100.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1100.0
 - tx_lastname: FORREST LIU
   tx_entitycode: Individual
@@ -2649,7 +2663,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
 - tx_lastname: DAVID LANDIS
   tx_entitycode: Individual
@@ -3406,7 +3420,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1488530'
-    cmte_name: OUR CITY OUR BANK
+    cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 1000.0
 - tx_lastname: NICHOLAS COLINA
   tx_entitycode: Individual
@@ -3463,7 +3477,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
 - tx_lastname: PAUL MELBOSTAD
   tx_entitycode: Individual
@@ -3501,7 +3515,7 @@ contributors:
   tx_amount: 1000.0
   transactions:
   - cmte_fppcid: '1487005'
-    cmte_name: GREAT HIGHWAY FOR EVERYONE
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
 - tx_lastname: RACE BANNON
   tx_entitycode: Individual
@@ -3746,17 +3760,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1406838'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
 - tx_lastname: THOMAS HORN
   tx_entitycode: Individual

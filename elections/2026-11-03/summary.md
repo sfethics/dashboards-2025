@@ -122,7 +122,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 0.0
-  funds: 130000.0
+  funds: 135000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -143,9 +143,9 @@ contributors_bm:
   - 2105595.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
