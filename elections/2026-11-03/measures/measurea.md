@@ -12,8 +12,8 @@ committees:
 - position: SUPPORT
   filer_nid: '217079174'
   filer_id: '1493867'
-  committee_name: CLEAN UP THE CHARTER
-  funds: 130000.0
+  committee_name: CLEAN UP THE CHARTER - YES ON A
+  funds: 135000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -26,6 +26,10 @@ contributors:
   - 10000.0
 - - Erickson Silvanus O.
   - 5000.0
+- - Teamsters Local Union 350 PAC
+  - 2500.0
+- - Teamsters Local Union No. 665 PAC
+  - 2500.0
 
 ---
 

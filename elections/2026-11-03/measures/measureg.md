@@ -19,7 +19,7 @@ committees:
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
-  committee_name: GREAT HIGHWAY FOR EVERYONE
+  committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
   funds: 37596.0
   expenses: 26586.2
   ies: ''
@@ -28,11 +28,9 @@ contributors:
 - - Jeremy Stoppelman
   - 375000.0
 - - Laura Yakovenko
-  - 200000.0
+  - 250000.0
 - - Emmett Shear
   - 75000.0
-- - Anatoly Yakovenko
-  - 50000.0
 - - Benjamin Spero
   - 49900.0
 - - Wojciech Zaremba
@@ -45,6 +43,8 @@ contributors:
   - 20000.0
 - - Kid Safe SF
   - 18750.0
+- - Ian Storm Taylor
+  - 15000.0
 
 ---
 
