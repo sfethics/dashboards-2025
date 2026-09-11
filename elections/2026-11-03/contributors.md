@@ -233,6 +233,18 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: BENJAMIN SPERO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 149900.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 49900.0
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 100000.0
 - tx_lastname: JOHN FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -409,6 +421,17 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 60000.0
+- tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
+    KEVIN VERDI)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: unknown
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: DAVID SINGER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -452,14 +475,6 @@ contributors:
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
       ACTION FUND
     tx_amount: 50000.0
-- tx_lastname: BENJAMIN SPERO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 49900.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 49900.0
 - tx_lastname: WOJCIECH ZAREMBA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -594,6 +609,17 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 500.0
+- tx_lastname: KENDALL JESMER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_lastname: LAWRENCE CUSHMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -692,6 +718,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10000.0
+- tx_lastname: JOE GREEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_lastname: MICHAEL BRADLEY EISLER REVOCABLE TRUST
   tx_entitycode: Other
   tx_cmteid: ''
@@ -716,6 +750,22 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 10000.0
+- tx_lastname: SUSIE TOMPKINS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
+- tx_lastname: WEI SELENA CHU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 9900.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 9900.0
 - tx_lastname: CHRISTIN EVANS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -972,14 +1022,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4990.0
-- tx_lastname: WEI SELENA CHU
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 4900.0
-  transactions:
-  - cmte_fppcid: '1487005'
-    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 4900.0
 - tx_lastname: ROBIN PAM
   tx_entitycode: Individual
   tx_cmteid: ''

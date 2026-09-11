@@ -116,6 +116,9 @@ committees:
 - cmte_name: Monroe Lace for City College 2026
   cmte_fppcid: '1493786'
   cmte_nid: '217090585'
+- cmte_name: Matt Dorsey for DCCC Member 2024 Officeholder Committee
+  cmte_fppcid: '1463832'
+  cmte_nid: '208697921'
 - cmte_name: Nick Berg for Supervisor 2026
   cmte_fppcid: '1492180'
   cmte_nid: '216871542'
@@ -426,6 +429,9 @@ committees:
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
+- cmte_name: Core Urban Holdings LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217413116'
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'

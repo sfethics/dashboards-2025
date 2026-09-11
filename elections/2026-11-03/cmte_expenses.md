@@ -212,7 +212,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '217230896'
   committee_type: Major Donor
-  total_expense: 5000.0
+  total_expense: 10000.0
 - cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
   cmte_fppcid: unknown
@@ -225,6 +225,11 @@ committees:
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
   total_expense: 25000.0
+- cmte_name: Core Urban Holdings LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217413116'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
@@ -234,7 +239,7 @@ committees:
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 9974.6
+  total_expense: 10288.4
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
