@@ -62,12 +62,18 @@ ie_candidates:
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    funds: 20000.0
+    funds: 50000.0
     expenses: 0.0
 contributors:
+- - Kendall Jesmer
+  - 10500.0
 - - Alison Gelb Pincus
   - 10000.0
+- - Joe Green
+  - 10000.0
 - - Michael Bradley Eisler Revocable Trust
+  - 10000.0
+- - Susie Tompkins
   - 10000.0
 - - Darshini Patel
   - 2000.0
@@ -78,12 +84,6 @@ contributors:
 - - Marcy Adelman
   - 1000.0
 - - Race Bannon
-  - 1000.0
-- - Daniel Bergerac
-  - 1000.0
-- - Todd David
-  - 1000.0
-- - Christin Evans
   - 1000.0
 
 ---

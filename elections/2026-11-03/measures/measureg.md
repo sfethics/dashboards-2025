@@ -20,7 +20,7 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 37596.0
+  funds: 42596.0
   expenses: 26586.2
   ies: ''
 multi_committees: []

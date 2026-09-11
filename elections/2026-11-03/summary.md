@@ -84,14 +84,14 @@ candidate_ie:
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 20000.0
+  funds: 50000.0
   expenses: 134811.71
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 3802315.0
+  funds: 3902315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -102,7 +102,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1111469.0
+  funds: 1116469.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -137,29 +137,29 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 80000.0
+  funds: 130000.0
 contributors_bm:
 - - Michael Moritz
   - 2105595.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 700000.0
 contributors_cand:
 - - Christian Larsen
   - 500000.0
+- - Kendall Jesmer
+  - 10500.0
+- - Susie Tompkins
+  - 10000.0
+- - Joe Green
+  - 10000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
-- - Alison Gelb Pincus
-  - 10000.0
-- - Christin Evans
-  - 3000.0
-- - Gfc Courage Committee - San Francisco Chapter
-  - 2000.0
 top_cand_spends:
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
