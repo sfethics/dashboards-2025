@@ -68,11 +68,26 @@ ie_candidates:
   filer_id: '1491849'
   committees:
   - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 16784.32
+  - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
     expenses: 2921.17
+- candidate_name: TIM TUNG
+  filer_id: '1493505'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 33568.63
 contributors:
 - - Matthew Alexander
   - 500.0

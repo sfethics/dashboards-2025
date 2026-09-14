@@ -19,11 +19,11 @@ committees:
 multi_committees:
 - position: MULTIPLE
   filer_nid: '217233128'
-  filer_id: unknown
+  filer_id: '1495424'
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 130000.0
+  funds: 140000.0
   expenses: 0
 contributors:
 - - Dean Preston

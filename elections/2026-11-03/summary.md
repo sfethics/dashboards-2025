@@ -75,17 +75,17 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 42321.17
+  expenses: 92674.12
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 500000.0
-  expenses: 71300.78
+  expenses: 81300.78
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 50000.0
-  expenses: 134811.71
+  funds: 52500.0
+  expenses: 214156.52
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -122,45 +122,49 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 0.0
-  funds: 135000.0
+  funds: 295000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
   expenses: 0.0
-  funds: 50000.0
+  funds: 100000.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 9690595.78
+  funds: 9740595.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 130000.0
+  funds: 140000.0
 contributors_bm:
 - - Michael Moritz
-  - 2105595.78
+  - 2255595.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
   - 1000000.0
+- - Lyna Lam
+  - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
-  - 700000.0
+  - 750000.0
 contributors_cand:
 - - Christian Larsen
   - 500000.0
 - - Kendall Jesmer
   - 10500.0
-- - Susie Tompkins
-  - 10000.0
 - - Joe Green
   - 10000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
+- - Alison Gelb Pincus
+  - 10000.0
 top_cand_spends:
+- cmte_nid: '201619433'
+  cmte_fppcid: '1433436'
+  cmte_name: GrowSF Voter Guide
+  total_expense: 221052.18
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -169,18 +173,14 @@ top_cand_spends:
   cmte_fppcid: '1311218'
   cmte_name: United Educators of San Francisco Candidate PAC
   total_expense: 151803.94
-- cmte_nid: '201619433'
-  cmte_fppcid: '1433436'
-  cmte_name: GrowSF Voter Guide
-  total_expense: 150699.23
+- cmte_nid: '211792942'
+  cmte_fppcid: '1471862'
+  cmte_name: Building a Working SF Sponsored by Labor Organizations
+  total_expense: 124758.07
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
   total_expense: 94397.98
-- cmte_nid: '214808596'
-  cmte_fppcid: '1484091'
-  cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-  total_expense: 77400.01
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
