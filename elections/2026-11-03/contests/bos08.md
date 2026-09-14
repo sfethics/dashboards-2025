@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 55413.26
+    expenses: 124758.07
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -57,12 +57,12 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 71387.62
+    expenses: 81387.62
   - position: SUPPORT
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    funds: 50000.0
+    funds: 52500.0
     expenses: 0.0
 contributors:
 - - Kendall Jesmer
@@ -75,6 +75,8 @@ contributors:
   - 10000.0
 - - Susie Tompkins
   - 10000.0
+- - Carolyn Schwab-pomerantz
+  - 2500.0
 - - Darshini Patel
   - 2000.0
 - - Carrie Barnes
@@ -82,8 +84,6 @@ contributors:
 - - Kelly Kozak
   - 1050.0
 - - Marcy Adelman
-  - 1000.0
-- - Race Bannon
   - 1000.0
 
 ---

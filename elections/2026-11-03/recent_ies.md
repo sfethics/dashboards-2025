@@ -9,6 +9,62 @@ recent_ies:
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
+  tx_amount: 23522.14
+  tx_date: '2026-09-11'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421467?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 45000.0
+  tx_date: '2026-09-10'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 16666.67
+  tx_date: '2026-09-10'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 16666.67
+  tx_date: '2026-09-10'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421839?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 16666.66
+  tx_date: '2026-09-10'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421823?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_TIM%20TUNG
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 10000.0
+  tx_date: '2026-09-10'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 10000.0
+  tx_date: '2026-09-10'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 822.67
+  tx_date: '2026-09-10'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421467?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
   tx_amount: 10000.0
   tx_date: '2026-09-08'
   attachment_url: ''
@@ -54,6 +110,27 @@ recent_ies:
   tx_amount: 3235.29
   tx_date: '2026-09-02'
   attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 117.65
+  tx_date: '2026-09-02'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421839?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 117.65
+  tx_date: '2026-09-02'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 117.65
+  tx_date: '2026-09-02'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421823?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_TIM%20TUNG
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'

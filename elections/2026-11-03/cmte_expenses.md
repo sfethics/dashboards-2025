@@ -36,12 +36,12 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 150699.23
+  total_expense: 221052.18
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 19323.079999999998
+  total_expense: 19254.8
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -61,7 +61,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 55413.26
+  total_expense: 124758.07
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -221,7 +221,7 @@ committees:
   total_expense: 10000.0
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
   total_expense: 25000.0
@@ -230,11 +230,16 @@ committees:
   cmte_nid: '217413116'
   committee_type: Major Donor
   total_expense: 50000.0
+- cmte_name: Kendall Jesmer
+  cmte_fppcid: unknown
+  cmte_nid: '217413576'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 10000.0
+  total_expense: 255000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'

@@ -20,7 +20,7 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 9690595.78
+  funds: 9740595.78
   expenses: 5487991.48
   ies: ''
 multi_committees: []
@@ -33,11 +33,11 @@ contributors:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
+- - Emerson Collective Llc(diedra Nelson)
+  - 550000.0
 - - L. John Doerr Iii
   - 500000.0
 - - Dagmar Dolby
-  - 500000.0
-- - Emerson Collective Llc(diedra Nelson)
   - 500000.0
 - - John Wolthuis
   - 500000.0

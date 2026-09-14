@@ -155,11 +155,11 @@ committees:
   cmte_nid: '216621779'
 - cmte_name: Families for a Vibrant SF Supporting Ellington for Supervisor, 2026 -
     Sponsored by Abundance Network
-  cmte_fppcid: unknown
+  cmte_fppcid: '1495594'
   cmte_nid: '217269106'
 - cmte_name: From the Neighborhood, for the City, Supporting Theo Ellington for Supervisor
     2026
-  cmte_fppcid: unknown
+  cmte_fppcid: '1495589'
   cmte_nid: '217267598'
 - cmte_name: Team Manny, Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1486185'
@@ -213,7 +213,7 @@ committees:
 - cmte_name: Yes on C, No on I, SF for Accountability in Housing Sponsored by the
     San Francisco Building and Construction Trades Council and the San Francisco Chamber
     of Commerce
-  cmte_fppcid: unknown
+  cmte_fppcid: '1495424'
   cmte_nid: '217233128'
 - cmte_name: Yes on G, Great Highway for Everyone
   cmte_fppcid: '1487005'
@@ -301,6 +301,9 @@ committees:
 - cmte_name: Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb,
     Inc.
   cmte_fppcid: '1437557'
+  cmte_nid: unknown
+- cmte_name: Connect Bay Area Transit
+  cmte_fppcid: '1483907'
   cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'
@@ -444,9 +447,15 @@ committees:
 - cmte_name: Jeffrey Lawson
   cmte_fppcid: '1409024'
   cmte_nid: '209506922'
+- cmte_name: Kendall Jesmer
+  cmte_fppcid: unknown
+  cmte_nid: '217413576'
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
+- cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
+  cmte_fppcid: '1378400'
+  cmte_nid: '182511724'
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'

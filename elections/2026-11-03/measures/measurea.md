@@ -13,16 +13,20 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 135000.0
+  funds: 295000.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
+- - Michael Moritz
+  - 150000.0
 - - Christian Larsen
   - 100000.0
 - - Tmg Partners R.e., Llc(michael Covarrubias)
   - 15000.0
 - - Lawrence Cushman
+  - 10000.0
+- - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
 - - Erickson Silvanus O.
   - 5000.0
