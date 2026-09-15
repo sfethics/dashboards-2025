@@ -27,6 +27,12 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 10000.0
+- cmte_name: Tenants and Owners Development Corporation and its affiliated entity
+    Yerba Buena Neighborhood Consortium LLC
+  cmte_fppcid: unknown
+  cmte_nid: '162062420'
+  committee_type: Major Donor
+  total_expense: 15000.0
 - cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -61,7 +67,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 124758.07
+  total_expense: 139758.07
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -77,7 +83,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 1077112.6
+  total_expense: 1078738.42
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -260,6 +266,11 @@ committees:
   cmte_nid: '6685673'
   committee_type: General Purpose
   total_expense: 151803.94
+- cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+  cmte_fppcid: '1296947'
+  cmte_nid: '6685874'
+  committee_type: General Purpose
+  total_expense: 100000.0
 
 ---
 

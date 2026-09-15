@@ -14,7 +14,7 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 482710.48
+  funds: 512710.48
   expenses: ''
   ies: ''
 multi_committees:
@@ -33,6 +33,11 @@ contributors:
   - 50000.0
 - - Matthew Paige
   - 25000.0
+- - Tenants and Owners Development Corporation and Its Affiliated Entity Yerba Buena
+    Neighborhood Consortium LLC
+  - 25000.0
+- - David Baker, An Architectural Corporation
+  - 5000.0
 
 ---
 

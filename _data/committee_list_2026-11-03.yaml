@@ -271,6 +271,9 @@ committees:
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
+- cmte_name: Service Employees International Union Local 1021 Issues PAC
+  cmte_fppcid: '1296947'
+  cmte_nid: '6685874'
 - cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
@@ -295,6 +298,9 @@ committees:
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
+- cmte_name: Affordable Redwood City Sponsored by Faith in Action Bay Area
+  cmte_fppcid: '1464366'
+  cmte_nid: unknown
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
   cmte_nid: unknown
@@ -302,8 +308,8 @@ committees:
     Inc.
   cmte_fppcid: '1437557'
   cmte_nid: unknown
-- cmte_name: Connect Bay Area Transit
-  cmte_fppcid: '1483907'
+- cmte_name: Fair Access No on D
+  cmte_fppcid: '1494110'
   cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'
@@ -429,6 +435,9 @@ committees:
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
+- cmte_name: Yes on Rtm - Connect Bay Area Transit
+  cmte_fppcid: '1483907'
+  cmte_nid: unknown
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -465,6 +474,10 @@ committees:
 - cmte_name: Susie Tompkins Buell
   cmte_fppcid: '498448'
   cmte_nid: '151425904'
+- cmte_name: Tenants and Owners Development Corporation and Its Affiliated Entity
+    Yerba Buena Neighborhood Consortium LLC
+  cmte_fppcid: unknown
+  cmte_nid: '162062420'
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

@@ -13,13 +13,17 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 4500.0
+  funds: 9030.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - Christin Evans
   - 2500.0
+- - Jeff May
+  - 2500.0
+- - San Francisco Public Bank Coalition
+  - 2030.0
 - - Brandee Marckmann
   - 1000.0
 - - National Union of Healthcare Workers
