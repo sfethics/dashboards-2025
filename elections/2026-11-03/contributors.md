@@ -477,6 +477,14 @@ contributors:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
+- tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1296947'
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 50000.0
 - tx_lastname: THE SAN FRANCISCO FOUNDATION
   tx_entitycode: Other
   tx_cmteid: ''
@@ -526,6 +534,16 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
+    tx_amount: 25000.0
+- tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION AND ITS AFFILIATED ENTITY
+    YERBA BUENA NEIGHBORHOOD CONSORTIUM LLC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
     tx_amount: 25000.0
 - tx_lastname: U.A. LOCAL 38 COPE FUND
   tx_entitycode: Committee
@@ -926,6 +944,15 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 5000.0
+- tx_lastname: DAVID BAKER, AN ARCHITECTURAL CORPORATION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 5000.0
 - tx_lastname: ERICKSON SILVANUS O.
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1173,6 +1200,28 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
+- tx_lastname: JEFF MAY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 2500.0
+- tx_lastname: LISA PRITZKER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 1500.0
 - tx_lastname: MICHAEL R GLASER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1213,6 +1262,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2100.0
+- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 2030.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 2030.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1387,6 +1444,14 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: MICHAEL HORVATH
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 2000.0
 - tx_lastname: NICK PODELL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1404,6 +1469,14 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: PATRICK SKAIN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 2000.0
 - tx_lastname: PAUL GAETANI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2493,6 +2566,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
+- tx_lastname: ANDREW SEIGNER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: ANNA MORFIT
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3269,17 +3350,6 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: LISA PRITZKER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: LISA RATNER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3544,14 +3614,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 1000.0
-- tx_lastname: PATRICK SKAIN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1487005'
-    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
 - tx_lastname: PAUL MELBOSTAD
   tx_entitycode: Individual

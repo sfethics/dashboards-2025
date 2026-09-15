@@ -84,8 +84,8 @@ candidate_ie:
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 52500.0
-  expenses: 214156.52
+  funds: 54000.0
+  expenses: 229156.52
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -102,12 +102,12 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1116469.0
+  funds: 1120469.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 0.0
-  funds: 482710.48
+  funds: 512710.48
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -117,7 +117,7 @@ measures:
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 0.0
-  funds: 4500.0
+  funds: 9030.0
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
@@ -127,7 +127,7 @@ measures:
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
   expenses: 0.0
-  funds: 100000.0
+  funds: 150000.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
@@ -143,9 +143,9 @@ contributors_bm:
   - 2255595.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 750000.0
@@ -176,7 +176,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 124758.07
+  total_expense: 139758.07
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -190,7 +190,7 @@ top_bm_spends:
   cmte_fppcid: '1479782'
   cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
     SAN FRANCISCO
-  total_expense: 1077112.6
+  total_expense: 1078738.42
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy

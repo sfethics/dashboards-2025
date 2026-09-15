@@ -13,7 +13,7 @@ committees:
   filer_nid: '217091337'
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J
-  funds: 100000.0
+  funds: 150000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -21,6 +21,8 @@ contributors:
 - - Saikat Chakrabarti
   - 50000.0
 - - Service Employees International Union - Seiu Local 2015 Issues PAC
+  - 50000.0
+- - Service Employees International Union Local 1021 Issues PAC
   - 50000.0
 
 ---
