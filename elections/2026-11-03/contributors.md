@@ -369,6 +369,15 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: SIERRA TECHNOLOGIES, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 100000.0
 - tx_lastname: UBER INNOVATION BALLOT MEASURE COMMITTEE
   tx_entitycode: Committee
   tx_cmteid: '1466153'
@@ -484,6 +493,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 50000.0
+- tx_lastname: THE PRADO GROUP, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: THE SAN FRANCISCO FOUNDATION
   tx_entitycode: Other
