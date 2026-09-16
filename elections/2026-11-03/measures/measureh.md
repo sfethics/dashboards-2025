@@ -14,7 +14,7 @@ committees:
   filer_id: '1479782'
   committee_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
     A THRIVING SAN FRANCISCO
-  funds: 3902315.0
+  funds: 4002315.0
   expenses: 1077112.6
   ies: ''
 multi_committees: []
