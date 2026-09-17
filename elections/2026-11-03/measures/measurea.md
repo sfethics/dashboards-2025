@@ -13,7 +13,7 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 295000.0
+  funds: 300000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -28,6 +28,8 @@ contributors:
   - 10000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
+- - San Francisco Broadway Showgirls Club
+  - 5000.0
 - - Erickson Silvanus O.
   - 5000.0
 - - Teamsters Local Union 350 PAC

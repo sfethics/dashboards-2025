@@ -166,6 +166,15 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 350000.0
+- tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_entitycode: Committee
+  tx_cmteid: '891575'
+  tx_amount: 285000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 285000.0
 - tx_lastname: MATTHEW PAIGE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -424,15 +433,6 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 50000.0
-- tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_entitycode: Committee
-  tx_cmteid: '891575'
-  tx_amount: 60000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
-    tx_amount: 60000.0
 - tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
     KEVIN VERDI)'
   tx_entitycode: Other
@@ -1029,6 +1029,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
+- tx_lastname: SAN FRANCISCO BROADWAY SHOWGIRLS CLUB
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 5000.0
 - tx_lastname: SHEET METAL WORKERS' INTERNATIONAL ASSOCIATION LOCAL UNION NO. 104
     ISSUES COMMITTEE
   tx_entitycode: Committee
@@ -1120,6 +1128,15 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 4057.0
+- tx_lastname: TRANSPORT WORKERS UNION LOCAL 200 COPE
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 4000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 4000.0
 - tx_lastname: ANDRES SALERNO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1203,6 +1220,14 @@ contributors:
   - cmte_fppcid: '1482285'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: ALAN PRESTON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 2500.0
 - tx_lastname: CAROLYN SCHWAB-POMERANTZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1210,6 +1235,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 2500.0
+- tx_lastname: GLEN VAN LEHN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
 - tx_lastname: JAMES STEARNS
   tx_entitycode: Individual
@@ -1273,6 +1306,20 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 2500.0
+- tx_lastname: HEATHER DAVIES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2130.0
+  transactions:
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 280.0
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1350.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 500.0
 - tx_lastname: BETTE WADSWORTH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1571,6 +1618,20 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1250.0
+- tx_lastname: JULIE PITTA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1650.0
+  transactions:
+  - cmte_fppcid: '1487291'
+    cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 150.0
 - tx_lastname: MUHAMMAD MAHMOOD
   tx_entitycode: Individual
   tx_cmteid: ''

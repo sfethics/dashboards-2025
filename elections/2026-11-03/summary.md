@@ -91,18 +91,18 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 4002315.0
+  funds: 4231315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 265340.53
-  funds: 398918.27
+  funds: 403918.27
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1120469.0
+  funds: 1122719.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -122,7 +122,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 0.0
-  funds: 295000.0
+  funds: 300000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -199,10 +199,10 @@ top_bm_spends:
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   total_expense: 735412.62
-- cmte_nid: '216747316'
-  cmte_fppcid: '1490845'
-  cmte_name: FAIR HOUSING, YES ON I
-  total_expense: 255340.53
+- cmte_nid: '209507341'
+  cmte_fppcid: '1478129'
+  cmte_name: Saikat Chakrabarti
+  total_expense: 350000.0
 
 ---
 
