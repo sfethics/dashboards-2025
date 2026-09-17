@@ -57,7 +57,7 @@ committees:
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
   committee_type: Major Donor
-  total_expense: 50000.0
+  total_expense: 350000.0
 - cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
