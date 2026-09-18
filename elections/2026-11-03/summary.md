@@ -79,7 +79,7 @@ candidate_ie:
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 1000000.0
+  funds: 500000.0
   expenses: 87375.78
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
@@ -151,7 +151,7 @@ contributors_bm:
   - 750000.0
 contributors_cand:
 - - Christian Larsen
-  - 1000000.0
+  - 500000.0
 - - Kendall Jesmer
   - 10500.0
 - - Joe Green
