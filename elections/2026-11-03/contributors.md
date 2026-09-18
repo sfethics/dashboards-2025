@@ -8,21 +8,6 @@ breadcrumbs:
 title: Top Contributors in the November 03, 2026 election
 threshold: 1000
 contributors:
-- tx_lastname: CHRISTIAN LARSEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2587500.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 1487500.0
-  - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER - YES ON A
-    tx_amount: 100000.0
-  - cmte_fppcid: '1495589'
-    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
-      SUPERVISOR 2026
-    tx_amount: 1000000.0
 - tx_lastname: MICHAEL MORITZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -34,6 +19,21 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 150000.0
+- tx_lastname: CHRISTIAN LARSEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2087500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1487500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 100000.0
+  - cmte_fppcid: '1495589'
+    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
+      SUPERVISOR 2026
+    tx_amount: 500000.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
