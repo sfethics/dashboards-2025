@@ -280,6 +280,10 @@ committees:
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
+- cmte_name: San Francisco Labor & Neighbor Member Education/political Issues Committee,
+    Sponsored by the San Francisco Labor Council
+  cmte_fppcid: '970630'
+  cmte_nid: '6673760'
 - cmte_name: Teamsters Local Union No. 665 PAC
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
@@ -377,6 +381,10 @@ committees:
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Members' Voice of the State Building and Construction Trades Council
+    of California
+  cmte_fppcid: '980162'
   cmte_nid: unknown
 - cmte_name: Our Kids Our Future PAC
   cmte_fppcid: PENDING

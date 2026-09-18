@@ -54,7 +54,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 12933.33
+    expenses: 14548.48
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:
@@ -63,7 +63,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 13233.33
+    expenses: 14848.48
 - candidate_name: AUTUMN BROWN GARIBAY
   filer_id: '1491849'
   committees:

@@ -8,6 +8,21 @@ breadcrumbs:
 title: Top Contributors in the November 03, 2026 election
 threshold: 1000
 contributors:
+- tx_lastname: CHRISTIAN LARSEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2587500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 1487500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 100000.0
+  - cmte_fppcid: '1495589'
+    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
+      SUPERVISOR 2026
+    tx_amount: 1000000.0
 - tx_lastname: MICHAEL MORITZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -19,21 +34,6 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 150000.0
-- tx_lastname: CHRISTIAN LARSEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2087500.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 1487500.0
-  - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER - YES ON A
-    tx_amount: 100000.0
-  - cmte_fppcid: '1495589'
-    cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
-      SUPERVISOR 2026
-    tx_amount: 500000.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -166,6 +166,20 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 350000.0
+- tx_lastname: SAIKAT CHAKRABARTI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 350000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 150000.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 150000.0
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 50000.0
 - tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_entitycode: Committee
   tx_cmteid: '891575'
@@ -470,13 +484,16 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 50000.0
-- tx_lastname: SAIKAT CHAKRABARTI
-  tx_entitycode: Individual
-  tx_cmteid: ''
+- tx_lastname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL
+    OF CALIFORNIA
+  tx_entitycode: Committee
+  tx_cmteid: '980162'
   tx_amount: 50000.0
   transactions:
-  - cmte_fppcid: '1493873'
-    cmte_name: TAX FORECLOSURES, YES ON J
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee

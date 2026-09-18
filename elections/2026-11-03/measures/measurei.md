@@ -13,7 +13,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 403918.27
+  funds: 553918.27
   expenses: 255340.53
   ies: ''
 multi_committees:
@@ -23,9 +23,11 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 190000.0
+  funds: 240000.0
   expenses: 0
 contributors:
+- - Saikat Chakrabarti
+  - 150000.0
 - - Dean Preston
   - 117500.0
 - - Dylan Hirsch-shell
@@ -44,8 +46,6 @@ contributors:
   - 10000.0
 - - Anne Richards
   - 7300.0
-- - Andrew Mccoy
-  - 7000.0
 
 ---
 
