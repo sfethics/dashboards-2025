@@ -36,14 +36,14 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 78100.78
+    expenses: 79100.78
   - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
-    funds: 500000.0
-    expenses: 0.0
+    funds: 1000000.0
+    expenses: 5075.0
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
   committees:
@@ -55,7 +55,7 @@ ie_candidates:
     expenses: 3200.0
 contributors:
 - - Christian Larsen
-  - 500000.0
+  - 1000000.0
 - - Anne Cervantes
   - 1000.0
 - - Nicholas Colina
