@@ -32,14 +32,14 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 751923.0
-  expenses: 180904.29
+  funds: 752299.5
+  expenses: 181226.92
   ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1249558.43
+  funds: 1311778.43
   expenses: 367863.2
   ies: ''
 - committee_type: candidate
@@ -60,8 +60,8 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 41770.1
-  expenses: 13832.24
+  funds: 45075.1
+  expenses: 16783.68
   ies: ''
 - committee_type: candidate
   contest_nid: '216963967'
@@ -84,8 +84,8 @@ candidate_ie:
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 54000.0
-  expenses: 230156.52
+  funds: 104000.0
+  expenses: 253156.52
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -102,17 +102,17 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1122719.0
+  funds: 1148719.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 0.0
-  funds: 512710.48
+  funds: 537710.48
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
   expenses: 0.0
-  funds: 2000.0
+  funds: 84000.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
@@ -132,35 +132,39 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 9740595.78
+  funds: 10090595.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 240000.0
+  funds: 255000.0
 contributors_bm:
 - - Michael Moritz
   - 2255595.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
   - 500000.0
+- - SF Believes
+  - 50000.0
 - - Kendall Jesmer
   - 10500.0
-- - Joe Green
+- - Susie Tompkins
   - 10000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
-- - Alison Gelb Pincus
-  - 10000.0
 top_cand_spends:
+- cmte_nid: '215606983'
+  cmte_fppcid: '1487286'
+  cmte_name: SF BELIEVES
+  total_expense: 813138.2
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
@@ -169,18 +173,14 @@ top_cand_spends:
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 220359.53
+- cmte_nid: '211792942'
+  cmte_fppcid: '1471862'
+  cmte_name: Building a Working SF Sponsored by Labor Organizations
+  total_expense: 162758.07
 - cmte_nid: '6685673'
   cmte_fppcid: '1311218'
   cmte_name: United Educators of San Francisco Candidate PAC
   total_expense: 156649.39
-- cmte_nid: '211792942'
-  cmte_fppcid: '1471862'
-  cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 139758.07
-- cmte_nid: '214783692'
-  cmte_fppcid: '1484080'
-  cmte_name: GARY MC COY FOR SUPERVISOR 2026
-  total_expense: 94397.98
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

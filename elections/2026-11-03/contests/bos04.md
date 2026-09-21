@@ -25,11 +25,15 @@ candidates:
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
   candidate_name: JEREMY GRECO
-  funds: 1100.0
-  expenses: 617.68
+  funds: 4405.0
+  expenses: 3569.12
 ie_candidates: []
 contributors:
+- - Christin Evans
+  - 1000.0
 - - Ralph Lane
+  - 1000.0
+- - Esther Marks
   - 1000.0
 - - Daniel Anderson
   - 500.0
@@ -44,10 +48,6 @@ contributors:
 - - Johnny Cheng
   - 500.0
 - - Wendy Cheng
-  - 500.0
-- - Christin Evans
-  - 500.0
-- - Amy Fong
   - 500.0
 
 ---

@@ -19,7 +19,7 @@ candidates:
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 260136.0
+  funds: 322356.0
   expenses: 94397.98
 - filer_nid: '214884831'
   filer_id: '1484606'
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 139758.07
+    expenses: 162758.07
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -62,9 +62,11 @@ ie_candidates:
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    funds: 54000.0
+    funds: 104000.0
     expenses: 0.0
 contributors:
+- - SF Believes
+  - 50000.0
 - - Kendall Jesmer
   - 10500.0
 - - Alison Gelb Pincus
@@ -83,8 +85,6 @@ contributors:
   - 2000.0
 - - Carrie Barnes
   - 1500.0
-- - Kelly Kozak
-  - 1050.0
 
 ---
 

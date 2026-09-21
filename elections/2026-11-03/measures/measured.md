@@ -13,7 +13,7 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 2000.0
+  funds: 84000.0
   expenses: ''
   ies: ''
 multi_committees:
@@ -21,9 +21,13 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 9740595.78
+  funds: 10090595.78
   expenses: 5487991.48
 contributors:
+- - Tenants and Owners Development Corporation
+  - 80000.0
+- - Alexander Maldonado
+  - 2000.0
 - - Dale Carlson
   - 1000.0
 - - Douglas Engmann

@@ -198,7 +198,7 @@ committees:
   cmte_nid: '201848961'
 - cmte_name: San Francisco Dsa (Nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
-  cmte_fppcid: unknown
+  cmte_fppcid: '1496058'
   cmte_nid: '217253424'
 - cmte_name: Tax Foreclosures, Yes on J
   cmte_fppcid: '1493873'
@@ -274,6 +274,9 @@ committees:
 - cmte_name: Service Employees International Union Local 1021 Issues PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
+- cmte_name: SF Believes
+  cmte_fppcid: '1487286'
+  cmte_nid: '215606983'
 - cmte_name: SF Forward Sponsored by the San Francisco Chamber of Commerce
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
