@@ -32,7 +32,7 @@ committees:
   cmte_fppcid: '1433587'
   cmte_nid: '162062420'
   committee_type: Major Donor
-  total_expense: 40000.0
+  total_expense: 120000.0
 - cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -67,7 +67,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 139758.07
+  total_expense: 162758.07
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -94,6 +94,11 @@ committees:
   cmte_nid: '214577156'
   committee_type: Candidate Controlled
   total_expense: 42071.67
+- cmte_name: P.J BASTIANY FOR SUPERVISOR 2026
+  cmte_fppcid: '1481624'
+  cmte_nid: '214611048'
+  committee_type: Candidate Controlled
+  total_expense: 322.63
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
@@ -149,6 +154,11 @@ committees:
   cmte_nid: '215593851'
   committee_type: Candidate Controlled
   total_expense: 5802.01
+- cmte_name: SF BELIEVES
+  cmte_fppcid: '1487286'
+  cmte_nid: '215606983'
+  committee_type: General Purpose
+  total_expense: 1053138.2
 - cmte_name: DARSHINI PATEL FOR SUPERVISOR 2026
   cmte_fppcid: '1488280'
   cmte_nid: '215728828'
@@ -198,7 +208,7 @@ committees:
   cmte_fppcid: '1491969'
   cmte_nid: '216781160'
   committee_type: Candidate Controlled
-  total_expense: 617.68
+  total_expense: 3569.12
 - cmte_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
@@ -221,7 +231,7 @@ committees:
   total_expense: 10000.0
 - cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
-  cmte_fppcid: unknown
+  cmte_fppcid: '1496058'
   cmte_nid: '217253424'
   committee_type: Primarily Formed Measure
   total_expense: 10000.0

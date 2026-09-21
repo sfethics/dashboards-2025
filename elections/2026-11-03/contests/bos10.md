@@ -21,6 +21,12 @@ candidates:
   candidate_name: J.R. EPPLER
   funds: 150509.0
   expenses: 42071.67
+- filer_nid: '214611048'
+  filer_id: '1481624'
+  committee_name: P.J BASTIANY FOR SUPERVISOR 2026
+  candidate_name: PEARCI BASTIANY
+  funds: 376.5
+  expenses: 322.63
 - filer_nid: '214808596'
   filer_id: '1484091'
   committee_name: THEO ELLINGTON FOR SUPERVISOR 2026

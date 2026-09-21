@@ -13,7 +13,7 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1076873.0
+  funds: 1102873.0
   expenses: 735412.62
   ies: ''
 - position: SUPPORT
@@ -39,12 +39,12 @@ contributors:
   - 25000.0
 - - Friends of Great Highway Park, Inc. dba Friends of Sunset Dunes
   - 25000.0
+- - Fund for a Better Future Inc.
+  - 25000.0
 - - Michel Krieger
   - 20000.0
 - - Kid Safe SF
   - 18750.0
-- - Ian Storm Taylor
-  - 15000.0
 
 ---
 

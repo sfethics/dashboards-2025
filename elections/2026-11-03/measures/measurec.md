@@ -14,7 +14,7 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 512710.48
+  funds: 537710.48
   expenses: ''
   ies: ''
 multi_committees:
@@ -24,7 +24,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 240000.0
+  funds: 255000.0
   expenses: 0
 contributors:
 - - Nph Action Fund Political Issues Committee
@@ -32,6 +32,8 @@ contributors:
 - - the San Francisco Foundation
   - 50000.0
 - - Matthew Paige
+  - 25000.0
+- - Sequoia Living
   - 25000.0
 - - Tenants and Owners Development Corporation and Its Affiliated Entity Yerba Buena
     Neighborhood Consortium LLC

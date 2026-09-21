@@ -20,7 +20,7 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 9740595.78
+  funds: 10090595.78
   expenses: 5487991.48
   ies: ''
 multi_committees: []
@@ -43,7 +43,7 @@ contributors:
   - 500000.0
 - - Michael Seibel
   - 450000.0
-- - Matthew Paige
+- - Alfred Lin
   - 250000.0
 
 ---

@@ -204,6 +204,14 @@ contributors:
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
       ACTION FUND
     tx_amount: 25000.0
+- tx_lastname: ALFRED LIN
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 250000.0
 - tx_lastname: ANTHONY SALEWSKI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -349,6 +357,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: ANDREW RICHARD DUDUM
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    tx_amount: 100000.0
 - tx_lastname: ANOTHER PLANET ENTERTAINMENT LLC(GREGG PERLOFF)
   tx_entitycode: Other
   tx_cmteid: ''
@@ -410,6 +426,14 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 100000.0
+- tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 80000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 80000.0
 - tx_lastname: AUTODESK
   tx_entitycode: Other
   tx_cmteid: ''
@@ -511,6 +535,14 @@ contributors:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
+- tx_lastname: SF BELIEVES
+  tx_entitycode: Committee
+  tx_cmteid: '1487286'
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 50000.0
 - tx_lastname: THE PRADO GROUP, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -562,6 +594,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 25000.0
+- tx_lastname: FUND FOR A BETTER FUTURE INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 25000.0
 - tx_lastname: HANSON BRIDGETT LLP
   tx_entitycode: Other
   tx_cmteid: ''
@@ -570,6 +610,15 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
+    tx_amount: 25000.0
+- tx_lastname: SEQUOIA LIVING
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
     tx_amount: 25000.0
 - tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION AND ITS AFFILIATED ENTITY
     YERBA BUENA NEIGHBORHOOD CONSORTIUM LLC
@@ -647,6 +696,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 15000.0
+- tx_lastname: REUBEN, JUNIUS & ROSE LLP
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 15000.0
 - tx_lastname: TMG PARTNERS R.E., LLC(MICHAEL COVARRUBIAS)
   tx_entitycode: Other
@@ -847,7 +906,7 @@ contributors:
 - tx_lastname: CHRISTIN EVANS
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 8000.0
+  tx_amount: 8500.0
   transactions:
   - cmte_fppcid: '1482707'
     cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
@@ -870,6 +929,9 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
+  - cmte_fppcid: '1491969'
+    cmte_name: GRECO FOR SUPERVISOR 2026
+    tx_amount: 500.0
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2500.0
@@ -1323,6 +1385,20 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 2500.0
+- tx_lastname: ESTHER MARKS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2250.0
+  transactions:
+  - cmte_fppcid: '1490199'
+    cmte_name: GEE FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 1250.0
+  - cmte_fppcid: '1491969'
+    cmte_name: GRECO FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_lastname: HEATHER DAVIES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1353,6 +1429,14 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2030.0
+- tx_lastname: ALEXANDER MALDONADO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 2000.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1624,17 +1708,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
-- tx_lastname: ESTHER MARKS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1750.0
-  transactions:
-  - cmte_fppcid: '1490199'
-    cmte_name: GEE FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 1250.0
 - tx_lastname: JULIE PITTA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3950,6 +4023,14 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: STEVEN CHAPMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: SUSAN HIRSCH
   tx_entitycode: Individual
   tx_cmteid: ''
