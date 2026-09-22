@@ -154,7 +154,7 @@ committees:
   cmte_nid: '215593851'
   committee_type: Candidate Controlled
   total_expense: 5802.01
-- cmte_name: SF BELIEVES
+- cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
   committee_type: General Purpose

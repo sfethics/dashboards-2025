@@ -102,7 +102,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1148719.0
+  funds: 1154719.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -112,12 +112,12 @@ measures:
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
   expenses: 0.0
-  funds: 84000.0
+  funds: 109000.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 0.0
-  funds: 159030.0
+  funds: 164030.0
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
@@ -132,7 +132,7 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 10090595.78
+  funds: 10120595.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
@@ -143,9 +143,9 @@ contributors_bm:
   - 2255595.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 750000.0
@@ -163,7 +163,7 @@ contributors_cand:
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
-  cmte_name: SF BELIEVES
+  cmte_name: SF Believes
   total_expense: 813138.2
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
