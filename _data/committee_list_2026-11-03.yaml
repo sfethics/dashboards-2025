@@ -366,6 +366,9 @@ committees:
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '1056662'
   cmte_nid: unknown
+- cmte_name: International Federation Professional Technical Engineers
+  cmte_fppcid: '1362080'
+  cmte_nid: unknown
 - cmte_name: International Union of Elevator Constructors Local 8 PAC Sponsored by
     International Union of Elevator Constructors Local 8
   cmte_fppcid: '1220653'
