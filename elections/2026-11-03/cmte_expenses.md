@@ -193,7 +193,7 @@ committees:
   cmte_fppcid: '1490256'
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
-  total_expense: 2599.21
+  total_expense: 8142.7
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -251,11 +251,27 @@ committees:
   cmte_nid: '217413576'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: Lea Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441115'
+  committee_type: Major Donor
+  total_expense: 12499.99
+- cmte_name: Andrew Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441594'
+  committee_type: Major Donor
+  total_expense: 87500.01
+- cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
+    COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
+  cmte_fppcid: '970432'
+  cmte_nid: '6667768'
+  committee_type: General Purpose
+  total_expense: 65000.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 255000.0
+  total_expense: 469000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'

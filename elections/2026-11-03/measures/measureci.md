@@ -20,7 +20,7 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 255000.0
+  funds: 265000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -37,6 +37,8 @@ contributors:
   - 25000.0
 - - Reuben, Junius & Rose Llp
   - 15000.0
+- - Operating Engineers Local Union No. 3 Issues Advocacy/ballot Initiative PAC
+  - 10000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
 - - Sheet Metal Workers' International Association Local Union No. 104 Issues Committee
