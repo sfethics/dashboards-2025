@@ -39,7 +39,7 @@
      (candidate_committee, committee, major_donor, slate_mailer) -->
     {% if page.layout == "election" %}
       <script src="/assets/js/tables_election.js"></script>
-    {% elsif page.layout == "contest_candidate" %}
+    {% elsif page.layout == "contest_candidate" or page.layout == "contest_candidate_multi" %}
       <script src="/assets/js/tables_contest_candidate.js"></script>
     {% elsif page.layout == "contest_bmc" %}
       <script src="/assets/js/tables_contest_bmc.js"></script>
