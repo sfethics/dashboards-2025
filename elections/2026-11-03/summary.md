@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 35885.55
-  expenses: 18765.65
+  funds: 49634.66
+  expenses: 24309.14
   ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
@@ -91,7 +91,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 4231315.0
+  funds: 4506315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -122,7 +122,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 0.0
-  funds: 300000.0
+  funds: 310000.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -132,12 +132,12 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 5487991.48
-  funds: 10120595.78
+  funds: 10420595.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 255000.0
+  funds: 265000.0
 contributors_bm:
 - - Michael Moritz
   - 2255595.78
@@ -156,9 +156,9 @@ contributors_cand:
   - 50000.0
 - - Kendall Jesmer
   - 10500.0
-- - Susie Tompkins
+- - Joe Green
   - 10000.0
-- - Michael Bradley Eisler Revocable Trust
+- - Susie Tompkins
   - 10000.0
 top_cand_spends:
 - cmte_nid: '215606983'
@@ -199,10 +199,10 @@ top_bm_spends:
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   total_expense: 735412.62
-- cmte_nid: '209507341'
-  cmte_fppcid: '1478129'
-  cmte_name: Saikat Chakrabarti
-  total_expense: 350000.0
+- cmte_nid: '6668151'
+  cmte_fppcid: '891575'
+  cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
+  total_expense: 469000.0
 
 ---
 

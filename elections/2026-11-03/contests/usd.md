@@ -31,8 +31,8 @@ candidates:
   filer_id: '1490256'
   committee_name: REINA TELLO FOR SCHOOL BOARD 2026
   candidate_name: REINA LOLI-TELLO
-  funds: 5937.55
-  expenses: 2599.21
+  funds: 19686.66
+  expenses: 8142.7
 - filer_nid: '216824591'
   filer_id: '1491734'
   committee_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
@@ -89,6 +89,10 @@ ie_candidates:
     funds: ''
     expenses: 33568.63
 contributors:
+- - Arthur 'Art' Agnos
+  - 500.0
+- - Alicia Aleman
+  - 500.0
 - - Matthew Alexander
   - 500.0
 - - David Byrd
@@ -104,10 +108,6 @@ contributors:
 - - Joseph Dick
   - 500.0
 - - Christin Evans
-  - 500.0
-- - Gfc Courage Committee - Bay Area Chapter
-  - 500.0
-- - Gfc Courage Committee - California Business Coalition
   - 500.0
 
 ---

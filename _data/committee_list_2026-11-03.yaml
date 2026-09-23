@@ -224,6 +224,10 @@ committees:
 - cmte_name: Alice B. Toklas Lgbtq Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
+- cmte_name: Building Owners and Managers Association of San Francisco Political Action
+    Committee - Ballot Issues (Aka Boma-sf-pac-ballot Issues)
+  cmte_fppcid: '970432'
+  cmte_nid: '6667768'
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
@@ -318,6 +322,9 @@ committees:
     Inc.
   cmte_fppcid: '1437557'
   cmte_nid: unknown
+- cmte_name: Connect Bay Area Transit
+  cmte_fppcid: '1483907'
+  cmte_nid: unknown
 - cmte_name: Fair Access No on D
   cmte_fppcid: '1494110'
   cmte_nid: unknown
@@ -392,6 +399,9 @@ committees:
     of California
   cmte_fppcid: '980162'
   cmte_nid: unknown
+- cmte_name: Operating Engineers Local 3 Issues Advocacy/ballot Initiative PAC
+  cmte_fppcid: '1345344'
+  cmte_nid: unknown
 - cmte_name: Our Kids Our Future PAC
   cmte_fppcid: PENDING
   cmte_nid: unknown
@@ -419,6 +429,9 @@ committees:
 - cmte_name: Sheet Metal Workers' International Association Local Union No. 104 Issues
     Committee
   cmte_fppcid: '1351785'
+  cmte_nid: unknown
+- cmte_name: Singerman
+  cmte_fppcid: '1431422'
   cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
@@ -452,9 +465,9 @@ committees:
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
-- cmte_name: Yes on Rtm - Connect Bay Area Transit
-  cmte_fppcid: '1483907'
-  cmte_nid: unknown
+- cmte_name: Andrew Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441594'
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -479,6 +492,9 @@ committees:
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
+- cmte_name: Lea Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441115'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

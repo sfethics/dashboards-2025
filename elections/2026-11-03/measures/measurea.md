@@ -13,7 +13,7 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 300000.0
+  funds: 310000.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -25,6 +25,8 @@ contributors:
 - - Tmg Partners R.e., Llc(michael Covarrubias)
   - 15000.0
 - - Lawrence Cushman
+  - 10000.0
+- - Operating Engineers Local 3 Issues Advocacy/ballot Initiative PAC
   - 10000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
