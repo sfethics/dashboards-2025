@@ -48,6 +48,7 @@ electionnav: true
                             {% assign total_funds = contest.funds %}
                             {% assign total_expenses = contest.expenses %}
                             {% endif %}
+                            {% if total_funds > 0 %}
                             <tr>
                                 <td class="fw-medium">
                                     <a
@@ -58,6 +59,7 @@ electionnav: true
                                 <td class="fw-medium">{{ total_funds }}</td>
                                 <td class="text-end fw-semibold">{{ total_expenses }}</td>                                
                             </tr>
+                            {% endif %}
                             {%- endfor -%}
                         </tbody>
                         <tfoot>
