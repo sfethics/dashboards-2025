@@ -42,7 +42,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 223052.18
+  total_expense: 253052.18
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -67,7 +67,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 162758.07
+  total_expense: 227758.07
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -104,6 +104,11 @@ committees:
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
   total_expense: 70780.55
+- cmte_name: Joseph Pritzker
+  cmte_fppcid: '1369110'
+  cmte_nid: '214726634'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
@@ -219,11 +224,31 @@ committees:
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
   total_expense: 327.45
+- cmte_name: ELIJAH I. BALL
+  cmte_fppcid: '1492919'
+  cmte_nid: '216963991'
+  committee_type: Candidate Controlled
+  total_expense: 4938.68
 - cmte_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
   cmte_fppcid: '1493829'
   cmte_nid: '217060161'
   committee_type: Candidate Controlled
   total_expense: 1249.5
+- cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
+  cmte_fppcid: '1494389'
+  cmte_nid: '217090483'
+  committee_type: Candidate Controlled
+  total_expense: 4938.68
+- cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+  cmte_fppcid: '1493786'
+  cmte_nid: '217090585'
+  committee_type: Candidate Controlled
+  total_expense: 4938.68
+- cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+  cmte_fppcid: '1486185'
+  cmte_nid: '217128861'
+  committee_type: Primarily Formed Candidate
+  total_expense: 25724.45
 - cmte_name: Dylan Hirsch-Shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'
@@ -245,7 +270,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '217413116'
   committee_type: Major Donor
-  total_expense: 50000.0
+  total_expense: 51000.0
 - cmte_name: Kendall Jesmer
   cmte_fppcid: unknown
   cmte_nid: '217413576'
@@ -297,7 +322,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 156649.39
+  total_expense: 158047.43
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'

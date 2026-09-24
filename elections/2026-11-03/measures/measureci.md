@@ -20,29 +20,32 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 265000.0
+  funds: 313500.0
   expenses: ''
   ies: ''
 multi_committees: []
 contributors:
 - - 'Core Urban Holdings LLC and Affiliated Entities(responsible Officer: Kevin Verdi)'
-  - 50000.0
+  - 51000.0
 - - Electrical Industry Service Bureau, Inc.
   - 50000.0
 - - Members' Voice of the State Building and Construction Trades Council of California
   - 50000.0
 - - the Prado Group, Inc.
   - 50000.0
+- - Building Owners and Managers Association of San Francisco Political Action Committee
+    - Ballot Issues
+  - 27500.0
 - - U.a. Local 38 Cope Fund
   - 25000.0
+- - San Francisco Apartment Association Political Action Committee
+  - 20000.0
 - - Reuben, Junius & Rose Llp
   - 15000.0
 - - Operating Engineers Local Union No. 3 Issues Advocacy/ballot Initiative PAC
   - 10000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
-- - Sheet Metal Workers' International Association Local Union No. 104 Issues Committee
-  - 5000.0
 
 ---
 

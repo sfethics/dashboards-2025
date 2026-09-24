@@ -67,9 +67,15 @@ candidate_pf:
   contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
-  funds: 1430.65
-  expenses: 1249.5
+  funds: 64726.64
+  expenses: 16065.54
   ies: ''
+- contest_nid: MCC-1
+  contest_name: Community College Board and Board of Education
+  contest_link: ccb-usd
+  funds: 0
+  expenses: 0
+  ies: 0
 candidate_ie:
 - contest_nid: '212794907'
   contest_name: Board of Education
@@ -85,13 +91,13 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 104000.0
-  expenses: 253156.52
+  expenses: 373880.97000000003
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 1077112.6
-  funds: 4506315.0
+  funds: 4606315.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -102,7 +108,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 761998.82
-  funds: 1154719.0
+  funds: 1179719.0
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -117,7 +123,7 @@ measures:
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 0.0
-  funds: 164030.0
+  funds: 167030.0
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
@@ -137,7 +143,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 0.0
-  funds: 265000.0
+  funds: 313500.0
 contributors_bm:
 - - Michael Moritz
   - 2255595.78
@@ -156,8 +162,8 @@ contributors_cand:
   - 50000.0
 - - Kendall Jesmer
   - 10500.0
-- - Joe Green
-  - 10000.0
+- - Erwin Tam
+  - 10250.0
 - - Susie Tompkins
   - 10000.0
 top_cand_spends:
@@ -168,19 +174,19 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 223052.18
+  total_expense: 253052.18
+- cmte_nid: '211792942'
+  cmte_fppcid: '1471862'
+  cmte_name: Building a Working SF Sponsored by Labor Organizations
+  total_expense: 227758.07
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 220359.53
-- cmte_nid: '211792942'
-  cmte_fppcid: '1471862'
-  cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 162758.07
 - cmte_nid: '6685673'
   cmte_fppcid: '1311218'
   cmte_name: United Educators of San Francisco Candidate PAC
-  total_expense: 156649.39
+  total_expense: 158047.43
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

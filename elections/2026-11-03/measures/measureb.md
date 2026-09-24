@@ -13,7 +13,7 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 164030.0
+  funds: 167030.0
   expenses: ''
   ies: ''
 multi_committees: []
@@ -22,6 +22,8 @@ contributors:
   - 150000.0
 - - Dylan Hirsch-shell
   - 5000.0
+- - Jason Prado
+  - 3000.0
 - - Christin Evans
   - 2500.0
 - - Jeff May
