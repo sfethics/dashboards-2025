@@ -374,6 +374,18 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: JOSEPH PRITZKER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100500.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
+      THRIVING SAN FRANCISCO
+    tx_amount: 100000.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_lastname: ANDREW RICHARD DUDUM
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -488,6 +500,17 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
+    KEVIN VERDI)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 51000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 51000.0
 - tx_lastname: BRIAN SINGERMAN
   tx_entitycode: Individual
   tx_cmteid: '1431422'
@@ -495,17 +518,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-    tx_amount: 50000.0
-- tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
-    KEVIN VERDI)'
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: DAVID SINGER
   tx_entitycode: Individual
@@ -610,6 +622,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 35000.0
+- tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL
+    ACTION COMMITTEE - BALLOT ISSUES
+  tx_entitycode: Committee
+  tx_cmteid: '970432'
+  tx_amount: 27500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 27500.0
 - tx_lastname: CHARLES GOOD
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -705,6 +728,25 @@ contributors:
     cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
       THRIVING SAN FRANCISCO
     tx_amount: 25000.0
+- tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '840002'
+  tx_amount: 21500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 20000.0
 - tx_lastname: MICHEL KRIEGER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -737,6 +779,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
+- tx_lastname: LUCAS LUX
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 17300.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 17000.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 300.0
 - tx_lastname: ADITYA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -745,6 +798,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 15250.0
+- tx_lastname: FRIENDS OF SUNSET DUNES
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 15000.0
 - tx_lastname: IAN STORM TAYLOR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -836,6 +897,17 @@ contributors:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: ERWIN TAM
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10250.0
+  transactions:
+  - cmte_fppcid: '1494389'
+    cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
+    tx_amount: 10000.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 250.0
 - tx_lastname: HEIDI MOSESON LIDOW
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -999,6 +1071,20 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2500.0
+- tx_lastname: JASON PRADO
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 8500.0
+  transactions:
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 5000.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 3000.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1007,17 +1093,6 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 7300.0
-- tx_lastname: LUCAS LUX
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 7300.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 7000.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 300.0
 - tx_lastname: ANDREW MCCOY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1056,17 +1131,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: JASON PRADO
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5500.0
-  transactions:
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 5000.0
 - tx_lastname: PHINEAS BARNES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1371,6 +1435,29 @@ contributors:
   - cmte_fppcid: '1482285'
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: TODD DAVID
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
 - tx_lastname: ALAN PRESTON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1504,6 +1591,26 @@ contributors:
   - cmte_fppcid: '1491969'
     cmte_name: GRECO FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: CHRIS CHANG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2200.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 200.0
 - tx_lastname: HEATHER DAVIES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1774,23 +1881,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: TODD DAVID
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: TRISH GUMP
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1799,6 +1889,49 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 2000.0
+- tx_lastname: BRUCE AGID
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1950.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 100.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 250.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1494389'
+    cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
+    tx_amount: 100.0
+- tx_lastname: CHASEL LEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1800.0
+  transactions:
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1494389'
+    cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
+    tx_amount: 150.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 150.0
 - tx_lastname: JULIE PITTA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1891,20 +2024,6 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 1500.0
-- tx_lastname: CHRIS CHANG
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
 - tx_lastname: CHRISTOPHER CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2240,20 +2359,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '840002'
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: TERESA OLLE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2315,6 +2420,26 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: BOBAK ESFANDIARI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1425.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 225.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 100.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 200.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 400.0
 - tx_lastname: ALBERT CHOW
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2329,23 +2454,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 1000.0
-- tx_lastname: BRUCE AGID
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1350.0
-  transactions:
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 100.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 250.0
 - tx_lastname: CYRUS HALL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2640,6 +2748,20 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: THOMAS DUDA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 250.0
 - tx_lastname: TODD DAVIS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2721,6 +2843,20 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: JOHN NEWMEYER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 100.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
 - tx_lastname: LILLIAN ARCHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2731,6 +2867,17 @@ contributors:
     tx_amount: 1000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 100.0
+- tx_lastname: ROBERT HOLGATE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 1000.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
     tx_amount: 100.0
 - tx_lastname: KELLY KOZAK
   tx_entitycode: Individual
@@ -2994,17 +3141,6 @@ contributors:
   - cmte_fppcid: '1481892'
     cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
     tx_amount: 1000.0
-- tx_lastname: CHASEL LEE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
 - tx_lastname: CHESA BOUDIN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3327,6 +3463,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
+- tx_lastname: JAMES MCCRSTY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
 - tx_lastname: JAMES MESSINA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3428,6 +3575,18 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
+    2024 OFFICEHOLDER COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1463427'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
     tx_amount: 500.0
 - tx_lastname: JONATHAN HILL
   tx_entitycode: Individual
@@ -3980,14 +4139,6 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: ROBERT HOLGATE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 1000.0
 - tx_lastname: ROBERT J. FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4133,6 +4284,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
+- tx_lastname: SUSAN BERSTON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
 - tx_lastname: SUSAN HIRSCH
   tx_entitycode: Individual
   tx_cmteid: ''

@@ -161,6 +161,11 @@ committees:
     2026
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
+- cmte_name: San Franciscans for Strong Public Education Supporting Lacroix, Lee,
+    and Mcfadden for San Francisco Community College Board 2026 and Tello, Hazelton
+    and Cheung for San Francisco Board of Education 2026 - Sponsored by Labor Organizations
+  cmte_fppcid: unknown
+  cmte_nid: '217420279'
 - cmte_name: Team Manny, Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
@@ -486,6 +491,9 @@ committees:
 - cmte_name: Jeffrey Lawson
   cmte_fppcid: '1409024'
   cmte_nid: '209506922'
+- cmte_name: Joseph Pritzker
+  cmte_fppcid: '1369110'
+  cmte_nid: '214726634'
 - cmte_name: Kendall Jesmer
   cmte_fppcid: unknown
   cmte_nid: '217413576'

@@ -42,13 +42,13 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 8010.83
+    expenses: 23010.83
   - position: SUPPORT
     filer_nid: '211792942'
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 162758.07
+    expenses: 227758.07
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -57,13 +57,13 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 82387.62
+    expenses: 97387.62
   - position: SUPPORT
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     funds: 104000.0
-    expenses: 0.0
+    expenses: 25724.45
 contributors:
 - - SF Believes
   - 50000.0

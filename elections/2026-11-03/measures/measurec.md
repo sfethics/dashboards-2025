@@ -24,7 +24,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 265000.0
+  funds: 313500.0
   expenses: 0
 contributors:
 - - Nph Action Fund Political Issues Committee
