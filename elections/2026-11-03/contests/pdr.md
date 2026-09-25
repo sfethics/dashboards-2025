@@ -13,29 +13,29 @@ candidates:
   filer_id: '1487291'
   committee_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
   candidate_name: MANOHAR RAJU
-  funds: 20011.0
-  expenses: 3582.29
+  funds: 25291.0
+  expenses: 12346.28
 ie_candidates: []
 contributors:
+- - Vikrum Aiyer
+  - 500.0
+- - Erik Babcock
+  - 500.0
 - - Amanda Benson
+  - 500.0
+- - Matthew Bertini
+  - 500.0
+- - Lozano-batista Bibiana
   - 500.0
 - - Jennifer Burton
   - 500.0
 - - Andrew Carter
   - 500.0
+- - Saikat Chakrabarti
+  - 500.0
 - - Stacey Colino
   - 500.0
 - - M. Quinn Delaney
-  - 500.0
-- - Theophilus Emison
-  - 500.0
-- - Jonathan Fellner
-  - 500.0
-- - Cooper Findlay
-  - 500.0
-- - Shreya Ganeshan
-  - 500.0
-- - Owen Glist
   - 500.0
 
 ---

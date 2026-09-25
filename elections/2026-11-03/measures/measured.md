@@ -13,16 +13,16 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 109000.0
-  expenses: ''
+  funds: 110700.0
+  expenses: 50404.32
   ies: ''
 multi_committees:
 - position: SUPPORT
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 10420595.78
-  expenses: 5487991.48
+  funds: 11358095.78
+  expenses: 7005631.51
 contributors:
 - - Tenants and Owners Development Corporation
   - 80000.0
@@ -34,6 +34,16 @@ contributors:
   - 1000.0
 - - Douglas Engmann
   - 1000.0
+- - Esther Marks
+  - 500.0
+- - Paul Melbostad
+  - 500.0
+- - Rishav Rout
+  - 500.0
+- - Katherine Howard
+  - 100.0
+- - San Francisco Labor Council
+  - 100.0
 
 ---
 

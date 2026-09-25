@@ -14,8 +14,8 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 10420595.78
-  expenses: 5487991.48
+  funds: 11358095.78
+  expenses: 7005631.51
 
 ---
 

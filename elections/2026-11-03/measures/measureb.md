@@ -13,27 +13,31 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 167030.0
-  expenses: ''
+  funds: 298513.23
+  expenses: 64762.62
   ies: ''
 multi_committees: []
 contributors:
 - - Saikat Chakrabarti
   - 150000.0
-- - Dylan Hirsch-shell
+- - the San Francisco Foundation
+  - 125000.0
+- - Dylan J Hirsch-shell
   - 5000.0
 - - Jason Prado
   - 3000.0
-- - Christin Evans
+- - Christin Nicole Evans
   - 2500.0
 - - Jeff May
   - 2500.0
 - - San Francisco Public Bank Coalition
-  - 2030.0
+  - 2485.0
 - - Brandee Marckmann
   - 1000.0
 - - National Union of Healthcare Workers
   - 1000.0
+- - Amy Zheng
+  - 750.0
 
 ---
 

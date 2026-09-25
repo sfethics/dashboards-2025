@@ -20,13 +20,14 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 313500.0
-  expenses: ''
+  funds: 314100.0
+  expenses: 27596.63
   ies: ''
 multi_committees: []
 contributors:
-- - 'Core Urban Holdings LLC and Affiliated Entities(responsible Officer: Kevin Verdi)'
-  - 51000.0
+- - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
+    )'
+  - 50000.0
 - - Electrical Industry Service Bureau, Inc.
   - 50000.0
 - - Members' Voice of the State Building and Construction Trades Council of California

@@ -13,8 +13,8 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 310000.0
-  expenses: ''
+  funds: 310005.0
+  expenses: 11191.73
   ies: ''
 multi_committees: []
 contributors:
@@ -28,11 +28,11 @@ contributors:
   - 10000.0
 - - Operating Engineers Local 3 Issues Advocacy/ballot Initiative PAC
   - 10000.0
-- - SF Forward Sponsored by San Francisco Chamber of Commerce
+- - San Francisco Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
-- - San Francisco Broadway Showgirls Club
+- - Silvanus O. Erickson
   - 5000.0
-- - Erickson Silvanus O.
+- - San Francisco Broadway Showgirls Club Management Llc(joseph Carouba)
   - 5000.0
 - - Teamsters Local Union 350 PAC
   - 2500.0

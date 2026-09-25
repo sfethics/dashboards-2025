@@ -19,14 +19,14 @@ candidates:
   filer_id: '1483651'
   committee_name: KIM FOR SCHOOL BOARD 2026
   candidate_name: PHIL KIM
-  funds: 6600.0
-  expenses: 4808.45
+  funds: 27403.0
+  expenses: 11151.21
 - filer_nid: '215729166'
   filer_id: '1487911'
   committee_name: LAURANCE LEE FOR BOARD OF EDUCATION 2026
   candidate_name: LAURANCE LEE
-  funds: 3303.0
-  expenses: 4062.63
+  funds: 6413.0
+  expenses: 7023.59
 - filer_nid: '216584147'
   filer_id: '1490256'
   committee_name: REINA TELLO FOR SCHOOL BOARD 2026
@@ -37,14 +37,20 @@ candidates:
   filer_id: '1491734'
   committee_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
   candidate_name: RYAN HAZELTON
-  funds: 11519.0
-  expenses: 788.26
+  funds: 31079.0
+  expenses: 15033.92
 - filer_nid: '216837806'
   filer_id: '1491849'
   committee_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
   candidate_name: AUTUMN BROWN GARIBAY
-  funds: 8526.0
-  expenses: 327.45
+  funds: 36749.0
+  expenses: 10966.04
+- filer_nid: '216963896'
+  filer_id: '1492843'
+  committee_name: ALIDA FISHER FOR BOARD OF EDUCATION 2026
+  candidate_name: ALIDA FISHER
+  funds: 4254.0
+  expenses: 1048.3
 ie_candidates:
 - candidate_name: REINA LOLI-TELLO
   filer_id: '1490256'
@@ -89,26 +95,26 @@ ie_candidates:
     funds: ''
     expenses: 33568.63
 contributors:
-- - Arthur 'Art' Agnos
-  - 500.0
-- - Alicia Aleman
-  - 500.0
-- - Matthew Alexander
-  - 500.0
-- - David Byrd
-  - 500.0
-- - Merijane Chalmers
-  - 500.0
-- - Lee Cheng
-  - 500.0
-- - Shannon Cogen
-  - 500.0
-- - Teri Dalia
-  - 500.0
-- - Joseph Dick
-  - 500.0
-- - Christin Evans
-  - 500.0
+- - Todd David
+  - 1500.0
+- - Jerome Dodson
+  - 1000.0
+- - Meredith Dodson
+  - 1000.0
+- - Stephen Dodson
+  - 1000.0
+- - Michael Eisler
+  - 1000.0
+- - Christine Gardner
+  - 1000.0
+- - Curtis Gardner
+  - 1000.0
+- - Gfc Courage Committee - Palo Alto Chapter
+  - 1000.0
+- - Gfc Courage Committee - San Francisco Chapter
+  - 1000.0
+- - Gfc Courage Committee - Sierra Chapter
+  - 1000.0
 
 ---
 
