@@ -13,26 +13,26 @@ candidates:
   filer_id: '1483804'
   committee_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   candidate_name: EMANUEL YEKUTIEL
-  funds: 764340.99
-  expenses: 220359.53
+  funds: 777957.99
+  expenses: 333830.38
 - filer_nid: '214783692'
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 322356.0
-  expenses: 94397.98
+  funds: 340974.0
+  expenses: 185142.39
 - filer_nid: '214884831'
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   candidate_name: MICHAEL NGUYEN
-  funds: 144727.94
-  expenses: 46703.67
+  funds: 207002.94
+  expenses: 116783.51
 - filer_nid: '215728828'
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 80353.5
-  expenses: 6402.02
+  funds: 104811.5
+  expenses: 42788.16
 ie_candidates:
 - candidate_name: GARY MCCOY
   filer_id: '1484080'

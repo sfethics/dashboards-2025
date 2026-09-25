@@ -20,13 +20,13 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
-  funds: 10420595.78
-  expenses: 5487991.48
+  funds: 11358095.78
+  expenses: 7005631.51
   ies: ''
 multi_committees: []
 contributors:
 - - Michael Moritz
-  - 2105595.78
+  - 2593095.78
 - - Christian Larsen
   - 1487500.0
 - - Lyna Lam
@@ -43,7 +43,7 @@ contributors:
   - 500000.0
 - - Michael Seibel
   - 450000.0
-- - Ron Conway
+- - Jean-pierre Conte
   - 250000.0
 
 ---

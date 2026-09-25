@@ -14,8 +14,8 @@ committees:
   filer_id: '1479782'
   committee_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
     A THRIVING SAN FRANCISCO
-  funds: 4606315.0
-  expenses: 1077112.6
+  funds: 4993500.0
+  expenses: 2201950.16
   ies: ''
 multi_committees: []
 contributors:
@@ -29,15 +29,15 @@ contributors:
   - 500000.0
 - - Visa, Inc.
   - 500000.0
+- - San Francisco Forward Sponsored by San Francisco Chamber of Commerce
+  - 499000.0
 - - Jeffrey Lawson
   - 350000.0
-- - San Francisco Forward Sponsored by San Francisco Chamber of Commerce
-  - 285000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 200000.0
-- - Transport Workers Union Local 250a
-  - 102000.0
 - - Another Planet Entertainment Llc(gregg Perloff)
+  - 100000.0
+- - Chime Financial
   - 100000.0
 
 ---

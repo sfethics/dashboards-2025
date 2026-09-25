@@ -14,8 +14,8 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 537710.48
-  expenses: ''
+  funds: 594179.01
+  expenses: 187964.43
   ies: ''
 multi_committees:
 - position: MULTIPLE
@@ -24,11 +24,11 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 313500.0
-  expenses: 0
+  funds: 314100.0
+  expenses: 27596.63
 contributors:
 - - Nph Action Fund Political Issues Committee
-  - 407710.48
+  - 464179.01
 - - the San Francisco Foundation
   - 50000.0
 - - Matthew Paige

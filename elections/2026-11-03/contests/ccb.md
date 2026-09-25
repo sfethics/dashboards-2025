@@ -39,28 +39,46 @@ candidates:
   candidate_name: MONROE LACE
   funds: 16380.99
   expenses: 4938.68
+- filer_nid: '217168240'
+  filer_id: '1494600'
+  committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
+  candidate_name: RUTH FERGUSON
+  funds: 7980.0
+  expenses: 304.04
+- filer_nid: '217230804'
+  filer_id: '1495068'
+  committee_name: BUNNY FOR CITY COLLEGE BOARD 2026
+  candidate_name: BUNNY MCFADDEN
+  funds: 12922.83
+  expenses: 2996.06
+- filer_nid: '217234321'
+  filer_id: '1495277'
+  committee_name: JEREMY LEE FOR CITY COLLEGE BOARD 2026
+  candidate_name: JEREMY LEE
+  funds: 7632.54
+  expenses: 1418.12
 ie_candidates: []
 contributors:
 - - Erwin Tam
   - 10250.0
 - - Anita Martinez
   - 1249.5
+- - American Federation of Teachers 2121 Cope Candidates
+  - 1000.0
+- - Kyle Cooper
+  - 1000.0
 - - Todd David
+  - 1000.0
+- - Amanda Littauer
   - 1000.0
 - - James Mccrsty
   - 1000.0
-- - Chase Preston
-  - 915.0
-- - Bobak Esfandiari
-  - 900.0
-- - Chasel Lee
-  - 800.0
-- - Thomas Duda
-  - 750.0
-- - Alex Randolph
-  - 750.0
-- - Chris Chang
-  - 700.0
+- - Alisa Messer
+  - 1000.0
+- - Robin Pugh
+  - 1000.0
+- - Susan Solomon
+  - 1000.0
 
 ---
 

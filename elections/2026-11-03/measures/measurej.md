@@ -14,7 +14,7 @@ committees:
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J
   funds: 150000.0
-  expenses: ''
+  expenses: 23905.04
   ies: ''
 multi_committees: []
 contributors:

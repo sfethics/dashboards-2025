@@ -74,7 +74,7 @@ committees:
   cmte_fppcid: '1487412'
   cmte_nid: '215593851'
 - cmte_name: Joe Sangirardi for San Francisco Democratic County Central Committee
-    2024 Officeholder Committee
+    2024
   cmte_fppcid: '1463427'
   cmte_nid: '208632535'
 - cmte_name: John Jersin for Board of Education 2024
@@ -229,6 +229,9 @@ committees:
 - cmte_name: Alice B. Toklas Lgbtq Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
+- cmte_name: American Federation of Teachers 2121 Cope Candidates
+  cmte_fppcid: '890972'
+  cmte_nid: '121745106'
 - cmte_name: Building Owners and Managers Association of San Francisco Political Action
     Committee - Ballot Issues (Aka Boma-sf-pac-ballot Issues)
   cmte_fppcid: '970432'
@@ -236,15 +239,24 @@ committees:
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
+- cmte_name: Dignity Ca Seiu Local 2015
+  cmte_fppcid: '1357256'
+  cmte_nid: '161836779'
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
   cmte_fppcid: '931558'
   cmte_nid: '6667750'
 - cmte_name: Growsf Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
+- cmte_name: Harvey Milk Lgbt Democratic Club Political Action Fund
+  cmte_fppcid: '1383218'
+  cmte_nid: '160514558'
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
+- cmte_name: Ibew Local 6 Political Account
+  cmte_fppcid: '921730'
+  cmte_nid: '129492757'
 - cmte_name: International Federation of Professional and Technical Engineers - Local
     21 Tj Anthony PAC Fund
   cmte_fppcid: '881248'
@@ -262,6 +274,9 @@ committees:
 - cmte_name: Neighbors for a Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
+- cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
+  cmte_fppcid: '891394'
+  cmte_nid: '121720608'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -277,6 +292,12 @@ committees:
 - cmte_name: San Francisco Police Officers Association Issues PAC
   cmte_fppcid: '1317554'
   cmte_nid: '6666443'
+- cmte_name: San Francisco Police Officers Association PAC
+  cmte_fppcid: '1315969'
+  cmte_nid: '11282770'
+- cmte_name: San Francisco Women's Political Committee
+  cmte_fppcid: '1243711'
+  cmte_nid: '6674793'
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
@@ -296,12 +317,9 @@ committees:
     Sponsored by the San Francisco Labor Council
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
-- cmte_name: Teamsters Local Union No. 665 PAC
+- cmte_name: Teamsters Union Local No. 665 PAC
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
-- cmte_name: the Harvey Milk Lgbt Democratic Club Political Action Fund
-  cmte_fppcid: '1383218'
-  cmte_nid: '160514558'
 - cmte_name: U.a. Local 38 Cope Fund
   cmte_fppcid: '746875'
   cmte_nid: '6673561'
@@ -317,8 +335,14 @@ committees:
 - cmte_name: Affordable Redwood City Sponsored by Faith in Action Bay Area
   cmte_fppcid: '1464366'
   cmte_nid: unknown
+- cmte_name: Bay Area Jewish Action PAC (Bajapac)
+  cmte_fppcid: '1484825'
+  cmte_nid: unknown
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
+  cmte_nid: unknown
+- cmte_name: Canepa for Assessor-county Clerk-recorder 2026
+  cmte_fppcid: '1486383'
   cmte_nid: unknown
 - cmte_name: Catherine Stefani for Assembly 2026
   cmte_fppcid: '1477293'
@@ -329,6 +353,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Connect Bay Area Transit
   cmte_fppcid: '1483907'
+  cmte_nid: unknown
+- cmte_name: Equality California Political Action Committee
+  cmte_fppcid: '1254010'
   cmte_nid: unknown
 - cmte_name: Fair Access No on D
   cmte_fppcid: '1494110'
@@ -394,7 +421,7 @@ committees:
 - cmte_name: Josh Becker for Senate 2028
   cmte_fppcid: '1477807'
   cmte_nid: unknown
-- cmte_name: Jpmorgan Chase & Co. PAC
+- cmte_name: 'Jpmorgan Chase & Co. PAC (Fec Id: C00128512)'
   cmte_fppcid: '1257506'
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
@@ -413,6 +440,9 @@ committees:
 - cmte_name: Patrick Ahrens for Assembly 2026
   cmte_fppcid: '1476866'
   cmte_nid: unknown
+- cmte_name: Phil Ting for Treasurer 2026
+  cmte_fppcid: '1444108'
+  cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
   cmte_nid: unknown
@@ -427,6 +457,10 @@ committees:
   cmte_nid: unknown
 - cmte_name: San Francisco Yimby Slate Mailer Organization
   cmte_fppcid: '1472524'
+  cmte_nid: unknown
+- cmte_name: Service Employees International Union United Service Workers West (Seiu
+    Usww) Action Fund
+  cmte_fppcid: '1443357'
   cmte_nid: unknown
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
@@ -447,8 +481,7 @@ committees:
 - cmte_name: the Harvey Milk Lgbt Democratic Club Voter Guide
   cmte_fppcid: '1383194'
   cmte_nid: unknown
-- cmte_name: Theatrical Stage Employees Local 16 International Alliance of Theatrical
-    Stage Employees (Iatse) PAC
+- cmte_name: Theatrical Stage Employees Local 16 Iatse PAC
   cmte_fppcid: '1302106'
   cmte_nid: unknown
 - cmte_name: Toni Atkins for Governor 2026
@@ -464,15 +497,21 @@ committees:
     & Commercial Workers Local 5)
   cmte_fppcid: '1294035'
   cmte_nid: unknown
-- cmte_name: United Food and Commerical Workers Western States Council Candidate PAC
+- cmte_name: United Food and Commercial Workers Western States Council Candidate PAC
   cmte_fppcid: '910874'
   cmte_nid: unknown
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
+- cmte_name: Yes on 40 - Billionaire Tax Now
+  cmte_fppcid: '1484470'
+  cmte_nid: unknown
 - cmte_name: Andrew Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441594'
+- cmte_name: Anne Irwin
+  cmte_fppcid: '1392802'
+  cmte_nid: '217512744'
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -522,11 +561,17 @@ committees:
 - cmte_name: San Francisco Laborer's Local 261 P.a.c.
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
+- cmte_name: Kevin Mullin for Congress
+  cmte_fppcid: FEC_C00795005
+  cmte_nid: unknown
 - cmte_name: Nick Melvoin for Congress
   cmte_fppcid: FEC_C00831289
   cmte_nid: unknown
 - cmte_name: Remedy PAC
   cmte_fppcid: FEC_C00566059
+  cmte_nid: unknown
+- cmte_name: San Francisco Democratic County Central Committee
+  cmte_fppcid: FEC_C00392928
   cmte_nid: unknown
 - cmte_name: Stand Up PAC
   cmte_fppcid: FEC_C00872879

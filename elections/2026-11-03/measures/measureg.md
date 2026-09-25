@@ -13,15 +13,15 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1127873.0
-  expenses: 735412.62
+  funds: 1168633.5
+  expenses: 842183.16
   ies: ''
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 51846.0
-  expenses: 26586.2
+  funds: 101157.84
+  expenses: 58523.99
   ies: ''
 multi_committees: []
 contributors:
@@ -33,11 +33,11 @@ contributors:
   - 75000.0
 - - Benjamin Spero
   - 49900.0
+- - Friends of Sunset Dunes
+  - 42695.5
 - - Wojciech Zaremba
   - 35000.0
 - - Donald J Edwards
-  - 25000.0
-- - Friends of Great Highway Park, Inc. dba Friends of Sunset Dunes
   - 25000.0
 - - Fund for a Better Future Inc.
   - 25000.0
