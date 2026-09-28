@@ -14,7 +14,7 @@ contributors:
   tx_amount: 2743095.78
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 2593095.78
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
@@ -25,7 +25,7 @@ contributors:
   tx_amount: 2087500.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 1487500.0
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
@@ -43,7 +43,7 @@ contributors:
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 1000000.0
 - tx_lastname: LYNA LAM
   tx_entitycode: Individual
@@ -51,7 +51,7 @@ contributors:
   tx_amount: 1000000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 1000000.0
 - tx_lastname: EMERSON COLLECTIVE LLC(DIEDRA NELSON)
   tx_entitycode: Other
@@ -59,11 +59,10 @@ contributors:
   tx_amount: 750000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 200000.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 550000.0
 - tx_lastname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_entitycode: Committee
@@ -71,8 +70,7 @@ contributors:
   tx_amount: 509000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 499000.0
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
@@ -83,8 +81,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: COMMITTEE TO EXPAND THE MIDDLE CLASS ISSUES COMMITTEE, SPONSORED BY
     AIRBNB, INC.
@@ -93,8 +90,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: DAGMAR DOLBY
   tx_entitycode: Individual
@@ -102,7 +98,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: JOHN WOLTHUIS
   tx_entitycode: Individual
@@ -110,7 +106,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: L. JOHN DOERR III
   tx_entitycode: Individual
@@ -118,7 +114,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: OPENAI
   tx_entitycode: Other
@@ -126,8 +122,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: RIPPLE LABS INC.
   tx_entitycode: Other
@@ -135,8 +130,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: VISA, INC.
   tx_entitycode: Other
@@ -144,8 +138,7 @@ contributors:
   tx_amount: 500000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
 - tx_lastname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
   tx_entitycode: Committee
@@ -165,7 +158,7 @@ contributors:
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 450000.0
 - tx_lastname: JEREMY STOPPELMAN
   tx_entitycode: Individual
@@ -173,7 +166,7 @@ contributors:
   tx_amount: 400000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 25000.0
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
@@ -201,8 +194,7 @@ contributors:
   tx_amount: 350000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 350000.0
 - tx_lastname: MATTHEW PAIGE
   tx_entitycode: Individual
@@ -213,7 +205,7 @@ contributors:
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
   - cmte_fppcid: '1492671'
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
@@ -228,7 +220,7 @@ contributors:
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
 - tx_lastname: ALFRED LIN
   tx_entitycode: Other
@@ -236,7 +228,7 @@ contributors:
   tx_amount: 250000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
 - tx_lastname: ANTHONY SALEWSKI
   tx_entitycode: Individual
@@ -244,7 +236,7 @@ contributors:
   tx_amount: 250000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
 - tx_lastname: JEAN-PIERRE CONTE
   tx_entitycode: Individual
@@ -252,7 +244,7 @@ contributors:
   tx_amount: 250000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
 - tx_lastname: LAURA YAKOVENKO
   tx_entitycode: Individual
@@ -268,7 +260,7 @@ contributors:
   tx_amount: 200000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 200000.0
 - tx_lastname: THE SAN FRANCISCO FOUNDATION
   tx_entitycode: Other
@@ -288,7 +280,7 @@ contributors:
   tx_amount: 150000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 150000.0
 - tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_entitycode: Other
@@ -296,8 +288,7 @@ contributors:
   tx_amount: 150000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
   - cmte_fppcid: '1495424'
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
@@ -313,8 +304,7 @@ contributors:
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 49900.0
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: JOHN FISHER
   tx_entitycode: Individual
@@ -325,7 +315,7 @@ contributors:
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 125000.0
 - tx_lastname: JENNIFER CALDWELL
   tx_entitycode: Individual
@@ -333,7 +323,7 @@ contributors:
   tx_amount: 125000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 125000.0
 - tx_lastname: DEAN PRESTON
   tx_entitycode: Individual
@@ -387,7 +377,7 @@ contributors:
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: JARED FRIEDMAN
   tx_entitycode: Individual
@@ -401,7 +391,7 @@ contributors:
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: JOSEPH PRITZKER
   tx_entitycode: Individual
@@ -409,8 +399,7 @@ contributors:
   tx_amount: 100500.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -421,7 +410,7 @@ contributors:
   tx_amount: 100500.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -435,7 +424,7 @@ contributors:
     cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: ANOTHER PLANET ENTERTAINMENT LLC(GREGG PERLOFF)
   tx_entitycode: Other
@@ -443,8 +432,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: CHIME FINANCIAL
   tx_entitycode: Other
@@ -452,8 +440,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: EMPIRE DISTRIBUTION INC.
   tx_entitycode: Other
@@ -461,8 +448,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: MATTHEW SONSINI
   tx_entitycode: Individual
@@ -470,7 +456,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: POTOMAC TRUST
   tx_entitycode: Other
@@ -478,7 +464,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: SIERRA TECHNOLOGIES, INC.
   tx_entitycode: Other
@@ -486,8 +472,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: TWILIO, INC.
   tx_entitycode: Other
@@ -495,8 +480,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: UBER INNOVATION BALLOT MEASURE COMMITTEE
   tx_entitycode: Committee
@@ -504,8 +488,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: ZENDESK, INC
   tx_entitycode: Other
@@ -513,8 +496,7 @@ contributors:
   tx_amount: 100000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
 - tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION
   tx_entitycode: Other
@@ -530,7 +512,7 @@ contributors:
   tx_amount: 75000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 75000.0
 - tx_lastname: AUTODESK
   tx_entitycode: Other
@@ -538,8 +520,7 @@ contributors:
   tx_amount: 75000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 75000.0
 - tx_lastname: EMMETT SHEAR
   tx_entitycode: Individual
@@ -555,8 +536,7 @@ contributors:
   tx_amount: 75000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 75000.0
 - tx_lastname: MARCO HELLMAN
   tx_entitycode: Individual
@@ -567,7 +547,18 @@ contributors:
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 50000.0
+- tx_lastname: OLEG NODELMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: BRIAN SINGERMAN
   tx_entitycode: Individual
@@ -575,7 +566,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES((RESPONSIBLE OFFICER:
     KEVIN VERDI) )'
@@ -594,7 +585,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: INTERSECT POWER, LLC(MICHAEL WHEELER)
   tx_entitycode: Other
@@ -602,8 +593,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: 'JPMORGAN CHASE & CO. PAC (FEC ID: C00128512)'
   tx_entitycode: Committee
@@ -611,8 +601,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL
     OF CALIFORNIA
@@ -624,6 +613,14 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
+    tx_amount: 50000.0
+- tx_lastname: OBERNDORF ENTERPRISES, LLC(BILL OBERNDORF)
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 50000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
@@ -665,8 +662,7 @@ contributors:
   tx_amount: 50000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: FRIENDS OF SUNSET DUNES
   tx_entitycode: Other
@@ -683,8 +679,7 @@ contributors:
   tx_amount: 35000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 25000.0
   - cmte_fppcid: '1495424'
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
@@ -740,8 +735,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: HANSON BRIDGETT LLP
   tx_entitycode: Other
@@ -749,8 +743,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: INTERNATIONAL FEDERATION PROFESSIONAL TECHNICAL ENGINEERS
   tx_entitycode: Committee
@@ -766,7 +759,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: REBECCA HENDERSON
   tx_entitycode: Individual
@@ -774,7 +767,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: SEQUOIA LIVING
   tx_entitycode: Other
@@ -811,8 +804,7 @@ contributors:
   tx_amount: 25000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   tx_entitycode: Committee
@@ -858,23 +850,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
-- tx_lastname: LUCAS LUX
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 17800.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 17100.0
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 200.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 400.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 100.0
 - tx_lastname: ANDREW CASTEEL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -977,8 +952,7 @@ contributors:
   tx_amount: 11000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 10000.0
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -1085,6 +1059,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 10000.0
+- tx_lastname: ANNE ROSENBAUM IRWIN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_lastname: DAVID STIEPLEMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1107,7 +1089,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 10000.0
 - tx_lastname: JEFFERSON LEE
   tx_entitycode: Individual
@@ -1163,7 +1145,7 @@ contributors:
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 10000.0
 - tx_lastname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_entitycode: Committee
@@ -1191,6 +1173,23 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 9900.0
+- tx_lastname: LUCAS LUX
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 8800.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 8100.0
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 200.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 400.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 100.0
 - tx_lastname: JASON PRADO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1286,35 +1285,10 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: LISA ARJES
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5650.0
-  transactions:
-  - cmte_fppcid: '1487005'
-    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 5000.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 150.0
-  - cmte_fppcid: '1492163'
-    cmte_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
-    tx_amount: 500.0
-- tx_lastname: PHINEAS BARNES
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 5500.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 5000.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: TODD DAVID
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 5500.0
+  tx_amount: 6000.0
   transactions:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
@@ -1343,8 +1317,36 @@ contributors:
   - cmte_fppcid: '1492919'
     cmte_name: ELIJAH I. BALL
     tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
   - cmte_fppcid: '1493786'
     cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
+- tx_lastname: LISA ARJES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5650.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 5000.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 150.0
+  - cmte_fppcid: '1492163'
+    cmte_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
+    tx_amount: 500.0
+- tx_lastname: PHINEAS BARNES
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 5500.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 5000.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: MAX ELMAN
   tx_entitycode: Individual
@@ -1360,8 +1362,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: DAVID BAKER, AN ARCHITECTURAL CORPORATION
   tx_entitycode: Other
@@ -1426,8 +1427,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: SAN FRANCISCO BROADWAY SHOWGIRLS CLUB MANAGEMENT LLC(JOSEPH CAROUBA)
   tx_entitycode: Other
@@ -1470,8 +1470,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: TEAMSTERS LOCAL NO. 350 PAC
   tx_entitycode: Committee
@@ -1479,8 +1478,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: TEAMSTERS LOCAL NO. 853 PAC
   tx_entitycode: Committee
@@ -1488,8 +1486,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: TEAMSTERS LOCAL UNION NO. 665
   tx_entitycode: Committee
@@ -1497,8 +1494,7 @@ contributors:
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
 - tx_lastname: TYLER BREISACHER
   tx_entitycode: Individual
@@ -1562,7 +1558,7 @@ contributors:
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 2500.0
 - tx_lastname: TRANSPORT WORKERS UNION LOCAL 200 COPE
   tx_entitycode: Other
@@ -1570,8 +1566,7 @@ contributors:
   tx_amount: 4000.0
   transactions:
   - cmte_fppcid: '1479782'
-    cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A
-      THRIVING SAN FRANCISCO
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 4000.0
 - tx_lastname: ESTHER MARKS
   tx_entitycode: Individual
@@ -1679,6 +1674,72 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 3250.0
+- tx_lastname: GFC COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
+  tx_entitycode: Committee
+  tx_cmteid: '1416440'
+  tx_amount: 3000.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+- tx_lastname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1392639'
+  tx_amount: 3000.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 1000.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+- tx_lastname: MICHAEL EISLER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3000.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: TODOR MARKOV
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1702,27 +1763,10 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
-- tx_lastname: CYRUS HALL
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2600.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 1000.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484606'
-    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
-    tx_amount: 100.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 1000.0
 - tx_lastname: BRUCE AGID
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 2550.0
+  tx_amount: 2700.0
   transactions:
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -1745,9 +1789,29 @@ contributors:
   - cmte_fppcid: '1492919'
     cmte_name: ELIJAH I. BALL
     tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 150.0
   - cmte_fppcid: '1494389'
     cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
     tx_amount: 100.0
+- tx_lastname: CYRUS HALL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2600.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484606'
+    cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
+    tx_amount: 100.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 1000.0
 - tx_lastname: HEATHER DAVIES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1779,7 +1843,7 @@ contributors:
   tx_amount: 2500.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 2500.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
@@ -1798,6 +1862,15 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 1000.0
+- tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANSISCO POLITICAL
+    ACTION COMMITTEE - BALLOT ISSUES
+  tx_entitycode: Committee
+  tx_cmteid: '970432'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 2500.0
 - tx_lastname: CAROLYN SCHWAB-POMERANTZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1834,26 +1907,6 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2500.0
-- tx_lastname: GFC COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
-  tx_entitycode: Committee
-  tx_cmteid: '1416440'
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: GLEN VAN LEHN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1862,23 +1915,6 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 2500.0
-- tx_lastname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '1392639'
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 1000.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: JAMES STEARNS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1909,26 +1945,6 @@ contributors:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 1500.0
-- tx_lastname: MICHAEL EISLER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: MICHAEL R GLASER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1943,7 +1959,16 @@ contributors:
   tx_amount: 2500.0
   transactions:
   - cmte_fppcid: '1489257'
-    cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 2500.0
+- tx_lastname: PAULETT TAGGART ARCHITECTS
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
     tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
@@ -2069,6 +2094,26 @@ contributors:
   - cmte_fppcid: '1494600'
     cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
     tx_amount: 500.0
+- tx_lastname: PATRICK WOLFF
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2250.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: CHRIS CHANG
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2128,6 +2173,27 @@ contributors:
   - cmte_fppcid: '1495068'
     cmte_name: BUNNY FOR CITY COLLEGE BOARD 2026
     tx_amount: 250.0
+- tx_lastname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
+    2024 OFFICEHOLDER COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1463427'
+  tx_amount: 2050.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 150.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 400.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: ALEXANDER MALDONADO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2203,6 +2269,23 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
+  tx_entitycode: Committee
+  tx_cmteid: '1416442'
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: JACKSON WONG
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2269,6 +2352,23 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+- tx_lastname: LOUISE PATTERSON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
 - tx_lastname: LUIS BELMONTE
   tx_entitycode: Individual
@@ -2463,23 +2563,6 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: PATRICK WOLFF
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1750.0
-  transactions:
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: JULIE PITTA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2494,6 +2577,23 @@ contributors:
   - cmte_fppcid: '1490199'
     cmte_name: GEE FOR SUPERVISOR 2026
     tx_amount: 150.0
+- tx_lastname: BECKY DRAPER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1600.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 100.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: KAREN KNUTH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2553,24 +2653,6 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 350.0
-- tx_lastname: JOE SANGIRARDI FOR SAN FRANCISCO DEMOCRATIC COUNTY CENTRAL COMMITTEE
-    2024 OFFICEHOLDER COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '1463427'
-  tx_amount: 1550.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 150.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 400.0
-  - cmte_fppcid: '1492919'
-    cmte_name: ELIJAH I. BALL
-    tx_amount: 500.0
 - tx_lastname: ANITA MARTINEZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2663,6 +2745,34 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 250.0
+- tx_lastname: CHARLES MCGETTIGAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+- tx_lastname: CHRISTINE GARDNER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: CHRISTOPHER CONWAY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2676,6 +2786,20 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: CURTIS GARDNER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
 - tx_lastname: DALE CARLSON
   tx_entitycode: Individual
@@ -2744,23 +2868,23 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: GFC COURAGE COMMITTEE - PALO ALTO CHAPTER
+- tx_lastname: GFC COURAGE COMMITTEE - GOLDEN GATE CHAPTER
   tx_entitycode: Committee
-  tx_cmteid: '1416422'
+  tx_cmteid: '1425929'
   tx_amount: 1500.0
   transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
-- tx_lastname: GFC COURAGE COMMITTEE - SIERRA CHAPTER
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+- tx_lastname: GFC COURAGE COMMITTEE - PALO ALTO CHAPTER
   tx_entitycode: Committee
-  tx_cmteid: '1416442'
+  tx_cmteid: '1416422'
   tx_amount: 1500.0
   transactions:
   - cmte_fppcid: '1483651'
@@ -2785,6 +2909,20 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: JAMES HARLEEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
 - tx_lastname: JASON ELLIOTT
   tx_entitycode: Individual
@@ -2889,6 +3027,20 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: KATIE PAIGE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: KATRINA NIBBI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2938,20 +3090,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: LOUISE PATTERSON
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1500.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
 - tx_lastname: MARGARET NIBBI
   tx_entitycode: Individual
@@ -3093,6 +3231,20 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: SUSAN PRITZKER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: TALI RAPAPORT
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3132,6 +3284,20 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
+    tx_amount: 500.0
+- tx_lastname: TIFFANY WAUGH
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
 - tx_lastname: TYLER GREGORY
   tx_entitycode: Individual
@@ -3767,20 +3933,6 @@ contributors:
   - cmte_fppcid: '1495277'
     cmte_name: JEREMY LEE FOR CITY COLLEGE BOARD 2026
     tx_amount: 500.0
-- tx_lastname: BECKY DRAPER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1100.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 100.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: FORREST LIU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3794,6 +3946,23 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+- tx_lastname: JAIME HULING
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1100.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 0.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 100.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
 - tx_lastname: JOHN NEWMEYER
   tx_entitycode: Individual
@@ -4273,17 +4442,6 @@ contributors:
   - cmte_fppcid: '1481892'
     cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
     tx_amount: 1000.0
-- tx_lastname: CHARLES MCGETTIGAN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: CHESA BOUDIN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4292,17 +4450,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
-- tx_lastname: CHRISTINE GARDNER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: CINDY MCCULLAGH
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4325,17 +4472,6 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 1000.0
-- tx_lastname: CURTIS GARDNER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: DAN NEWMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4598,17 +4734,6 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: GFC COURAGE COMMITTEE - GOLDEN GATE CHAPTER
-  tx_entitycode: Committee
-  tx_cmteid: '1425929'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: GILBERT WONG
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4674,17 +4799,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
-- tx_lastname: JAMES HARLEEN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: JAMES MCCRSTY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4950,17 +5064,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: KATIE PAIGE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
 - tx_lastname: KEITH GOLDSTEIN
   tx_entitycode: Individual
@@ -5656,17 +5759,6 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: SUSAN PRITZKER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
 - tx_lastname: SUSAN SWIG
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -5740,17 +5832,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
-    tx_amount: 500.0
-- tx_lastname: TIFFANY WAUGH
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: TODD TRAINA
   tx_entitycode: Individual

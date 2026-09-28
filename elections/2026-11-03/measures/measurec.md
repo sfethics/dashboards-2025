@@ -14,7 +14,7 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 594179.01
+  funds: 596679.01
   expenses: 187964.43
   ies: ''
 multi_committees:
@@ -40,6 +40,8 @@ contributors:
   - 25000.0
 - - David Baker, An Architectural Corporation
   - 5000.0
+- - Paulett Taggart Architects
+  - 2500.0
 
 ---
 

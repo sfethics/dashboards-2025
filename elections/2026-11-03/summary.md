@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 125584.66
-  expenses: 59545.41
+  funds: 142518.66
+  expenses: 63157.24
   ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
@@ -81,7 +81,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 97519.56999999999
+  expenses: 119431.99
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
@@ -90,8 +90,8 @@ candidate_ie:
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 104000.0
-  expenses: 373880.97000000003
+  funds: 114000.0
+  expenses: 436372.75
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -107,13 +107,13 @@ measures:
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
-  expenses: 900707.15
-  funds: 1269791.34
+  expenses: 915707.15
+  funds: 1260791.34
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 187964.43
-  funds: 594179.01
+  funds: 596679.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -128,7 +128,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 11191.73
-  funds: 310005.0
+  funds: 362505.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -138,7 +138,7 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 11358095.78
+  funds: 11408095.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
@@ -149,9 +149,9 @@ contributors_bm:
   - 2743095.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 750000.0
@@ -164,7 +164,7 @@ contributors_cand:
   - 10500.0
 - - Erwin Tam
   - 10250.0
-- - Joe Green
+- - Alison Gelb Pincus
   - 10000.0
 top_cand_spends:
 - cmte_nid: '215606983'
@@ -182,7 +182,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 227898.07
+  total_expense: 290389.85
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026
@@ -190,21 +190,20 @@ top_cand_spends:
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
-  cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+  cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
   total_expense: 7005631.51
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
-  cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
-    SAN FRANCISCO
+  cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
   total_expense: 2201950.16
+- cmte_nid: '211776936'
+  cmte_fppcid: '1471154'
+  cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  total_expense: 857183.16
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
   total_expense: 855000.0
-- cmte_nid: '211776936'
-  cmte_fppcid: '1471154'
-  cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  total_expense: 842183.16
 - cmte_nid: '6668151'
   cmte_fppcid: '891575'
   cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE

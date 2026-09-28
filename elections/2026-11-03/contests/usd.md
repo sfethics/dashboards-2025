@@ -51,6 +51,12 @@ candidates:
   candidate_name: ALIDA FISHER
   funds: 4254.0
   expenses: 1048.3
+- filer_nid: '217052017'
+  filer_id: '1493505'
+  committee_name: TIM TUNG FOR SCHOOL BOARD 2026
+  candidate_name: TIM TUNG
+  funds: 16934.0
+  expenses: 3611.83
 ie_candidates:
 - candidate_name: REINA LOLI-TELLO
   filer_id: '1490256'
@@ -60,7 +66,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 14548.48
+    expenses: 21852.61
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:
@@ -69,7 +75,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 14848.48
+    expenses: 22152.62
 - candidate_name: AUTUMN BROWN GARIBAY
   filer_id: '1491849'
   committees:
@@ -96,24 +102,24 @@ ie_candidates:
     expenses: 33568.63
 contributors:
 - - Todd David
+  - 2000.0
+- - Michael Eisler
+  - 1500.0
+- - Christine Gardner
+  - 1500.0
+- - Curtis Gardner
+  - 1500.0
+- - Gfc Courage Committee - San Francisco Chapter
+  - 1500.0
+- - Gfc Courage Committee - Sierra Chapter
+  - 1500.0
+- - Govern for California Courage Committee
+  - 1500.0
+- - Katie Paige
+  - 1500.0
+- - Louise Patterson
   - 1500.0
 - - Jerome Dodson
-  - 1000.0
-- - Meredith Dodson
-  - 1000.0
-- - Stephen Dodson
-  - 1000.0
-- - Michael Eisler
-  - 1000.0
-- - Christine Gardner
-  - 1000.0
-- - Curtis Gardner
-  - 1000.0
-- - Gfc Courage Committee - Palo Alto Chapter
-  - 1000.0
-- - Gfc Courage Committee - San Francisco Chapter
-  - 1000.0
-- - Gfc Courage Committee - Sierra Chapter
   - 1000.0
 
 ---

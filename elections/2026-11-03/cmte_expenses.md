@@ -31,7 +31,7 @@ committees:
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
   committee_type: General Purpose
-  total_expense: 10000.0
+  total_expense: 15000.0
 - cmte_name: Tenants and Owners Development Corporation and its affiliated entity
     Yerba Buena Neighborhood Consortium LLC
   cmte_fppcid: '1433587'
@@ -79,12 +79,12 @@ committees:
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
   committee_type: Primarily Formed Measure
-  total_expense: 842183.16
+  total_expense: 857183.16
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 227898.07
+  total_expense: 290389.85
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -95,8 +95,7 @@ committees:
   cmte_nid: '212872598'
   committee_type: General Purpose
   total_expense: 100000.0
-- cmte_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR A THRIVING
-    SAN FRANCISCO
+- cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
@@ -191,7 +190,7 @@ committees:
   cmte_nid: '215729166'
   committee_type: Candidate Controlled
   total_expense: 7023.59
-- cmte_name: CLEAN UP CITY HALL, MAYOR LURIE'S BALLOT MEASURE COMMITTEE
+- cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
@@ -282,6 +281,11 @@ committees:
   cmte_nid: '217045555'
   committee_type: Primarily Formed Measure
   total_expense: 64762.62
+- cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+  cmte_fppcid: '1493505'
+  cmte_nid: '217052017'
+  committee_type: Candidate Controlled
+  total_expense: 3611.83
 - cmte_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
   cmte_fppcid: '1493829'
   cmte_nid: '217060161'
@@ -417,7 +421,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 158047.43
+  total_expense: 178291.36
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
