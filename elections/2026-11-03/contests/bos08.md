@@ -48,10 +48,16 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 227758.07
+    expenses: 230754.01
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
+  - position: OPPOSE
+    filer_nid: '211792942'
+    filer_id: '1471862'
+    committee_name: Building a Working SF Sponsored by Labor Organizations
+    funds: 0.0
+    expenses: 59495.84
   - position: SUPPORT
     filer_nid: '201619433'
     filer_id: '1433436'
@@ -62,7 +68,7 @@ ie_candidates:
     filer_nid: '217128861'
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    funds: 104000.0
+    funds: 114000.0
     expenses: 25724.45
 contributors:
 - - SF Believes
@@ -72,6 +78,8 @@ contributors:
 - - Alison Gelb Pincus
   - 10000.0
 - - Joe Green
+  - 10000.0
+- - Anne Rosenbaum Irwin
   - 10000.0
 - - Michael Bradley Eisler Revocable Trust
   - 10000.0
@@ -83,8 +91,6 @@ contributors:
   - 2000.0
 - - Lisa Pritzker
   - 2000.0
-- - Carrie Barnes
-  - 1500.0
 
 ---
 

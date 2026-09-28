@@ -13,7 +13,7 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 310005.0
+  funds: 362505.0
   expenses: 11191.73
   ies: ''
 multi_committees: []
@@ -22,6 +22,8 @@ contributors:
   - 150000.0
 - - Christian Larsen
   - 100000.0
+- - Oberndorf Enterprises, Llc(bill Oberndorf)
+  - 50000.0
 - - Tmg Partners R.e., Llc(michael Covarrubias)
   - 15000.0
 - - Lawrence Cushman
@@ -34,9 +36,8 @@ contributors:
   - 5000.0
 - - San Francisco Broadway Showgirls Club Management Llc(joseph Carouba)
   - 5000.0
-- - Teamsters Local Union 350 PAC
-  - 2500.0
-- - Teamsters Local Union No. 665 PAC
+- - Building Owners and Managers Association of San Fransisco Political Action Committee
+    - Ballot Issues
   - 2500.0
 
 ---

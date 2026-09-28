@@ -164,21 +164,14 @@ committees:
 - cmte_name: San Franciscans for Strong Public Education Supporting Lacroix, Lee,
     and Mcfadden for San Francisco Community College Board 2026 and Tello, Hazelton
     and Cheung for San Francisco Board of Education 2026 - Sponsored by Labor Organizations
-  cmte_fppcid: unknown
+  cmte_fppcid: '1496601'
   cmte_nid: '217420279'
 - cmte_name: Team Manny, Manny Yekutiel for Supervisor 2026
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
-- cmte_name: Clean Up City Hall, Mayor Lurie's Ballot Measure Committee
-  cmte_fppcid: '1489257'
-  cmte_nid: '216006060'
 - cmte_name: Clean Up the Charter - Yes on a
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
-- cmte_name: Daniel Lurie Ballot Measure Committee - Safe, Affordable Muni for a Thriving
-    San Francisco
-  cmte_fppcid: '1479782'
-  cmte_nid: '214099226'
 - cmte_name: Electrical Industry Service Bureau, Inc. Labor-management Committee for
     the Electrical Construction Industry Mpo
   cmte_fppcid: '1393126'
@@ -189,6 +182,12 @@ committees:
 - cmte_name: Fair Housing, Yes on I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
+- cmte_name: Mayor Lurie's Yes on D, E & F Committee
+  cmte_fppcid: '1489257'
+  cmte_nid: '216006060'
+- cmte_name: Mayor Lurie's Yes on H Committee
+  cmte_fppcid: '1479782'
+  cmte_nid: '214099226'
 - cmte_name: No on a, Stop the Engardio Recall
   cmte_fppcid: '1477355'
   cmte_nid: '212872841'
@@ -381,7 +380,7 @@ committees:
 - cmte_name: Gfc Courage Committee - Marin Chapter
   cmte_fppcid: '1435894'
   cmte_nid: unknown
-- cmte_name: Gfc Courage Committee - Palo Alto Chapter
+- cmte_name: Gfc Courage Committee - Peninsula South Bay Chapter
   cmte_fppcid: '1416422'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - San Francisco Chapter
@@ -558,7 +557,7 @@ committees:
     Yerba Buena Neighborhood Consortium LLC
   cmte_fppcid: '1433587'
   cmte_nid: '162062420'
-- cmte_name: San Francisco Laborer's Local 261 P.a.c.
+- cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
 - cmte_name: Kevin Mullin for Congress

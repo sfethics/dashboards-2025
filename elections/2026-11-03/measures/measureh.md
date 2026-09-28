@@ -12,8 +12,7 @@ committees:
 - position: SUPPORT
   filer_nid: '214099226'
   filer_id: '1479782'
-  committee_name: DANIEL LURIE BALLOT MEASURE COMMITTEE - SAFE, AFFORDABLE MUNI FOR
-    A THRIVING SAN FRANCISCO
+  committee_name: MAYOR LURIE'S YES ON H COMMITTEE
   funds: 4993500.0
   expenses: 2201950.16
   ies: ''
