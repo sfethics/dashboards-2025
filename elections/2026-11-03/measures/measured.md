@@ -13,7 +13,7 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 110700.0
+  funds: 185700.0
   expenses: 50404.32
   ies: ''
 multi_committees:
@@ -26,6 +26,8 @@ multi_committees:
 contributors:
 - - Tenants and Owners Development Corporation
   - 80000.0
+- - Service Employees International Union Local 1021 PAC
+  - 75000.0
 - - International Federation Professional Technical Engineers
   - 25000.0
 - - Alexander Maldonado
@@ -41,8 +43,6 @@ contributors:
 - - Rishav Rout
   - 500.0
 - - Katherine Howard
-  - 100.0
-- - San Francisco Labor Council
   - 100.0
 
 ---

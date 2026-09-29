@@ -228,9 +228,6 @@ committees:
 - cmte_name: Alice B. Toklas Lgbtq Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
-- cmte_name: American Federation of Teachers 2121 Cope Candidates
-  cmte_fppcid: '890972'
-  cmte_nid: '121745106'
 - cmte_name: Building Owners and Managers Association of San Francisco Political Action
     Committee - Ballot Issues (Aka Boma-sf-pac-ballot Issues)
   cmte_fppcid: '970432'
@@ -276,6 +273,9 @@ committees:
 - cmte_name: Operating Engineers Local Union 3 District 01, 02 & 03 PAC
   cmte_fppcid: '891394'
   cmte_nid: '121720608'
+- cmte_name: Professors for Eductional Reform Aft 2121 - C.o.p.e.
+  cmte_fppcid: '890972'
+  cmte_nid: '121745106'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -300,7 +300,7 @@ committees:
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
-- cmte_name: Service Employees International Union Local 1021 Issues PAC
+- cmte_name: Service Employees International Union Local 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
 - cmte_name: SF Believes
@@ -325,6 +325,9 @@ committees:
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
+- cmte_name: United Educators of San Francisco Cope
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
 - cmte_name: United Democratic Club of San Francisco
   cmte_fppcid: '1383372'
   cmte_nid: '158910556'
