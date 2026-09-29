@@ -21,6 +21,13 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217531678?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_OPPOSING_EMANUEL%20YEKUTIEL
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 8000.0
+  tx_date: '2026-09-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217541310?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
   position: OPPOSE
   tx_amount: 3750.0
@@ -60,7 +67,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 2995.94
   tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217531668?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217541310?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'

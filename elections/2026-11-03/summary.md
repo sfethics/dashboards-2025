@@ -91,7 +91,12 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 436372.75
+  expenses: 444372.75
+- contest_nid: MCC-1
+  contest_name: Community College Board and Board of Education
+  contest_link: ccb-usd
+  funds: 24000.0
+  expenses: 0.0
 measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -102,7 +107,7 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 334611.13
-  funds: 604406.5
+  funds: 613906.5
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
@@ -118,12 +123,12 @@ measures:
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
   expenses: 50404.32
-  funds: 110700.0
+  funds: 185700.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 64762.62
-  funds: 298513.23
+  funds: 303238.23
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
@@ -143,7 +148,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 314100.0
+  funds: 316600.0
 contributors_bm:
 - - Michael Moritz
   - 2743095.78
@@ -160,12 +165,12 @@ contributors_cand:
   - 500000.0
 - - SF Believes
   - 50000.0
+- - Professors for Eductional Reform Aft 2121 - C.o.p.e.
+  - 24000.0
 - - Kendall Jesmer
   - 10500.0
 - - Erwin Tam
   - 10250.0
-- - Alison Gelb Pincus
-  - 10000.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
@@ -182,7 +187,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 290389.85
+  total_expense: 300389.85
 - cmte_nid: '214783692'
   cmte_fppcid: '1484080'
   cmte_name: GARY MC COY FOR SUPERVISOR 2026

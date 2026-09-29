@@ -84,7 +84,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 290389.85
+  total_expense: 300389.85
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -412,6 +412,11 @@ committees:
   cmte_nid: '6673760'
   committee_type: General Purpose
   total_expense: 85000.0
+- cmte_name: UNITED EDUCATORS OF SAN FRANCISCO COPE
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
+  committee_type: General Purpose
+  total_expense: 15000.0
 - cmte_name: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'
@@ -422,7 +427,7 @@ committees:
   cmte_nid: '6685673'
   committee_type: General Purpose
   total_expense: 178291.36
-- cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+- cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
   committee_type: General Purpose

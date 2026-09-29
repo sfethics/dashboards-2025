@@ -538,6 +538,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 75000.0
+- tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
+  tx_entitycode: Other
+  tx_cmteid: '1296947'
+  tx_amount: 75000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 75000.0
 - tx_lastname: MARCO HELLMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -806,6 +814,16 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 25000.0
+- tx_lastname: PROFESSORS FOR EDUCTIONAL REFORM AFT 2121 - C.O.P.E.
+  tx_entitycode: Other
+  tx_cmteid: '890972'
+  tx_amount: 24000.0
+  transactions:
+  - cmte_fppcid: '1496601'
+    cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+      AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+      AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 24000.0
 - tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   tx_entitycode: Committee
   tx_cmteid: '840002'
@@ -1263,6 +1281,17 @@ contributors:
   - cmte_fppcid: '1491969'
     cmte_name: GRECO FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: NICK NOVITSKI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 7000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 3500.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 3500.0
 - tx_lastname: JACK GOOD
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1337,6 +1366,34 @@ contributors:
   - cmte_fppcid: '1492163'
     cmte_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
     tx_amount: 500.0
+- tx_lastname: GFC COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
+  tx_entitycode: Committee
+  tx_cmteid: '1416440'
+  tx_amount: 5500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 2500.0
 - tx_lastname: PHINEAS BARNES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1504,6 +1561,14 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 5000.0
+- tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO COPE
+  tx_entitycode: Committee
+  tx_cmteid: '822448'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 5000.0
 - tx_lastname: WILLIAM OKEEFFE JR.
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1591,6 +1656,14 @@ contributors:
   - cmte_fppcid: '1494100'
     cmte_name: FAIR ACCESS NO ON D
     tx_amount: 500.0
+- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 3710.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 3710.0
 - tx_lastname: SARA BARZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1674,29 +1747,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 3250.0
-- tx_lastname: GFC COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
-  tx_entitycode: Committee
-  tx_cmteid: '1416440'
-  tx_amount: 3000.0
-  transactions:
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1493505'
-    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
 - tx_lastname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
   tx_entitycode: Committee
   tx_cmteid: '1392639'
@@ -2014,14 +2064,6 @@ contributors:
   - cmte_fppcid: '1492843'
     cmte_name: ALIDA FISHER FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
-- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 2485.0
-  transactions:
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 2485.0
 - tx_lastname: MYRNA MELGAR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2202,6 +2244,17 @@ contributors:
   - cmte_fppcid: '1494100'
     cmte_name: FAIR ACCESS NO ON D
     tx_amount: 2000.0
+- tx_lastname: CHESA BOUDIN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 1000.0
 - tx_lastname: CHRISTINA SANGIACOMO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4441,14 +4494,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1481892'
     cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
-    tx_amount: 1000.0
-- tx_lastname: CHESA BOUDIN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
 - tx_lastname: CINDY MCCULLAGH
   tx_entitycode: Individual
