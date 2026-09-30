@@ -13,7 +13,7 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 303238.23
+  funds: 304238.23
   expenses: 64762.62
   ies: ''
 multi_committees: []
@@ -34,9 +34,9 @@ contributors:
   - 2500.0
 - - Jeff May
   - 2500.0
+- - Amy Zheng
+  - 1750.0
 - - Brandee Marckmann
-  - 1000.0
-- - National Union of Healthcare Workers
   - 1000.0
 
 ---

@@ -13,7 +13,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 613906.5
+  funds: 638906.5
   expenses: 324611.13
   ies: ''
 multi_committees:
@@ -23,7 +23,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 316600.0
+  funds: 391600.0
   expenses: 27596.63
 contributors:
 - - Saikat Chakrabarti
@@ -34,6 +34,8 @@ contributors:
   - 105000.0
 - - Charles Good
   - 25000.0
+- - Service Employees International Union Local 1021 Issues PAC
+  - 25000.0
 - - Aditya Bhumbla
   - 15375.0
 - - Jeffrey May
@@ -43,8 +45,6 @@ contributors:
 - - Democratic Socialists of America, San Francisco Chapter
   - 10000.0
 - - Jefferson Lee
-  - 10000.0
-- - Alexander Reilly
   - 10000.0
 
 ---

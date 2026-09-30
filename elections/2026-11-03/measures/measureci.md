@@ -20,11 +20,13 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 316600.0
+  funds: 391600.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
 contributors:
+- - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
+  - 50000.0
 - - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
     )'
   - 50000.0
@@ -37,16 +39,14 @@ contributors:
 - - Building Owners and Managers Association of San Francisco Political Action Committee
     - Ballot Issues
   - 27500.0
+- - Christopher Conway
+  - 25000.0
 - - U.a. Local 38 Cope Fund
   - 25000.0
 - - San Francisco Apartment Association Political Action Committee
   - 20000.0
 - - Reuben, Junius & Rose Llp
   - 15000.0
-- - Operating Engineers Local Union No. 3 Issues Advocacy/ballot Initiative PAC
-  - 10000.0
-- - SF Forward Sponsored by San Francisco Chamber of Commerce
-  - 10000.0
 
 ---
 

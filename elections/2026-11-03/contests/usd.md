@@ -58,6 +58,24 @@ candidates:
   funds: 16934.0
   expenses: 3611.83
 ie_candidates:
+- candidate_name: ALIDA FISHER
+  filer_id: '1492843'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201848961'
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 7475.5
+- candidate_name: PHIL KIM
+  filer_id: '1483651'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201848961'
+    filer_id: '1442994'
+    committee_name: SAN FRANCISCO PARENT ACTION PAC
+    funds: ''
+    expenses: 7475.5
 - candidate_name: REINA LOLI-TELLO
   filer_id: '1490256'
   committees:
@@ -90,7 +108,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 2921.17
+    expenses: 17814.45
 - candidate_name: TIM TUNG
   filer_id: '1493505'
   committees:
