@@ -13,7 +13,7 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1159633.5
+  funds: 1594633.5
   expenses: 857183.16
   ies: ''
 - position: SUPPORT
@@ -26,11 +26,13 @@ committees:
 multi_committees: []
 contributors:
 - - Jeremy Stoppelman
-  - 375000.0
+  - 750000.0
 - - Laura Yakovenko
   - 250000.0
 - - Emmett Shear
   - 75000.0
+- - Nicholas Josefowitz
+  - 60000.0
 - - Benjamin Spero
   - 49900.0
 - - Friends of Sunset Dunes
@@ -43,8 +45,6 @@ contributors:
   - 25000.0
 - - Michel Krieger
   - 20000.0
-- - Kid Safe SF
-  - 18750.0
 
 ---
 

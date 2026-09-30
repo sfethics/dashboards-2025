@@ -32,14 +32,14 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 792447.5
-  expenses: 306574.04
+  funds: 793267.5
+  expenses: 306716.85
   ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1430746.43
+  funds: 1453111.43
   expenses: 678544.44
   ies: ''
 - committee_type: candidate
@@ -81,11 +81,11 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 119431.99
+  expenses: 149276.27000000002
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 500000.0
+  funds: 510000.0
   expenses: 87375.78
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
@@ -107,18 +107,18 @@ measures:
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 334611.13
-  funds: 613906.5
+  funds: 638906.5
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 915707.15
-  funds: 1260791.34
+  funds: 1695791.34
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 187964.43
-  funds: 596679.01
+  funds: 602067.02
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -128,7 +128,7 @@ measures:
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 64762.62
-  funds: 303238.23
+  funds: 304238.23
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
@@ -148,17 +148,17 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 316600.0
+  funds: 391600.0
 contributors_bm:
 - - Michael Moritz
   - 2743095.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - John Pritzker
+  - 1000000.0
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen

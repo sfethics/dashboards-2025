@@ -25,8 +25,8 @@ candidates:
   filer_id: '1481624'
   committee_name: P.J BASTIANY FOR SUPERVISOR 2026
   candidate_name: PEARCI BASTIANY
-  funds: 376.5
-  expenses: 322.63
+  funds: 1196.5
+  expenses: 465.44
 - filer_nid: '214808596'
   filer_id: '1484091'
   committee_name: THEO ELLINGTON FOR SUPERVISOR 2026
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
-    funds: 500000.0
+    funds: 510000.0
     expenses: 5075.0
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
@@ -62,6 +62,8 @@ ie_candidates:
 contributors:
 - - Christian Larsen
   - 500000.0
+- - North Coast States Regional Council of Carpenters Power PAC
+  - 10000.0
 - - Anne Cervantes
   - 1000.0
 - - Nicholas Colina
@@ -77,8 +79,6 @@ contributors:
 - - Loretta Lynch
   - 1000.0
 - - Aaron Peskin
-  - 1000.0
-- - David Schoop
   - 1000.0
 
 ---

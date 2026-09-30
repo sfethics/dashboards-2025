@@ -22,7 +22,7 @@ committees:
   cmte_nid: '126511772'
   committee_type: Major Donor
   total_expense: 5000.0
-- cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+- cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
   committee_type: General Purpose
@@ -43,6 +43,11 @@ committees:
   cmte_nid: '193427405'
   committee_type: General Purpose
   total_expense: 875000.0
+- cmte_name: NAIOP SAN FRANCISCO BAY AREA ISSUES PAC
+  cmte_fppcid: '1441128'
+  cmte_nid: '201112724'
+  committee_type: General Purpose
+  total_expense: 9500.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -52,7 +57,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 20600.03
+  total_expense: 49105.009999999995
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -114,7 +119,7 @@ committees:
   cmte_fppcid: '1481624'
   cmte_nid: '214611048'
   committee_type: Candidate Controlled
-  total_expense: 322.63
+  total_expense: 465.44
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'

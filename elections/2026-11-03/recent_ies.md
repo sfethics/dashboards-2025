@@ -5,6 +5,48 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 10893.28
+  tx_date: '2026-09-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545771?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-09-28'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-09-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545771?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-09-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 2805.85
+  tx_date: '2026-09-28'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 2805.85
+  tx_date: '2026-09-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
@@ -408,11 +450,67 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 323.16
+  tx_date: '2026-08-30'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 323.16
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
   ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
   position: SUPPORT
   tx_amount: 253.2
   tx_date: '2026-08-30'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217336464?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 199.86
+  tx_date: '2026-08-30'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 199.86
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 83.33
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 83.33
+  tx_date: '2026-08-30'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 63.3
+  tx_date: '2026-08-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217545790?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 63.3
+  tx_date: '2026-08-30'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
