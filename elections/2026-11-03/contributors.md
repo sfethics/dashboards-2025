@@ -11,7 +11,7 @@ contributors:
 - tx_lastname: MICHAEL MORITZ
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 2743095.78
+  tx_amount: 2943095.78
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
@@ -19,10 +19,15 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 150000.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 200000.0
 - tx_lastname: CHRISTIAN LARSEN
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 2087500.0
+  tx_amount: 2127500.0
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
@@ -33,7 +38,7 @@ contributors:
   - cmte_fppcid: '1495589'
     cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
       SUPERVISOR 2026
-    tx_amount: 500000.0
+    tx_amount: 540000.0
 - tx_lastname: JOHN PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -261,6 +266,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 200000.0
+- tx_lastname: 'RELATED CALIFORNIA RESIDENTIAL, LLC(RESPONSIBLE OFFICER: GINO CANORI)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 200000.0
 - tx_lastname: THE SAN FRANCISCO FOUNDATION
   tx_entitycode: Other
@@ -596,6 +611,17 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: WILLIAM OBERNDORF
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50500.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 50000.0
 - tx_lastname: '100 MISSION OWNER, LLC(RESPONSIBLE OFFICER: K CYRUS SANANDAJI)'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -659,14 +685,6 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
-    tx_amount: 50000.0
-- tx_lastname: OBERNDORF ENTERPRISES, LLC(BILL OBERNDORF)
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 50000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
@@ -962,6 +980,19 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 125.0
+- tx_lastname: HOTEL COUNCIL OF SAN FRANCISCO PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1381090'
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 10000.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 5000.0
 - tx_lastname: IAN STORM TAYLOR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1132,14 +1163,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 10000.0
-- tx_lastname: HOTEL COUNCIL OF SAN FRANCISCO PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1381090'
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 10000.0
 - tx_lastname: JEFFERSON LEE
   tx_entitycode: Individual
@@ -1526,6 +1549,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 5000.0
+- tx_lastname: PLANT CONSTRUCTION COMPANY LP
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 5000.0
 - tx_lastname: SAN FRANCISCO BROADWAY SHOWGIRLS CLUB MANAGEMENT LLC(JOSEPH CAROUBA)
   tx_entitycode: Other

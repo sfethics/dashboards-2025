@@ -63,6 +63,11 @@ committees:
   cmte_nid: '204547209'
   committee_type: Major Donor
   total_expense: 100000.0
+- cmte_name: David Dewilde
+  cmte_fppcid: '1398794'
+  cmte_nid: '208194494'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: Nancy Tung for Democratic County Central Committee 2024 Officeholder
     Committee
   cmte_fppcid: '1463425'
@@ -75,6 +80,11 @@ committees:
   cmte_nid: '208632535'
   committee_type: Candidate Controlled
   total_expense: 1850.0
+- cmte_name: Katherine August deWilde
+  cmte_fppcid: '1398795'
+  cmte_nid: '209506314'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
@@ -395,7 +405,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 469000.0
+  total_expense: 470000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'

@@ -526,6 +526,9 @@ committees:
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
+- cmte_name: David Dewilde
+  cmte_fppcid: '1398794'
+  cmte_nid: '208194494'
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'
@@ -541,6 +544,9 @@ committees:
 - cmte_name: Joseph Pritzker
   cmte_fppcid: '1369110'
   cmte_nid: '214726634'
+- cmte_name: Katherine August Dewilde
+  cmte_fppcid: '1398795'
+  cmte_nid: '209506314'
 - cmte_name: Kendall Jesmer
   cmte_fppcid: unknown
   cmte_nid: '217413576'

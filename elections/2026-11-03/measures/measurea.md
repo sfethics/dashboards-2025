@@ -22,7 +22,7 @@ contributors:
   - 150000.0
 - - Christian Larsen
   - 100000.0
-- - Oberndorf Enterprises, Llc(bill Oberndorf)
+- - William Oberndorf
   - 50000.0
 - - Tmg Partners R.e., Llc(michael Covarrubias)
   - 15000.0

@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
-    funds: 510000.0
+    funds: 550000.0
     expenses: 5075.0
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
@@ -61,7 +61,7 @@ ie_candidates:
     expenses: 3200.0
 contributors:
 - - Christian Larsen
-  - 500000.0
+  - 540000.0
 - - North Coast States Regional Council of Carpenters Power PAC
   - 10000.0
 - - Anne Cervantes
