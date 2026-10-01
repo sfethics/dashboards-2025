@@ -20,11 +20,15 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 391600.0
+  funds: 801600.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
 contributors:
+- - Michael Moritz
+  - 200000.0
+- - 'Related California Residential, Llc(responsible Officer: Gino Canori)'
+  - 200000.0
 - - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
   - 50000.0
 - - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
@@ -43,10 +47,6 @@ contributors:
   - 25000.0
 - - U.a. Local 38 Cope Fund
   - 25000.0
-- - San Francisco Apartment Association Political Action Committee
-  - 20000.0
-- - Reuben, Junius & Rose Llp
-  - 15000.0
 
 ---
 

@@ -85,7 +85,7 @@ candidate_ie:
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 510000.0
+  funds: 550000.0
   expenses: 87375.78
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
@@ -148,21 +148,21 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 391600.0
+  funds: 801600.0
 contributors_bm:
 - - Michael Moritz
-  - 2743095.78
+  - 2943095.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
+  - 1000000.0
+- - Lyna Lam
   - 1000000.0
 - - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
-  - 500000.0
+  - 540000.0
 - - SF Believes
   - 50000.0
 - - Professors for Eductional Reform Aft 2121 - C.o.p.e.
@@ -212,7 +212,7 @@ top_bm_spends:
 - cmte_nid: '6668151'
   cmte_fppcid: '891575'
   cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
-  total_expense: 469000.0
+  total_expense: 470000.0
 
 ---
 
