@@ -69,7 +69,7 @@ ie_candidates:
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     funds: 114000.0
-    expenses: 25724.45
+    expenses: 49725.48
 contributors:
 - - SF Believes
   - 50000.0

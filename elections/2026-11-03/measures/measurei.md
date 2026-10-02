@@ -9,11 +9,18 @@ breadcrumbs:
 - - 'I: Changes to Real Property Transfer Tax'
   - elections/2026-11-03/measures/measurei
 committees:
+- position: OPPOSE
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 1176.47
+  ies: 1176.47
 - position: SUPPORT
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 638906.5
+  funds: 639906.5
   expenses: 324611.13
   ies: ''
 multi_committees:
@@ -23,7 +30,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 801600.0
+  funds: 951600.0
   expenses: 27596.63
 contributors:
 - - Saikat Chakrabarti

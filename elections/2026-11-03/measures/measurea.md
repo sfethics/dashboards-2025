@@ -10,10 +10,17 @@ breadcrumbs:
   - elections/2026-11-03/measures/measurea
 committees:
 - position: SUPPORT
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 1470.59
+  ies: 1470.59
+- position: SUPPORT
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 362505.0
+  funds: 410005.0
   expenses: 11191.73
   ies: ''
 multi_committees: []
@@ -22,6 +29,8 @@ contributors:
   - 150000.0
 - - Christian Larsen
   - 100000.0
+- - Robert Fisher
+  - 50000.0
 - - William Oberndorf
   - 50000.0
 - - Tmg Partners R.e., Llc(michael Covarrubias)
@@ -36,9 +45,6 @@ contributors:
   - 5000.0
 - - San Francisco Broadway Showgirls Club Management Llc(joseph Carouba)
   - 5000.0
-- - Building Owners and Managers Association of San Fransisco Political Action Committee
-    - Ballot Issues
-  - 2500.0
 
 ---
 

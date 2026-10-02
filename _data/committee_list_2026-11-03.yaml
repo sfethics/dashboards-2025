@@ -328,15 +328,15 @@ committees:
 - cmte_name: Uber Innovation Ballot Measure Committee
   cmte_fppcid: '1466153'
   cmte_nid: '212872598'
-- cmte_name: United Educators of San Francisco Cope
-  cmte_fppcid: '822448'
-  cmte_nid: '6673824'
 - cmte_name: United Democratic Club of San Francisco
   cmte_fppcid: '1383372'
   cmte_nid: '158910556'
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
+- cmte_name: United Educators of San Francisco Committee on Political Education
+  cmte_fppcid: '822448'
+  cmte_nid: '6673824'
 - cmte_name: Affordable Redwood City Sponsored by Faith in Action Bay Area
   cmte_fppcid: '1464366'
   cmte_nid: unknown
@@ -556,6 +556,9 @@ committees:
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'
+- cmte_name: Nisha Birla
+  cmte_fppcid: unknown
+  cmte_nid: '217548545'
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'

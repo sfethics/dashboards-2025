@@ -13,7 +13,7 @@ candidates:
   filer_id: '1481892'
   committee_name: DJ BROOKTER FOR SUPERVISOR 2026
   candidate_name: DION-JAY (DJ) BROOKTER
-  funds: 145150.0
+  funds: 179350.0
   expenses: 73391.82
 - filer_nid: '214577156'
   filer_id: '1482707'
@@ -42,14 +42,14 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 79100.78
+    expenses: 80865.49
   - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
     funds: 550000.0
-    expenses: 5075.0
+    expenses: 78166.0
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
   committees:

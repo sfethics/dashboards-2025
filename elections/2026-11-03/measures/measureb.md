@@ -9,6 +9,13 @@ breadcrumbs:
 - - 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   - elections/2026-11-03/measures/measureb
 committees:
+- position: OPPOSE
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 1764.71
+  ies: 1764.71
 - position: SUPPORT
   filer_nid: '217045555'
   filer_id: '1488530'

@@ -5,6 +5,164 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+  cmte_fppcid: '1486185'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 24001.03
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6847.05
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4620.5
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565400?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 1764.71
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 1764.71
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 1764.71
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 1764.71
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 1470.59
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 1176.47
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-09-30'
+  attachment_url: ''
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
@@ -84,25 +242,25 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217531678?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_OPPOSING_EMANUEL%20YEKUTIEL
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 6666.67
-  tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530777?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'
   position: SUPPORT
   tx_amount: 6666.67
   tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530761?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565366?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 6666.67
+  tx_date: '2026-09-25'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565383?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: REINA LOLI-TELLO'
   position: SUPPORT
   tx_amount: 6666.66
   tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530745?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565349?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -112,25 +270,25 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217541310?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 81.31
+  tx_date: '2026-09-25'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565349?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'
   position: SUPPORT
   tx_amount: 81.31
   tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530761?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565366?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'
   position: SUPPORT
   tx_amount: 81.31
   tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530777?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 81.31
-  tx_date: '2026-09-25'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530745?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565383?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1486185'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
@@ -161,25 +319,25 @@ recent_ies:
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217458679?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 556.17
-  tx_date: '2026-09-19'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530777?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
   ie_description: 'Board of Education: REINA LOLI-TELLO'
   position: SUPPORT
-  tx_amount: 556.16
+  tx_amount: 183.21
   tx_date: '2026-09-19'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530745?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565349?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 183.21
+  tx_date: '2026-09-19'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565383?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'
   position: SUPPORT
-  tx_amount: 556.16
+  tx_amount: 183.21
   tx_date: '2026-09-19'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217530761?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217565366?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'

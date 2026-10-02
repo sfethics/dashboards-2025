@@ -32,7 +32,7 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 793267.5
+  funds: 827467.5
   expenses: 306716.85
   ies: ''
 - committee_type: candidate
@@ -81,33 +81,48 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 149276.27000000002
+  expenses: 148157.41
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 87375.78
+  expenses: 162231.49
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 444372.75
+  expenses: 468373.77999999997
+- contest_nid: '215579014'
+  contest_name: Board of Supervisors D06
+  contest_link: bos06
+  funds: 0.0
+  expenses: 1176.47
+- contest_nid: '216135653'
+  contest_name: Board of Supervisors D04
+  contest_link: bos04
+  funds: 0.0
+  expenses: 1176.47
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
   funds: 24000.0
   expenses: 0.0
 measures:
+- contest_nid: '216006007'
+  contest_name: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  contest_link: measuree
+  expenses: 1176.47
+  funds: ''
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
-  expenses: 2201950.16
+  expenses: 2203714.87
   funds: 4993500.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 334611.13
-  funds: 638906.5
+  expenses: 335787.6
+  funds: 639906.5
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
@@ -127,13 +142,18 @@ measures:
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
-  expenses: 64762.62
+  expenses: 66527.33
   funds: 304238.23
+- contest_nid: '217062208'
+  contest_name: 'F: Changes to Executive Branch Management'
+  contest_link: measuref
+  expenses: 1764.71
+  funds: ''
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
-  expenses: 11191.73
-  funds: 362505.0
+  expenses: 12662.32
+  funds: 410005.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -143,22 +163,22 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 11408095.78
+  funds: 11508095.78
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 801600.0
+  funds: 951600.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
   - 1000000.0
-- - Jeremy Stoppelman
+- - John Pritzker
+  - 1000000.0
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -176,14 +196,14 @@ top_cand_spends:
   cmte_fppcid: '1487286'
   cmte_name: SF Believes
   total_expense: 813138.2
+- cmte_nid: '201619433'
+  cmte_fppcid: '1433436'
+  cmte_name: GrowSF Voter Guide
+  total_expense: 337861.53
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 333830.38
-- cmte_nid: '201619433'
-  cmte_fppcid: '1433436'
-  cmte_name: GrowSF Voter Guide
-  total_expense: 333743.88
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations

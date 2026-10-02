@@ -52,7 +52,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 335861.52
+  total_expense: 349096.83
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -330,7 +330,7 @@ committees:
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
   committee_type: Primarily Formed Candidate
-  total_expense: 25834.95
+  total_expense: 49835.98
 - cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
   cmte_fppcid: '1494600'
   cmte_nid: '217168240'
@@ -369,7 +369,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 82500.0
+  total_expense: 155591.0
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
@@ -427,11 +427,11 @@ committees:
   cmte_nid: '6673760'
   committee_type: General Purpose
   total_expense: 85000.0
-- cmte_name: UNITED EDUCATORS OF SAN FRANCISCO COPE
+- cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
   committee_type: General Purpose
-  total_expense: 15000.0
+  total_expense: 16000.0
 - cmte_name: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'

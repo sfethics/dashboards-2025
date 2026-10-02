@@ -21,7 +21,7 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 11408095.78
+  funds: 11508095.78
   expenses: 7005631.51
 contributors:
 - - Tenants and Owners Development Corporation
