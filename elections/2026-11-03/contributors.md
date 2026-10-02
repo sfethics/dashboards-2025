@@ -465,6 +465,16 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: KILROY REALTY,L.P. & AFFILIATED ENTITIES
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 100000.0
 - tx_lastname: MATTHEW SONSINI
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -640,6 +650,16 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: 'BROOKFIELD PROPERTY GROUP LLC(RESPONSIBLE OFFICER: HILARY WALKER)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES((RESPONSIBLE OFFICER:
     KEVIN VERDI) )'
   tx_entitycode: Other
@@ -650,6 +670,14 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
+    tx_amount: 50000.0
+- tx_lastname: DAVID DEWILDE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: DAVID SINGER
   tx_entitycode: Individual
@@ -675,6 +703,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: KATHERINE AUGUST DEWILDE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 50000.0
 - tx_lastname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL
     OF CALIFORNIA
   tx_entitycode: Committee
@@ -685,6 +721,14 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
+    tx_amount: 50000.0
+- tx_lastname: ROBERT FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 50000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_entitycode: Committee
@@ -1986,15 +2030,6 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 1000.0
-- tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANSISCO POLITICAL
-    ACTION COMMITTEE - BALLOT ISSUES
-  tx_entitycode: Committee
-  tx_cmteid: '970432'
-  tx_amount: 2500.0
-  transactions:
-  - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER - YES ON A
-    tx_amount: 2500.0
 - tx_lastname: CAROLYN SCHWAB-POMERANTZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -5058,6 +5093,14 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 500.0
+- tx_lastname: JONATHAN WEAVER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 1000.0
 - tx_lastname: JOSHUA ARCE
   tx_entitycode: Individual
   tx_cmteid: ''

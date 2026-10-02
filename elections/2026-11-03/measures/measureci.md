@@ -20,7 +20,7 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 801600.0
+  funds: 951600.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
@@ -29,7 +29,11 @@ contributors:
   - 200000.0
 - - 'Related California Residential, Llc(responsible Officer: Gino Canori)'
   - 200000.0
+- - Kilroy Realty,l.p. & Affiliated Entities
+  - 100000.0
 - - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
+  - 50000.0
+- - 'Brookfield Property Group Llc(responsible Officer: Hilary Walker)'
   - 50000.0
 - - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
     )'
@@ -43,10 +47,6 @@ contributors:
 - - Building Owners and Managers Association of San Francisco Political Action Committee
     - Ballot Issues
   - 27500.0
-- - Christopher Conway
-  - 25000.0
-- - U.a. Local 38 Cope Fund
-  - 25000.0
 
 ---
 

@@ -33,7 +33,16 @@ candidates:
   candidate_name: ALBERT CHOW
   funds: 500.0
   expenses: 62.0
-ie_candidates: []
+ie_candidates:
+- candidate_name: ALAN WONG
+  filer_id: '1489126'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 1176.47
 contributors:
 - - Christin Evans
   - 1000.0

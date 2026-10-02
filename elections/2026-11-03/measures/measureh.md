@@ -10,6 +10,13 @@ breadcrumbs:
   - elections/2026-11-03/measures/measureh
 committees:
 - position: SUPPORT
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 1764.71
+  ies: 1764.71
+- position: SUPPORT
   filer_nid: '214099226'
   filer_id: '1479782'
   committee_name: MAYOR LURIE'S YES ON H COMMITTEE

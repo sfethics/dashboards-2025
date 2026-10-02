@@ -21,7 +21,16 @@ candidates:
   candidate_name: ALEX BEHREND
   funds: 2200.0
   expenses: 636.82
-ie_candidates: []
+ie_candidates:
+- candidate_name: MATT DORSEY
+  filer_id: '1487329'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 1176.47
 contributors:
 - - Alex Behrend
   - 600.0
