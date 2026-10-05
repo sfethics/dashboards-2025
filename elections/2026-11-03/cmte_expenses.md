@@ -12,6 +12,16 @@ committees:
   cmte_nid: '11282770'
   committee_type: General Purpose
   total_expense: 6000.0
+- cmte_name: Dean Preston
+  cmte_fppcid: '1373175'
+  cmte_nid: '124340525'
+  committee_type: Major Donor
+  total_expense: 107500.0
+- cmte_name: Silvanus Osborn Erickson
+  cmte_fppcid: '1273721'
+  cmte_nid: '126511772'
+  committee_type: Major Donor
+  total_expense: 5000.0
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -21,12 +31,23 @@ committees:
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
   committee_type: General Purpose
-  total_expense: 10000.0
+  total_expense: 15000.0
+- cmte_name: Tenants and Owners Development Corporation and its affiliated entity
+    Yerba Buena Neighborhood Consortium LLC
+  cmte_fppcid: '1433587'
+  cmte_nid: '162062420'
+  committee_type: Major Donor
+  total_expense: 120000.0
 - cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
   committee_type: General Purpose
   total_expense: 875000.0
+- cmte_name: NAIOP SAN FRANCISCO BAY AREA ISSUES PAC
+  cmte_fppcid: '1441128'
+  cmte_nid: '201112724'
+  committee_type: General Purpose
+  total_expense: 9500.0
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -37,6 +58,16 @@ committees:
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
   total_expense: 49105.009999999995
+- cmte_name: Benjamin Spero
+  cmte_fppcid: unknown
+  cmte_nid: '204547209'
+  committee_type: Major Donor
+  total_expense: 100000.0
+- cmte_name: David Dewilde
+  cmte_fppcid: '1398794'
+  cmte_nid: '208194494'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: Nancy Tung for Democratic County Central Committee 2024 Officeholder
     Committee
   cmte_fppcid: '1463425'
@@ -49,6 +80,16 @@ committees:
   cmte_nid: '208632535'
   committee_type: Candidate Controlled
   total_expense: 1850.0
+- cmte_name: Katherine August deWilde
+  cmte_fppcid: '1398795'
+  cmte_nid: '209506314'
+  committee_type: Major Donor
+  total_expense: 50000.0
+- cmte_name: Saikat Chakrabarti
+  cmte_fppcid: '1478129'
+  cmte_nid: '209507341'
+  committee_type: Major Donor
+  total_expense: 350000.0
 - cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
@@ -94,6 +135,11 @@ committees:
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
   total_expense: 124254.13
+- cmte_name: Joseph Pritzker
+  cmte_fppcid: '1369110'
+  cmte_nid: '214726634'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: KIM FOR SCHOOL BOARD 2026
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
@@ -184,6 +230,11 @@ committees:
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
   total_expense: 8142.7
+- cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
+  cmte_fppcid: '1225686'
+  cmte_nid: '216724533'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: FAIR HOUSING, YES ON I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
@@ -290,6 +341,11 @@ committees:
   cmte_nid: '217230804'
   committee_type: Candidate Controlled
   total_expense: 2996.06
+- cmte_name: Dylan Hirsch-Shell
+  cmte_fppcid: unknown
+  cmte_nid: '217230896'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
     SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO CHAMBER
     OF COMMERCE
@@ -302,12 +358,43 @@ committees:
   cmte_nid: '217234321'
   committee_type: Candidate Controlled
   total_expense: 1418.12
+- cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
+    Fair Housing
+  cmte_fppcid: '1496058'
+  cmte_nid: '217253424'
+  committee_type: Primarily Formed Measure
+  total_expense: 10000.0
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
   total_expense: 159744.0
+- cmte_name: Core Urban Holdings LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217413116'
+  committee_type: Major Donor
+  total_expense: 51000.0
+- cmte_name: Kendall Jesmer
+  cmte_fppcid: unknown
+  cmte_nid: '217413576'
+  committee_type: Major Donor
+  total_expense: 10000.0
+- cmte_name: Lea Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441115'
+  committee_type: Major Donor
+  total_expense: 12499.99
+- cmte_name: Andrew Dudum
+  cmte_fppcid: unknown
+  cmte_nid: '217441594'
+  committee_type: Major Donor
+  total_expense: 87500.01
+- cmte_name: Anne Irwin
+  cmte_fppcid: '1392802'
+  cmte_nid: '217512744'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
@@ -318,7 +405,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 255000.0
+  total_expense: 470000.0
 - cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
@@ -350,7 +437,7 @@ committees:
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
   committee_type: General Purpose
-  total_expense: 15000.0
+  total_expense: 16000.0
 - cmte_name: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'

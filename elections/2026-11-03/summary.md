@@ -239,10 +239,10 @@ top_bm_spends:
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy
   total_expense: 855000.0
-- cmte_nid: '216747316'
-  cmte_fppcid: '1490845'
-  cmte_name: FAIR HOUSING, YES ON I
-  total_expense: 324611.13
+- cmte_nid: '6668151'
+  cmte_fppcid: '891575'
+  cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
+  total_expense: 470000.0
 
 ---
 
