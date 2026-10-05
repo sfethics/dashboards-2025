@@ -5,6 +5,148 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 3529.41
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 3529.41
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 3529.41
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 3529.41
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 3522.0
+  tx_date: '2026-10-03'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217574134?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 2941.18
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 2352.94
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 2352.94
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 2352.94
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 2352.94
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 1764.71
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 1764.71
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 1764.71
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 1176.47
+  tx_date: '2026-10-03'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 24000.0
+  tx_date: '2026-10-02'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217574134?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+  cmte_fppcid: '1486185'
+  ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
+  position: SUPPORT
+  tx_amount: 6170.59
+  tx_date: '2026-10-01'
+  attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4153.0
+  tx_date: '2026-10-01'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217572317?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1486185'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'
@@ -161,6 +303,56 @@ recent_ies:
   ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
   position: SUPPORT
   tx_amount: 1176.47
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 882.35
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 882.35
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 882.35
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 588.24
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
+  position: SUPPORT
+  tx_amount: 588.24
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 588.24
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 588.24
   tx_date: '2026-09-30'
   attachment_url: ''
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
@@ -385,17 +577,17 @@ recent_ies:
   cmte_fppcid: '1495589'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
-  tx_amount: 2537.5
+  tx_amount: 4620.5
   tx_date: '2026-09-16'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217448815?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217572273?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
   cmte_fppcid: '1495589'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
-  tx_amount: 2537.5
+  tx_amount: 4620.5
   tx_date: '2026-09-16'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217448815?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217572273?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: EMANUEL YEKUTIEL'

@@ -52,7 +52,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 349096.83
+  total_expense: 390567.43
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -99,7 +99,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 300389.85
+  total_expense: 327911.85
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -114,7 +114,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2201950.16
+  total_expense: 2245350.16
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -330,7 +330,7 @@ committees:
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
   committee_type: Primarily Formed Candidate
-  total_expense: 49835.98
+  total_expense: 56006.57
 - cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
   cmte_fppcid: '1494600'
   cmte_nid: '217168240'
@@ -369,7 +369,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 155591.0
+  total_expense: 159744.0
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
@@ -421,6 +421,12 @@ committees:
   cmte_nid: '6673394'
   committee_type: General Purpose
   total_expense: 1000.0
+- cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+    Political Action Committee
+  cmte_fppcid: '991525'
+  cmte_nid: '6673414'
+  committee_type: General Purpose
+  total_expense: 20000.0
 - cmte_name: San Francisco Labor & Neighbor Member Education/Political Issues Committee,
     sponsored by the San Francisco Labor Council
   cmte_fppcid: '970630'

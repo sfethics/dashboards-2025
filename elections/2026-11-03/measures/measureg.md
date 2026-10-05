@@ -10,6 +10,13 @@ breadcrumbs:
   - elections/2026-11-03/measures/measureg
 committees:
 - position: OPPOSE
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 2647.06
+  ies: 2647.06
+- position: OPPOSE
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES

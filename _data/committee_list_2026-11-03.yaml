@@ -316,6 +316,10 @@ committees:
     Sponsored by the San Francisco Labor Council
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
+- cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
+    Political Action Committee
+  cmte_fppcid: '991525'
+  cmte_nid: '6673414'
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -355,9 +359,6 @@ committees:
 - cmte_name: Committee to Expand the Middle Class Issues Committee, Sponsored by Airbnb,
     Inc.
   cmte_fppcid: '1437557'
-  cmte_nid: unknown
-- cmte_name: Connect Bay Area Transit
-  cmte_fppcid: '1483907'
   cmte_nid: unknown
 - cmte_name: Equality California Political Action Committee
   cmte_fppcid: '1254010'
@@ -473,6 +474,9 @@ committees:
 - cmte_name: SF Eastern Neighborhoods Democratic Club Smo
   cmte_fppcid: '1405412'
   cmte_nid: unknown
+- cmte_name: SF for All
+  cmte_fppcid: 00945303
+  cmte_nid: unknown
 - cmte_name: Sheet Metal Workers' International Association Local Union No. 104 Issues
     Committee
   cmte_fppcid: '1351785'
@@ -513,6 +517,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Yes on 40 - Billionaire Tax Now
   cmte_fppcid: '1484470'
+  cmte_nid: unknown
+- cmte_name: Yes on Rtm - Connect Bay Area Transit
+  cmte_fppcid: '1483907'
   cmte_nid: unknown
 - cmte_name: Andrew Dudum
   cmte_fppcid: unknown

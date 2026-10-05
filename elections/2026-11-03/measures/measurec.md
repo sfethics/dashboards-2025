@@ -10,6 +10,13 @@ breadcrumbs:
   - elections/2026-11-03/measures/measurec
 committees:
 - position: SUPPORT
+  filer_nid: '201619433'
+  filer_id: '1433436'
+  committee_name: GrowSF Voter Guide
+  funds: ''
+  expenses: 2647.06
+  ies: 2647.06
+- position: SUPPORT
   filer_nid: '216956820'
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
@@ -24,7 +31,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 951600.0
+  funds: 989100.0
   expenses: 27596.63
 contributors:
 - - Nph Action Fund Political Issues Committee
