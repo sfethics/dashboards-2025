@@ -42,7 +42,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 1176.47
+    expenses: 3529.41
 contributors:
 - - Christin Evans
   - 1000.0

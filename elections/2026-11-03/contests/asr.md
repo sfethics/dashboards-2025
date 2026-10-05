@@ -15,7 +15,16 @@ candidates:
   candidate_name: JOAQUIN TORRES
   funds: 68115.0
   expenses: 36054.33
-ie_candidates: []
+ie_candidates:
+- candidate_name: JOAQUIN TORRES
+  filer_id: '1487412'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 1764.71
 contributors:
 - - Dwayne Jones
   - 1000.0

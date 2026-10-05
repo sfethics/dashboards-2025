@@ -27,7 +27,16 @@ candidates:
   candidate_name: NICHOLAS BERG
   funds: 6052.61
   expenses: 1482.52
-ie_candidates: []
+ie_candidates:
+- candidate_name: STEPHEN SHERRILL
+  filer_id: '1482285'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 2647.06
 contributors:
 - - Sheeva Hamidieh
   - 750.0

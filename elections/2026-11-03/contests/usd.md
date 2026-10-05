@@ -102,7 +102,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 16784.32
+    expenses: 18549.03
   - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
@@ -117,7 +117,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 33568.63
+    expenses: 37098.05
 contributors:
 - - Todd David
   - 2000.0
