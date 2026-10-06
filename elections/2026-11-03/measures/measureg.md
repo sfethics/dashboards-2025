@@ -20,7 +20,7 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1594633.5
+  funds: 1595633.5
   expenses: 857183.16
   ies: ''
 - position: SUPPORT

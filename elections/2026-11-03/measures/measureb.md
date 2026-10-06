@@ -20,7 +20,7 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 304238.23
+  funds: 304666.8
   expenses: 64762.62
   ies: ''
 multi_committees: []

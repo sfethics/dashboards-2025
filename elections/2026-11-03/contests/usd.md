@@ -84,7 +84,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 21479.66
+    expenses: 22394.81
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:
@@ -93,7 +93,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 21779.67
+    expenses: 22694.83
 - candidate_name: AUTUMN BROWN GARIBAY
   filer_id: '1491849'
   committees:
@@ -102,7 +102,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 18549.03
+    expenses: 51735.31
   - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
@@ -117,7 +117,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 37098.05
+    expenses: 103470.59
 contributors:
 - - Todd David
   - 2000.0
