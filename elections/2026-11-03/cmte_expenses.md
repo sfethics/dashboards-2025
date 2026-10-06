@@ -38,6 +38,11 @@ committees:
   cmte_nid: '162062420'
   committee_type: Major Donor
   total_expense: 120000.0
+- cmte_name: The Swig Company, LLC
+  cmte_fppcid: unknown
+  cmte_nid: '171851239'
+  committee_type: Major Donor
+  total_expense: 25000.0
 - cmte_name: Neighbors For A Better San Francisco Advocacy
   cmte_fppcid: '1431167'
   cmte_nid: '193427405'
@@ -52,7 +57,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 390567.43
+  total_expense: 500126.25
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -114,7 +119,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2245350.16
+  total_expense: 2278700.42
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -369,7 +374,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 159744.0
+  total_expense: 164387.0
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
@@ -395,6 +400,11 @@ committees:
   cmte_nid: '217512744'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: Thomas Laffont
+  cmte_fppcid: '1497702'
+  cmte_nid: '217570892'
+  committee_type: Major Donor
+  total_expense: 250000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
@@ -447,7 +457,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 178291.36
+  total_expense: 180906.95
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'

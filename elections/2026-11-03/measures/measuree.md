@@ -21,7 +21,7 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 11544328.94
+  funds: 11844328.94
   expenses: 7005631.51
 
 ---

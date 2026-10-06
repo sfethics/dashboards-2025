@@ -259,6 +259,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 250000.0
+- tx_lastname: THOMAS LAFFONT
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 250000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 250000.0
 - tx_lastname: MICHELLE BOYERS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -730,6 +738,14 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: NISHA BIRLA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 50000.0
 - tx_lastname: ROBERT FISHER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -923,6 +939,15 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 25000.0
+- tx_lastname: SAN FRANCISCO COMMUNITY LAND TRUST
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 25000.0
 - tx_lastname: SEQUOIA LIVING
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1029,6 +1054,24 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: SAN FRANCISCO LABOR COUNCIL
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 20100.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 20100.0
+- tx_lastname: 'JMA VENTURES, LLC(RESPONSIBLE OFFICER: TODD CHAPMAN)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 20000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 20000.0
 - tx_lastname: KID SAFE SF
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1106,6 +1149,29 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 12500.0
+- tx_lastname: RISHAV ROUT
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 11017.83
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 200.0
+  - cmte_fppcid: '1488280'
+    cmte_name: DARSHINI PATEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 8317.83
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 500.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 1000.0
+  - cmte_fppcid: '1495068'
+    cmte_name: BUNNY FOR CITY COLLEGE BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: UA LOCAL 38 COPE FUND
   tx_entitycode: Committee
   tx_cmteid: '746875'
@@ -1131,29 +1197,6 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10562.5
-- tx_lastname: RISHAV ROUT
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 10589.26
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 200.0
-  - cmte_fppcid: '1488280'
-    cmte_name: DARSHINI PATEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 8317.83
-  - cmte_fppcid: '1494100'
-    cmte_name: FAIR ACCESS NO ON D
-    tx_amount: 500.0
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 571.43
-  - cmte_fppcid: '1495068'
-    cmte_name: BUNNY FOR CITY COLLEGE BOARD 2026
-    tx_amount: 500.0
 - tx_lastname: KENDALL JESMER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -4697,6 +4740,14 @@ contributors:
   - cmte_fppcid: '1484606'
     cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: DAVID DUNFORD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: DAVID HIRTZ
   tx_entitycode: Individual
   tx_cmteid: ''

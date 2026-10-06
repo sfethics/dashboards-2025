@@ -458,7 +458,7 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
-- cmte_name: San Francisco League of Pissed Off Voters Slate Mailer Organization
+- cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1432377'
   cmte_nid: unknown
 - cmte_name: San Francisco Women's Political Committee Voter Guide
@@ -572,6 +572,9 @@ committees:
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
+- cmte_name: Samantha Bechtel
+  cmte_fppcid: unknown
+  cmte_nid: '217559197'
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
@@ -582,6 +585,12 @@ committees:
     Yerba Buena Neighborhood Consortium LLC
   cmte_fppcid: '1433587'
   cmte_nid: '162062420'
+- cmte_name: the Swig Company, LLC
+  cmte_fppcid: unknown
+  cmte_nid: '171851239'
+- cmte_name: Thomas Laffont
+  cmte_fppcid: '1497702'
+  cmte_nid: '217570892'
 - cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

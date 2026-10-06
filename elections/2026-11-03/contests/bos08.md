@@ -31,7 +31,7 @@ candidates:
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 127176.5
+  funds: 133176.5
   expenses: 42788.16
 ie_candidates:
 - candidate_name: GARY MCCOY

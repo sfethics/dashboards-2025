@@ -13,7 +13,7 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 185700.0
+  funds: 205700.0
   expenses: 50404.32
   ies: ''
 multi_committees:
@@ -21,7 +21,7 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 11544328.94
+  funds: 11844328.94
   expenses: 7005631.51
 contributors:
 - - Tenants and Owners Development Corporation
@@ -30,6 +30,8 @@ contributors:
   - 75000.0
 - - International Federation Professional Technical Engineers
   - 25000.0
+- - San Francisco Labor Council
+  - 20100.0
 - - Alexander Maldonado
   - 2000.0
 - - Dale Carlson
@@ -42,8 +44,6 @@ contributors:
   - 500.0
 - - Rishav Rout
   - 500.0
-- - Katherine Howard
-  - 100.0
 
 ---
 
