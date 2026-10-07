@@ -20,9 +20,9 @@ ie_candidates:
       LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO,
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
-    funds: 24000.0
+    funds: 54000.0
     expenses: ''
-multi_contest_funds: 24000.0
+multi_contest_funds: 54000.0
 multi_contest: true
 related_contests:
 - link: ccb
@@ -30,6 +30,8 @@ related_contests:
 - link: usd
   description: Board of Education
 contributors:
+- - United Educators of San Francisco Candidate PAC
+  - 30000.0
 - - Professors for Eductional Reform Aft 2121 - C.o.p.e.
   - 24000.0
 

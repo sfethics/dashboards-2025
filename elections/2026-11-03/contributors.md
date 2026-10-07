@@ -140,6 +140,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 500000.0
+- tx_lastname: PATRICK COLLISON
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 500000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 500000.0
 - tx_lastname: RIPPLE LABS INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -275,7 +283,7 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 200000.0
-- tx_lastname: 'RELATED CALIFORNIA RESIDENTIAL, LLC(RESPONSIBLE OFFICER: GINO CANORI)'
+- tx_lastname: THE RELATED COMPANIES/WILLIAM WITTE
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 200000.0
@@ -493,6 +501,22 @@ contributors:
     tx_amount: 100000.0
 - tx_lastname: POTOMAC TRUST
   tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 100000.0
+- tx_lastname: SAMANTHA BECHTEL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 100000.0
+- tx_lastname: SAMEER GANDHI
+  tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 100000.0
   transactions:
@@ -788,6 +812,16 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: 'TMG PARTNERS RE., LLC(RESPONSIBLE OFFICER: MICHAEL COVARRUBIAS)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 49000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 49000.0
 - tx_lastname: FRIENDS OF SUNSET DUNES
   tx_entitycode: Other
   tx_cmteid: ''
@@ -835,6 +869,19 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 35000.0
+- tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO CANDIDATE PAC
+  tx_entitycode: Other
+  tx_cmteid: '1311218'
+  tx_amount: 30500.0
+  transactions:
+  - cmte_fppcid: '1490256'
+    cmte_name: REINA TELLO FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1496601'
+    cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+      AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+      AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 30000.0
 - tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL
     ACTION COMMITTEE - BALLOT ISSUES
   tx_entitycode: Committee
@@ -1219,6 +1266,17 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 10000.0
+- tx_lastname: SAN FRANCISCO LABORER'S LOCAL 261 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '981076'
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 10000.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: ERWIN TAM
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1369,6 +1427,22 @@ contributors:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 10000.0
+- tx_lastname: TEAMSTERS JOINT COUNCIL NO. 7
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 10000.0
+- tx_lastname: TEAMSTERS LOCAL UNION NO. 665
+  tx_entitycode: Committee
+  tx_cmteid: '1280975'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 10000.0
 - tx_lastname: WEI SELENA CHU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1377,6 +1451,17 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 9900.0
+- tx_lastname: COMMERCIAL REAL ESTATE DEVELOPMENT ASSOCIATION SAN FRANCISCO BAY AREA
+    CHAPTER PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1441128'
+  tx_amount: 9500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 9500.0
 - tx_lastname: LUCAS LUX
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1609,6 +1694,16 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 5100.0
+- tx_lastname: BACO PROPERTIES
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 5000.0
 - tx_lastname: BLUE JAY TRANSIT, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1737,14 +1832,6 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 5000.0
-- tx_lastname: TEAMSTERS JOINT COUNCIL NO. 7
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 5000.0
 - tx_lastname: TEAMSTERS LOCAL NO. 350 PAC
   tx_entitycode: Committee
   tx_cmteid: '1406838'
@@ -1756,14 +1843,6 @@ contributors:
 - tx_lastname: TEAMSTERS LOCAL NO. 853 PAC
   tx_entitycode: Committee
   tx_cmteid: '1250157'
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 5000.0
-- tx_lastname: TEAMSTERS LOCAL UNION NO. 665
-  tx_entitycode: Committee
-  tx_cmteid: '1280975'
   tx_amount: 5000.0
   transactions:
   - cmte_fppcid: '1479782'

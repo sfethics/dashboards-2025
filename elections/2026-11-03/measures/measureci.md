@@ -20,14 +20,14 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1009100.0
+  funds: 1072600.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
 contributors:
 - - Michael Moritz
   - 200000.0
-- - 'Related California Residential, Llc(responsible Officer: Gino Canori)'
+- - the Related Companies/william Witte
   - 200000.0
 - - Kilroy Realty,l.p. & Affiliated Entities
   - 100000.0
@@ -44,9 +44,8 @@ contributors:
   - 50000.0
 - - the Prado Group, Inc.
   - 50000.0
-- - Building Owners and Managers Association of San Francisco Political Action Committee
-    - Ballot Issues
-  - 27500.0
+- - 'Tmg Partners Re., Llc(responsible Officer: Michael Covarrubias)'
+  - 49000.0
 
 ---
 

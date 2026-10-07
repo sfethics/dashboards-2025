@@ -20,7 +20,7 @@ committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 11844328.94
+  funds: 12544328.94
   expenses: 7005631.51
   ies: ''
 multi_committees: []
@@ -35,6 +35,8 @@ contributors:
   - 1000000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 550000.0
+- - Patrick Collison
+  - 500000.0
 - - L. John Doerr Iii
   - 500000.0
 - - Dagmar Dolby
@@ -43,8 +45,6 @@ contributors:
   - 500000.0
 - - Michael Seibel
   - 450000.0
-- - Jean-pierre Conte
-  - 250000.0
 
 ---
 

@@ -225,6 +225,9 @@ committees:
 - cmte_name: Yes on L, Fund the Bus
   cmte_fppcid: '1468797'
   cmte_nid: '211486142'
+- cmte_name: Yes on D - Stand Up for SF Sponsored by Labor Organizations
+  cmte_fppcid: '1484969'
+  cmte_nid: '214966146'
 - cmte_name: Alice B. Toklas Lgbtq Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
@@ -235,6 +238,9 @@ committees:
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  cmte_nid: '216701453'
 - cmte_name: Dignity Ca Seiu Local 2015
   cmte_fppcid: '1357256'
   cmte_nid: '161836779'
@@ -323,7 +329,7 @@ committees:
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
-- cmte_name: Teamsters Union Local No. 665 PAC
+- cmte_name: Teamsters Local Union No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
 - cmte_name: U.a. Local 38 Cope Fund
@@ -575,12 +581,18 @@ committees:
 - cmte_name: Samantha Bechtel
   cmte_fppcid: unknown
   cmte_nid: '217559197'
+- cmte_name: Sameer Gandhi
+  cmte_fppcid: unknown
+  cmte_nid: '211729834'
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
 - cmte_name: Susie Tompkins Buell
   cmte_fppcid: '498448'
   cmte_nid: '151425904'
+- cmte_name: Tara Schuster
+  cmte_fppcid: unknown
+  cmte_nid: '217580117'
 - cmte_name: Tenants and Owners Development Corporation and Its Affiliated Entity
     Yerba Buena Neighborhood Consortium LLC
   cmte_fppcid: '1433587'
