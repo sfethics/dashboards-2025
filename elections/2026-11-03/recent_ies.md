@@ -5,6 +5,86 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 41176.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591066?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 25441.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591018?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 9605.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591066?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 8852.73
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591543?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 5164.33
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591543?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 2624.47
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591018?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 2385.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 1590.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 1590.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 1590.0
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 1279.33
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591543?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'
@@ -26,6 +106,55 @@ recent_ies:
   tx_amount: 666.66
   tx_date: '2026-10-05'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583688?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 431.25
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591066?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 275.36
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 275.36
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 253.75
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 169.17
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 169.17
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 169.17
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: RYAN HAZELTON'
@@ -47,6 +176,76 @@ recent_ies:
   tx_amount: 107.43
   tx_date: '2026-10-05'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583781?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 57.69
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 57.69
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 57.69
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 57.69
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 55.07
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 55.07
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 39.07
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 39.07
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 13.41
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 13.41
+  tx_date: '2026-10-05'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
   cmte_fppcid: '1495589'
@@ -55,6 +254,62 @@ recent_ies:
   tx_amount: 4643.0
   tx_date: '2026-10-04'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583344?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 17.59
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 17.59
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 17.59
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 17.59
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: MONROE LACE'
+  position: SUPPORT
+  tx_amount: 13.57
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ELIJAH BALL'
+  position: SUPPORT
+  tx_amount: 13.57
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590391?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ELIJAH%20BALL
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 13.57
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590379?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_PHIL%20KIM
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
+  cmte_fppcid: '842018'
+  ie_description: 'Community College Board: ERWIN TAM'
+  position: SUPPORT
+  tx_amount: 13.57
+  tx_date: '2026-10-04'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590423?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_ERWIN%20TAM
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'

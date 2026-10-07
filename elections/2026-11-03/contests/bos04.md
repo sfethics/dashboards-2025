@@ -43,6 +43,12 @@ ie_candidates:
     committee_name: GrowSF Voter Guide
     funds: ''
     expenses: 3529.41
+  - position: SUPPORT
+    filer_nid: '216701453'
+    filer_id: '1465611'
+    committee_name: California Alliance of Family Owned Businesses PAC
+    funds: ''
+    expenses: 51212.25
 contributors:
 - - Christin Evans
   - 1000.0

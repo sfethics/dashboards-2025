@@ -76,6 +76,12 @@ ie_candidates:
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
     expenses: 7475.5
+  - position: SUPPORT
+    filer_nid: '6673011'
+    filer_id: '842018'
+    committee_name: Alice B. Toklas LGBTQ Democratic Club PAC
+    funds: ''
+    expenses: 3042.03
 - candidate_name: REINA LOLI-TELLO
   filer_id: '1490256'
   committees:

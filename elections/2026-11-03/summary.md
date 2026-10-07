@@ -32,7 +32,7 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 827467.5
+  funds: 850039.5
   expenses: 306716.85
   ies: ''
 - committee_type: candidate
@@ -86,12 +86,12 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 255755.85
+  expenses: 258797.88
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 188722.9
+  expenses: 232084.76
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -111,11 +111,16 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 3529.41
+  expenses: 54741.66
+- contest_nid: '216963967'
+  contest_name: Community College Board
+  contest_link: ccb
+  funds: 0.0
+  expenses: 5995.45
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
-  funds: 24000.0
+  funds: 54000.0
   expenses: 0.0
 measures:
 - contest_nid: '216006007'
@@ -127,7 +132,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 2207244.28
-  funds: 5045500.0
+  funds: 5065500.0
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -173,12 +178,12 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 11844328.94
+  funds: 12544328.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1009100.0
+  funds: 1072600.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
@@ -188,19 +193,19 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
   - 540000.0
 - - SF Believes
   - 50000.0
+- - United Educators of San Francisco Candidate PAC
+  - 30500.0
 - - Professors for Eductional Reform Aft 2121 - C.o.p.e.
   - 24000.0
 - - Kendall Jesmer
   - 10500.0
-- - Erwin Tam
-  - 10250.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'

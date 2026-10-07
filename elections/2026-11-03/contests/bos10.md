@@ -19,7 +19,7 @@ candidates:
   filer_id: '1482707'
   committee_name: J.R. EPPLER FOR SUPERVISOR 2026
   candidate_name: J.R. EPPLER
-  funds: 159205.0
+  funds: 181777.0
   expenses: 79795.38
 - filer_nid: '214611048'
   filer_id: '1481624'
@@ -44,12 +44,18 @@ ie_candidates:
     funds: 0.0
     expenses: 94394.9
   - position: SUPPORT
+    filer_nid: '216701453'
+    filer_id: '1465611'
+    committee_name: California Alliance of Family Owned Businesses PAC
+    funds: 0.0
+    expenses: 28065.47
+  - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
     funds: 550000.0
-    expenses: 91128.0
+    expenses: 106424.39
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
   committees:

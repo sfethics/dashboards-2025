@@ -95,6 +95,11 @@ committees:
   cmte_nid: '209507341'
   committee_type: Major Donor
   total_expense: 350000.0
+- cmte_name: Sameer Gandhi
+  cmte_fppcid: unknown
+  cmte_nid: '211729834'
+  committee_type: Major Donor
+  total_expense: 100000.0
 - cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
@@ -235,6 +240,11 @@ committees:
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
   total_expense: 8142.7
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  cmte_nid: '216701453'
+  committee_type: General Purpose
+  total_expense: 79277.72
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -374,7 +384,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 164387.0
+  total_expense: 179683.39
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
@@ -405,6 +415,11 @@ committees:
   cmte_nid: '217570892'
   committee_type: Major Donor
   total_expense: 250000.0
+- cmte_name: Tara Schuster
+  cmte_fppcid: unknown
+  cmte_nid: '217580117'
+  committee_type: Major Donor
+  total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
@@ -416,11 +431,11 @@ committees:
   cmte_nid: '6668151'
   committee_type: General Purpose
   total_expense: 470000.0
-- cmte_name: ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB PAC
+- cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 10288.4
+  total_expense: 19325.88
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'

@@ -57,7 +57,34 @@ candidates:
   candidate_name: JEREMY LEE
   funds: 7632.54
   expenses: 1418.12
-ie_candidates: []
+ie_candidates:
+- candidate_name: ELIJAH BALL
+  filer_id: '1492919'
+  committees:
+  - position: SUPPORT
+    filer_nid: '6673011'
+    filer_id: '842018'
+    committee_name: Alice B. Toklas LGBTQ Democratic Club PAC
+    funds: ''
+    expenses: 2162.45
+- candidate_name: ERWIN TAM
+  filer_id: '1494389'
+  committees:
+  - position: SUPPORT
+    filer_nid: '6673011'
+    filer_id: '842018'
+    committee_name: Alice B. Toklas LGBTQ Democratic Club PAC
+    funds: ''
+    expenses: 1916.5
+- candidate_name: MONROE LACE
+  filer_id: '1493786'
+  committees:
+  - position: SUPPORT
+    filer_nid: '6673011'
+    filer_id: '842018'
+    committee_name: Alice B. Toklas LGBTQ Democratic Club PAC
+    funds: ''
+    expenses: 1916.5
 contributors:
 - - Erwin Tam
   - 10250.0
