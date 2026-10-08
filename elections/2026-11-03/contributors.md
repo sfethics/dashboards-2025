@@ -385,6 +385,16 @@ contributors:
   - cmte_fppcid: '1493283'
     cmte_name: ALEX BEHREND FOR ALL - SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: SAN FRANCISCO APARTMENT ASSOCIATION ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1473586'
+  tx_amount: 111000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 111000.0
 - tx_lastname: DYLAN HIRSCH-SHELL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -700,6 +710,17 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: CALIFORNIA HOTEL ISSUES PAC, SPONSORED BY THE CALIFORNIA HOTEL + LODGING
+    ASSOCIATION
+  tx_entitycode: Committee
+  tx_cmteid: '1425528'
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES((RESPONSIBLE OFFICER:
     KEVIN VERDI) )'
   tx_entitycode: Other
@@ -912,6 +933,19 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 25000.0
+- tx_lastname: STEVEN MERRILL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 25500.0
+  transactions:
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
 - tx_lastname: BUILDING OWNERS AND MANAGERS ASSOCIATION INTERNATIONAL
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1003,6 +1037,14 @@ contributors:
   - cmte_fppcid: '1492671'
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
       ACTION FUND
+    tx_amount: 25000.0
+- tx_lastname: TARA SCHUSTER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 25000.0
 - tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION AND ITS AFFILIATED ENTITY
     YERBA BUENA NEIGHBORHOOD CONSORTIUM LLC
@@ -1127,6 +1169,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
+- tx_lastname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_entitycode: Other
+  tx_cmteid: '1405539'
+  tx_amount: 18362.99
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 18362.99
 - tx_lastname: ANDREW CASTEEL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1244,6 +1294,17 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10562.5
+- tx_lastname: JULIA HARTZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 10000.0
 - tx_lastname: KENDALL JESMER
   tx_entitycode: Individual
   tx_cmteid: ''

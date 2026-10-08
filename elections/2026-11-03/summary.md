@@ -91,7 +91,7 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 232084.76
+  expenses: 292470.76
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -132,7 +132,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 2207244.28
-  funds: 5065500.0
+  funds: 5083862.99
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -178,12 +178,12 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 12544328.94
+  funds: 12579328.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1072600.0
+  funds: 1258600.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
@@ -193,7 +193,7 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Jeremy Stoppelman
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -214,7 +214,7 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 465361.54
+  total_expense: 525747.54
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -235,7 +235,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 2278700.42
+  total_expense: 2288700.42
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
