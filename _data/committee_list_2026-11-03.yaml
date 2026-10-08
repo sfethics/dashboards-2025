@@ -285,6 +285,9 @@ committees:
 - cmte_name: Professors for Eductional Reform Aft 2121 - C.o.p.e.
   cmte_fppcid: '890972'
   cmte_nid: '121745106'
+- cmte_name: San Francisco Apartment Association Issues PAC
+  cmte_fppcid: '1473586'
+  cmte_nid: '211947205'
 - cmte_name: San Francisco Apartment Association Political Action Committee
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -355,6 +358,10 @@ committees:
   cmte_nid: unknown
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
+  cmte_nid: unknown
+- cmte_name: California Hotel Issues PAC, Sponsored by the California Hotel + Lodging
+    Association
+  cmte_fppcid: '1425528'
   cmte_nid: unknown
 - cmte_name: Canepa for Assessor-county Clerk-recorder 2026
   cmte_fppcid: '1486383'
@@ -463,6 +470,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
+  cmte_nid: unknown
+- cmte_name: San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: '1405539'
   cmte_nid: unknown
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1432377'
