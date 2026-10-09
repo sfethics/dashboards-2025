@@ -5,6 +5,114 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 21613.91
+  tx_date: '2026-10-07'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 17441.16
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217607468?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 11714.87
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217607443?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 7500.0
+  tx_date: '2026-10-07'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217602884?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 678.85
+  tx_date: '2026-10-07'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'

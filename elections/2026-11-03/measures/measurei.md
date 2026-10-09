@@ -20,7 +20,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 639906.5
+  funds: 643906.5
   expenses: 324611.13
   ies: ''
 multi_committees:
@@ -30,7 +30,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1258600.0
+  funds: 1358600.0
   expenses: 27596.63
 contributors:
 - - Saikat Chakrabarti
