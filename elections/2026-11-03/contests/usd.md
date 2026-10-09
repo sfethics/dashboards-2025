@@ -57,6 +57,12 @@ candidates:
   candidate_name: TIM TUNG
   funds: 16934.0
   expenses: 3611.83
+- filer_nid: '217292166'
+  filer_id: '1493854'
+  committee_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
+  candidate_name: VIRGINIA CHEUNG
+  funds: 4878.0
+  expenses: 2692.4
 ie_candidates:
 - candidate_name: ALIDA FISHER
   filer_id: '1492843'
@@ -67,6 +73,15 @@ ie_candidates:
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
     expenses: 7475.5
+- candidate_name: VIRGINIA CHEUNG
+  filer_id: '1493854'
+  committees:
+  - position: SUPPORT
+    filer_nid: '6685673'
+    filer_id: '1311218'
+    committee_name: United Educators of San Francisco Candidate PAC
+    funds: ''
+    expenses: 22694.86
 - candidate_name: PHIL KIM
   filer_id: '1483651'
   committees:

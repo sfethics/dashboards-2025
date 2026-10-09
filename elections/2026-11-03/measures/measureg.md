@@ -27,7 +27,7 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 101157.84
+  funds: 132957.84
   expenses: 58523.99
   ies: ''
 multi_committees: []
@@ -46,12 +46,12 @@ contributors:
   - 42695.5
 - - Wojciech Zaremba
   - 35000.0
+- - Chinese American Democratic Club
+  - 25000.0
 - - Donald J Edwards
   - 25000.0
 - - Fund for a Better Future Inc.
   - 25000.0
-- - Michel Krieger
-  - 20000.0
 
 ---
 

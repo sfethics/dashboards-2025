@@ -109,7 +109,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 327911.85
+  total_expense: 350204.61
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -124,7 +124,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2288700.42
+  total_expense: 2290399.55
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -180,6 +180,11 @@ committees:
   cmte_nid: '214951144'
   committee_type: Candidate Controlled
   total_expense: 506.05
+- cmte_name: Yes on D - Stand Up for SF sponsored by labor organizations
+  cmte_fppcid: '1484969'
+  cmte_nid: '214966146'
+  committee_type: Primarily Formed Measure
+  total_expense: 7500.0
 - cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
   cmte_fppcid: '1487291'
   cmte_nid: '215424978'
@@ -244,7 +249,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 79277.72
+  total_expense: 108433.75
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -384,7 +389,12 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 179683.39
+  total_expense: 254683.39
+- cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
+  cmte_fppcid: '1493854'
+  cmte_nid: '217292166'
+  committee_type: Candidate Controlled
+  total_expense: 2692.4
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'

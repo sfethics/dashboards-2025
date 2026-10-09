@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: ''
-    expenses: 51212.25
+    expenses: 68653.41
 contributors:
 - - Christin Evans
   - 1000.0
