@@ -16,6 +16,13 @@ committees:
   funds: 150000.0
   expenses: 23905.04
   ies: ''
+- position: SUPPORT
+  filer_nid: '217609977'
+  filer_id: unknown
+  committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  funds: ''
+  expenses: 3211.4
+  ies: 3211.4
 multi_committees: []
 contributors:
 - - Saikat Chakrabarti

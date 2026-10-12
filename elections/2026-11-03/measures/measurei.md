@@ -16,6 +16,13 @@ committees:
   funds: ''
   expenses: 3529.41
   ies: 3529.41
+- position: OPPOSE
+  filer_nid: '217609977'
+  filer_id: unknown
+  committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  funds: ''
+  expenses: 3211.4
+  ies: 3211.4
 - position: SUPPORT
   filer_nid: '216747316'
   filer_id: '1490845'
@@ -30,7 +37,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1358600.0
+  funds: 1452000.0
   expenses: 27596.63
 contributors:
 - - Saikat Chakrabarti

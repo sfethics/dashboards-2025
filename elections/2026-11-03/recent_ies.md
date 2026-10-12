@@ -5,6 +5,97 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 23333.34
+  tx_date: '2026-10-10'
+  attachment_url: ''
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 23333.33
+  tx_date: '2026-10-10'
+  attachment_url: ''
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 23333.33
+  tx_date: '2026-10-10'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 63529.0
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 10851.0
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 431.25
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 76150.0
+  tx_date: '2026-10-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217612191?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 20000.0
+  tx_date: '2026-10-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217612191?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 1333.34
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 1333.33
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 1333.33
+  tx_date: '2026-10-08'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217611969?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_ALIDA%20FISHER
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -594,6 +685,71 @@ recent_ies:
   tx_amount: 24000.0
   tx_date: '2026-10-02'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217574134?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
 - cmte_name: United Educators of San Francisco Candidate PAC
   cmte_fppcid: '1311218'
   ie_description: 'Board of Education: VIRGINIA CHEUNG'

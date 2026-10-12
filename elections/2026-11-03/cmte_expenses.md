@@ -22,7 +22,7 @@ committees:
   cmte_nid: '126511772'
   committee_type: Major Donor
   total_expense: 5000.0
-- cmte_name: San Francisco League of Pissed Off Voters
+- cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
   committee_type: General Purpose
@@ -32,6 +32,11 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: Wilson Meany LLC
+  cmte_fppcid: '1276250'
+  cmte_nid: '161844508'
+  committee_type: Major Donor
+  total_expense: 5900.0
 - cmte_name: Tenants and Owners Development Corporation and its affiliated entity
     Yerba Buena Neighborhood Consortium LLC
   cmte_fppcid: '1433587'
@@ -62,7 +67,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 49105.009999999995
+  total_expense: 53105.009999999995
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -109,7 +114,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 350204.61
+  total_expense: 456354.61
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -124,7 +129,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2290399.55
+  total_expense: 2320399.55
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -249,7 +254,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 108433.75
+  total_expense: 183245.0
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -430,12 +435,28 @@ committees:
   cmte_nid: '217580117'
   committee_type: Major Donor
   total_expense: 25000.0
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  cmte_nid: '217609977'
+  committee_type: Major Donor
+  total_expense: 28902.6
+- cmte_name: Anna Morfit
+  cmte_fppcid: '1395663'
+  cmte_nid: '217614356'
+  committee_type: Major Donor
+  total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
   cmte_nid: '6667768'
   committee_type: General Purpose
   total_expense: 65000.0
+- cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
+    COMMITTEE - INDEPENDENT EXPENDITURES AKA BOMA-SF-PAC-IE
+  cmte_fppcid: '870449'
+  cmte_nid: '6667779'
+  committee_type: General Purpose
+  total_expense: 9999.0
 - cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
@@ -482,7 +503,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 180906.95
+  total_expense: 250906.95
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'

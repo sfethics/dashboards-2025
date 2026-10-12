@@ -20,9 +20,16 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 410005.0
+  funds: 415005.0
   expenses: 11191.73
   ies: ''
+- position: SUPPORT
+  filer_nid: '217609977'
+  filer_id: unknown
+  committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  funds: ''
+  expenses: 3211.4
+  ies: 3211.4
 multi_committees: []
 contributors:
 - - Michael Moritz
@@ -43,7 +50,7 @@ contributors:
   - 10000.0
 - - Silvanus O. Erickson
   - 5000.0
-- - San Francisco Broadway Showgirls Club Management Llc(joseph Carouba)
+- - Garry's List Action
   - 5000.0
 
 ---
