@@ -238,12 +238,19 @@ committees:
     Committee - Ballot Issues (Aka Boma-sf-pac-ballot Issues)
   cmte_fppcid: '970432'
   cmte_nid: '6667768'
+- cmte_name: Building Owners and Managers Association of San Francisco Political Action
+    Committee - Independent Expenditures Aka Boma-sf-pac-ie
+  cmte_fppcid: '870449'
+  cmte_nid: '6667779'
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
+- cmte_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
+  cmte_fppcid: '1454340'
+  cmte_nid: '217610473'
 - cmte_name: Dignity Ca Seiu Local 2015
   cmte_fppcid: '1357256'
   cmte_nid: '161836779'
@@ -300,6 +307,9 @@ committees:
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
+- cmte_name: San Francisco League of Pissed Off Voters
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
 - cmte_name: San Francisco Police Officers Association Issues PAC
   cmte_fppcid: '1317554'
   cmte_nid: '6666443'
@@ -312,6 +322,9 @@ committees:
 - cmte_name: San Francisco Young Democrats
   cmte_fppcid: '961946'
   cmte_nid: '6673486'
+- cmte_name: Service Employees International Union Local 1021 Candidate PAC
+  cmte_fppcid: '1296948'
+  cmte_nid: '125730173'
 - cmte_name: Service Employees International Union Local 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'
@@ -332,9 +345,6 @@ committees:
     Political Action Committee
   cmte_fppcid: '991525'
   cmte_nid: '6673414'
-- cmte_name: San Francisco League of Pissed Off Voters
-  cmte_fppcid: '1374879'
-  cmte_nid: '157471084'
 - cmte_name: Teamsters Local Union No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
@@ -384,6 +394,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'
+  cmte_nid: unknown
+- cmte_name: Gary's List Action
+  cmte_fppcid: '1490064'
   cmte_nid: unknown
 - cmte_name: Gfc Courage Committee - Bay Area Chapter
   cmte_fppcid: '1423911'
@@ -448,6 +461,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
+  cmte_nid: unknown
+- cmte_name: Mayor Lurie's Yes on D, E & F Committee
+  cmte_fppcid: '1489'
   cmte_nid: unknown
 - cmte_name: Members' Voice of the State Building and Construction Trades Council
     of California
@@ -543,6 +559,9 @@ committees:
 - cmte_name: Andrew Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441594'
+- cmte_name: Anna Morfit
+  cmte_fppcid: '1395663'
+  cmte_nid: '217614356'
 - cmte_name: Anne Irwin
   cmte_fppcid: '1392802'
   cmte_nid: '217512744'
@@ -588,6 +607,9 @@ committees:
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
+- cmte_name: Spur - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  cmte_nid: '217609977'
 - cmte_name: Saikat Chakrabarti
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
@@ -616,6 +638,9 @@ committees:
 - cmte_name: Thomas Laffont
   cmte_fppcid: '1497702'
   cmte_nid: '217570892'
+- cmte_name: Wilson Meany LLC
+  cmte_fppcid: '1276250'
+  cmte_nid: '161844508'
 - cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

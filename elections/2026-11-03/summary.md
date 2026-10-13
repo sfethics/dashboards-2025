@@ -86,17 +86,17 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 258797.88
+  expenses: 332797.88
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 379185.63
+  expenses: 498968.38
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 524359.13
+  expenses: 632009.13
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -120,13 +120,13 @@ candidate_ie:
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
-  funds: 54000.0
+  funds: 144000.0
   expenses: 0.0
 measures:
 - contest_nid: '216006007'
   contest_name: "E: City Administrator\u2019s Authority and Changes to City Contracting"
   contest_link: measuree
-  expenses: 3529.41
+  expenses: 6740.81
   funds: ''
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -136,19 +136,19 @@ measures:
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 338140.54
+  expenses: 341351.94
   funds: 643906.5
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
-  expenses: 918354.21
-  funds: 1728591.34
+  expenses: 921565.61
+  funds: 1730591.34
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
-  expenses: 190611.49
-  funds: 877173.01
+  expenses: 197034.29
+  funds: 1134673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -157,33 +157,33 @@ measures:
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
-  expenses: 70056.74
+  expenses: 73268.14
   funds: 304666.8
 - contest_nid: '217062208'
   contest_name: 'F: Changes to Executive Branch Management'
   contest_link: measuref
-  expenses: 5294.12
+  expenses: 8505.52
   funds: ''
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
-  expenses: 15603.5
-  funds: 410005.0
+  expenses: 18814.9
+  funds: 415005.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
-  expenses: 31405.04
+  expenses: 34616.44
   funds: 150000.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 12579328.94
+  funds: 12804328.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1358600.0
+  funds: 1581000.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
@@ -193,19 +193,19 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Jeremy Stoppelman
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
   - 540000.0
+- - Service Employees International Union Local 1021 Candidate PAC
+  - 90000.0
 - - SF Believes
   - 50000.0
 - - United Educators of San Francisco Candidate PAC
   - 30500.0
 - - Professors for Eductional Reform Aft 2121 - C.o.p.e.
   - 24000.0
-- - Kendall Jesmer
-  - 10500.0
 top_cand_spends:
 - cmte_nid: '215606983'
   cmte_fppcid: '1487286'
@@ -218,7 +218,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 350204.61
+  total_expense: 457854.61
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -236,7 +236,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 2290399.55
+  total_expense: 2324115.13
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES

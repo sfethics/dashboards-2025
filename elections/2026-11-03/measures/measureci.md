@@ -20,7 +20,7 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1358600.0
+  funds: 1581000.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
@@ -30,7 +30,7 @@ contributors:
 - - the Related Companies/william Witte
   - 200000.0
 - - San Francisco Apartment Association Issues PAC
-  - 111000.0
+  - 191000.0
 - - '555-575 Market Owner, Llc(responsible Officer: Greg Flynn)'
   - 100000.0
 - - Kilroy Realty,l.p. & Affiliated Entities

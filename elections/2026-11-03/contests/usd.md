@@ -72,7 +72,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 7475.5
+    expenses: 8808.83
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1493854'
   committees:
@@ -81,7 +81,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 22694.86
+    expenses: 46028.2
 - candidate_name: PHIL KIM
   filer_id: '1483651'
   committees:
@@ -90,7 +90,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 7475.5
+    expenses: 8808.83
   - position: SUPPORT
     filer_nid: '6673011'
     filer_id: '842018'
@@ -105,7 +105,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 22394.81
+    expenses: 45728.14
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:
@@ -114,7 +114,7 @@ ie_candidates:
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
     funds: ''
-    expenses: 22694.83
+    expenses: 46028.16
 - candidate_name: AUTUMN BROWN GARIBAY
   filer_id: '1491849'
   committees:
@@ -129,7 +129,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 17814.45
+    expenses: 19147.79
 - candidate_name: TIM TUNG
   filer_id: '1493505'
   committees:
