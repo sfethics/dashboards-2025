@@ -20,14 +20,21 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1595633.5
+  funds: 1596633.5
   expenses: 857183.16
   ies: ''
+- position: OPPOSE
+  filer_nid: '217609977'
+  filer_id: unknown
+  committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  funds: ''
+  expenses: 3211.4
+  ies: 3211.4
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 132957.84
+  funds: 133957.84
   expenses: 58523.99
   ies: ''
 multi_committees: []

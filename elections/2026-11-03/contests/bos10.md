@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 39780.34
+    expenses: 114591.59
   - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'
@@ -56,6 +56,12 @@ ie_candidates:
       FOR SUPERVISOR 2026
     funds: 550000.0
     expenses: 181424.39
+  - position: SUPPORT
+    filer_nid: '217610473'
+    filer_id: '1454340'
+    committee_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
+    funds: 0.0
+    expenses: 44971.5
 - candidate_name: J.R. EPPLER
   filer_id: '1482707'
   committees:
