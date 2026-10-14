@@ -5,6 +5,13 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 5615.35
+  tx_date: '2026-10-13'
+  attachment_url: ''
 - cmte_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
   cmte_fppcid: '1454340'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -17,6 +24,13 @@ recent_ies:
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
   tx_amount: 1500.0
+  tx_date: '2026-10-12'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 567.59
   tx_date: '2026-10-12'
   attachment_url: ''
 - cmte_name: United Educators of San Francisco Candidate PAC

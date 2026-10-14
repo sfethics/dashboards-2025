@@ -254,7 +254,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 183245.0
+  total_expense: 189427.94
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -450,6 +450,11 @@ committees:
   cmte_nid: '217614356'
   committee_type: Major Donor
   total_expense: 25000.0
+- cmte_name: ANTON NATSIS
+  cmte_fppcid: '1448362'
+  cmte_nid: '217628741'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'

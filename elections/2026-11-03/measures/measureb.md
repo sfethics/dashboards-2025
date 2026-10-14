@@ -27,7 +27,7 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 304666.8
+  funds: 305786.8
   expenses: 64762.62
   ies: ''
 multi_committees: []
@@ -39,7 +39,7 @@ contributors:
 - - Dylan J Hirsch-shell
   - 5000.0
 - - San Francisco Public Bank Coalition
-  - 3710.0
+  - 4830.0
 - - Nick Novitski
   - 3500.0
 - - Jason Prado

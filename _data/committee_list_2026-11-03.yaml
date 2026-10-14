@@ -556,6 +556,12 @@ committees:
 - cmte_name: Yes on Rtm - Connect Bay Area Transit
   cmte_fppcid: '1483907'
   cmte_nid: unknown
+- cmte_name: 555-575 Market Owner LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217610757'
+- cmte_name: Anton Natsis
+  cmte_fppcid: '1448362'
+  cmte_nid: '217628741'
 - cmte_name: Andrew Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441594'

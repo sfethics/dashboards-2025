@@ -1587,6 +1587,17 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 10000.0
+- tx_lastname: SHEET METAL WORKERS' INTERNATIONAL ASSOCIATION LOCAL UNION NO. 104
+    ISSUES COMMITTEE
+  tx_entitycode: Committee
+  tx_cmteid: '1351785'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 10000.0
 - tx_lastname: SUSIE TOMPKINS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1998,17 +2009,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 5000.0
-- tx_lastname: SHEET METAL WORKERS' INTERNATIONAL ASSOCIATION LOCAL UNION NO. 104
-    ISSUES COMMITTEE
-  tx_entitycode: Committee
-  tx_cmteid: '1351785'
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
-    tx_amount: 5000.0
 - tx_lastname: SILVANUS O. ERICKSON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2067,6 +2067,14 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4990.0
+- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 4830.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 4830.0
 - tx_lastname: ROBIN PAM
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2162,14 +2170,6 @@ contributors:
   - cmte_fppcid: '1494100'
     cmte_name: FAIR ACCESS NO ON D
     tx_amount: 500.0
-- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 3710.0
-  transactions:
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 3710.0
 - tx_lastname: SARA BARZ
   tx_entitycode: Individual
   tx_cmteid: ''
