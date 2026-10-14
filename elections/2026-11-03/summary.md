@@ -91,7 +91,7 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 498968.38
+  expenses: 505151.32
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -158,7 +158,7 @@ measures:
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 73268.14
-  funds: 304666.8
+  funds: 305786.8
 - contest_nid: '217062208'
   contest_name: 'F: Changes to Executive Branch Management'
   contest_link: measuref
@@ -183,7 +183,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1581000.0
+  funds: 1586000.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
