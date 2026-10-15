@@ -22,7 +22,7 @@ committees:
   cmte_nid: '126511772'
   committee_type: Major Donor
   total_expense: 5000.0
-- cmte_name: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+- cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
   committee_type: General Purpose
@@ -32,6 +32,12 @@ committees:
   cmte_nid: '157756164'
   committee_type: General Purpose
   total_expense: 15000.0
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  cmte_nid: '161155640'
+  committee_type: General Purpose
+  total_expense: 14400.0
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
@@ -129,7 +135,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2324115.13
+  total_expense: 2355615.13
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -394,7 +400,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 254683.39
+  total_expense: 290365.69
 - cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   cmte_fppcid: '1493854'
   cmte_nid: '217292166'
@@ -455,6 +461,11 @@ committees:
   cmte_nid: '217628741'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: Ellis Partners LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217628874'
+  committee_type: Major Donor
+  total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
@@ -471,7 +482,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 470000.0
+  total_expense: 495000.0
 - cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
