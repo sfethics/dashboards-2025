@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1459111.43
+  funds: 1473163.43
   expenses: 678544.44
   ies: ''
 - committee_type: candidate
@@ -91,7 +91,7 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 505151.32
+  expenses: 540833.62
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -152,7 +152,7 @@ measures:
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 50404.32
+  expenses: 51404.32
   funds: 205700.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
@@ -173,7 +173,7 @@ measures:
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
   expenses: 34616.44
-  funds: 150000.0
+  funds: 175000.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
@@ -183,7 +183,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1586000.0
+  funds: 1665100.0
 contributors_bm:
 - - Michael Moritz
   - 2943095.78
@@ -227,7 +227,7 @@ top_cand_spends:
   cmte_fppcid: '1495589'
   cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
-  total_expense: 254683.39
+  total_expense: 290365.69
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
@@ -236,7 +236,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 2324115.13
+  total_expense: 2355615.13
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
@@ -248,7 +248,7 @@ top_bm_spends:
 - cmte_nid: '6668151'
   cmte_fppcid: '891575'
   cmte_name: SF FORWARD SPONSORED BY THE SAN FRANCISCO CHAMBER OF COMMERCE
-  total_expense: 470000.0
+  total_expense: 495000.0
 
 ---
 

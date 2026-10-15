@@ -55,7 +55,7 @@ ie_candidates:
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
     funds: 550000.0
-    expenses: 181424.39
+    expenses: 217106.69
   - position: SUPPORT
     filer_nid: '217610473'
     filer_id: '1454340'

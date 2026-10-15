@@ -10,6 +10,14 @@ breadcrumbs:
   - elections/2026-11-03/measures/measured
 committees:
 - position: OPPOSE
+  filer_nid: '161155640'
+  filer_id: '1388285'
+  committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
+    Development Corp.
+  funds: ''
+  expenses: 1000.0
+  ies: 1000.0
+- position: OPPOSE
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D

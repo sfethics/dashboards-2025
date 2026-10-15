@@ -242,6 +242,10 @@ committees:
     Committee - Independent Expenditures Aka Boma-sf-pac-ie
   cmte_fppcid: '870449'
   cmte_nid: '6667779'
+- cmte_name: Build Affordable Faster California, Sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  cmte_nid: '161155640'
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
@@ -307,9 +311,6 @@ committees:
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
-- cmte_name: San Francisco League of Pissed Off Voters
-  cmte_fppcid: '1374879'
-  cmte_nid: '157471084'
 - cmte_name: San Francisco Police Officers Association Issues PAC
   cmte_fppcid: '1317554'
   cmte_nid: '6666443'
@@ -345,6 +346,9 @@ committees:
     Political Action Committee
   cmte_fppcid: '991525'
   cmte_nid: '6673414'
+- cmte_name: San Francisco League of Pissed Off Voters
+  cmte_fppcid: '1374879'
+  cmte_nid: '157471084'
 - cmte_name: Teamsters Local Union No. 665
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
@@ -589,6 +593,9 @@ committees:
 - cmte_name: Dylan Hirsch-shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'
+- cmte_name: Ellis Partners LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217628874'
 - cmte_name: Jeffrey Lawson
   cmte_fppcid: '1409024'
   cmte_nid: '209506922'
