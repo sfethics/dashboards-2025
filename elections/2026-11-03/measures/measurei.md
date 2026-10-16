@@ -14,8 +14,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 3529.41
-  ies: 3529.41
+  expenses: 4658.82
+  ies: 4658.82
 - position: OPPOSE
   filer_nid: '217609977'
   filer_id: unknown
@@ -37,7 +37,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1665100.0
+  funds: 1740100.0
   expenses: 27596.63
 contributors:
 - - Saikat Chakrabarti

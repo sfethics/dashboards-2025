@@ -42,20 +42,20 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 154780.9
+    expenses: 165092.6
   - position: SUPPORT
     filer_nid: '216701453'
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 120774.53
+    expenses: 111313.07
   - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
     funds: 550000.0
-    expenses: 217106.69
+    expenses: 237106.69
   - position: SUPPORT
     filer_nid: '217610473'
     filer_id: '1454340'

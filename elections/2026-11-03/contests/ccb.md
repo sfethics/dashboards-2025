@@ -58,6 +58,18 @@ candidates:
   funds: 7632.54
   expenses: 1418.12
 ie_candidates:
+- candidate_name: JEREMY LEE
+  filer_id: '1495277'
+  committees:
+  - position: SUPPORT
+    filer_nid: '217420279'
+    filer_id: '1496601'
+    committee_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+      LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO,
+      HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
+      LABOR ORGANIZATIONS
+    funds: ''
+    expenses: 8602.19
 - candidate_name: ELIJAH BALL
   filer_id: '1492919'
   committees:

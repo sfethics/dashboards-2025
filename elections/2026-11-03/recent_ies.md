@@ -5,12 +5,192 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 8617.58
+  tx_date: '2026-10-15'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647613?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 23206.63
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217642618?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 21176.33
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217641253?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 11714.87
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217641253?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 6250.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 6250.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 6250.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 4000.0
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 1694.12
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 1694.12
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647613?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 1694.12
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 1694.12
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 1411.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 1129.41
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 1129.41
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 1129.41
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 1129.41
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 1128.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
 - cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
     Corp.
   cmte_fppcid: '1388285'
   ie_description: 'D: Changes to Ballot Measure Process'
   position: OPPOSE
   tx_amount: 1000.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 564.71
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 564.71
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 564.71
   tx_date: '2026-10-14'
   attachment_url: ''
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
@@ -82,6 +262,96 @@ recent_ies:
   tx_amount: 1500.0
   tx_date: '2026-10-12'
   attachment_url: ''
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: JEREMY LEE'
+  position: SUPPORT
+  tx_amount: 918.85
+  tx_date: '2026-10-12'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 918.84
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647728?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: LEAH LACROIX'
+  position: SUPPORT
+  tx_amount: 918.84
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647679?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_LEAH%20LACROIX
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 918.84
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647691?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 918.84
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647718?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 625.0
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647718?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 625.0
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647728?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 625.0
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647691?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: LEAH LACROIX'
+  position: SUPPORT
+  tx_amount: 625.0
+  tx_date: '2026-10-12'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647679?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_LEAH%20LACROIX
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: JEREMY LEE'
+  position: SUPPORT
+  tx_amount: 625.0
+  tx_date: '2026-10-12'
+  attachment_url: ''
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -114,16 +384,61 @@ recent_ies:
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
-  tx_amount: 63529.0
+  tx_amount: 21176.34
   tx_date: '2026-10-09'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217641238?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
   tx_amount: 10851.0
   tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217641238?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: LEAH LACROIX'
+  position: SUPPORT
+  tx_amount: 7058.34
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647679?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_LEAH%20LACROIX
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: JEREMY LEE'
+  position: SUPPORT
+  tx_amount: 7058.34
+  tx_date: '2026-10-09'
   attachment_url: ''
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 7058.33
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647718?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 7058.33
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647728?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 7058.33
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217647691?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_REINA%20LOLI-TELLO
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -144,7 +459,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 431.25
   tx_date: '2026-10-09'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217641238?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'

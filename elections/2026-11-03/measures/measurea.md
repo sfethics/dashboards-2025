@@ -14,13 +14,13 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 4411.77
-  ies: 4411.77
+  expenses: 5823.53
+  ies: 5823.53
 - position: SUPPORT
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 415005.0
+  funds: 425005.0
   expenses: 11191.73
   ies: ''
 - position: SUPPORT
@@ -44,13 +44,13 @@ contributors:
   - 15000.0
 - - Lawrence Cushman
   - 10000.0
+- - Kilroy Realty, L.p.
+  - 10000.0
 - - Operating Engineers Local 3 Issues Advocacy/ballot Initiative PAC
   - 10000.0
 - - San Francisco Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
 - - Silvanus O. Erickson
-  - 5000.0
-- - Garry's List Action
   - 5000.0
 
 ---

@@ -311,6 +311,9 @@ committees:
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
+- cmte_name: San Francisco Labor Council Labor and Neighbor PAC
+  cmte_fppcid: '941562'
+  cmte_nid: '6673767'
 - cmte_name: San Francisco Police Officers Association Issues PAC
   cmte_fppcid: '1317554'
   cmte_nid: '6666443'
