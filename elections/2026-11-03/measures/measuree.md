@@ -14,8 +14,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 3529.41
-  ies: 3529.41
+  expenses: 4658.82
+  ies: 4658.82
 - position: SUPPORT
   filer_nid: '217609977'
   filer_id: unknown
@@ -28,7 +28,7 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 12804328.94
+  funds: 12954328.94
   expenses: 7005631.51
 
 ---

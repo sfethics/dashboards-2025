@@ -536,6 +536,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: MEYER MALKA
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 100000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 100000.0
 - tx_lastname: POTOMAC TRUST
   tx_entitycode: Other
   tx_cmteid: ''
@@ -705,6 +713,17 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 52000.0
+- tx_lastname: DAVID LAMOND
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50500.0
+  transactions:
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 50000.0
 - tx_lastname: OLEG NODELMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -869,6 +888,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 50000.0
+- tx_lastname: 'SFRF GP, LLC(RESPONSIBLE OFFICER: JAY YANG)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: THE PRADO GROUP, INC.
   tx_entitycode: Other
@@ -1043,6 +1072,16 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
+- tx_lastname: 'ALIGN LANDING LLC(RESPONSIBLE OFFICER: JASON CHADORCHI)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
   - cmte_fppcid: '1495424'
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
@@ -1571,6 +1610,14 @@ contributors:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 10000.0
+- tx_lastname: KILROY REALTY, L.P.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 10000.0
 - tx_lastname: MICHAEL BRADLEY EISLER REVOCABLE TRUST
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1611,6 +1658,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 10000.0
+- tx_lastname: SAN FRANCISCO LABOR COUNCIL LABOR AND NEIGHBOR PAC
+  tx_entitycode: Committee
+  tx_cmteid: '941562'
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1496601'
+    cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+      AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+      AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 10000.0
 - tx_lastname: SAN FRANCISCO POLICE OFFICERS ASSOCIATION ISSUES PAC
   tx_entitycode: Committee
@@ -1725,6 +1782,14 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
+    tx_amount: 7500.0
+- tx_lastname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  tx_entitycode: Committee
+  tx_cmteid: '1484969'
+  tx_amount: 7500.0
+  transactions:
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 7500.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual

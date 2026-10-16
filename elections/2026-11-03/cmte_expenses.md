@@ -68,7 +68,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 560512.25
+  total_expense: 603407.84
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -120,7 +120,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 457854.61
+  total_expense: 481061.24
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -260,7 +260,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 189427.94
+  total_expense: 179966.48
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -400,7 +400,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 290365.69
+  total_expense: 310365.69
 - cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   cmte_fppcid: '1493854'
   cmte_nid: '217292166'
@@ -416,6 +416,13 @@ committees:
   cmte_nid: '217413576'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  cmte_nid: '217420279'
+  committee_type: Primarily Formed Candidate
+  total_expense: 51613.05
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'
@@ -510,6 +517,11 @@ committees:
   cmte_nid: '6673760'
   committee_type: General Purpose
   total_expense: 85000.0
+- cmte_name: SAN FRANCISCO LABOR COUNCIL LABOR AND NEIGHBOR PAC
+  cmte_fppcid: '941562'
+  cmte_nid: '6673767'
+  committee_type: General Purpose
+  total_expense: 500.0
 - cmte_name: United Educators of San Francisco Committee on Political Education
   cmte_fppcid: '822448'
   cmte_nid: '6673824'

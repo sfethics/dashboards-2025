@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 396218.77
+    expenses: 419425.4
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -70,6 +70,15 @@ ie_candidates:
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     funds: 114000.0
     expenses: 55896.07
+- candidate_name: DARSHINI PATEL
+  filer_id: '1488280'
+  committees:
+  - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: 0.0
+    expenses: 1128.0
 contributors:
 - - SF Believes
   - 50000.0

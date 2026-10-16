@@ -77,6 +77,15 @@ ie_candidates:
   filer_id: '1493854'
   committees:
   - position: SUPPORT
+    filer_nid: '217420279'
+    filer_id: '1496601'
+    committee_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+      LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO,
+      HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
+      LABOR ORGANIZATIONS
+    funds: ''
+    expenses: 8602.17
+  - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
@@ -101,6 +110,15 @@ ie_candidates:
   filer_id: '1490256'
   committees:
   - position: SUPPORT
+    filer_nid: '217420279'
+    filer_id: '1496601'
+    committee_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+      LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO,
+      HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
+      LABOR ORGANIZATIONS
+    funds: ''
+    expenses: 8602.17
+  - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
     committee_name: United Educators of San Francisco Candidate PAC
@@ -109,6 +127,15 @@ ie_candidates:
 - candidate_name: RYAN HAZELTON
   filer_id: '1491734'
   committees:
+  - position: SUPPORT
+    filer_nid: '217420279'
+    filer_id: '1496601'
+    committee_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+      LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO,
+      HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
+      LABOR ORGANIZATIONS
+    funds: ''
+    expenses: 8602.17
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -123,7 +150,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 51735.31
+    expenses: 58550.02
   - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
@@ -138,7 +165,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 103470.59
+    expenses: 117100.01
 contributors:
 - - Todd David
   - 2000.0
