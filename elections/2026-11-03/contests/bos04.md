@@ -25,8 +25,8 @@ candidates:
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
   candidate_name: JEREMY GRECO
-  funds: 4405.0
-  expenses: 3569.12
+  funds: 5055.0
+  expenses: 4861.25
 - filer_nid: '216878122'
   filer_id: '1492163'
   committee_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
@@ -49,6 +49,12 @@ ie_candidates:
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: ''
     expenses: 68653.41
+  - position: SUPPORT
+    filer_nid: '217636104'
+    filer_id: '1492319'
+    committee_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+    funds: ''
+    expenses: 2500.0
 contributors:
 - - Christin Evans
   - 1000.0

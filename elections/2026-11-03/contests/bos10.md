@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1465611'
     committee_name: California Alliance of Family Owned Businesses PAC
     funds: 0.0
-    expenses: 111313.07
+    expenses: 134973.69
   - position: SUPPORT
     filer_nid: '217267598'
     filer_id: '1495589'

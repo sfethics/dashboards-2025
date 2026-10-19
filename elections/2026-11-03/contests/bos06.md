@@ -31,6 +31,12 @@ ie_candidates:
     committee_name: GrowSF Voter Guide
     funds: ''
     expenses: 4658.82
+  - position: SUPPORT
+    filer_nid: '217636104'
+    filer_id: '1492319'
+    committee_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+    funds: ''
+    expenses: 2500.0
 contributors:
 - - Alex Behrend
   - 600.0

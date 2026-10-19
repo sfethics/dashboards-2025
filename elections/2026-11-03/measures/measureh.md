@@ -20,9 +20,16 @@ committees:
   filer_nid: '214099226'
   filer_id: '1479782'
   committee_name: MAYOR LURIE'S YES ON H COMMITTEE
-  funds: 5083862.99
+  funds: 5133862.99
   expenses: 2201950.16
   ies: ''
+- position: SUPPORT
+  filer_nid: '217636104'
+  filer_id: '1492319'
+  committee_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  funds: ''
+  expenses: 10000.0
+  ies: 10000.0
 multi_committees: []
 contributors:
 - - Anthropic

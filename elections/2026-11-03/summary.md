@@ -60,8 +60,8 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 90922.03
-  expenses: 63960.13
+  funds: 91572.03
+  expenses: 65252.26
   ies: ''
 - committee_type: candidate
   contest_nid: '216963967'
@@ -81,7 +81,7 @@ candidate_ie:
   contest_name: Board of Supervisors D02
   contest_link: bos02
   funds: 0.0
-  expenses: 2647.06
+  expenses: 5147.06
 - contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
@@ -91,17 +91,17 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 561683.86
+  expenses: 585344.48
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 656343.7599999999
+  expenses: 666368.7599999999
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
   funds: 0.0
-  expenses: 4658.82
+  expenses: 7158.82
 - contest_nid: '215593808'
   contest_name: Assessor-Recorder
   contest_link: asr
@@ -111,7 +111,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 73312.23
+  expenses: 75812.23
 - contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
@@ -131,8 +131,8 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
-  expenses: 2208938.4
-  funds: 5083862.99
+  expenses: 2218938.4
+  funds: 5133862.99
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -143,11 +143,11 @@ measures:
     Park'
   contest_link: measureg
   expenses: 921565.61
-  funds: 1730591.34
+  funds: 1741591.34
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
-  expenses: 197034.29
+  expenses: 232034.29
   funds: 1134673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
@@ -173,27 +173,27 @@ measures:
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
   expenses: 34616.44
-  funds: 182500.0
+  funds: 207500.0
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 7005631.51
-  funds: 12954328.94
+  funds: 13490128.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1740100.0
+  funds: 1915100.0
 contributors_bm:
 - - Michael Moritz
-  - 2943095.78
+  - 3468095.78
 - - Christian Larsen
   - 1587500.0
 - - Lyna Lam
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -218,7 +218,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 481061.24
+  total_expense: 491086.24
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026

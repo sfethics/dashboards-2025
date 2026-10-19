@@ -11,14 +11,17 @@ contributors:
 - tx_lastname: MICHAEL MORITZ
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 2943095.78
+  tx_amount: 3468095.78
   transactions:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-    tx_amount: 2593095.78
+    tx_amount: 3093095.78
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 150000.0
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 25000.0
   - cmte_fppcid: '1495424'
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
@@ -324,6 +327,22 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 125000.0
+- tx_lastname: JOHN FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 150500.0
+  transactions:
+  - cmte_fppcid: '1487412'
+    cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 125000.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
 - tx_lastname: CALIFORNIA ALLIANCE FOR JOBS - REBUILD CALIFORNIA COMMITTEE
   tx_entitycode: Committee
   tx_cmteid: '1241892'
@@ -356,17 +375,6 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
-- tx_lastname: JOHN FISHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 125500.0
-  transactions:
-  - cmte_fppcid: '1487412'
-    cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-    tx_amount: 125000.0
 - tx_lastname: JENNIFER CALDWELL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -713,6 +721,38 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 52000.0
+- tx_lastname: ROBERT J. FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 51000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
+- tx_lastname: WILLIAM S. FISHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 51000.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: DAVID LAMOND
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -745,6 +785,16 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 50000.0
+- tx_lastname: '10 SVN, LLC(RESPONSIBLE OFFICER: ADAM TARTAKOVSKY)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: '100 MISSION OWNER, LLC(RESPONSIBLE OFFICER: K CYRUS SANANDAJI)'
   tx_entitycode: Other
@@ -899,6 +949,14 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: SUTTER HEALTH
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 50000.0
 - tx_lastname: THE PRADO GROUP, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -972,6 +1030,14 @@ contributors:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 1500.0
+- tx_lastname: DONALD J EDWARDS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 35000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 35000.0
 - tx_lastname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
     PAC
   tx_entitycode: Committee
@@ -1007,6 +1073,17 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 35000.0
+- tx_lastname: CAROLYN POMERANTZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 32800.0
+  transactions:
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 32300.0
 - tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO CANDIDATE PAC
   tx_entitycode: Other
   tx_cmteid: '1311218'
@@ -1112,14 +1189,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-    tx_amount: 25000.0
-- tx_lastname: DONALD J EDWARDS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 25000.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 25000.0
 - tx_lastname: 'ELLIS PARTNERS, LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM EVERS)'
   tx_entitycode: Other
@@ -1407,6 +1476,17 @@ contributors:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
     tx_amount: 15000.0
+- tx_lastname: ALISON GELB PINCUS
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 13500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 3500.0
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
 - tx_lastname: JEFFREY MAY
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1533,14 +1613,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 10000.0
-- tx_lastname: ALISON GELB PINCUS
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1486185'
-    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 10000.0
 - tx_lastname: ANDREW SUTHERLAND
   tx_entitycode: Individual
@@ -2497,6 +2569,20 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 2500.0
+- tx_lastname: AMY ZHENG
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 250.0
+  - cmte_fppcid: '1491969'
+    cmte_name: GRECO FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 1750.0
 - tx_lastname: BRANDEE MARCKMANN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2842,17 +2928,6 @@ contributors:
   - cmte_fppcid: '1494100'
     cmte_name: FAIR ACCESS NO ON D
     tx_amount: 2000.0
-- tx_lastname: AMY ZHENG
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 250.0
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 1750.0
 - tx_lastname: CHESA BOUDIN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -6005,6 +6080,14 @@ contributors:
   - cmte_fppcid: '1487412'
     cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
     tx_amount: 500.0
+- tx_lastname: MICHAEL BIEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 1000.0
 - tx_lastname: MICHAEL HARRINGTON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -6231,17 +6314,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: ROBERT J. FISHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: ROBERT STOBO
   tx_entitycode: Individual
@@ -6552,17 +6624,6 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1484080'
     cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-- tx_lastname: WILLIAM S. FISHER
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
 - tx_lastname: WILLIAM WANG
   tx_entitycode: Individual

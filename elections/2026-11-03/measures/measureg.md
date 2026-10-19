@@ -20,7 +20,7 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1596633.5
+  funds: 1607633.5
   expenses: 857183.16
   ies: ''
 - position: OPPOSE
@@ -51,11 +51,11 @@ contributors:
   - 49900.0
 - - Friends of Sunset Dunes
   - 42695.5
+- - Donald J Edwards
+  - 35000.0
 - - Wojciech Zaremba
   - 35000.0
 - - Chinese American Democratic Club
-  - 25000.0
-- - Donald J Edwards
   - 25000.0
 - - Fund for a Better Future Inc.
   - 25000.0
