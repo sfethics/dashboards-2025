@@ -5,6 +5,55 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 21176.33
+  tx_date: '2026-10-17'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217657237?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 10025.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  cmte_fppcid: '1492319'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 10000.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  cmte_fppcid: '1492319'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  cmte_fppcid: '1492319'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  cmte_fppcid: '1492319'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 2484.29
+  tx_date: '2026-10-16'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217657237?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'

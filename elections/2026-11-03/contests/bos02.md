@@ -37,6 +37,12 @@ ie_candidates:
     committee_name: GrowSF Voter Guide
     funds: ''
     expenses: 2647.06
+  - position: SUPPORT
+    filer_nid: '217636104'
+    filer_id: '1492319'
+    committee_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+    funds: ''
+    expenses: 2500.0
 contributors:
 - - Sheeva Hamidieh
   - 750.0

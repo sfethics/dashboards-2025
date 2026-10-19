@@ -48,7 +48,7 @@ committees:
   cmte_fppcid: '1433587'
   cmte_nid: '162062420'
   committee_type: Major Donor
-  total_expense: 120000.0
+  total_expense: 125000.0
 - cmte_name: The Swig Company, LLC
   cmte_fppcid: unknown
   cmte_nid: '171851239'
@@ -120,7 +120,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 481061.24
+  total_expense: 491086.24
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -195,7 +195,7 @@ committees:
   cmte_fppcid: '1484969'
   cmte_nid: '214966146'
   committee_type: Primarily Formed Measure
-  total_expense: 7500.0
+  total_expense: 42500.0
 - cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
   cmte_fppcid: '1487291'
   cmte_nid: '215424978'
@@ -260,7 +260,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 179966.48
+  total_expense: 203627.1
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -275,7 +275,7 @@ committees:
   cmte_fppcid: '1491969'
   cmte_nid: '216781160'
   committee_type: Candidate Controlled
-  total_expense: 3569.12
+  total_expense: 4861.25
 - cmte_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
@@ -471,6 +471,16 @@ committees:
 - cmte_name: Ellis Partners LLC
   cmte_fppcid: unknown
   cmte_nid: '217628874'
+  committee_type: Major Donor
+  total_expense: 25000.0
+- cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
+  cmte_fppcid: '1492319'
+  cmte_nid: '217636104'
+  committee_type: General Purpose
+  total_expense: 17500.0
+- cmte_name: John Randall Fisher
+  cmte_fppcid: unknown
+  cmte_nid: '217648708'
   committee_type: Major Donor
   total_expense: 25000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION

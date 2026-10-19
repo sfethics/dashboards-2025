@@ -20,7 +20,7 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1740100.0
+  funds: 1915100.0
   expenses: 27596.63
   ies: ''
 multi_committees: []
@@ -35,6 +35,8 @@ contributors:
   - 100000.0
 - - Kilroy Realty,l.p. & Affiliated Entities
   - 100000.0
+- - '10 Svn, Llc(responsible Officer: Adam Tartakovsky)'
+  - 50000.0
 - - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
   - 50000.0
 - - 'Brookfield Property Group Llc(responsible Officer: Hilary Walker)'
@@ -43,8 +45,6 @@ contributors:
   - 50000.0
 - - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
     )'
-  - 50000.0
-- - Electrical Industry Service Bureau, Inc.
   - 50000.0
 
 ---
