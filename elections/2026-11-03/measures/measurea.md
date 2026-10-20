@@ -14,8 +14,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 5823.53
-  ies: 5823.53
+  expenses: 18139.71
+  ies: 18139.71
 - position: SUPPORT
   filer_nid: '217079174'
   filer_id: '1493867'
@@ -28,8 +28,8 @@ committees:
   filer_id: unknown
   committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
   funds: ''
-  expenses: 3211.4
-  ies: 3211.4
+  expenses: 5822.64
+  ies: 5822.64
 multi_committees: []
 contributors:
 - - Michael Moritz

@@ -14,15 +14,15 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 6988.24
-  ies: 6988.24
+  expenses: 21767.65
+  ies: 21767.65
 - position: OPPOSE
   filer_nid: '217609977'
   filer_id: unknown
   committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
   funds: ''
-  expenses: 3211.4
-  ies: 3211.4
+  expenses: 5822.64
+  ies: 5822.64
 - position: SUPPORT
   filer_nid: '217045555'
   filer_id: '1488530'
@@ -30,6 +30,13 @@ committees:
   funds: 305786.8
   expenses: 64762.62
   ies: ''
+- position: SUPPORT
+  filer_nid: '217661076'
+  filer_id: unknown
+  committee_name: Council of Community Housing Organizations
+  funds: ''
+  expenses: 1345.71
+  ies: 1345.71
 multi_committees: []
 contributors:
 - - Saikat Chakrabarti

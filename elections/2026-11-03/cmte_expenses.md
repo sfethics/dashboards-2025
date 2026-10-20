@@ -31,7 +31,7 @@ committees:
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
   committee_type: General Purpose
-  total_expense: 15000.0
+  total_expense: 35000.0
 - cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
     Corp.
   cmte_fppcid: '1388285'
@@ -68,7 +68,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 603407.84
+  total_expense: 848574.9199999999
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -400,7 +400,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 310365.69
+  total_expense: 316312.74
 - cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   cmte_fppcid: '1493854'
   cmte_nid: '217292166'
@@ -452,7 +452,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '217609977'
   committee_type: Major Donor
-  total_expense: 28902.6
+  total_expense: 52403.76
 - cmte_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
   cmte_fppcid: '1454340'
   cmte_nid: '217610473'
@@ -483,6 +483,11 @@ committees:
   cmte_nid: '217648708'
   committee_type: Major Donor
   total_expense: 25000.0
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  cmte_nid: '217661076'
+  committee_type: Independent Expenditure Committee
+  total_expense: 11596.85
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
@@ -510,7 +515,7 @@ committees:
   cmte_nid: '6673342'
   committee_type: General Purpose
   total_expense: 10500.0
-- cmte_name: SAN FRANCISCO DEPUTY SHERIFFS' ASSOCIATION POLITICAL ACTION COMMITTEE
+- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
   committee_type: General Purpose

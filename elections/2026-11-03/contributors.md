@@ -1154,6 +1154,14 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 25000.0
+- tx_lastname: AARON BOUCHER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 25000.0
 - tx_lastname: 'ALIGN LANDING LLC(RESPONSIBLE OFFICER: JASON CHADORCHI)'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1458,6 +1466,14 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 15000.0
+- tx_lastname: JEFFERSON LEE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 15000.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 15000.0
 - tx_lastname: REUBEN, JUNIUS & ROSE LLP
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1660,14 +1676,6 @@ contributors:
     tx_amount: 10000.0
 - tx_lastname: DEMOCRATIC SOCIALISTS OF AMERICA, SAN FRANCISCO CHAPTER
   tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1490845'
-    cmte_name: FAIR HOUSING, YES ON I
-    tx_amount: 10000.0
-- tx_lastname: JEFFERSON LEE
-  tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 10000.0
   transactions:
@@ -2600,6 +2608,22 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 1000.0
+- tx_lastname: CALIFORNIA NURSES ASSOCIATION POLITICAL ACTION COMMITTEE
+  tx_entitycode: Other
+  tx_cmteid: '780657'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 2500.0
+- tx_lastname: CALIFORNIA PROFESSIONAL FIREFIGHTERS PAC
+  tx_entitycode: Other
+  tx_cmteid: '744058'
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 2500.0
 - tx_lastname: CAROLYN SCHWAB-POMERANTZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3909,6 +3933,14 @@ contributors:
   - cmte_fppcid: '1494100'
     cmte_name: FAIR ACCESS NO ON D
     tx_amount: 500.0
+- tx_lastname: PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT PAC
+  tx_entitycode: Other
+  tx_cmteid: '822501'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1500.0
 - tx_lastname: RALPH LANE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -6211,6 +6243,14 @@ contributors:
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
     tx_amount: 500.0
+- tx_lastname: PACE OF CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION
+  tx_entitycode: Other
+  tx_cmteid: '761128'
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: PATRICIA LEE
   tx_entitycode: Individual
   tx_cmteid: ''

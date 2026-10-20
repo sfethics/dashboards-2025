@@ -24,7 +24,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 1764.71
+    expenses: 7255.89
 contributors:
 - - Dwayne Jones
   - 1000.0

@@ -14,8 +14,8 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 2647.06
-  ies: 2647.06
+  expenses: 10883.82
+  ies: 10883.82
 - position: OPPOSE
   filer_nid: '211776936'
   filer_id: '1471154'
@@ -28,13 +28,13 @@ committees:
   filer_id: unknown
   committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
   funds: ''
-  expenses: 3211.4
-  ies: 3211.4
+  expenses: 5822.64
+  ies: 5822.64
 - position: SUPPORT
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 133957.84
+  funds: 141457.84
   expenses: 58523.99
   ies: ''
 multi_committees: []

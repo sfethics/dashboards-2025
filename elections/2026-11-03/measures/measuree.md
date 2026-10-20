@@ -14,15 +14,15 @@ committees:
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
   funds: ''
-  expenses: 4658.82
-  ies: 4658.82
+  expenses: 14511.76
+  ies: 14511.76
 - position: SUPPORT
   filer_nid: '217609977'
   filer_id: unknown
   committee_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
   funds: ''
-  expenses: 3211.4
-  ies: 3211.4
+  expenses: 5822.64
+  ies: 5822.64
 multi_committees:
 - position: SUPPORT
   filer_nid: '216006060'
