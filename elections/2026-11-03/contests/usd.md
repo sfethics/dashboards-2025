@@ -95,6 +95,12 @@ ie_candidates:
   filer_id: '1483651'
   committees:
   - position: SUPPORT
+    filer_nid: '201619433'
+    filer_id: '1433436'
+    committee_name: GrowSF Voter Guide
+    funds: ''
+    expenses: 22259.8
+  - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
@@ -150,7 +156,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 58550.02
+    expenses: 80809.83
   - position: SUPPORT
     filer_nid: '201848961'
     filer_id: '1442994'
@@ -165,7 +171,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: ''
-    expenses: 117100.01
+    expenses: 139359.81
 contributors:
 - - Todd David
   - 2000.0

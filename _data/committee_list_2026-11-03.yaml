@@ -253,6 +253,15 @@ committees:
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
+- cmte_name: California Federation of Teachers Cope
+  cmte_fppcid: '741857'
+  cmte_nid: '212294989'
+- cmte_name: California Nurses Association Political Action Committee
+  cmte_fppcid: '780657'
+  cmte_nid: '6673059'
+- cmte_name: California Professional Firefighters PAC
+  cmte_fppcid: '744058'
+  cmte_nid: '6673076'
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
@@ -312,9 +321,6 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
-- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
-  cmte_fppcid: '991828'
-  cmte_nid: '6673394'
 - cmte_name: San Francisco Electrical Contractors Association PAC
   cmte_fppcid: '1492319'
   cmte_nid: '217636104'
@@ -348,6 +354,9 @@ committees:
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
+- cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
+  cmte_fppcid: '991828'
+  cmte_nid: '6673394'
 - cmte_name: San Francisco Labor & Neighbor Member Education/political Issues Committee,
     Sponsored by the San Francisco Labor Council
   cmte_fppcid: '970630'
@@ -495,11 +504,17 @@ committees:
 - cmte_name: Our Kids Our Future PAC
   cmte_fppcid: PENDING
   cmte_nid: unknown
+- cmte_name: Pace of California School Employees Association
+  cmte_fppcid: '761128'
+  cmte_nid: unknown
 - cmte_name: Patrick Ahrens for Assembly 2026
   cmte_fppcid: '1476866'
   cmte_nid: unknown
 - cmte_name: Phil Ting for Treasurer 2026
   cmte_fppcid: '1444108'
+  cmte_nid: unknown
+- cmte_name: Professional Engineers in California Government PAC
+  cmte_fppcid: '822501'
   cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
@@ -648,6 +663,9 @@ committees:
 - cmte_name: Sameer Gandhi
   cmte_fppcid: unknown
   cmte_nid: '211729834'
+- cmte_name: San Francisco Community Land Trust
+  cmte_fppcid: unknown
+  cmte_nid: '217652652'
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'
@@ -670,6 +688,9 @@ committees:
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  cmte_nid: '217661076'
 - cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'

@@ -78,7 +78,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 1128.0
+    expenses: 38468.63
 contributors:
 - - SF Believes
   - 50000.0

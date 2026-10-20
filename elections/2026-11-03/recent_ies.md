@@ -5,6 +5,374 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 800.0
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 457.72
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 457.71
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 457.71
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: SUPPORT
+  tx_amount: 457.71
+  tx_date: '2026-10-19'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 22500.0
+  tx_date: '2026-10-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217669273?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_DARSHINI%20PATEL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 17333.34
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 17333.33
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 17333.33
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 14117.65
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 14117.65
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 14117.65
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 14117.65
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 11764.71
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 9411.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 9411.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 9411.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 9411.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 9400.0
+  tx_date: '2026-10-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217669273?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_DARSHINI%20PATEL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 7058.82
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 7058.82
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 7058.82
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-10-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217669273?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_DARSHINI%20PATEL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 4705.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 4705.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
+  position: SUPPORT
+  tx_amount: 4705.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 4705.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 661.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 661.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 661.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 661.76
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 551.47
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 441.18
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 441.18
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 441.18
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D06: MATT DORSEY'
+  position: SUPPORT
+  tx_amount: 441.18
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 440.63
+  tx_date: '2026-10-18'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217669273?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_DARSHINI%20PATEL
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 330.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 330.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 330.88
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: PHIL KIM'
+  position: SUPPORT
+  tx_amount: 220.59
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: TIM TUNG'
+  position: SUPPORT
+  tx_amount: 220.59
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
+  position: SUPPORT
+  tx_amount: 220.59
+  tx_date: '2026-10-18'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 220.59
+  tx_date: '2026-10-18'
+  attachment_url: ''
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -26,6 +394,14 @@ recent_ies:
   tx_amount: 10000.0
   tx_date: '2026-10-16'
   attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-10-16'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217665317?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
   cmte_fppcid: '1492319'
   ie_description: 'Board of Supervisors D06: MATT DORSEY'
@@ -54,6 +430,79 @@ recent_ies:
   tx_amount: 2484.29
   tx_date: '2026-10-16'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217657237?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 947.05
+  tx_date: '2026-10-16'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217665317?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -143,6 +592,27 @@ recent_ies:
   tx_amount: 4000.0
   tx_date: '2026-10-14'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217643976?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 3551.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 3551.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 1776.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'F: Changes to Executive Branch Management'
@@ -221,6 +691,35 @@ recent_ies:
   tx_amount: 1000.0
   tx_date: '2026-10-14'
   attachment_url: ''
+- cmte_name: Council of Community Housing Organizations
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: SUPPORT
+  tx_amount: 888.0
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D02: STEPHEN SHERRILL'
+  position: SUPPORT
+  tx_amount: 847.06
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 847.06
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 847.06
+  tx_date: '2026-10-14'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Education: TIM TUNG'
@@ -237,9 +736,81 @@ recent_ies:
   attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
+  ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
+  position: SUPPORT
+  tx_amount: 564.71
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
   ie_description: 'Board of Education: TIM TUNG'
   position: SUPPORT
   tx_amount: 564.71
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 19.76
+  tx_date: '2026-10-14'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 19.76
   tx_date: '2026-10-14'
   attachment_url: ''
 - cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
@@ -544,6 +1115,71 @@ recent_ies:
   tx_amount: 1333.33
   tx_date: '2026-10-08'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217611969?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_ALIDA%20FISHER
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
+    Park'
+  position: OPPOSE
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: OPPOSE
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: "E: City Administrator\u2019s Authority and Changes to City Contracting"
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: OPPOSE
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'F: Changes to Executive Branch Management'
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
+- cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
+  cmte_fppcid: unknown
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 31.48
+  tx_date: '2026-10-08'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'

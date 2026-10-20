@@ -24,6 +24,13 @@ committees:
   funds: 205700.0
   expenses: 50404.32
   ies: ''
+- position: OPPOSE
+  filer_nid: '217661076'
+  filer_id: unknown
+  committee_name: Council of Community Housing Organizations
+  funds: ''
+  expenses: 2233.71
+  ies: 2233.71
 multi_committees:
 - position: SUPPORT
   filer_nid: '216006060'
