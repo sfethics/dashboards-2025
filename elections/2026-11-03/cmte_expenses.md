@@ -37,7 +37,7 @@ committees:
   cmte_fppcid: '1388285'
   cmte_nid: '161155640'
   committee_type: General Purpose
-  total_expense: 14400.0
+  total_expense: 27262.62
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
@@ -68,7 +68,7 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 848574.9199999999
+  total_expense: 878792.9299999999
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
@@ -280,7 +280,7 @@ committees:
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
   committee_type: Candidate Controlled
-  total_expense: 15033.92
+  total_expense: 19328.99
 - cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'
@@ -301,6 +301,11 @@ committees:
   cmte_nid: '216883068'
   committee_type: Candidate Controlled
   total_expense: 636.82
+- cmte_name: Shorenstein Company LLC
+  cmte_fppcid: unknown
+  cmte_nid: '216904563'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
     ACTION FUND
   cmte_fppcid: '1492671'
@@ -483,11 +488,21 @@ committees:
   cmte_nid: '217648708'
   committee_type: Major Donor
   total_expense: 25000.0
+- cmte_name: SFRF GP, LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217648788'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: Council of Community Housing Organizations
   cmte_fppcid: unknown
   cmte_nid: '217661076'
   committee_type: Independent Expenditure Committee
   total_expense: 11596.85
+- cmte_name: Fort Point Real Estate Partners, Inc.
+  cmte_fppcid: unknown
+  cmte_nid: '217671783'
+  committee_type: Major Donor
+  total_expense: 50000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'

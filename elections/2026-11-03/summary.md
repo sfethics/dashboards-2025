@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 147396.66
-  expenses: 65849.64
+  funds: 151965.66
+  expenses: 70144.71
   ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1473163.43
+  funds: 1489981.43
   expenses: 678544.44
   ies: ''
 - committee_type: candidate
@@ -96,7 +96,7 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 703709.3899999999
+  expenses: 733927.3999999999
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -132,11 +132,11 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 2233717.81
-  funds: 5133862.99
+  funds: 5136474.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 358954.24
+  expenses: 363215.53
   funds: 673906.5
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
@@ -147,12 +147,12 @@ measures:
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
-  expenses: 249502.25
+  expenses: 253763.54
   funds: 1134673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 53638.03
+  expenses: 57978.07
   funds: 205700.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
@@ -183,15 +183,15 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 1915100.0
+  funds: 2025100.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
+  - 1000000.0
+- - John Pritzker
   - 1000000.0
 - - Jeremy Stoppelman
   - 750000.0
@@ -214,7 +214,7 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 712223.46
+  total_expense: 742441.47
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations

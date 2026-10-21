@@ -5,6 +5,20 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 16140.45
+  tx_date: '2026-10-20'
+  attachment_url: ''
+- cmte_name: GrowSF Voter Guide
+  cmte_fppcid: '1433436'
+  ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
+  position: SUPPORT
+  tx_amount: 14077.56
+  tx_date: '2026-10-20'
+  attachment_url: ''
 - cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
   cmte_fppcid: unknown
   ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
@@ -641,6 +655,30 @@ recent_ies:
   tx_amount: 1694.12
   tx_date: '2026-10-14'
   attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 1570.78
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217680972?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 1570.78
+  tx_date: '2026-10-14'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217681003?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_C
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 1570.78
+  tx_date: '2026-10-14'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'A: Charter Changes Affecting Various City Departments and Commissions'
@@ -688,9 +726,9 @@ recent_ies:
   cmte_fppcid: '1388285'
   ie_description: 'D: Changes to Ballot Measure Process'
   position: OPPOSE
-  tx_amount: 1000.0
+  tx_amount: 978.75
   tx_date: '2026-10-14'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217680972?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
 - cmte_name: Council of Community Housing Organizations
   cmte_fppcid: unknown
   ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
@@ -1073,6 +1111,30 @@ recent_ies:
   tx_amount: 5000.0
   tx_date: '2026-10-09'
   attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 2650.51
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217681003?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_C
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 2650.51
+  tx_date: '2026-10-09'
+  attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 2650.51
+  tx_date: '2026-10-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217680972?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -2062,6 +2124,30 @@ recent_ies:
   ie_description: 'Assessor-Recorder: JOAQUIN TORRES'
   position: SUPPORT
   tx_amount: 588.24
+  tx_date: '2026-09-30'
+  attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 140.0
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217680972?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 40.0
+  tx_date: '2026-09-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217681003?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_C
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 40.0
   tx_date: '2026-09-30'
   attachment_url: ''
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC

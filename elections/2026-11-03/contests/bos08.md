@@ -31,7 +31,7 @@ candidates:
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 147228.5
+  funds: 164046.5
   expenses: 42788.16
 ie_candidates:
 - candidate_name: GARY MCCOY
@@ -78,7 +78,7 @@ ie_candidates:
     filer_id: '1433436'
     committee_name: GrowSF Voter Guide
     funds: 0.0
-    expenses: 38468.63
+    expenses: 68686.64
 contributors:
 - - SF Believes
   - 50000.0
