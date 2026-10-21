@@ -10,6 +10,14 @@ breadcrumbs:
   - elections/2026-11-03/measures/measurec
 committees:
 - position: SUPPORT
+  filer_nid: '161155640'
+  filer_id: '1388285'
+  committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
+    Development Corp.
+  funds: ''
+  expenses: 4261.29
+  ies: 4261.29
+- position: SUPPORT
   filer_nid: '201619433'
   filer_id: '1433436'
   committee_name: GrowSF Voter Guide
@@ -45,7 +53,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 1915100.0
+  funds: 2025100.0
   expenses: 27596.63
 contributors:
 - - Nph Action Fund Political Issues Committee

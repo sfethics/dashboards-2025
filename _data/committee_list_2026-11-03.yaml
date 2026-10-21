@@ -398,6 +398,9 @@ committees:
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
   cmte_nid: unknown
+- cmte_name: California Business Properties Association Issues PAC
+  cmte_fppcid: '1244001'
+  cmte_nid: unknown
 - cmte_name: California Hotel Issues PAC, Sponsored by the California Hotel + Lodging
     Association
   cmte_fppcid: '1425528'
@@ -624,6 +627,9 @@ committees:
 - cmte_name: Ellis Partners LLC
   cmte_fppcid: unknown
   cmte_nid: '217628874'
+- cmte_name: Fort Point Real Estate Partners, Inc.
+  cmte_fppcid: unknown
+  cmte_nid: '217671783'
 - cmte_name: Jeffrey Lawson
   cmte_fppcid: '1409024'
   cmte_nid: '209506922'
@@ -651,6 +657,9 @@ committees:
 - cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
+- cmte_name: Sfrf Gp, LLC
+  cmte_fppcid: unknown
+  cmte_nid: '217648788'
 - cmte_name: Spur - San Francisco Bay Area Planning & Urban Research Association
   cmte_fppcid: unknown
   cmte_nid: '217609977'
@@ -666,6 +675,9 @@ committees:
 - cmte_name: San Francisco Community Land Trust
   cmte_fppcid: unknown
   cmte_nid: '217652652'
+- cmte_name: Shorenstein Company LLC
+  cmte_fppcid: unknown
+  cmte_nid: '216904563'
 - cmte_name: Silvanus Osborn Erickson
   cmte_fppcid: '1273721'
   cmte_nid: '126511772'

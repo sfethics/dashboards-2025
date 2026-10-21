@@ -949,6 +949,16 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: 'SHORENSTEIN COMPANY LLC(RESPONSIBLE OFFICER: SANDRA SHORENSTEIN)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: SUTTER HEALTH
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1182,6 +1192,16 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 25000.0
+- tx_lastname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1244001'
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
 - tx_lastname: CHARLES GOOD
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1389,6 +1409,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_entitycode: Other
+  tx_cmteid: '1405539'
+  tx_amount: 20974.23
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 20974.23
 - tx_lastname: SAN FRANCISCO LABOR COUNCIL
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1415,14 +1443,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 18750.0
-- tx_lastname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_entitycode: Other
-  tx_cmteid: '1405539'
-  tx_amount: 18362.99
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 18362.99
 - tx_lastname: ANDREW CASTEEL
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1559,6 +1579,19 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 10562.5
+- tx_lastname: JOSEPH SMOLEN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10500.0
+  transactions:
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 10000.0
 - tx_lastname: JULIA HARTZ
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1705,6 +1738,26 @@ contributors:
   transactions:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 10000.0
+- tx_lastname: 'MISSION ROCK PARCEL B OWNER, LLC(RESPONSIBLE OFFICER: MICHAEL BENNER)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 10000.0
+- tx_lastname: 'MISSION ROCK PARCEL G OWNER, LLC(RESPONSIBLE OFFICER: MICHAEL BENNER)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 10000.0
 - tx_lastname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS POWER PAC
   tx_entitycode: Committee
@@ -2068,6 +2121,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 5000.0
+- tx_lastname: 'CAHILL CONTRACTORS LLC(RESPONSIBLE OFFICER: KATHRYN CAHILL THOMPSON)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 5000.0
 - tx_lastname: DAVID BAKER, AN ARCHITECTURAL CORPORATION
   tx_entitycode: Other
