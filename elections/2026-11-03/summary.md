@@ -25,8 +25,8 @@ candidate_pf:
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 151965.66
-  expenses: 70144.71
+  funds: 161275.66
+  expenses: 72795.9
   ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
@@ -67,8 +67,8 @@ candidate_pf:
   contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
-  funds: 93262.01
-  expenses: 20783.76
+  funds: 132307.16
+  expenses: 76809.55
   ies: ''
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
@@ -86,17 +86,17 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 445827.93
+  expenses: 462502.68
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 606070.94
+  expenses: 614382.3
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 733927.3999999999
+  expenses: 737899.23
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -111,7 +111,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 85665.17
+  expenses: 103106.33
 - contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
@@ -131,7 +131,7 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
-  expenses: 2233717.81
+  expenses: 2234852.98
   funds: 5136474.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
@@ -143,7 +143,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 932413.61
-  funds: 1749091.34
+  funds: 1749691.34
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -152,7 +152,7 @@ measures:
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 57978.07
+  expenses: 59598.07
   funds: 205700.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
@@ -183,7 +183,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 27596.63
-  funds: 2025100.0
+  funds: 2117600.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
@@ -193,7 +193,7 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Jeremy Stoppelman
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -203,7 +203,7 @@ contributors_cand:
 - - SF Believes
   - 50000.0
 - - United Educators of San Francisco Candidate PAC
-  - 30500.0
+  - 31000.0
 - - Professors for Eductional Reform Aft 2121 - C.o.p.e.
   - 24000.0
 top_cand_spends:
@@ -218,7 +218,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 491086.24
+  total_expense: 495058.07
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -236,7 +236,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 2355615.13
+  total_expense: 2405615.13
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES

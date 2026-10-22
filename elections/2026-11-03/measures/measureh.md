@@ -17,6 +17,13 @@ committees:
   expenses: 21767.65
   ies: 21767.65
 - position: SUPPORT
+  filer_nid: '211792942'
+  filer_id: '1471862'
+  committee_name: Building a Working SF Sponsored by Labor Organizations
+  funds: ''
+  expenses: 1135.17
+  ies: 1135.17
+- position: SUPPORT
   filer_nid: '214099226'
   filer_id: '1479782'
   committee_name: MAYOR LURIE'S YES ON H COMMITTEE

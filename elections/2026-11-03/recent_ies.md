@@ -5,6 +5,34 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 25441.0
+  tx_date: '2026-10-21'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 17441.16
+  tx_date: '2026-10-21'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217692491?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 8126.91
+  tx_date: '2026-10-21'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 8126.91
+  tx_date: '2026-10-21'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
@@ -17,6 +45,42 @@ recent_ies:
   ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
   position: SUPPORT
   tx_amount: 14077.56
+  tx_date: '2026-10-20'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 3971.83
+  tx_date: '2026-10-20'
+  attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 1520.0
+  tx_date: '2026-10-20'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217692623?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 539.06
+  tx_date: '2026-10-20'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 336.74
+  tx_date: '2026-10-20'
+  attachment_url: ''
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 84.19
   tx_date: '2026-10-20'
   attachment_url: ''
 - cmte_name: SPUR - San Francisco Bay Area Planning & Urban Research Association
@@ -112,6 +176,14 @@ recent_ies:
   tx_amount: 457.71
   tx_date: '2026-10-19'
   attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 100.0
+  tx_date: '2026-10-19'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217692623?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
@@ -910,9 +982,9 @@ recent_ies:
   cmte_fppcid: '1454340'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
   position: SUPPORT
-  tx_amount: 44971.5
+  tx_amount: 27841.86
   tx_date: '2026-10-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217623790?aid=SFO&name=Committee%20for%20Jobs%20and%20the%20Economy%2C%20Sponsored%20by%20Energy%20Companies_SUPPORTING_THEO%20ELLINGTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217683123?aid=SFO&name=Committee%20for%20Jobs%20and%20the%20Economy%2C%20Sponsored%20by%20Energy%20Companies_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -1803,6 +1875,13 @@ recent_ies:
   tx_amount: 1176.47
   tx_date: '2026-10-03'
   attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 478.0
+  tx_date: '2026-10-03'
+  attachment_url: ''
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
@@ -1894,6 +1973,13 @@ recent_ies:
     Tax'
   position: SUPPORT
   tx_amount: 3211.4
+  tx_date: '2026-10-02'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 118.11
   tx_date: '2026-10-02'
   attachment_url: ''
 - cmte_name: United Educators of San Francisco Candidate PAC

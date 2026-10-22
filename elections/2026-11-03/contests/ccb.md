@@ -13,8 +13,8 @@ candidates:
   filer_id: '1492919'
   committee_name: ELIJAH I. BALL
   candidate_name: ELIJAH BALL
-  funds: 24210.0
-  expenses: 4938.68
+  funds: 34014.72
+  expenses: 24838.68
 - filer_nid: '217060161'
   filer_id: '1493829'
   committee_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
@@ -31,14 +31,14 @@ candidates:
   filer_id: '1494389'
   committee_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
   candidate_name: ERWIN TAM
-  funds: 22705.0
-  expenses: 4938.68
+  funds: 32844.72
+  expenses: 24238.68
 - filer_nid: '217090585'
   filer_id: '1493786'
   committee_name: MONROE LACE FOR CITY COLLEGE 2026
   candidate_name: MONROE LACE
-  funds: 16380.99
-  expenses: 4938.68
+  funds: 24026.7
+  expenses: 12238.68
 - filer_nid: '217168240'
   filer_id: '1494600'
   committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
@@ -49,14 +49,14 @@ candidates:
   filer_id: '1495068'
   committee_name: BUNNY FOR CITY COLLEGE BOARD 2026
   candidate_name: BUNNY MCFADDEN
-  funds: 12922.83
-  expenses: 2996.06
+  funds: 17881.83
+  expenses: 6940.86
 - filer_nid: '217234321'
   filer_id: '1495277'
   committee_name: JEREMY LEE FOR CITY COLLEGE BOARD 2026
   candidate_name: JEREMY LEE
-  funds: 7632.54
-  expenses: 1418.12
+  funds: 14128.54
+  expenses: 6999.11
 ie_candidates:
 - candidate_name: JEREMY LEE
   filer_id: '1495277'
@@ -99,24 +99,24 @@ ie_candidates:
     expenses: 1916.5
 contributors:
 - - Erwin Tam
-  - 10250.0
+  - 10500.0
+- - Gfc Courage Committee - East Bay Chapter
+  - 1500.0
+- - Gfc Courage Committee - Housing for California Chapter
+  - 1500.0
+- - Gfc Courage Committee - San Francisco Chapter
+  - 1500.0
+- - Gfc Courage Committee - SF Public Schools
+  - 1500.0
+- - Mark Perry
+  - 1500.0
+- - Susan Pritzker
+  - 1500.0
 - - Anita Martinez
   - 1249.5
+- - Bobak Esfandiari
+  - 1050.0
 - - American Federation of Teachers 2121 Cope Candidates
-  - 1000.0
-- - Kyle Cooper
-  - 1000.0
-- - Todd David
-  - 1000.0
-- - Amanda Littauer
-  - 1000.0
-- - James Mccrsty
-  - 1000.0
-- - Alisa Messer
-  - 1000.0
-- - Robin Pugh
-  - 1000.0
-- - Susan Solomon
   - 1000.0
 
 ---
