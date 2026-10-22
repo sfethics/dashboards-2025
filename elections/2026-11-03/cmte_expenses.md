@@ -37,7 +37,7 @@ committees:
   cmte_fppcid: '1388285'
   cmte_nid: '161155640'
   committee_type: General Purpose
-  total_expense: 27262.62
+  total_expense: 28882.62
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
@@ -73,7 +73,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 53105.009999999995
+  total_expense: 69779.76
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -120,7 +120,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 491086.24
+  total_expense: 496193.24
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -135,7 +135,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 2355615.13
+  total_expense: 2405615.13
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -255,12 +255,12 @@ committees:
   cmte_fppcid: '1490256'
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
-  total_expense: 8142.7
+  total_expense: 10793.89
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 203627.1
+  total_expense: 246509.26
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -321,7 +321,7 @@ committees:
   cmte_fppcid: '1492919'
   cmte_nid: '216963991'
   committee_type: Candidate Controlled
-  total_expense: 4938.68
+  total_expense: 24838.68
 - cmte_name: FAIR ACCESS NO ON D
   cmte_fppcid: '1494100'
   cmte_nid: '217019367'
@@ -351,12 +351,12 @@ committees:
   cmte_fppcid: '1494389'
   cmte_nid: '217090483'
   committee_type: Candidate Controlled
-  total_expense: 4938.68
+  total_expense: 24238.68
 - cmte_name: MONROE LACE FOR CITY COLLEGE 2026
   cmte_fppcid: '1493786'
   cmte_nid: '217090585'
   committee_type: Candidate Controlled
-  total_expense: 4938.68
+  total_expense: 12238.68
 - cmte_name: TAX FORECLOSURES, YES ON J
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
@@ -376,7 +376,7 @@ committees:
   cmte_fppcid: '1495068'
   cmte_nid: '217230804'
   committee_type: Candidate Controlled
-  total_expense: 2996.06
+  total_expense: 6940.86
 - cmte_name: Dylan Hirsch-Shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'
@@ -393,7 +393,7 @@ committees:
   cmte_fppcid: '1495277'
   cmte_nid: '217234321'
   committee_type: Candidate Controlled
-  total_expense: 1418.12
+  total_expense: 6999.11
 - cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
   cmte_fppcid: '1496058'
@@ -415,7 +415,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '217413116'
   committee_type: Major Donor
-  total_expense: 51000.0
+  total_expense: 76000.0
 - cmte_name: Kendall Jesmer
   cmte_fppcid: unknown
   cmte_nid: '217413576'
@@ -462,7 +462,7 @@ committees:
   cmte_fppcid: '1454340'
   cmte_nid: '217610473'
   committee_type: General Purpose
-  total_expense: 44971.5
+  total_expense: 27841.86
 - cmte_name: Anna Morfit
   cmte_fppcid: '1395663'
   cmte_nid: '217614356'
@@ -524,7 +524,7 @@ committees:
   cmte_fppcid: '842018'
   cmte_nid: '6673011'
   committee_type: General Purpose
-  total_expense: 19325.88
+  total_expense: 22561.1
 - cmte_name: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
   cmte_fppcid: '840002'
   cmte_nid: '6673342'
@@ -556,7 +556,7 @@ committees:
   cmte_fppcid: '822448'
   cmte_nid: '6673824'
   committee_type: General Purpose
-  total_expense: 16000.0
+  total_expense: 17000.0
 - cmte_name: SAN FRANCISCO WOMEN'S POLITICAL COMMITTEE
   cmte_fppcid: '1243711'
   cmte_nid: '6674793'
@@ -566,7 +566,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 250906.95
+  total_expense: 258652.32
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'

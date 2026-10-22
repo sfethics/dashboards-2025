@@ -31,8 +31,8 @@ candidates:
   filer_id: '1490256'
   committee_name: REINA TELLO FOR SCHOOL BOARD 2026
   candidate_name: REINA LOLI-TELLO
-  funds: 19686.66
-  expenses: 8142.7
+  funds: 28996.66
+  expenses: 10793.89
 - filer_nid: '216824591'
   filer_id: '1491734'
   committee_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
@@ -72,7 +72,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 8808.83
+    expenses: 17019.93
 - candidate_name: VIRGINIA CHEUNG
   filer_id: '1493854'
   committees:
@@ -162,7 +162,7 @@ ie_candidates:
     filer_id: '1442994'
     committee_name: SAN FRANCISCO PARENT ACTION PAC
     funds: ''
-    expenses: 19147.79
+    expenses: 27611.44
 - candidate_name: TIM TUNG
   filer_id: '1493505'
   committees:
