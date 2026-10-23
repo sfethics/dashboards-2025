@@ -14,13 +14,13 @@ candidates:
   committee_name: GEE FOR SUPERVISOR 2026
   candidate_name: NATALIE GEE
   funds: 7210.15
-  expenses: 5566.03
+  expenses: 7097.03
 - filer_nid: '216198377'
   filer_id: '1489126'
   committee_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
   candidate_name: ALAN WONG
-  funds: 78806.88
-  expenses: 54762.98
+  funds: 96163.38
+  expenses: 69162.85
 - filer_nid: '216781160'
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
@@ -32,7 +32,7 @@ candidates:
   committee_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
   candidate_name: ALBERT CHOW
   funds: 500.0
-  expenses: 62.0
+  expenses: 500.0
 ie_candidates:
 - candidate_name: ALAN WONG
   filer_id: '1489126'
@@ -62,6 +62,8 @@ contributors:
   - 1000.0
 - - Esther Marks
   - 1000.0
+- - Steven Lee
+  - 967.5
 - - Lisa Arjes
   - 650.0
 - - Josh Addison Arce
@@ -73,8 +75,6 @@ contributors:
 - - James Ausman
   - 500.0
 - - Gary Bengier
-  - 500.0
-- - Gregory Blaine
   - 500.0
 
 ---

@@ -27,8 +27,8 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 305786.8
-  expenses: 64762.62
+  funds: 307565.55
+  expenses: 139244.11
   ies: ''
 - position: SUPPORT
   filer_nid: '217661076'
@@ -57,8 +57,8 @@ contributors:
   - 2500.0
 - - Amy Zheng
   - 1750.0
-- - Brandee Marckmann
-  - 1000.0
+- - Social Good Fund
+  - 1120.0
 
 ---
 

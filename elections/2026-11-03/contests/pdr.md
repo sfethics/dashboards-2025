@@ -13,8 +13,8 @@ candidates:
   filer_id: '1487291'
   committee_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
   candidate_name: MANOHAR RAJU
-  funds: 25291.0
-  expenses: 12346.28
+  funds: 25742.0
+  expenses: 16722.2
 ie_candidates: []
 contributors:
 - - Vikrum Aiyer

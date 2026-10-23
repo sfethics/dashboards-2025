@@ -13,14 +13,14 @@ candidates:
   filer_id: '1487329'
   committee_name: MATT DORSEY FOR SUPERVISOR 2026
   candidate_name: MATT DORSEY
-  funds: 104553.0
-  expenses: 79104.08
+  funds: 121403.0
+  expenses: 95036.96
 - filer_nid: '216883068'
   filer_id: '1493283'
   committee_name: ALEX BEHREND FOR ALL - SUPERVISOR 2026
   candidate_name: ALEX BEHREND
-  funds: 2200.0
-  expenses: 636.82
+  funds: 3829.0
+  expenses: 830.74
 ie_candidates:
 - candidate_name: MATT DORSEY
   filer_id: '1487329'
@@ -38,11 +38,15 @@ ie_candidates:
     funds: ''
     expenses: 2500.0
 contributors:
+- - Zack Rosen
+  - 1000.0
 - - Alex Behrend
   - 600.0
 - - Michael Sanberg
   - 600.0
 - - Jerry Abrahams
+  - 500.0
+- - James Abrams
   - 500.0
 - - Bruce Agid
   - 500.0
@@ -53,10 +57,6 @@ contributors:
 - - Denise Aptekar
   - 500.0
 - - Carrie Barnes
-  - 500.0
-- - Brian Basinger
-  - 500.0
-- - Luis Belmonte
   - 500.0
 
 ---

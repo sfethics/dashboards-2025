@@ -21,8 +21,8 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 205700.0
-  expenses: 50404.32
+  funds: 206285.0
+  expenses: 218254.2
   ies: ''
 - position: OPPOSE
   filer_nid: '217661076'
@@ -37,12 +37,12 @@ multi_committees:
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
   funds: 13490128.94
-  expenses: 7005631.51
+  expenses: 10278764.51
 contributors:
 - - Tenants and Owners Development Corporation
   - 80000.0
 - - Service Employees International Union Local 1021 PAC
-  - 75000.0
+  - 75075.0
 - - International Federation Professional Technical Engineers
   - 25000.0
 - - San Francisco Labor Council
@@ -53,11 +53,11 @@ contributors:
   - 1000.0
 - - Douglas Engmann
   - 1000.0
+- - Rishav Rout
+  - 1000.0
 - - Esther Marks
   - 500.0
 - - Paul Melbostad
-  - 500.0
-- - Rishav Rout
   - 500.0
 
 ---

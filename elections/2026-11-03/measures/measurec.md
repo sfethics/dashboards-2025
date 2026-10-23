@@ -30,7 +30,7 @@ committees:
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
   funds: 1134673.01
-  expenses: 187964.43
+  expenses: 601038.01
   ies: ''
 - position: SUPPORT
   filer_nid: '217609977'
@@ -53,12 +53,12 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2117600.0
-  expenses: 27596.63
+  funds: 2198099.0
+  expenses: 1462414.45
 contributors:
 - - Nph Action Fund Political Issues Committee
   - 719673.01
-- - Openai Opco, Llc(traci Lee)
+- - Openai Opco, Llc(ann O'leary)
   - 250000.0
 - - the San Francisco Foundation
   - 50000.0

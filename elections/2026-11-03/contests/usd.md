@@ -19,14 +19,14 @@ candidates:
   filer_id: '1483651'
   committee_name: KIM FOR SCHOOL BOARD 2026
   candidate_name: PHIL KIM
-  funds: 27403.0
-  expenses: 11151.21
+  funds: 33352.0
+  expenses: 29206.66
 - filer_nid: '215729166'
   filer_id: '1487911'
   committee_name: LAURANCE LEE FOR BOARD OF EDUCATION 2026
   candidate_name: LAURANCE LEE
-  funds: 6413.0
-  expenses: 7023.59
+  funds: 7013.0
+  expenses: 7661.59
 - filer_nid: '216584147'
   filer_id: '1490256'
   committee_name: REINA TELLO FOR SCHOOL BOARD 2026
@@ -43,26 +43,26 @@ candidates:
   filer_id: '1491849'
   committee_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
   candidate_name: AUTUMN BROWN GARIBAY
-  funds: 36749.0
-  expenses: 10966.04
+  funds: 41068.0
+  expenses: 15287.3
 - filer_nid: '216963896'
   filer_id: '1492843'
   committee_name: ALIDA FISHER FOR BOARD OF EDUCATION 2026
   candidate_name: ALIDA FISHER
-  funds: 4254.0
-  expenses: 1048.3
+  funds: 6114.0
+  expenses: 5295.59
 - filer_nid: '217052017'
   filer_id: '1493505'
   committee_name: TIM TUNG FOR SCHOOL BOARD 2026
   candidate_name: TIM TUNG
-  funds: 16934.0
-  expenses: 3611.83
+  funds: 33478.0
+  expenses: 10606.37
 - filer_nid: '217292166'
   filer_id: '1493854'
   committee_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   candidate_name: VIRGINIA CHEUNG
-  funds: 4878.0
-  expenses: 2692.4
+  funds: 6685.0
+  expenses: 3192.4
 ie_candidates:
 - candidate_name: ALIDA FISHER
   filer_id: '1492843'
@@ -84,7 +84,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 8602.17
+    expenses: 9852.17
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -123,7 +123,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 8602.17
+    expenses: 9852.17
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -141,7 +141,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 8602.17
+    expenses: 9852.17
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -175,6 +175,10 @@ ie_candidates:
 contributors:
 - - Todd David
   - 2000.0
+- - Louise Patterson
+  - 2000.0
+- - Willa Budge
+  - 1500.0
 - - Michael Eisler
   - 1500.0
 - - Christine Gardner
@@ -187,12 +191,8 @@ contributors:
   - 1500.0
 - - Govern for California Courage Committee
   - 1500.0
-- - Katie Paige
+- - Steven Merrill
   - 1500.0
-- - Louise Patterson
-  - 1500.0
-- - Jerome Dodson
-  - 1000.0
 
 ---
 

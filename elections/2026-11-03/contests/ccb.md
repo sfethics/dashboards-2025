@@ -43,8 +43,8 @@ candidates:
   filer_id: '1494600'
   committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
   candidate_name: RUTH FERGUSON
-  funds: 7980.0
-  expenses: 304.04
+  funds: 14340.72
+  expenses: 462.49
 - filer_nid: '217230804'
   filer_id: '1495068'
   committee_name: BUNNY FOR CITY COLLEGE BOARD 2026
@@ -69,7 +69,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 8602.19
+    expenses: 9968.23
 - candidate_name: ELIJAH BALL
   filer_id: '1492919'
   committees:
@@ -101,23 +101,23 @@ contributors:
 - - Erwin Tam
   - 10500.0
 - - Gfc Courage Committee - East Bay Chapter
-  - 1500.0
+  - 2000.0
 - - Gfc Courage Committee - Housing for California Chapter
-  - 1500.0
+  - 2000.0
 - - Gfc Courage Committee - San Francisco Chapter
-  - 1500.0
+  - 2000.0
 - - Gfc Courage Committee - SF Public Schools
-  - 1500.0
+  - 2000.0
 - - Mark Perry
-  - 1500.0
+  - 2000.0
 - - Susan Pritzker
+  - 2000.0
+- - Govern for California Courage Committee
+  - 1500.0
+- - David Thornton
   - 1500.0
 - - Anita Martinez
   - 1249.5
-- - Bobak Esfandiari
-  - 1050.0
-- - American Federation of Teachers 2121 Cope Candidates
-  - 1000.0
 
 ---
 

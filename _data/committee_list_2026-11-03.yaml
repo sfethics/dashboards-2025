@@ -262,6 +262,9 @@ committees:
 - cmte_name: California Professional Firefighters PAC
   cmte_fppcid: '744058'
   cmte_nid: '6673076'
+- cmte_name: Chinese American Democratic Club Political Action Committee (Cadcpac)
+  cmte_fppcid: '881296'
+  cmte_nid: '6673097'
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
@@ -274,6 +277,10 @@ committees:
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
   cmte_fppcid: '931558'
   cmte_nid: '6667750'
+- cmte_name: Esc Local 20 Ifpte Lou Lucivero Legislative Education & Action Program
+    (Leap), Sponsored by Engineers & Scientists of Califor
+  cmte_fppcid: '861160'
+  cmte_nid: '121605691'
 - cmte_name: Growsf Voter Guide
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
@@ -283,6 +290,9 @@ committees:
 - cmte_name: Hotel Council of San Francisco PAC
   cmte_fppcid: '1381090'
   cmte_nid: '157756164'
+- cmte_name: Ibew Local 1245 Political Action Committee
+  cmte_fppcid: '742993'
+  cmte_nid: '7520572'
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '921730'
   cmte_nid: '129492757'
@@ -321,12 +331,15 @@ committees:
 - cmte_name: San Francisco Democratic County Central Committee
   cmte_fppcid: '742051'
   cmte_nid: '6673375'
+- cmte_name: San Francisco Dental Society Political Action Committee
+  cmte_fppcid: '941856'
+  cmte_nid: '6673384'
 - cmte_name: San Francisco Electrical Contractors Association PAC
   cmte_fppcid: '1492319'
   cmte_nid: '217636104'
-- cmte_name: San Francisco Labor Council Labor and Neighbor PAC
-  cmte_fppcid: '941562'
-  cmte_nid: '6673767'
+- cmte_name: San Francisco Fire Fighters Local 798 P.a.c.
+  cmte_fppcid: '810802'
+  cmte_nid: '6685786'
 - cmte_name: San Francisco Police Officers Association Issues PAC
   cmte_fppcid: '1317554'
   cmte_nid: '6666443'
@@ -354,10 +367,9 @@ committees:
 - cmte_name: Sheet Metal Workers Local Union 104 Political Committee
   cmte_fppcid: '850381'
   cmte_nid: '121450458'
-- cmte_name: San Francisco Building and Construction Trades Council Political Organization
-    of Workers for Employee Rights (Power PAC)
-  cmte_fppcid: '1237101'
-  cmte_nid: '6673367'
+- cmte_name: Sign, Display & Allied Crafts, 510 PAC
+  cmte_fppcid: '841600'
+  cmte_nid: '121451445'
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
@@ -365,6 +377,9 @@ committees:
     Sponsored by the San Francisco Labor Council
   cmte_fppcid: '970630'
   cmte_nid: '6673760'
+- cmte_name: San Francisco Labor Council Labor & Neighbor
+  cmte_fppcid: '941562'
+  cmte_nid: '6673767'
 - cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
     Political Action Committee
   cmte_fppcid: '991525'
@@ -375,7 +390,7 @@ committees:
 - cmte_name: San Francisco Marin Medical Society Political Action Committee
   cmte_fppcid: '881748'
   cmte_nid: '215554422'
-- cmte_name: Teamsters Local Union No. 665
+- cmte_name: Teamsters Union Local No. 665 PAC
   cmte_fppcid: '1280975'
   cmte_nid: '6673543'
 - cmte_name: U.a. Local 38 Cope Fund
@@ -419,13 +434,13 @@ committees:
     Inc.
   cmte_fppcid: '1437557'
   cmte_nid: unknown
+- cmte_name: Connect Bay Area Transit
+  cmte_fppcid: '1483907'
+  cmte_nid: unknown
 - cmte_name: District 2 Democractic Club Smo
   cmte_fppcid: '1466947'
   cmte_nid: unknown
-- cmte_name: Eastern Neighborhood Democractic Club Smo
-  cmte_fppcid: '1405412'
-  cmte_nid: unknown
-- cmte_name: Edwin M. Lee Pacific Democratic Club Voter Guide
+- cmte_name: Edwin M. Lee Asian Pacific Democratic Club Voter Guide
   cmte_fppcid: '1342711'
   cmte_nid: unknown
 - cmte_name: Equality California Political Action Committee
@@ -504,6 +519,9 @@ committees:
 - cmte_name: 'Jpmorgan Chase & Co. PAC (Fec Id: C00128512)'
   cmte_fppcid: '1257506'
   cmte_nid: unknown
+- cmte_name: Lee - California General Purpose Committee
+  cmte_fppcid: '1346788'
+  cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
   cmte_nid: unknown
@@ -517,7 +535,11 @@ committees:
 - cmte_name: North Coast States Regional Council of Carpenters Power PAC
   cmte_fppcid: '1463224'
   cmte_nid: unknown
-- cmte_name: Operating Engineers Local 3 Issues Advocacy/ballot Initiative PAC
+- cmte_name: Northern California District Council Ilwu
+  cmte_fppcid: '1448369'
+  cmte_nid: unknown
+- cmte_name: Operating Engineers Local Union No. 3 Issues Advocacy/ballot Initiative
+    PAC
   cmte_fppcid: '1345344'
   cmte_nid: unknown
 - cmte_name: Our Kids Our Future PAC
@@ -528,6 +550,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Patrick Ahrens for Assembly 2026
   cmte_fppcid: '1476866'
+  cmte_nid: unknown
+- cmte_name: Personal Insurance Federation of Ca Agents and Employees PAC
+  cmte_fppcid: '1338487'
   cmte_nid: unknown
 - cmte_name: Phil Ting for Treasurer 2026
   cmte_fppcid: '1444108'
@@ -547,6 +572,9 @@ committees:
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1432377'
   cmte_nid: unknown
+- cmte_name: San Francisco Tenants Union Smo
+  cmte_fppcid: '1453022'
+  cmte_nid: unknown
 - cmte_name: San Francisco Women's Political Committee Voter Guide
   cmte_fppcid: '1448359'
   cmte_nid: unknown
@@ -557,15 +585,18 @@ committees:
     Usww) Action Fund
   cmte_fppcid: '1443357'
   cmte_nid: unknown
+- cmte_name: SF Eastern Neighborhoods Democratic Club Smo
+  cmte_fppcid: '1405412'
+  cmte_nid: unknown
+- cmte_name: SF Fire Fighters Slate Card
+  cmte_fppcid: '142688'
+  cmte_nid: unknown
 - cmte_name: SF for All
-  cmte_fppcid: 00945303
+  cmte_fppcid: 009945303
   cmte_nid: unknown
 - cmte_name: Sheet Metal Workers' International Association Local Union No. 104 Issues
     Committee
   cmte_fppcid: '1351785'
-  cmte_nid: unknown
-- cmte_name: Singerman
-  cmte_fppcid: '1431422'
   cmte_nid: unknown
 - cmte_name: Teamsters Local No. 853 PAC
   cmte_fppcid: '1250157'
@@ -598,11 +629,11 @@ committees:
 - cmte_name: Westside Family Democratic Club Slate Mailer
   cmte_fppcid: '1466485'
   cmte_nid: unknown
+- cmte_name: Working Families for San Francisco PAC
+  cmte_fppcid: 00945303
+  cmte_nid: unknown
 - cmte_name: Yes on 40 - Billionaire Tax Now
   cmte_fppcid: '1484470'
-  cmte_nid: unknown
-- cmte_name: Yes on Rtm - Connect Bay Area Transit
-  cmte_fppcid: '1483907'
   cmte_nid: unknown
 - cmte_name: 555-575 Market Owner LLC
   cmte_fppcid: unknown
@@ -640,6 +671,9 @@ committees:
 - cmte_name: Ellis Partners LLC
   cmte_fppcid: unknown
   cmte_nid: '217628874'
+- cmte_name: Enrique Landa
+  cmte_fppcid: '1454305'
+  cmte_nid: '210576256'
 - cmte_name: Fort Point Real Estate Partners, Inc.
   cmte_fppcid: unknown
   cmte_nid: '217671783'
@@ -664,6 +698,12 @@ committees:
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'
+- cmte_name: Mission Rock Parcel a Owner, L.l.c. and Affiliated Entities
+  cmte_fppcid: unknown
+  cmte_nid: '217689308'
+- cmte_name: North Coast States Regional Council of Carpenters Small Contributor Committee
+  cmte_fppcid: '972104'
+  cmte_nid: '6673716'
 - cmte_name: Nisha Birla
   cmte_fppcid: unknown
   cmte_nid: '217548545'

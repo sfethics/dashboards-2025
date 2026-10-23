@@ -13,26 +13,26 @@ candidates:
   filer_id: '1483804'
   committee_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   candidate_name: EMANUEL YEKUTIEL
-  funds: 777957.99
-  expenses: 333830.38
+  funds: 786060.7
+  expenses: 412058.26
 - filer_nid: '214783692'
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 340974.0
-  expenses: 185142.39
+  funds: 360481.0
+  expenses: 252235.73
 - filer_nid: '214884831'
   filer_id: '1484606'
   committee_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   candidate_name: MICHAEL NGUYEN
-  funds: 207002.94
-  expenses: 116783.51
+  funds: 213712.94
+  expenses: 167475.75
 - filer_nid: '215728828'
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 164046.5
-  expenses: 42788.16
+  funds: 180797.5
+  expenses: 111358.73
 ie_candidates:
 - candidate_name: GARY MCCOY
   filer_id: '1484080'
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 433422.23
+    expenses: 492867.38
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:
@@ -69,7 +69,7 @@ ie_candidates:
     filer_id: '1486185'
     committee_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     funds: 114000.0
-    expenses: 55896.07
+    expenses: 55058.46
 - candidate_name: DARSHINI PATEL
   filer_id: '1488280'
   committees:

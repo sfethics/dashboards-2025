@@ -13,8 +13,8 @@ committees:
   filer_nid: '217091337'
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J
-  funds: 207500.0
-  expenses: 23905.04
+  funds: 207957.45
+  expenses: 151934.7
   ies: ''
 - position: SUPPORT
   filer_nid: '217609977'
@@ -37,6 +37,8 @@ contributors:
   - 25000.0
 - - Yes on D - Stand Up for SF Sponsored by Labor Organizations
   - 7500.0
+- - Nph Action Fund Political Issues Committee
+  - 457.45
 
 ---
 
