@@ -20,8 +20,8 @@ committees:
   filer_nid: '211776936'
   filer_id: '1471154'
   committee_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  funds: 1607633.5
-  expenses: 857183.16
+  funds: 1610469.5
+  expenses: 1103191.71
   ies: ''
 - position: OPPOSE
   filer_nid: '217609977'
@@ -34,8 +34,8 @@ committees:
   filer_nid: '215573474'
   filer_id: '1487005'
   committee_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-  funds: 142057.84
-  expenses: 58523.99
+  funds: 149291.82
+  expenses: 69022.82
   ies: ''
 multi_committees: []
 contributors:

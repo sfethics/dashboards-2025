@@ -13,8 +13,8 @@ candidates:
   filer_id: '1487412'
   committee_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
   candidate_name: JOAQUIN TORRES
-  funds: 68115.0
-  expenses: 36054.33
+  funds: 76008.0
+  expenses: 36861.88
 ie_candidates:
 - candidate_name: JOAQUIN TORRES
   filer_id: '1487412'
@@ -28,23 +28,23 @@ ie_candidates:
 contributors:
 - - Dwayne Jones
   - 1000.0
+- - Deirdre Hussey
+  - 750.0
 - - Howard Ngo
   - 700.0
-- - Kirke Hasson
-  - 600.0
 - - Julia Adams
   - 500.0
 - - Eric Andresen
   - 500.0
 - - Joshua Arce
   - 500.0
+- - Jill Armbrust
+  - 500.0
 - - William Barnaby
   - 500.0
 - - Drew Becher
   - 500.0
-- - Bonnie Bridges
-  - 500.0
-- - Derick Brown
+- - Gregory Blaine
   - 500.0
 
 ---

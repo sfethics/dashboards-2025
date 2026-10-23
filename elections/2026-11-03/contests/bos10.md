@@ -13,14 +13,14 @@ candidates:
   filer_id: '1481892'
   committee_name: DJ BROOKTER FOR SUPERVISOR 2026
   candidate_name: DION-JAY (DJ) BROOKTER
-  funds: 179350.0
-  expenses: 73391.82
+  funds: 197522.11
+  expenses: 162683.91
 - filer_nid: '214577156'
   filer_id: '1482707'
   committee_name: J.R. EPPLER FOR SUPERVISOR 2026
   candidate_name: J.R. EPPLER
-  funds: 181777.0
-  expenses: 79795.38
+  funds: 187799.0
+  expenses: 122012.24
 - filer_nid: '214611048'
   filer_id: '1481624'
   committee_name: P.J BASTIANY FOR SUPERVISOR 2026
@@ -31,8 +31,8 @@ candidates:
   filer_id: '1484091'
   committee_name: THEO ELLINGTON FOR SUPERVISOR 2026
   candidate_name: THEO ELLINGTON
-  funds: 487716.0
-  expenses: 153064.21
+  funds: 494721.71
+  expenses: 261578.45
 ie_candidates:
 - candidate_name: THEO ELLINGTON
   filer_id: '1484091'
@@ -90,7 +90,7 @@ contributors:
   - 1000.0
 - - Loretta Lynch
   - 1000.0
-- - Aaron Peskin
+- - Esther Marks
   - 1000.0
 
 ---

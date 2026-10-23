@@ -35,8 +35,8 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 673906.5
-  expenses: 324611.13
+  funds: 684907.25
+  expenses: 541110.46
   ies: ''
 - position: SUPPORT
   filer_nid: '217661076'
@@ -52,8 +52,8 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2117600.0
-  expenses: 27596.63
+  funds: 2198099.0
+  expenses: 1462414.45
 contributors:
 - - Saikat Chakrabarti
   - 150000.0
@@ -68,7 +68,7 @@ contributors:
 - - Service Employees International Union Local 1021 Issues PAC
   - 25000.0
 - - Aditya Bhumbla
-  - 15375.0
+  - 15385.0
 - - Jefferson Lee
   - 15000.0
 - - Jeffrey May

@@ -20,8 +20,8 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2117600.0
-  expenses: 27596.63
+  funds: 2198099.0
+  expenses: 1462414.45
   ies: ''
 multi_committees: []
 contributors:
@@ -33,17 +33,18 @@ contributors:
   - 191000.0
 - - '555-575 Market Owner, Llc(responsible Officer: Greg Flynn)'
   - 100000.0
-- - Kilroy Realty,l.p. & Affiliated Entities
+- - Kilroy Realty, Lp & Affiliated Entities
   - 100000.0
+- - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
+    )'
+  - 76000.0
 - - Carmel Partners and Affiliated Entities
   - 61500.0
+- - Electrical Industry Service Bureau, Inc.
+  - 50500.0
 - - '10 Svn, Llc(responsible Officer: Adam Tartakovsky)'
   - 50000.0
 - - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
-  - 50000.0
-- - 'Brookfield Property Group Llc(responsible Officer: Hilary Walker)'
-  - 50000.0
-- - California Hotel Issues PAC, Sponsored by the California Hotel + Lodging Association
   - 50000.0
 
 ---
