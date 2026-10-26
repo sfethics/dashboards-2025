@@ -56,7 +56,11 @@ electionnav: true
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion1">
                 <div class="accordion-body">
-                    <p class="mb-0">{{ measure_info.measure_official_desc }}</p>
+                    <p>{{ measure_info.measure_official_desc }}</p>
+                    {% if site.data.measure_candidate_data[page.election].voter_info_link %}
+                    <p class="mb-0 fst-italic">Source: <a href="{{ site.data.measure_candidate_data[page.election].voter_info_link }}" target="_blank" rel="noopener noreferrer">
+                        San Francisco Voter Information Pamphlet</a></p>
+                    {% endif %}
                 </div>
                 </div>
             </div>
