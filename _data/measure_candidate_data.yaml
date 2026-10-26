@@ -1,5 +1,6 @@
-'2026-11-03' :
+'2026-11-03':
   pubfi_disbursement_date: 'June 15, 2026'
+  voter_info_link: 'https://media.api.sf.gov/documents/N26_EN_VIP.pdf'
   'A: Charter Changes Affecting Various City Departments and Commissions': 
     measure_official_desc: 'Shall the City amend the Charter to align it with how some City departments currently operate, change some processes, eliminate or reorganize certain 
       commissions and advisory bodies, and require the Board of Supervisors to amend voter-approved laws to enact some of these changes?'
@@ -32,6 +33,7 @@
     measure_official_desc: 'Shall the City permanently apply a transfer tax of between 0.5% and 6% of a property’s fair market value, on the transfer of properties such as 
       commercial, industrial, and large residential properties, that are transferred to a lender because of foreclosure or to avoid foreclosure, for estimated annual revenue of $100 million to $150 million?'
 '2026-06-02': 
+  voter_info_link: 'https://media.api.sf.gov/documents/J26_EN_VIP.pdf'
   'A: Earthquake Safety and Emergency Response Bond':
     measure_official_desc: 'To improve fire, earthquake, and emergency response by retrofitting, improving, expanding, constructing, and/or replacing: deteriorating pipes, tunnels, and related facilities to ensure firefighters can 
       access enough water to fight fires from a major disaster or emergency; unsafe or deteriorating emergency response facilities, including neighborhood fire stations, 
@@ -69,6 +71,7 @@
     measure_official_desc: 'Shall Joel Engardio be recalled (removed) from the San Francisco Board of Supervisors?'
     passed: true
 '2024-11-05':
+  'voter_info_link': 'https://www.sf.gov/sites/default/files/2024-09/N24_VIP_EN.pdf'
   'A: Schools Improvement and Safety Bond':
     measure_official_desc: 'To improve earthquake safety and accessibility at San Francisco public schools; provide reliable internet in classrooms; 
       replace worn-out plumbing, electrical and ventilation systems; improve student nutrition services; and have updated security features; shall San Francisco Unified School District''s 
