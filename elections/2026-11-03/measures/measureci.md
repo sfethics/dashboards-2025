@@ -20,7 +20,7 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2198099.0
+  funds: 2622999.0
   expenses: 1462414.45
   ies: ''
 multi_committees: []
@@ -31,6 +31,8 @@ contributors:
   - 200000.0
 - - San Francisco Apartment Association Issues PAC
   - 191000.0
+- - SF Forward Sponsored by San Francisco Chamber of Commerce
+  - 185000.0
 - - '555-575 Market Owner, Llc(responsible Officer: Greg Flynn)'
   - 100000.0
 - - Kilroy Realty, Lp & Affiliated Entities
@@ -38,14 +40,12 @@ contributors:
 - - 'Core Urban Holdings LLC and Affiliated Entities((responsible Officer: Kevin Verdi)
     )'
   - 76000.0
+- - the Prado Group, Inc.
+  - 75000.0
 - - Carmel Partners and Affiliated Entities
   - 61500.0
-- - Electrical Industry Service Bureau, Inc.
-  - 50500.0
-- - '10 Svn, Llc(responsible Officer: Adam Tartakovsky)'
-  - 50000.0
-- - '100 Mission Owner, Llc(responsible Officer: K Cyrus Sanandaji)'
-  - 50000.0
+- - Trinity Management Services and Affiliated Entities; Including James Sangiacomo
+  - 60000.0
 
 ---
 

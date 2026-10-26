@@ -73,7 +73,7 @@ committees:
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 71576.06999999999
+  total_expense: 76576.06999999999
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -125,7 +125,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 569654.5
+  total_expense: 590310.27
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -265,7 +265,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 246509.26
+  total_expense: 269421.26
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
@@ -482,7 +482,7 @@ committees:
   cmte_fppcid: unknown
   cmte_nid: '217628874'
   committee_type: Major Donor
-  total_expense: 25000.0
+  total_expense: 50000.0
 - cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
   cmte_fppcid: '1492319'
   cmte_nid: '217636104'
@@ -524,7 +524,7 @@ committees:
   cmte_fppcid: '891575'
   cmte_nid: '6668151'
   committee_type: General Purpose
-  total_expense: 495000.0
+  total_expense: 670000.0
 - cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
   cmte_fppcid: '842018'
   cmte_nid: '6673011'

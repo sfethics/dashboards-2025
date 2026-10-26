@@ -268,6 +268,10 @@ committees:
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
+- cmte_name: California Workers' Justice Coalition Sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  cmte_nid: '194054997'
 - cmte_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
   cmte_fppcid: '1454340'
   cmte_nid: '217610473'
@@ -310,6 +314,9 @@ committees:
 - cmte_name: North Coast States Regional Council of Carpenters Issues PAC
   cmte_fppcid: '1219354'
   cmte_nid: '167821491'
+- cmte_name: Northern California District Council of Laborers Issues PAC
+  cmte_fppcid: '1273648'
+  cmte_nid: '168831675'
 - cmte_name: Nph Action Fund Political Issues Committee
   cmte_fppcid: '1387772'
   cmte_nid: '160921235'

@@ -19,7 +19,7 @@ candidates:
   filer_id: '1484080'
   committee_name: GARY MC COY FOR SUPERVISOR 2026
   candidate_name: GARY MCCOY
-  funds: 360481.0
+  funds: 382249.0
   expenses: 252235.73
 - filer_nid: '214884831'
   filer_id: '1484606'
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 492867.38
+    expenses: 513523.15
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:

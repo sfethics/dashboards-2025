@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1541052.14
+  funds: 1562820.14
   expenses: 943128.47
   ies: ''
 - committee_type: candidate
@@ -86,17 +86,17 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 466252.68
+  expenses: 468751.12
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 614382.3
+  expenses: 625794.3
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 796506.77
+  expenses: 817162.5399999999
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -111,7 +111,7 @@ candidate_ie:
   contest_name: Board of Supervisors D04
   contest_link: bos04
   funds: 0.0
-  expenses: 103106.33
+  expenses: 114606.33
 - contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
@@ -148,7 +148,7 @@ measures:
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 666837.12
-  funds: 1134673.01
+  funds: 1169673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
@@ -178,12 +178,12 @@ measures:
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 10278764.51
-  funds: 13490128.94
+  funds: 13790128.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 1462414.45
-  funds: 2198099.0
+  funds: 2622999.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
@@ -218,15 +218,15 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 568519.33
+  total_expense: 589175.1
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   total_expense: 412058.26
-- cmte_nid: '214808596'
-  cmte_fppcid: '1484091'
-  cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-  total_expense: 261578.45
+- cmte_nid: '216701453'
+  cmte_fppcid: '1465611'
+  cmte_name: California Alliance of Family Owned Businesses PAC
+  total_expense: 269421.26
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

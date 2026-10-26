@@ -9,6 +9,34 @@ recent_ies:
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
+  tx_amount: 20655.77
+  tx_date: '2026-10-23'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217737975?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D04: ALAN WONG'
+  position: SUPPORT
+  tx_amount: 11500.0
+  tx_date: '2026-10-22'
+  attachment_url: ''
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 11412.0
+  tx_date: '2026-10-22'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217733460?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 5000.0
+  tx_date: '2026-10-22'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217731896?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
   tx_amount: 4119.26
   tx_date: '2026-10-22'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217722622?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
@@ -1589,27 +1617,6 @@ recent_ies:
   tx_amount: 1279.33
   tx_date: '2026-10-05'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217591543?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: RYAN HAZELTON'
-  position: SUPPORT
-  tx_amount: 666.67
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583743?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 666.67
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583781?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 666.66
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583688?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
@@ -1659,27 +1666,6 @@ recent_ies:
   tx_amount: 169.17
   tx_date: '2026-10-05'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217590411?aid=SFO&name=Alice%20B.%20Toklas%20LGBTQ%20Democratic%20Club%20PAC_SUPPORTING_MONROE%20LACE
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: RYAN HAZELTON'
-  position: SUPPORT
-  tx_amount: 107.43
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583743?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 107.43
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583688?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 107.43
-  tx_date: '2026-10-05'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583781?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: Alice B. Toklas LGBTQ Democratic Club PAC
   cmte_fppcid: '842018'
   ie_description: 'Community College Board: MONROE LACE'
@@ -2062,27 +2048,6 @@ recent_ies:
   tx_amount: 118.11
   tx_date: '2026-10-02'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217684818?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_MEASURE_H
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 97.78
-  tx_date: '2026-10-02'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583781?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 97.76
-  tx_date: '2026-10-02'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583688?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: RYAN HAZELTON'
-  position: SUPPORT
-  tx_amount: 97.76
-  tx_date: '2026-10-02'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583743?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -2591,27 +2556,6 @@ recent_ies:
   tx_amount: 15000.0
   tx_date: '2026-09-12'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217429972?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
-  position: SUPPORT
-  tx_amount: 43.3
-  tx_date: '2026-09-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583781?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 43.3
-  tx_date: '2026-09-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583688?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
-- cmte_name: United Educators of San Francisco Candidate PAC
-  cmte_fppcid: '1311218'
-  ie_description: 'Board of Education: RYAN HAZELTON'
-  position: SUPPORT
-  tx_amount: 43.3
-  tx_date: '2026-09-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217583743?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -2668,6 +2612,27 @@ recent_ies:
   tx_amount: 822.67
   tx_date: '2026-09-10'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217421467?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 81.31
+  tx_date: '2026-09-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217735170?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_VIRGINIA%20CHEUNG
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 81.31
+  tx_date: '2026-09-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217735149?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: United Educators of San Francisco Candidate PAC
+  cmte_fppcid: '1311218'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 81.31
+  tx_date: '2026-09-09'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217735132?aid=SFO&name=United%20Educators%20of%20San%20Francisco%20Candidate%20PAC_SUPPORTING_REINA%20LOLI-TELLO
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
