@@ -302,6 +302,27 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 250000.0
+- tx_lastname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_entitycode: Committee
+  tx_cmteid: '891575'
+  tx_amount: 210000.0
+  transactions:
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 25000.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 185000.0
+- tx_lastname: DAVID ROBERT HALE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 200000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 200000.0
 - tx_lastname: MICHELLE BOYERS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -379,6 +400,17 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 150000.0
+- tx_lastname: SF BELIEVES
+  tx_entitycode: Committee
+  tx_cmteid: '1487286'
+  tx_amount: 150000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 100000.0
+  - cmte_fppcid: '1486185'
+    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 50000.0
 - tx_lastname: BENJAMIN SPERO
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -717,6 +749,16 @@ contributors:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
+- tx_lastname: THE PRADO GROUP, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 75000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 75000.0
 - tx_lastname: CARMEL PARTNERS AND AFFILIATED ENTITIES
   tx_entitycode: Other
   tx_cmteid: ''
@@ -755,6 +797,17 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: TRINITY MANAGEMENT SERVICES AND AFFILIATED ENTITIES; INCLUDING JAMES
+    SANGIACOMO
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 60000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 60000.0
 - tx_lastname: TRANSPORT WORKERS UNION OF AMERICA
   tx_entitycode: Other
   tx_cmteid: ''
@@ -916,6 +969,16 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
+- tx_lastname: ENRIQUE LANDA V
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: ESSEX PROPERTY TRUST, INC
   tx_entitycode: Other
   tx_cmteid: ''
@@ -997,14 +1060,6 @@ contributors:
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
-- tx_lastname: SF BELIEVES
-  tx_entitycode: Committee
-  tx_cmteid: '1487286'
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1486185'
-    cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 50000.0
 - tx_lastname: 'SFRF GP, LLC(RESPONSIBLE OFFICER: JAY YANG)'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1025,15 +1080,7 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
-- tx_lastname: SUTTER HEALTH
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 50000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 50000.0
-- tx_lastname: THE PRADO GROUP, INC.
+- tx_lastname: 'STRADA INVESTMENT GROUP II, LLC(RESPONSIBLE OFFICER: JESSE BLOUT)'
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 50000.0
@@ -1042,6 +1089,14 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
+    tx_amount: 50000.0
+- tx_lastname: SUTTER HEALTH
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: TRANSPORT WORKERS UNION LOCAL 250A
   tx_entitycode: Other
@@ -1079,6 +1134,18 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 42695.5
+- tx_lastname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  tx_entitycode: Committee
+  tx_cmteid: '1484969'
+  tx_amount: 42500.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 35000.0
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 7500.0
 - tx_lastname: LISA PRITZKER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1112,19 +1179,6 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 25000.0
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
-    tx_amount: 10000.0
-- tx_lastname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_entitycode: Committee
-  tx_cmteid: '891575'
-  tx_amount: 35000.0
-  transactions:
-  - cmte_fppcid: '1493873'
-    cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 25000.0
   - cmte_fppcid: '1495424'
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
@@ -1168,6 +1222,16 @@ contributors:
     cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
       AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
       AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 30000.0
+- tx_lastname: BUILD GROUP INC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 30000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 30000.0
 - tx_lastname: 'MISSION ROCK PARCEL A OWNER, LLC AND AFFILIATED ENTITIES(RESPONSIBLE
     OFFICER: MICHAEL BENNER)'
@@ -1299,6 +1363,17 @@ contributors:
   transactions:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 25000.0
+- tx_lastname: 'ELLIS PARTNERS II LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM
+    ELLIS)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 25000.0
 - tx_lastname: 'ELLIS PARTNERS, LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM EVERS)'
   tx_entitycode: Other
@@ -2048,14 +2123,6 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 7500.0
-- tx_lastname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  tx_entitycode: Committee
-  tx_cmteid: '1484969'
-  tx_amount: 7500.0
-  transactions:
-  - cmte_fppcid: '1493873'
-    cmte_name: TAX FORECLOSURES, YES ON J
-    tx_amount: 7500.0
 - tx_lastname: ANNE RICHARDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2373,6 +2440,16 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
+- tx_lastname: NORTHERN CALIFORNIA DISTRICT COUNCIL OF LABORERS ISSUES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1273648'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 5000.0
 - tx_lastname: PLANT CONSTRUCTION COMPANY LP
   tx_entitycode: Other
   tx_cmteid: ''
@@ -2492,6 +2569,16 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 4990.0
+- tx_lastname: YBC ASSOCIATES INC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 4900.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 4900.0
 - tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
   tx_entitycode: Other
   tx_cmteid: ''
