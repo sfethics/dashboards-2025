@@ -9,6 +9,27 @@ recent_ies:
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
+  tx_amount: 7200.0
+  tx_date: '2026-10-26'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
+  position: SUPPORT
+  tx_amount: 2400.0
+  tx_date: '2026-10-26'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 2400.0
+  tx_date: '2026-10-26'
+  attachment_url: ''
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
   tx_amount: 20655.77
   tx_date: '2026-10-23'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217737975?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY

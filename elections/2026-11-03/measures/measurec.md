@@ -29,7 +29,7 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 1169673.01
+  funds: 1194673.01
   expenses: 601038.01
   ies: ''
 - position: SUPPORT
@@ -64,6 +64,8 @@ contributors:
   - 50000.0
 - - Yes on D - Stand Up for SF Sponsored by Labor Organizations
   - 35000.0
+- - Guzman Construction Group, Inc.
+  - 25000.0
 - - Matthew Paige
   - 25000.0
 - - San Francisco Community Land Trust
@@ -74,8 +76,6 @@ contributors:
     Neighborhood Consortium LLC
   - 25000.0
 - - David Baker, An Architectural Corporation
-  - 5000.0
-- - John Stewart Company
   - 5000.0
 
 ---

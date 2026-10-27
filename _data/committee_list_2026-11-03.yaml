@@ -666,6 +666,9 @@ committees:
 - cmte_name: David Dewilde
   cmte_fppcid: '1398794'
   cmte_nid: '208194494'
+- cmte_name: David Robert Hale
+  cmte_fppcid: unknown
+  cmte_nid: '217816732'
 - cmte_name: Dean Preston
   cmte_fppcid: '1373175'
   cmte_nid: '124340525'

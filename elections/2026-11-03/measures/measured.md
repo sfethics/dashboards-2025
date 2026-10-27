@@ -18,6 +18,13 @@ committees:
   expenses: 6960.04
   ies: 6960.04
 - position: OPPOSE
+  filer_nid: '211792942'
+  filer_id: '1471862'
+  committee_name: Building a Working SF Sponsored by Labor Organizations
+  funds: ''
+  expenses: 2400.0
+  ies: 2400.0
+- position: OPPOSE
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D

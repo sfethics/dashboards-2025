@@ -125,7 +125,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 590310.27
+  total_expense: 602310.27
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -140,7 +140,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 4297915.59
+  total_expense: 4354665.59
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -508,6 +508,11 @@ committees:
   cmte_nid: '217671783'
   committee_type: Major Donor
   total_expense: 50000.0
+- cmte_name: David Robert Hale
+  cmte_fppcid: unknown
+  cmte_nid: '217816732'
+  committee_type: Major Donor
+  total_expense: 200000.0
 - cmte_name: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES (AKA BOMA-SF-PAC-BALLOT ISSUES)
   cmte_fppcid: '970432'
