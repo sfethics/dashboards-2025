@@ -27,7 +27,7 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 307565.55
+  funds: 333685.55
   expenses: 139244.11
   ies: ''
 - position: SUPPORT
@@ -40,13 +40,13 @@ committees:
 multi_committees: []
 contributors:
 - - Saikat Chakrabarti
-  - 150000.0
+  - 175000.0
 - - the San Francisco Foundation
   - 125000.0
+- - San Francisco Public Bank Coalition
+  - 5950.0
 - - Dylan J Hirsch-shell
   - 5000.0
-- - San Francisco Public Bank Coalition
-  - 4830.0
 - - Nick Novitski
   - 3500.0
 - - Jason Prado

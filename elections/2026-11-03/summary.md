@@ -96,7 +96,7 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 817162.5399999999
+  expenses: 824362.5399999999
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -131,13 +131,13 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
-  expenses: 4280818.41
-  funds: 5136524.23
+  expenses: 4283218.41
+  funds: 5139524.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
   expenses: 579714.86
-  funds: 684907.25
+  funds: 687297.25
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
@@ -148,17 +148,17 @@ measures:
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
   expenses: 666837.12
-  funds: 1169673.01
+  funds: 1194673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 227447.95
+  expenses: 229847.95
   funds: 206285.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
   expenses: 168180.11
-  funds: 307565.55
+  funds: 333685.55
 - contest_nid: '217062208'
   contest_name: 'F: Changes to Executive Branch Management'
   contest_link: measuref
@@ -168,7 +168,7 @@ measures:
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
   expenses: 285648.08
-  funds: 427505.0
+  funds: 452505.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
@@ -189,11 +189,11 @@ contributors_bm:
   - 3468095.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - John Pritzker
+  - 1000000.0
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -218,7 +218,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 589175.1
+  total_expense: 596375.1
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -235,7 +235,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 4297915.59
+  total_expense: 4354665.59
 - cmte_nid: '217233128'
   cmte_fppcid: '1495424'
   cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE

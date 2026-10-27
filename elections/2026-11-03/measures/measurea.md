@@ -20,7 +20,7 @@ committees:
   filer_nid: '217079174'
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
-  funds: 427505.0
+  funds: 452505.0
   expenses: 261685.73
   ies: ''
 - position: SUPPORT
@@ -40,6 +40,8 @@ contributors:
   - 50000.0
 - - William Oberndorf
   - 50000.0
+- - California Alliance of Family Owned Businesses PAC
+  - 25000.0
 - - Tmg Partners R.e., Llc(michael Covarrubias)
   - 15000.0
 - - Lawrence Cushman
@@ -50,8 +52,6 @@ contributors:
   - 10000.0
 - - San Francisco Forward Sponsored by San Francisco Chamber of Commerce
   - 10000.0
-- - Silvanus O. Erickson
-  - 5000.0
 
 ---
 

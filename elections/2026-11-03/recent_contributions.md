@@ -5,10 +5,32 @@ breadcrumbs:
 - - Recent Contributions
 title: Recent Contributions
 late_contributions:
-- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 125000.0
+- fullname: GUZMAN CONSTRUCTION GROUP, INC.
+  tx_amount: 25000.0
+  tx_date: '2026-10-26'
+  contributor_fid: ''
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
+- fullname: SAIKAT CHAKRABARTI
+  tx_amount: 25000.0
+  tx_date: '2026-10-26'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: SAN FRANCISCO PUBLIC BANK COALITION
+  tx_amount: 1120.0
   tx_date: '2026-10-23'
-  contributor_fid: '891575'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: ENRIQUE LANDA V
+  tx_amount: 50000.0
+  tx_date: '2026-10-23'
+  contributor_fid: ''
   recipient_fid: '1495424'
   recipient_nid: '217233128'
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
@@ -32,15 +54,53 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: ENRIQUE LANDA V
-  tx_amount: 50000.0
+- fullname: SPRINKLER FITTERS & APPRENTICES LOCAL 483
+  tx_amount: 3000.0
   tx_date: '2026-10-23'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  tx_amount: 2390.0
+  tx_date: '2026-10-23'
+  contributor_fid: '1374879'
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
+- fullname: CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES PAC
+  tx_amount: 25000.0
+  tx_date: '2026-10-23'
+  contributor_fid: '1465611'
+  recipient_fid: '1493867'
+  recipient_nid: '217079174'
+  recipient_name: CLEAN UP THE CHARTER - YES ON A
+- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 125000.0
+  tx_date: '2026-10-23'
+  contributor_fid: '891575'
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: 'ELLIS PARTNERS II LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM ELLIS)'
+  tx_amount: 25000.0
+  tx_date: '2026-10-22'
   contributor_fid: ''
   recipient_fid: '1495424'
   recipient_nid: '217233128'
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
+  tx_amount: 35000.0
+  tx_date: '2026-10-22'
+  contributor_fid: '1484969'
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: SF BELIEVES
   tx_amount: 100000.0
   tx_date: '2026-10-22'
@@ -57,42 +117,8 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: TRINITY MANAGEMENT SERVICES AND AFFILIATED ENTITIES; INCLUDING JAMES SANGIACOMO
-  tx_amount: 50000.0
-  tx_date: '2026-10-22'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: TRINITY MANAGEMENT SERVICES AND AFFILIATED ENTITIES; INCLUDING JAMES SANGIACOMO
-  tx_amount: 10000.0
-  tx_date: '2026-10-22'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
-  tx_amount: 75.0
-  tx_date: '2026-10-22'
-  contributor_fid: '1296947'
-  recipient_fid: '1494100'
-  recipient_nid: '217019367'
-  recipient_name: FAIR ACCESS NO ON D
-- fullname: 'ELLIS PARTNERS II LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM ELLIS)'
-  tx_amount: 25000.0
-  tx_date: '2026-10-22'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: THE PRADO GROUP, INC.
-  tx_amount: 25000.0
+- fullname: YBC ASSOCIATES INC
+  tx_amount: 4900.0
   tx_date: '2026-10-22'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -109,14 +135,15 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
-  tx_amount: 35000.0
+- fullname: THE PRADO GROUP, INC.
+  tx_amount: 25000.0
   tx_date: '2026-10-22'
-  contributor_fid: '1484969'
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: DAVID ROBERT HALE
   tx_amount: 200000.0
   tx_date: '2026-10-22'
@@ -124,8 +151,24 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: YBC ASSOCIATES INC
-  tx_amount: 4900.0
+- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
+  tx_amount: 75.0
+  tx_date: '2026-10-22'
+  contributor_fid: '1296947'
+  recipient_fid: '1494100'
+  recipient_nid: '217019367'
+  recipient_name: FAIR ACCESS NO ON D
+- fullname: TRINITY MANAGEMENT SERVICES AND AFFILIATED ENTITIES; INCLUDING JAMES SANGIACOMO
+  tx_amount: 10000.0
+  tx_date: '2026-10-22'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: TRINITY MANAGEMENT SERVICES AND AFFILIATED ENTITIES; INCLUDING JAMES SANGIACOMO
+  tx_amount: 50000.0
   tx_date: '2026-10-22'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -171,6 +214,15 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: CARMEL PARTNERS AND AFFILIATED ENTITIES
+  tx_amount: 12500.0
+  tx_date: '2026-10-20'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: BORA OZTURK
   tx_amount: 5000.0
   tx_date: '2026-10-20'
@@ -189,8 +241,8 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: CARMEL PARTNERS AND AFFILIATED ENTITIES
-  tx_amount: 12500.0
+- fullname: JOHN D. LUMPKIN
+  tx_amount: 5000.0
   tx_date: '2026-10-20'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -198,7 +250,7 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: JOHN D. LUMPKIN
+- fullname: ROBERT HIELSCHER
   tx_amount: 5000.0
   tx_date: '2026-10-20'
   contributor_fid: ''
@@ -215,15 +267,6 @@ late_contributions:
   recipient_fid: '1471862'
   recipient_nid: '211792942'
   recipient_name: Building a Working SF Sponsored by Labor Organizations
-- fullname: ROBERT HIELSCHER
-  tx_amount: 5000.0
-  tx_date: '2026-10-20'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
 - fullname: YOLA OZTURK
   tx_amount: 5000.0
   tx_date: '2026-10-20'
@@ -250,8 +293,8 @@ late_contributions:
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: JOSEPH SMOLEN
-  tx_amount: 10000.0
+- fullname: 'SHORENSTEIN COMPANY LLC(RESPONSIBLE OFFICER: SANDRA SHORENSTEIN)'
+  tx_amount: 50000.0
   tx_date: '2026-10-19'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -304,8 +347,8 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: 'SHORENSTEIN COMPANY LLC(RESPONSIBLE OFFICER: SANDRA SHORENSTEIN)'
-  tx_amount: 50000.0
+- fullname: JOSEPH SMOLEN
+  tx_amount: 10000.0
   tx_date: '2026-10-19'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -321,13 +364,6 @@ late_contributions:
   recipient_nid: '6673414'
   recipient_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
     Political Action Committee
-- fullname: DAVID LIEB
-  tx_amount: 5000.0
-  tx_date: '2026-10-18'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
 - fullname: MICHAEL BIEN
   tx_amount: 1000.0
   tx_date: '2026-10-18'
@@ -335,13 +371,48 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: DONALD J EDWARDS
-  tx_amount: 10000.0
+- fullname: DAVID LIEB
+  tx_amount: 5000.0
+  tx_date: '2026-10-18'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  tx_amount: 2390.0
+  tx_date: '2026-10-16'
+  contributor_fid: '1374879'
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT PAC
+  tx_amount: 1500.0
   tx_date: '2026-10-16'
   contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_amount: 1760.0
+  tx_date: '2026-10-16'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: PACE OF CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION
+  tx_amount: 1000.0
+  tx_date: '2026-10-16'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: CALIFORNIA NURSES ASSOCIATION POLITICAL ACTION COMMITTEE
+  tx_amount: 2500.0
+  tx_date: '2026-10-16'
+  contributor_fid: '780657'
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: MEREDITH DODSON
   tx_amount: 5000.0
   tx_date: '2026-10-16'
@@ -356,20 +427,13 @@ late_contributions:
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: CALIFORNIA NURSES ASSOCIATION POLITICAL ACTION COMMITTEE
-  tx_amount: 2500.0
+- fullname: SAN FRANCISCO LEAGUE PISSED OFF VOTERS
+  tx_amount: 2390.0
   tx_date: '2026-10-16'
-  contributor_fid: '780657'
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: PACE OF CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION
-  tx_amount: 1000.0
-  tx_date: '2026-10-16'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+  contributor_fid: '1374879'
+  recipient_fid: '1494100'
+  recipient_nid: '217019367'
+  recipient_name: FAIR ACCESS NO ON D
 - fullname: JEFFERSON LEE
   tx_amount: 5000.0
   tx_date: '2026-10-16'
@@ -377,17 +441,17 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
+- fullname: DONALD J EDWARDS
+  tx_amount: 10000.0
+  tx_date: '2026-10-16'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: CALIFORNIA PROFESSIONAL FIREFIGHTERS PAC
   tx_amount: 2500.0
   tx_date: '2026-10-16'
   contributor_fid: '744058'
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: PROFESSIONAL ENGINEERS IN CALIFORNIA GOVERNMENT PAC
-  tx_amount: 1500.0
-  tx_date: '2026-10-16'
-  contributor_fid: ''
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
@@ -398,20 +462,45 @@ late_contributions:
   recipient_fid: '1433436'
   recipient_nid: '201619433'
   recipient_name: GrowSF Voter Guide
-- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_amount: 1760.0
-  tx_date: '2026-10-16'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: JOHN JERSIN
-  tx_amount: 10000.0
+- fullname: WILLIAM S. FISHER
+  tx_amount: 50000.0
   tx_date: '2026-10-15'
   contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: STEPHEN DODSON
+  tx_amount: 2500.0
+  tx_date: '2026-10-15'
+  contributor_fid: ''
+  recipient_fid: '1442994'
+  recipient_nid: '201848961'
+  recipient_name: SAN FRANCISCO PARENT ACTION PAC
+- fullname: MICHAEL MORITZ
+  tx_amount: 500000.0
+  tx_date: '2026-10-15'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: MICHAEL MORITZ
+  tx_amount: 25000.0
+  tx_date: '2026-10-15'
+  contributor_fid: ''
+  recipient_fid: '1493873'
+  recipient_nid: '217091337'
+  recipient_name: TAX FORECLOSURES, YES ON J
+- fullname: ROBERT J. FISHER
+  tx_amount: 50000.0
+  tx_date: '2026-10-15'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: JOHN FISHER
   tx_amount: 25000.0
   tx_date: '2026-10-15'
@@ -421,15 +510,22 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: MICHAEL MORITZ
-  tx_amount: 25000.0
+- fullname: JOHN JERSIN
+  tx_amount: 10000.0
   tx_date: '2026-10-15'
   contributor_fid: ''
-  recipient_fid: '1493873'
-  recipient_nid: '217091337'
-  recipient_name: TAX FORECLOSURES, YES ON J
-- fullname: MICHAEL MORITZ
-  tx_amount: 500000.0
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: ALISON GELB PINCUS
+  tx_amount: 3500.0
+  tx_date: '2026-10-15'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: DAVID LAMOND
+  tx_amount: 50000.0
   tx_date: '2026-10-15'
   contributor_fid: ''
   recipient_fid: '1489257'
@@ -444,38 +540,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: ROBERT J. FISHER
-  tx_amount: 50000.0
-  tx_date: '2026-10-15'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: WILLIAM S. FISHER
-  tx_amount: 50000.0
-  tx_date: '2026-10-15'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: ALISON GELB PINCUS
-  tx_amount: 3500.0
-  tx_date: '2026-10-15'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: STEPHEN DODSON
-  tx_amount: 2500.0
-  tx_date: '2026-10-15'
-  contributor_fid: ''
-  recipient_fid: '1442994'
-  recipient_nid: '201848961'
-  recipient_name: SAN FRANCISCO PARENT ACTION PAC
 - fullname: AARON BOUCHER
   tx_amount: 25000.0
   tx_date: '2026-10-15'
@@ -483,22 +547,6 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
-- fullname: DAVID LAMOND
-  tx_amount: 50000.0
-  tx_date: '2026-10-15'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: SAN FRANCISCO LABOR COUNCIL LABOR AND NEIGHBOR PAC
-  tx_amount: 10000.0
-  tx_date: '2026-10-14'
-  contributor_fid: '941562'
-  recipient_fid: '1496601'
-  recipient_nid: '217420279'
-  recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
-    LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
-    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
 - fullname: YES ON D - STAND UP FOR SF SPONSORED BY LABOR ORGANIZATIONS
   tx_amount: 7500.0
   tx_date: '2026-10-14'
@@ -506,15 +554,13 @@ late_contributions:
   recipient_fid: '1493873'
   recipient_nid: '217091337'
   recipient_name: TAX FORECLOSURES, YES ON J
-- fullname: 'SFRF GP, LLC(RESPONSIBLE OFFICER: JAY YANG)'
-  tx_amount: 50000.0
+- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_amount: 19.76
   tx_date: '2026-10-14'
   contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: OUR CITY OUR BANK
   tx_amount: 2693.0
   tx_date: '2026-10-14'
@@ -522,22 +568,17 @@ late_contributions:
   recipient_fid: '1374879'
   recipient_nid: '157471084'
   recipient_name: San Francisco League of Pissed Off Voters
-- fullname: KILROY REALTY, L.P.
-  tx_amount: 10000.0
-  tx_date: '2026-10-14'
-  contributor_fid: ''
-  recipient_fid: '1493867'
-  recipient_nid: '217079174'
-  recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: MEYER MALKA
-  tx_amount: 100000.0
-  tx_date: '2026-10-14'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: 'ALIGN LANDING LLC(RESPONSIBLE OFFICER: JASON CHADORCHI)'
   tx_amount: 25000.0
+  tx_date: '2026-10-14'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: 'SFRF GP, LLC(RESPONSIBLE OFFICER: JAY YANG)'
+  tx_amount: 50000.0
   tx_date: '2026-10-14'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -552,33 +593,47 @@ late_contributions:
   recipient_fid: '1374879'
   recipient_nid: '157471084'
   recipient_name: San Francisco League of Pissed Off Voters
-- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_amount: 19.76
+- fullname: MEYER MALKA
+  tx_amount: 100000.0
   tx_date: '2026-10-14'
   contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: ANTON N. NATSIS
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: SAN FRANCISCO LABOR COUNCIL LABOR AND NEIGHBOR PAC
   tx_amount: 10000.0
-  tx_date: '2026-10-13'
+  tx_date: '2026-10-14'
+  contributor_fid: '941562'
+  recipient_fid: '1496601'
+  recipient_nid: '217420279'
+  recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+    LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+- fullname: KILROY REALTY, L.P.
+  tx_amount: 10000.0
+  tx_date: '2026-10-14'
   contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: 'ELLIS PARTNERS, LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM EVERS)'
-  tx_amount: 25000.0
-  tx_date: '2026-10-13'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
+  recipient_fid: '1493867'
+  recipient_nid: '217079174'
+  recipient_name: CLEAN UP THE CHARTER - YES ON A
 - fullname: WILSON MEANY LP
   tx_amount: 44100.0
+  tx_date: '2026-10-13'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 25000.0
+  tx_date: '2026-10-13'
+  contributor_fid: '891575'
+  recipient_fid: '1493873'
+  recipient_nid: '217091337'
+  recipient_name: TAX FORECLOSURES, YES ON J
+- fullname: 'ELLIS PARTNERS, LLC(RESPONSIBLE OFFICER: MELINDA ELLIS EVERS/JIM EVERS)'
+  tx_amount: 25000.0
   tx_date: '2026-10-13'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -593,13 +648,15 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 25000.0
+- fullname: ANTON N. NATSIS
+  tx_amount: 10000.0
   tx_date: '2026-10-13'
-  contributor_fid: '891575'
-  recipient_fid: '1493873'
-  recipient_nid: '217091337'
-  recipient_name: TAX FORECLOSURES, YES ON J
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 CANDIDATE PAC
   tx_amount: 45000.0
   tx_date: '2026-10-12'
@@ -609,6 +666,14 @@ late_contributions:
   recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
     LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+- fullname: JOHN STEWART COMPANY
+  tx_amount: 5000.0
+  tx_date: '2026-10-12'
+  contributor_fid: ''
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 CANDIDATE PAC
   tx_amount: 45000.0
   tx_date: '2026-10-12'
@@ -628,14 +693,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: JOHN STEWART COMPANY
-  tx_amount: 5000.0
-  tx_date: '2026-10-12'
-  contributor_fid: ''
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
 - fullname: SAN FRANCISCO PUBLIC BANK COALITION
   tx_amount: 1120.0
   tx_date: '2026-10-11'
@@ -643,6 +700,23 @@ late_contributions:
   recipient_fid: '1488530'
   recipient_nid: '217045555'
   recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: CARMEL PARTNERS AND AFFILIATED ENTITIES
+  tx_amount: 49000.0
+  tx_date: '2026-10-09'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: COMMUNITY ECONOMICS, INC.
+  tx_amount: 2500.0
+  tx_date: '2026-10-09'
+  contributor_fid: ''
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: ANDREW HOUSTON
   tx_amount: 100000.0
   tx_date: '2026-10-09'
@@ -667,34 +741,8 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: COMMUNITY ECONOMICS, INC.
-  tx_amount: 2500.0
-  tx_date: '2026-10-09'
-  contributor_fid: ''
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
-- fullname: CARMEL PARTNERS AND AFFILIATED ENTITIES
-  tx_amount: 49000.0
-  tx_date: '2026-10-09'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: GARY'S LIST ACTION
-  tx_amount: 2500.0
-  tx_date: '2026-10-08'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: WILSON MEANY LP
-  tx_amount: 5900.0
+- fullname: 'THE SWIG COMPANY, LLC(RESPONSIBLE OFFICER: PHILIP CONNOR KID IV)'
+  tx_amount: 25000.0
   tx_date: '2026-10-08'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -709,21 +757,6 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: CHARLES JUNG
-  tx_amount: 1000.0
-  tx_date: '2026-10-08'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
-  tx_amount: 250000.0
-  tx_date: '2026-10-08'
-  contributor_fid: '1387772'
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
 - fullname: STEVE HUFFMAN
   tx_amount: 100000.0
   tx_date: '2026-10-08'
@@ -731,17 +764,8 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: BXP, INC
-  tx_amount: 10000.0
-  tx_date: '2026-10-08'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: 'THE SWIG COMPANY, LLC(RESPONSIBLE OFFICER: PHILIP CONNOR KID IV)'
-  tx_amount: 25000.0
+- fullname: WILSON MEANY LP
+  tx_amount: 5900.0
   tx_date: '2026-10-08'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -756,6 +780,31 @@ late_contributions:
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: GARY'S LIST ACTION
+  tx_amount: 2500.0
+  tx_date: '2026-10-08'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: CHARLES JUNG
+  tx_amount: 1000.0
+  tx_date: '2026-10-08'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: BXP, INC
+  tx_amount: 10000.0
+  tx_date: '2026-10-08'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: JOHN A. PRITZKER
   tx_amount: 50000.0
   tx_date: '2026-10-08'
@@ -765,6 +814,14 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
+  tx_amount: 250000.0
+  tx_date: '2026-10-08'
+  contributor_fid: '1387772'
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: GARRY'S LIST ACTION
   tx_amount: 5000.0
   tx_date: '2026-10-08'
@@ -772,6 +829,13 @@ late_contributions:
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
+- fullname: CHINESE AMERICAN DEMOCRATIC CLUB
+  tx_amount: 5000.0
+  tx_date: '2026-10-07'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
   tx_amount: 105.99
   tx_date: '2026-10-07'
@@ -780,15 +844,13 @@ late_contributions:
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-- fullname: '555-575 MARKET OWNER, LLC(RESPONSIBLE OFFICER: GREG FLYNN)'
-  tx_amount: 100000.0
+- fullname: BETTER HOUSING POLICIES
+  tx_amount: 3800.0
   tx_date: '2026-10-07'
   contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: TOMASITA MEDAL
   tx_amount: 3000.0
   tx_date: '2026-10-07'
@@ -803,44 +865,17 @@ late_contributions:
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: BETTER HOUSING POLICIES
-  tx_amount: 3800.0
+- fullname: '555-575 MARKET OWNER, LLC(RESPONSIBLE OFFICER: GREG FLYNN)'
+  tx_amount: 100000.0
   tx_date: '2026-10-07'
   contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: CHINESE AMERICAN DEMOCRATIC CLUB
-  tx_amount: 5000.0
-  tx_date: '2026-10-07'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: HILARY SHIRAZI
-  tx_amount: 5000.0
-  tx_date: '2026-10-06'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: NICHOLAS SHALEK
-  tx_amount: 30000.0
-  tx_date: '2026-10-06'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: JULIA HARTZ
-  tx_amount: 10000.0
-  tx_date: '2026-10-06'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: CALIFORNIA HOTEL ISSUES PAC, SPONSORED BY THE CALIFORNIA HOTEL + LODGING
-    ASSOCIATION
-  tx_amount: 50000.0
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: STEVEN MERRILL
+  tx_amount: 25000.0
   tx_date: '2026-10-06'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -864,8 +899,37 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: STEVEN MERRILL
-  tx_amount: 25000.0
+- fullname: NICHOLAS SHALEK
+  tx_amount: 30000.0
+  tx_date: '2026-10-06'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: STEVEN CHAPMAN
+  tx_amount: 1000.0
+  tx_date: '2026-10-06'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: HILARY SHIRAZI
+  tx_amount: 5000.0
+  tx_date: '2026-10-06'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: JULIA HARTZ
+  tx_amount: 10000.0
+  tx_date: '2026-10-06'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: CALIFORNIA HOTEL ISSUES PAC, SPONSORED BY THE CALIFORNIA HOTEL + LODGING
+    ASSOCIATION
+  tx_amount: 50000.0
   tx_date: '2026-10-06'
   contributor_fid: ''
   recipient_fid: '1495424'
@@ -887,43 +951,20 @@ late_contributions:
   recipient_fid: '1433436'
   recipient_nid: '201619433'
   recipient_name: GrowSF Voter Guide
-- fullname: STEVEN CHAPMAN
-  tx_amount: 1000.0
-  tx_date: '2026-10-06'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: TEAMSTERS LOCAL UNION NO. 665
-  tx_amount: 5000.0
+- fullname: SAN FRANCISCO LABORER'S LOCAL 261 PAC
+  tx_amount: 10000.0
   tx_date: '2026-10-05'
-  contributor_fid: '1280975'
+  contributor_fid: '981076'
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: 'TMG PARTNERS RE., LLC(RESPONSIBLE OFFICER: MICHAEL COVARRUBIAS)'
-  tx_amount: 49000.0
+- fullname: SAMANTHA BECHTEL
+  tx_amount: 100000.0
   tx_date: '2026-10-05'
   contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: TEAMSTERS JOINT COUNCIL NO. 7
-  tx_amount: 5000.0
-  tx_date: '2026-10-05'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: SAN FRANCISCO LABOR COUNCIL LABOR & NEIGHBOR INDEPENDENT EXPENDITURE PAC
-  tx_amount: 20000.0
-  tx_date: '2026-10-05'
-  contributor_fid: '991525'
-  recipient_fid: '1471862'
-  recipient_nid: '211792942'
-  recipient_name: Building a Working SF Sponsored by Labor Organizations
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: SAMEER GANDHI
   tx_amount: 100000.0
   tx_date: '2026-10-05'
@@ -940,27 +981,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: SAMANTHA BECHTEL
-  tx_amount: 100000.0
-  tx_date: '2026-10-05'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: SAN FRANCISCO LABORER'S LOCAL 261 PAC
-  tx_amount: 10000.0
-  tx_date: '2026-10-05'
-  contributor_fid: '981076'
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: SAN FRANCISCO LABOR COUNCIL
-  tx_amount: 20000.0
-  tx_date: '2026-10-05'
-  contributor_fid: ''
-  recipient_fid: '1494100'
-  recipient_nid: '217019367'
-  recipient_name: FAIR ACCESS NO ON D
 - fullname: COMMERCIAL REAL ESTATE DEVELOPMENT ASSOCIATION SAN FRANCISCO BAY AREA
     CHAPTER PAC
   tx_amount: 9500.0
@@ -971,6 +991,36 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: 'TMG PARTNERS RE., LLC(RESPONSIBLE OFFICER: MICHAEL COVARRUBIAS)'
+  tx_amount: 49000.0
+  tx_date: '2026-10-05'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: SAN FRANCISCO LABOR COUNCIL LABOR & NEIGHBOR INDEPENDENT EXPENDITURE PAC
+  tx_amount: 20000.0
+  tx_date: '2026-10-05'
+  contributor_fid: '991525'
+  recipient_fid: '1471862'
+  recipient_nid: '211792942'
+  recipient_name: Building a Working SF Sponsored by Labor Organizations
+- fullname: TEAMSTERS LOCAL UNION NO. 665
+  tx_amount: 5000.0
+  tx_date: '2026-10-05'
+  contributor_fid: '1280975'
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: TEAMSTERS JOINT COUNCIL NO. 7
+  tx_amount: 5000.0
+  tx_date: '2026-10-05'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: UNITED EDUCATORS OF SAN FRANCISCO CANDIDATE PAC
   tx_amount: 30000.0
   tx_date: '2026-10-05'
@@ -980,6 +1030,13 @@ late_contributions:
   recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
     LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+- fullname: SAN FRANCISCO LABOR COUNCIL
+  tx_amount: 20000.0
+  tx_date: '2026-10-05'
+  contributor_fid: ''
+  recipient_fid: '1494100'
+  recipient_nid: '217019367'
+  recipient_name: FAIR ACCESS NO ON D
 - fullname: TARA SCHUSTER
   tx_amount: 25000.0
   tx_date: '2026-10-04'
@@ -987,6 +1044,13 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: DIGNITY CA SEIU LOCAL 2015
+  tx_amount: 250000.0
+  tx_date: '2026-10-02'
+  contributor_fid: '1357256'
+  recipient_fid: '1471862'
+  recipient_nid: '211792942'
+  recipient_name: Building a Working SF Sponsored by Labor Organizations
 - fullname: SAN FRANCISCO COMMUNITY LAND TRUST
   tx_amount: 25000.0
   tx_date: '2026-10-02'
@@ -995,6 +1059,13 @@ late_contributions:
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
+- fullname: RISHAV ROUT
+  tx_amount: 428.57
+  tx_date: '2026-10-02'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
 - fullname: 'JMA VENTURES, LLC(RESPONSIBLE OFFICER: TODD CHAPMAN)'
   tx_amount: 15000.0
   tx_date: '2026-10-02'
@@ -1004,34 +1075,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: DIGNITY CA SEIU LOCAL 2015
-  tx_amount: 250000.0
-  tx_date: '2026-10-02'
-  contributor_fid: '1357256'
-  recipient_fid: '1471862'
-  recipient_nid: '211792942'
-  recipient_name: Building a Working SF Sponsored by Labor Organizations
-- fullname: CALVIN FRENCH-OWEN
-  tx_amount: 25000.0
-  tx_date: '2026-10-02'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: RISHAV ROUT
-  tx_amount: 428.57
-  tx_date: '2026-10-02'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_nid: '217045555'
-  recipient_name: YES ON B, OUR CITY OUR BANK
-- fullname: THOMAS LAFFONT
-  tx_amount: 250000.0
-  tx_date: '2026-10-02'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: 'JMA VENTURES, LLC(RESPONSIBLE OFFICER: TODD CHAPMAN)'
   tx_amount: 5000.0
   tx_date: '2026-10-02'
@@ -1048,6 +1091,52 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: THOMAS LAFFONT
+  tx_amount: 250000.0
+  tx_date: '2026-10-02'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: CALVIN FRENCH-OWEN
+  tx_amount: 25000.0
+  tx_date: '2026-10-02'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: KILROY REALTY,L.P. & AFFILIATED ENTITIES
+  tx_amount: 100000.0
+  tx_date: '2026-10-01'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_amount: 2610.24
+  tx_date: '2026-10-01'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: TRANSPORT WORKERS UNION OF AMERICA
+  tx_amount: 52000.0
+  tx_date: '2026-10-01'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: STEPHEN VAN DUSEN
+  tx_amount: 5000.0
+  tx_date: '2026-10-01'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: BUILDING OWNERS AND MANAGERS ASSOCIATION INTERNATIONAL
   tx_amount: 25000.0
   tx_date: '2026-10-01'
@@ -1073,54 +1162,13 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: TRANSPORT WORKERS UNION OF AMERICA
-  tx_amount: 52000.0
-  tx_date: '2026-10-01'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_amount: 2610.24
-  tx_date: '2026-10-01'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: KILROY REALTY,L.P. & AFFILIATED ENTITIES
-  tx_amount: 100000.0
-  tx_date: '2026-10-01'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: STEPHEN VAN DUSEN
-  tx_amount: 5000.0
-  tx_date: '2026-10-01'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: DAVID DEWILDE
-  tx_amount: 50000.0
+- fullname: JONATHAN WEAVER
+  tx_amount: 1000.0
   tx_date: '2026-09-30'
   contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: 'BROOKFIELD PROPERTY GROUP LLC(RESPONSIBLE OFFICER: HILARY WALKER)'
-  tx_amount: 50000.0
-  tx_date: '2026-09-30'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: PLANT CONSTRUCTION COMPANY LP
   tx_amount: 5000.0
   tx_date: '2026-09-30'
@@ -1137,7 +1185,25 @@ late_contributions:
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: KATHERINE AUGUST DEWILDE
+- fullname: MICHAEL MORITZ
+  tx_amount: 200000.0
+  tx_date: '2026-09-30'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: 'BROOKFIELD PROPERTY GROUP LLC(RESPONSIBLE OFFICER: HILARY WALKER)'
+  tx_amount: 50000.0
+  tx_date: '2026-09-30'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: DAVID DEWILDE
   tx_amount: 50000.0
   tx_date: '2026-09-30'
   contributor_fid: ''
@@ -1158,33 +1224,15 @@ late_contributions:
   recipient_fid: '1311218'
   recipient_nid: '6685673'
   recipient_name: United Educators of San Francisco Candidate PAC
-- fullname: MICHAEL MORITZ
-  tx_amount: 200000.0
+- fullname: KATHERINE AUGUST DEWILDE
+  tx_amount: 50000.0
   tx_date: '2026-09-30'
   contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: JONATHAN WEAVER
-  tx_amount: 1000.0
-  tx_date: '2026-09-30'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
-- fullname: HOTEL COUNCIL OF SAN FRANCISCO PAC
-  tx_amount: 5000.0
-  tx_date: '2026-09-29'
-  contributor_fid: '1381090'
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: JEREMY STOPPELMAN
-  tx_amount: 375000.0
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: STEPHEN DODSON
+  tx_amount: 10000.0
   tx_date: '2026-09-29'
   contributor_fid: ''
   recipient_fid: '1471154'
@@ -1199,21 +1247,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS POWER PAC
-  tx_amount: 10000.0
-  tx_date: '2026-09-29'
-  contributor_fid: ''
-  recipient_fid: '1495589'
-  recipient_nid: '217267598'
-  recipient_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
-    SUPERVISOR 2026
-- fullname: STEPHEN DODSON
-  tx_amount: 10000.0
-  tx_date: '2026-09-29'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: CHRISTOPHER CONWAY
   tx_amount: 25000.0
   tx_date: '2026-09-29'
@@ -1231,14 +1264,37 @@ late_contributions:
   recipient_nid: '217267598'
   recipient_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
     SUPERVISOR 2026
-- fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
-  tx_amount: 5388.01
+- fullname: JEREMY STOPPELMAN
+  tx_amount: 375000.0
+  tx_date: '2026-09-29'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: HOTEL COUNCIL OF SAN FRANCISCO PAC
+  tx_amount: 5000.0
+  tx_date: '2026-09-29'
+  contributor_fid: '1381090'
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: NORTH COAST STATES REGIONAL COUNCIL OF CARPENTERS POWER PAC
+  tx_amount: 10000.0
+  tx_date: '2026-09-29'
+  contributor_fid: ''
+  recipient_fid: '1495589'
+  recipient_nid: '217267598'
+  recipient_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
+    SUPERVISOR 2026
+- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
+  tx_amount: 25000.0
   tx_date: '2026-09-28'
-  contributor_fid: '1387772'
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
+  contributor_fid: '1296947'
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   tx_amount: 75000.0
   tx_date: '2026-09-28'
@@ -1246,6 +1302,20 @@ late_contributions:
   recipient_fid: '1494100'
   recipient_nid: '217019367'
   recipient_name: FAIR ACCESS NO ON D
+- fullname: NICHOLAS JOSEFOWITZ
+  tx_amount: 50000.0
+  tx_date: '2026-09-28'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: AMY ZHENG
+  tx_amount: 1000.0
+  tx_date: '2026-09-28'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
 - fullname: '100 MISSION OWNER, LLC(RESPONSIBLE OFFICER: K CYRUS SANANDAJI)'
   tx_amount: 50000.0
   tx_date: '2026-09-28'
@@ -1255,27 +1325,14 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 ISSUES PAC
-  tx_amount: 25000.0
+- fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
+  tx_amount: 5388.01
   tx_date: '2026-09-28'
-  contributor_fid: '1296947'
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
-- fullname: AMY ZHENG
-  tx_amount: 1000.0
-  tx_date: '2026-09-28'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_nid: '217045555'
-  recipient_name: YES ON B, OUR CITY OUR BANK
-- fullname: NICHOLAS JOSEFOWITZ
-  tx_amount: 50000.0
-  tx_date: '2026-09-28'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+  contributor_fid: '1387772'
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
 - fullname: UNITED EDUCATORS OF SAN FRANCISCO COPE
   tx_amount: 5000.0
   tx_date: '2026-09-26'
@@ -1283,6 +1340,15 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
+- fullname: PROFESSORS FOR EDUCTIONAL REFORM AFT 2121 - C.O.P.E.
+  tx_amount: 24000.0
+  tx_date: '2026-09-25'
+  contributor_fid: '890972'
+  recipient_fid: '1496601'
+  recipient_nid: '217420279'
+  recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
+    LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
 - fullname: WILLIAM OBERNDORF
   tx_amount: 50000.0
   tx_date: '2026-09-25'
@@ -1299,15 +1365,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: PROFESSORS FOR EDUCTIONAL REFORM AFT 2121 - C.O.P.E.
-  tx_amount: 24000.0
-  tx_date: '2026-09-25'
-  contributor_fid: '890972'
-  recipient_fid: '1496601'
-  recipient_nid: '217420279'
-  recipient_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX,
-    LEE, AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
-    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
 - fullname: SAN FRANCISCO PUBLIC BANK COALITION
   tx_amount: 1225.0
   tx_date: '2026-09-25'
@@ -1322,8 +1379,8 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: CHESA BOUDIN
-  tx_amount: 1000.0
+- fullname: NICK NOVITSKI
+  tx_amount: 3500.0
   tx_date: '2026-09-24'
   contributor_fid: ''
   recipient_fid: '1490845'
@@ -1351,8 +1408,8 @@ late_contributions:
   recipient_fid: '1488530'
   recipient_nid: '217045555'
   recipient_name: YES ON B, OUR CITY OUR BANK
-- fullname: NICK NOVITSKI
-  tx_amount: 3500.0
+- fullname: CHESA BOUDIN
+  tx_amount: 1000.0
   tx_date: '2026-09-24'
   contributor_fid: ''
   recipient_fid: '1490845'
@@ -1365,20 +1422,6 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 214000.0
-  tx_date: '2026-09-23'
-  contributor_fid: '891575'
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: ANDREW CASTEEL
-  tx_amount: 15000.0
-  tx_date: '2026-09-23'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
     KEVIN VERDI)'
   tx_amount: 1000.0
@@ -1389,6 +1432,20 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 214000.0
+  tx_date: '2026-09-23'
+  contributor_fid: '891575'
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: TWILIO, INC.
+  tx_amount: 100000.0
+  tx_date: '2026-09-23'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: ANNE ROSENBAUM IRWIN
   tx_amount: 10000.0
   tx_date: '2026-09-23'
@@ -1396,9 +1453,51 @@ late_contributions:
   recipient_fid: '1486185'
   recipient_nid: '217128861'
   recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: TWILIO, INC.
-  tx_amount: 100000.0
+- fullname: ANDREW CASTEEL
+  tx_amount: 15000.0
   tx_date: '2026-09-23'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: FRIENDS OF SUNSET DUNES
+  tx_amount: 15000.0
+  tx_date: '2026-09-22'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: BRIAN SINGERMAN
+  tx_amount: 50000.0
+  tx_date: '2026-09-22'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: ALEJANDRO FOUNG
+  tx_amount: 25000.0
+  tx_date: '2026-09-22'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: OPERATING ENGINEERS LOCAL 3 ISSUES ADVOCACY/BALLOT INITIATIVE PAC
+  tx_amount: 10000.0
+  tx_date: '2026-09-22'
+  contributor_fid: ''
+  recipient_fid: '1493867'
+  recipient_nid: '217079174'
+  recipient_name: CLEAN UP THE CHARTER - YES ON A
+- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_amount: 14533.25
+  tx_date: '2026-09-22'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
+  tx_amount: 1219.5
+  tx_date: '2026-09-22'
   contributor_fid: ''
   recipient_fid: '1479782'
   recipient_nid: '214099226'
@@ -1410,30 +1509,22 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
-    COMMITTEE - BALLOT ISSUES
-  tx_amount: 25000.0
+- fullname: JASON PRADO
+  tx_amount: 3000.0
   tx_date: '2026-09-22'
-  contributor_fid: '970432'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
+  tx_amount: 20000.0
+  tx_date: '2026-09-22'
+  contributor_fid: '840002'
   recipient_fid: '1495424'
   recipient_nid: '217233128'
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: ALEJANDRO FOUNG
-  tx_amount: 25000.0
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: FRIENDS OF SUNSET DUNES
-  tx_amount: 15000.0
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
     COMMITTEE - BALLOT ISSUES
   tx_amount: 2500.0
@@ -1444,50 +1535,6 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_amount: 14533.25
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: SAN FRANCISCO APARTMENT ASSOCIATION POLITICAL ACTION COMMITTEE
-  tx_amount: 20000.0
-  tx_date: '2026-09-22'
-  contributor_fid: '840002'
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: SAN FRANCISCO BAY AREA PLANNING & URBAN RESEARCH ASSOCIATION
-  tx_amount: 1219.5
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: OPERATING ENGINEERS LOCAL 3 ISSUES ADVOCACY/BALLOT INITIATIVE PAC
-  tx_amount: 10000.0
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1493867'
-  recipient_nid: '217079174'
-  recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: JASON PRADO
-  tx_amount: 3000.0
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_nid: '217045555'
-  recipient_name: YES ON B, OUR CITY OUR BANK
-- fullname: BRIAN SINGERMAN
-  tx_amount: 50000.0
-  tx_date: '2026-09-22'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: JOSEPH PRITZKER
   tx_amount: 100000.0
   tx_date: '2026-09-22'
@@ -1495,6 +1542,16 @@ late_contributions:
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: BUILDING OWNERS AND MANAGERS ASSOCIATION OF SAN FRANCISCO POLITICAL ACTION
+    COMMITTEE - BALLOT ISSUES
+  tx_amount: 25000.0
+  tx_date: '2026-09-22'
+  contributor_fid: '970432'
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: RON CONWAY
   tx_amount: 250000.0
   tx_date: '2026-09-21'
@@ -1509,16 +1566,26 @@ late_contributions:
   recipient_fid: '1494100'
   recipient_nid: '217019367'
   recipient_name: FAIR ACCESS NO ON D
-- fullname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
-    PAC
-  tx_amount: 25000.0
+- fullname: VISA, INC.
+  tx_amount: 250000.0
   tx_date: '2026-09-21'
   contributor_fid: ''
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
-- fullname: VISA, INC.
-  tx_amount: 250000.0
+- fullname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
+    PAC
+  tx_amount: 10000.0
+  tx_date: '2026-09-21'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
+    PAC
+  tx_amount: 25000.0
   tx_date: '2026-09-21'
   contributor_fid: ''
   recipient_fid: '1479782'
@@ -1531,16 +1598,6 @@ late_contributions:
   recipient_fid: '1433436'
   recipient_nid: '201619433'
   recipient_name: GrowSF Voter Guide
-- fullname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
-    PAC
-  tx_amount: 10000.0
-  tx_date: '2026-09-21'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
 - fullname: ROBERT HO
   tx_amount: 500.0
   tx_date: '2026-09-20'
@@ -1548,6 +1605,20 @@ late_contributions:
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: SANDRA DRATLER
+  tx_amount: 2500.0
+  tx_date: '2026-09-19'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: ALEXANDER MALDONADO
+  tx_amount: 2000.0
+  tx_date: '2026-09-19'
+  contributor_fid: ''
+  recipient_fid: '1494100'
+  recipient_nid: '217019367'
+  recipient_name: FAIR ACCESS NO ON D
 - fullname: NATIONAL UNION OF HEALTHCARE WORKERS CANDIDATE COMMITTEE FOR QUALITY PATIENT
     CARE AND UNION DEMOCRACY
   tx_amount: 10000.0
@@ -1556,6 +1627,13 @@ late_contributions:
   recipient_fid: '1471862'
   recipient_nid: '211792942'
   recipient_name: Building a Working SF Sponsored by Labor Organizations
+- fullname: SANDRA DRATLER
+  tx_amount: 2500.0
+  tx_date: '2026-09-19'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: TENANTS AND OWNERS DEVELOPMENT CORPORATION
   tx_amount: 80000.0
   tx_date: '2026-09-19'
@@ -1563,35 +1641,7 @@ late_contributions:
   recipient_fid: '1494100'
   recipient_nid: '217019367'
   recipient_name: FAIR ACCESS NO ON D
-- fullname: ALEXANDER MALDONADO
-  tx_amount: 2000.0
-  tx_date: '2026-09-19'
-  contributor_fid: ''
-  recipient_fid: '1494100'
-  recipient_nid: '217019367'
-  recipient_name: FAIR ACCESS NO ON D
-- fullname: SANDRA DRATLER
-  tx_amount: 2500.0
-  tx_date: '2026-09-19'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: SANDRA DRATLER
-  tx_amount: 2500.0
-  tx_date: '2026-09-19'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: ALEXANDRA CONRAD
-  tx_amount: 2500.0
-  tx_date: '2026-09-18'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: PARKER CONRAD
   tx_amount: 2500.0
   tx_date: '2026-09-18'
   contributor_fid: ''
@@ -1606,13 +1656,6 @@ late_contributions:
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-- fullname: ALBERT CHOW
-  tx_amount: 500.0
-  tx_date: '2026-09-18'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: DYLAN HIRSCH-SHELL
   tx_amount: 5000.0
   tx_date: '2026-09-18'
@@ -1627,13 +1670,6 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: SF BELIEVES
-  tx_amount: 50000.0
-  tx_date: '2026-09-18'
-  contributor_fid: '1487286'
-  recipient_fid: '1486185'
-  recipient_nid: '217128861'
-  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
 - fullname: REBECCA HENDERSON
   tx_amount: 25000.0
   tx_date: '2026-09-18'
@@ -1641,9 +1677,23 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: ALFRED LIN
-  tx_amount: 250000.0
-  tx_date: '2026-09-17'
+- fullname: ALBERT CHOW
+  tx_amount: 500.0
+  tx_date: '2026-09-18'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: SF BELIEVES
+  tx_amount: 50000.0
+  tx_date: '2026-09-18'
+  contributor_fid: '1487286'
+  recipient_fid: '1486185'
+  recipient_nid: '217128861'
+  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+- fullname: PARKER CONRAD
+  tx_amount: 2500.0
+  tx_date: '2026-09-18'
   contributor_fid: ''
   recipient_fid: '1489257'
   recipient_nid: '216006060'
@@ -1671,6 +1721,13 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: ALFRED LIN
+  tx_amount: 250000.0
+  tx_date: '2026-09-17'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: STEVEN CHAPMAN
   tx_amount: 1000.0
   tx_date: '2026-09-17'
@@ -1678,23 +1735,6 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF
-    CALIFORNIA
-  tx_amount: 50000.0
-  tx_date: '2026-09-16'
-  contributor_fid: ''
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
-- fullname: SAIKAT CHAKRABARTI
-  tx_amount: 150000.0
-  tx_date: '2026-09-16'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
 - fullname: ELIZABETH FISHER
   tx_amount: 20000.0
   tx_date: '2026-09-16'
@@ -1709,6 +1749,16 @@ late_contributions:
   recipient_fid: '1311218'
   recipient_nid: '6685673'
   recipient_name: United Educators of San Francisco Candidate PAC
+- fullname: MEMBERS' VOICE OF THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF
+    CALIFORNIA
+  tx_amount: 50000.0
+  tx_date: '2026-09-16'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
 - fullname: SAIKAT CHAKRABARTI
   tx_amount: 150000.0
   tx_date: '2026-09-16'
@@ -1716,6 +1766,13 @@ late_contributions:
   recipient_fid: '1488530'
   recipient_nid: '217045555'
   recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: SAIKAT CHAKRABARTI
+  tx_amount: 150000.0
+  tx_date: '2026-09-16'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: ROBERT FISHER
   tx_amount: 24000.0
   tx_date: '2026-09-16'
@@ -1730,13 +1787,6 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
-- fullname: SIERRA TECHNOLOGIES, INC.
-  tx_amount: 100000.0
-  tx_date: '2026-09-15'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: KARL GUSTAF ALSTROMER
   tx_amount: 20000.0
   tx_date: '2026-09-15'
@@ -1744,6 +1794,13 @@ late_contributions:
   recipient_fid: '1433436'
   recipient_nid: '201619433'
   recipient_name: GrowSF Voter Guide
+- fullname: SIERRA TECHNOLOGIES, INC.
+  tx_amount: 100000.0
+  tx_date: '2026-09-15'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: SAN FRANCISCO FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_amount: 225000.0
   tx_date: '2026-09-15'
@@ -1766,8 +1823,16 @@ late_contributions:
   recipient_fid: '1471862'
   recipient_nid: '211792942'
   recipient_name: Building a Working SF Sponsored by Labor Organizations
-- fullname: DAVID BAKER, AN ARCHITECTURAL CORPORATION
+- fullname: ABDUR CHOWDHURY
   tx_amount: 5000.0
+  tx_date: '2026-09-14'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: TENANTS AND OWNERS DEVELOPMENT CORPORATION AND ITS AFFILIATED ENTITY YERBA
+    BUENA NEIGHBORHOOD CONSORTIUM LLC
+  tx_amount: 25000.0
   tx_date: '2026-09-14'
   contributor_fid: ''
   recipient_fid: '1492671'
@@ -1781,13 +1846,6 @@ late_contributions:
   recipient_fid: '1486185'
   recipient_nid: '217128861'
   recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: ABDUR CHOWDHURY
-  tx_amount: 5000.0
-  tx_date: '2026-09-14'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
 - fullname: PATRICK SKAIN
   tx_amount: 1000.0
   tx_date: '2026-09-14'
@@ -1802,6 +1860,13 @@ late_contributions:
   recipient_fid: '1479782'
   recipient_nid: '214099226'
   recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: GLEN VAN LEHN
+  tx_amount: 2500.0
+  tx_date: '2026-09-14'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: THE PRADO GROUP, INC.
   tx_amount: 50000.0
   tx_date: '2026-09-14'
@@ -1811,22 +1876,14 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: TENANTS AND OWNERS DEVELOPMENT CORPORATION AND ITS AFFILIATED ENTITY YERBA
-    BUENA NEIGHBORHOOD CONSORTIUM LLC
-  tx_amount: 25000.0
+- fullname: DAVID BAKER, AN ARCHITECTURAL CORPORATION
+  tx_amount: 5000.0
   tx_date: '2026-09-14'
   contributor_fid: ''
   recipient_fid: '1492671'
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-- fullname: GLEN VAN LEHN
-  tx_amount: 2500.0
-  tx_date: '2026-09-14'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
 - fullname: JEFF MAY
   tx_amount: 2500.0
   tx_date: '2026-09-13'
@@ -1855,13 +1912,6 @@ late_contributions:
   recipient_fid: '1488530'
   recipient_nid: '217045555'
   recipient_name: YES ON B, OUR CITY OUR BANK
-- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 10000.0
-  tx_date: '2026-09-10'
-  contributor_fid: '891575'
-  recipient_fid: '1493867'
-  recipient_nid: '217079174'
-  recipient_name: CLEAN UP THE CHARTER - YES ON A
 - fullname: SERVICE EMPLOYEES INTERNATIONAL UNION - SEIU LOCAL 2015 ISSUES PAC
   tx_amount: 50000.0
   tx_date: '2026-09-10'
@@ -1869,15 +1919,6 @@ late_contributions:
   recipient_fid: '1493873'
   recipient_nid: '217091337'
   recipient_name: TAX FORECLOSURES, YES ON J
-- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
-  tx_amount: 10000.0
-  tx_date: '2026-09-10'
-  contributor_fid: '891575'
-  recipient_fid: '1495424'
-  recipient_nid: '217233128'
-  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
-    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-    CHAMBER OF COMMERCE
 - fullname: ANDREW SEIGNER
   tx_amount: 1000.0
   tx_date: '2026-09-10'
@@ -1885,6 +1926,13 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
+  tx_amount: 10000.0
+  tx_date: '2026-09-10'
+  contributor_fid: '891575'
+  recipient_fid: '1493867'
+  recipient_nid: '217079174'
+  recipient_name: CLEAN UP THE CHARTER - YES ON A
 - fullname: MICHAEL HORVATH
   tx_amount: 2000.0
   tx_date: '2026-09-10'
@@ -1892,18 +1940,10 @@ late_contributions:
   recipient_fid: '1471154'
   recipient_nid: '211776936'
   recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: JOE GREEN
+- fullname: SF FORWARD SPONSORED BY SAN FRANCISCO CHAMBER OF COMMERCE
   tx_amount: 10000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
-  recipient_fid: '1486185'
-  recipient_nid: '217128861'
-  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
-    KEVIN VERDI)'
-  tx_amount: 25000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
+  tx_date: '2026-09-10'
+  contributor_fid: '891575'
   recipient_fid: '1495424'
   recipient_nid: '217233128'
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
@@ -1916,34 +1956,6 @@ late_contributions:
   recipient_fid: '1487286'
   recipient_nid: '215606983'
   recipient_name: SF Believes
-- fullname: KENDALL JESMER
-  tx_amount: 10000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
-  recipient_fid: '1486185'
-  recipient_nid: '217128861'
-  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: WEI SELENA CHU
-  tx_amount: 5000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: SUSIE TOMPKINS
-  tx_amount: 10000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
-  recipient_fid: '1486185'
-  recipient_nid: '217128861'
-  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: BENJAMIN SPERO
-  tx_amount: 100000.0
-  tx_date: '2026-09-09'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: EMERSON COLLECTIVE LLC(DIEDRA NELSON)
   tx_amount: 50000.0
   tx_date: '2026-09-09'
@@ -1968,7 +1980,59 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: BENJAMIN SPERO
+  tx_amount: 100000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
+- fullname: WEI SELENA CHU
+  tx_amount: 5000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: JOE GREEN
+  tx_amount: 10000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1486185'
+  recipient_nid: '217128861'
+  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+- fullname: KENDALL JESMER
+  tx_amount: 10000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1486185'
+  recipient_nid: '217128861'
+  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
+- fullname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES(RESPONSIBLE OFFICER:
+    KEVIN VERDI)'
+  tx_amount: 25000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1495424'
+  recipient_nid: '217233128'
+  recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
+    THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+    CHAMBER OF COMMERCE
+- fullname: SUSIE TOMPKINS
+  tx_amount: 10000.0
+  tx_date: '2026-09-09'
+  contributor_fid: ''
+  recipient_fid: '1486185'
+  recipient_nid: '217128861'
+  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
 - fullname: JOHNNIE MANZARI
+  tx_amount: 25000.0
+  tx_date: '2026-09-08'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: ETHAN KURZWEIL
   tx_amount: 25000.0
   tx_date: '2026-09-08'
   contributor_fid: ''
@@ -1982,13 +2046,6 @@ late_contributions:
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: ETHAN KURZWEIL
-  tx_amount: 25000.0
-  tx_date: '2026-09-08'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
 - fullname: TEAMSTERS LOCAL UNION 350 PAC
   tx_amount: 2500.0
   tx_date: '2026-09-08'
@@ -2048,20 +2105,6 @@ late_contributions:
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: MICHAEL MORITZ
-  tx_amount: 150000.0
-  tx_date: '2026-09-03'
-  contributor_fid: ''
-  recipient_fid: '1493867'
-  recipient_nid: '217079174'
-  recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: ABDUR CHOWDHURY
-  tx_amount: 5000.0
-  tx_date: '2026-09-03'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
 - fullname: U.A. LOCAL 38 COPE FUND
   tx_amount: 25000.0
   tx_date: '2026-09-03'
@@ -2071,6 +2114,34 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
+- fullname: MICHAEL MORITZ
+  tx_amount: 100000.0
+  tx_date: '2026-09-03'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: ABDUR CHOWDHURY
+  tx_amount: 5000.0
+  tx_date: '2026-09-03'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: ERICKSON SILVANUS O.
+  tx_amount: 5000.0
+  tx_date: '2026-09-03'
+  contributor_fid: ''
+  recipient_fid: '1493867'
+  recipient_nid: '217079174'
+  recipient_name: CLEAN UP THE CHARTER - YES ON A
+- fullname: HEATHER DAVIES
+  tx_amount: 250.0
+  tx_date: '2026-09-03'
+  contributor_fid: ''
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: INTERNATIONAL FEDERATION OF PROFESSIONAL AND TECHNICAL ENGINEERS - LOCAL
     21 TJ ANTHONY PAC FUND
   tx_amount: 165000.0
@@ -2079,20 +2150,13 @@ late_contributions:
   recipient_fid: '1471862'
   recipient_nid: '211792942'
   recipient_name: Building a Working SF Sponsored by Labor Organizations
-- fullname: ERICKSON SILVANUS O.
-  tx_amount: 5000.0
+- fullname: MICHAEL MORITZ
+  tx_amount: 150000.0
   tx_date: '2026-09-03'
   contributor_fid: ''
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
-- fullname: MICHAEL MORITZ
-  tx_amount: 100000.0
-  tx_date: '2026-09-03'
-  contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: ANDRES SALERNO
   tx_amount: 1500.0
   tx_date: '2026-09-03'
@@ -2100,13 +2164,13 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
-- fullname: HEATHER DAVIES
-  tx_amount: 250.0
-  tx_date: '2026-09-03'
+- fullname: MICHAEL BRADLEY EISLER REVOCABLE TRUST
+  tx_amount: 10000.0
+  tx_date: '2026-09-02'
   contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+  recipient_fid: '1486185'
+  recipient_nid: '217128861'
+  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
 - fullname: NICHOLAS STERNGROVR
   tx_amount: 1000.0
   tx_date: '2026-09-02'
@@ -2129,20 +2193,6 @@ late_contributions:
   recipient_nid: '217267598'
   recipient_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR
     SUPERVISOR 2026
-- fullname: MICHAEL BRADLEY EISLER REVOCABLE TRUST
-  tx_amount: 10000.0
-  tx_date: '2026-09-02'
-  contributor_fid: ''
-  recipient_fid: '1486185'
-  recipient_nid: '217128861'
-  recipient_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
-- fullname: JEFFREY LAWSON
-  tx_amount: 250000.0
-  tx_date: '2026-09-01'
-  contributor_fid: ''
-  recipient_fid: '1479782'
-  recipient_nid: '214099226'
-  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: ERWIN TAM
   tx_amount: 10000.0
   tx_date: '2026-09-01'
@@ -2166,6 +2216,13 @@ late_contributions:
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
+- fullname: JEFFREY LAWSON
+  tx_amount: 250000.0
+  tx_date: '2026-09-01'
+  contributor_fid: ''
+  recipient_fid: '1479782'
+  recipient_nid: '214099226'
+  recipient_name: MAYOR LURIE'S YES ON H COMMITTEE
 - fullname: UNITED EDUCATORS OF SAN FRANCISCO (SPONSOR)
   tx_amount: 5380.98
   tx_date: '2026-08-31'
@@ -2187,6 +2244,20 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
+- fullname: BARAK GILA
+  tx_amount: 828.0
+  tx_date: '2026-08-28'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
+- fullname: PAUL D ELLWOOD
+  tx_amount: 5000.0
+  tx_date: '2026-08-28'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
 - fullname: RISHAV ROUT
   tx_amount: 71.43
   tx_date: '2026-08-28'
@@ -2201,34 +2272,6 @@ late_contributions:
   recipient_fid: '1433436'
   recipient_nid: '201619433'
   recipient_name: GrowSF Voter Guide
-- fullname: PAUL D ELLWOOD
-  tx_amount: 5000.0
-  tx_date: '2026-08-28'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: BARAK GILA
-  tx_amount: 828.0
-  tx_date: '2026-08-28'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: KAREN KNUTH
-  tx_amount: 500.0
-  tx_date: '2026-08-27'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: JULIE PITTA
-  tx_amount: 500.0
-  tx_date: '2026-08-27'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: ROBERT HO
   tx_amount: 500.0
   tx_date: '2026-08-27'
@@ -2236,35 +2279,13 @@ late_contributions:
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
-  tx_amount: 1000.0
+- fullname: MICHAEL SEIBEL
+  tx_amount: 200000.0
   tx_date: '2026-08-27'
   contributor_fid: ''
-  recipient_fid: '1442994'
-  recipient_nid: '201848961'
-  recipient_name: SAN FRANCISCO PARENT ACTION PAC
-- fullname: SAN FRANCISCO POLICE OFFICERS ASSOCIATION ISSUES PAC
-  tx_amount: 10000.0
-  tx_date: '2026-08-27'
-  contributor_fid: '1317554'
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: THE SAN FRANCISCO FOUNDATION
-  tx_amount: 50000.0
-  tx_date: '2026-08-27'
-  contributor_fid: ''
-  recipient_fid: '1492671'
-  recipient_nid: '216956820'
-  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
-    NPH ACTION FUND
-- fullname: RISHAV ROUT
-  tx_amount: 500.0
-  tx_date: '2026-08-27'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_nid: '217045555'
-  recipient_name: YES ON B, OUR CITY OUR BANK
 - fullname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_amount: 50000.0
   tx_date: '2026-08-27'
@@ -2274,13 +2295,27 @@ late_contributions:
   recipient_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-- fullname: MICHAEL SEIBEL
-  tx_amount: 200000.0
+- fullname: KAREN KNUTH
+  tx_amount: 500.0
   tx_date: '2026-08-27'
   contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: RISHAV ROUT
+  tx_amount: 500.0
+  tx_date: '2026-08-27'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
+  tx_amount: 1000.0
+  tx_date: '2026-08-27'
+  contributor_fid: ''
+  recipient_fid: '1442994'
+  recipient_nid: '201848961'
+  recipient_name: SAN FRANCISCO PARENT ACTION PAC
 - fullname: GFC COURAGE COMMITTEE - SAN FRANCISCO CHAPTER
   tx_amount: 500.0
   tx_date: '2026-08-27'
@@ -2288,27 +2323,28 @@ late_contributions:
   recipient_fid: '1442994'
   recipient_nid: '201848961'
   recipient_name: SAN FRANCISCO PARENT ACTION PAC
-- fullname: VALERIE BLOCK
-  tx_amount: 1000.0
-  tx_date: '2026-08-26'
+- fullname: THE SAN FRANCISCO FOUNDATION
+  tx_amount: 50000.0
+  tx_date: '2026-08-27'
   contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-- fullname: DYLAN HIRSCH-SHELL
-  tx_amount: 5000.0
-  tx_date: '2026-08-26'
+  recipient_fid: '1492671'
+  recipient_nid: '216956820'
+  recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
+    NPH ACTION FUND
+- fullname: SAN FRANCISCO POLICE OFFICERS ASSOCIATION ISSUES PAC
+  tx_amount: 10000.0
+  tx_date: '2026-08-27'
+  contributor_fid: '1317554'
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+- fullname: JULIE PITTA
+  tx_amount: 500.0
+  tx_date: '2026-08-27'
   contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
-- fullname: DOUGLAS ENGMANN
-  tx_amount: 1000.0
-  tx_date: '2026-08-26'
-  contributor_fid: ''
-  recipient_fid: '1494100'
-  recipient_nid: '217019367'
-  recipient_name: FAIR ACCESS NO ON D
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
 - fullname: LAWRENCE CUSHMAN
   tx_amount: 10000.0
   tx_date: '2026-08-26'
@@ -2316,6 +2352,27 @@ late_contributions:
   recipient_fid: '1493867'
   recipient_nid: '217079174'
   recipient_name: CLEAN UP THE CHARTER - YES ON A
+- fullname: DOUGLAS ENGMANN
+  tx_amount: 1000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1494100'
+  recipient_nid: '217019367'
+  recipient_name: FAIR ACCESS NO ON D
+- fullname: DYLAN HIRSCH-SHELL
+  tx_amount: 5000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
+- fullname: VALERIE BLOCK
+  tx_amount: 1000.0
+  tx_date: '2026-08-26'
+  contributor_fid: ''
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: JPMORGAN CHASE & CO. PAC
   tx_amount: 50000.0
   tx_date: '2026-08-25'
@@ -2451,27 +2508,13 @@ late_contributions:
   recipient_fid: '1490845'
   recipient_nid: '216747316'
   recipient_name: FAIR HOUSING, YES ON I
-- fullname: HEATHER DAVIES
-  tx_amount: 500.0
-  tx_date: '2026-08-14'
-  contributor_fid: ''
-  recipient_fid: '1487005'
-  recipient_nid: '215573474'
-  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
-- fullname: RACHEL NORTON
-  tx_amount: 250.0
+- fullname: CLIFFORD YEE
+  tx_amount: 100.0
   tx_date: '2026-08-14'
   contributor_fid: ''
   recipient_fid: '1442994'
   recipient_nid: '201848961'
   recipient_name: SAN FRANCISCO PARENT ACTION PAC
-- fullname: AMY MORRIS
-  tx_amount: 1500.0
-  tx_date: '2026-08-14'
-  contributor_fid: ''
-  recipient_fid: '1471154'
-  recipient_nid: '211776936'
-  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: NPH ACTION FUND POLITICAL ISSUES COMMITTEE
   tx_amount: 400000.0
   tx_date: '2026-08-14'
@@ -2480,34 +2523,27 @@ late_contributions:
   recipient_nid: '216956820'
   recipient_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-- fullname: CLIFFORD YEE
-  tx_amount: 100.0
+- fullname: RACHEL NORTON
+  tx_amount: 250.0
   tx_date: '2026-08-14'
   contributor_fid: ''
   recipient_fid: '1442994'
   recipient_nid: '201848961'
   recipient_name: SAN FRANCISCO PARENT ACTION PAC
-- fullname: JARED FRIEDMAN
-  tx_amount: 100000.0
-  tx_date: '2026-08-13'
+- fullname: HEATHER DAVIES
+  tx_amount: 500.0
+  tx_date: '2026-08-14'
   contributor_fid: ''
-  recipient_fid: '1489257'
-  recipient_nid: '216006060'
-  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: KAT SIEGAL
-  tx_amount: 1000.0
-  tx_date: '2026-08-13'
+  recipient_fid: '1487005'
+  recipient_nid: '215573474'
+  recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: AMY MORRIS
+  tx_amount: 1500.0
+  tx_date: '2026-08-14'
   contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
-- fullname: CHRISTIN EVANS
-  tx_amount: 2500.0
-  tx_date: '2026-08-13'
-  contributor_fid: ''
-  recipient_fid: '1488530'
-  recipient_nid: '217045555'
-  recipient_name: YES ON B, OUR CITY OUR BANK
+  recipient_fid: '1471154'
+  recipient_nid: '211776936'
+  recipient_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
 - fullname: SHARON SAUNDERS
   tx_amount: 7500.0
   tx_date: '2026-08-13'
@@ -2522,6 +2558,27 @@ late_contributions:
   recipient_fid: '1442994'
   recipient_nid: '201848961'
   recipient_name: SAN FRANCISCO PARENT ACTION PAC
+- fullname: KAT SIEGAL
+  tx_amount: 1000.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
+- fullname: CHRISTIN EVANS
+  tx_amount: 2500.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1488530'
+  recipient_nid: '217045555'
+  recipient_name: YES ON B, OUR CITY OUR BANK
+- fullname: JARED FRIEDMAN
+  tx_amount: 100000.0
+  tx_date: '2026-08-13'
+  contributor_fid: ''
+  recipient_fid: '1489257'
+  recipient_nid: '216006060'
+  recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
 - fullname: SAIKAT CHAKRABARTI
   tx_amount: 50000.0
   tx_date: '2026-08-12'
@@ -2536,6 +2593,13 @@ late_contributions:
   recipient_fid: '1442994'
   recipient_nid: '201848961'
   recipient_name: SAN FRANCISCO PARENT ACTION PAC
+- fullname: JAMES W CAMPBELL
+  tx_amount: 49000.0
+  tx_date: '2026-08-11'
+  contributor_fid: ''
+  recipient_fid: '1433436'
+  recipient_nid: '201619433'
+  recipient_name: GrowSF Voter Guide
 - fullname: NATHAN ALEMAN
   tx_amount: 5000.0
   tx_date: '2026-08-11'
@@ -2557,20 +2621,6 @@ late_contributions:
   recipient_fid: '1489257'
   recipient_nid: '216006060'
   recipient_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-- fullname: JAMES W CAMPBELL
-  tx_amount: 49000.0
-  tx_date: '2026-08-11'
-  contributor_fid: ''
-  recipient_fid: '1433436'
-  recipient_nid: '201619433'
-  recipient_name: GrowSF Voter Guide
-- fullname: DEAN PRESTON
-  tx_amount: 7500.0
-  tx_date: '2026-08-10'
-  contributor_fid: ''
-  recipient_fid: '1490845'
-  recipient_nid: '216747316'
-  recipient_name: FAIR HOUSING, YES ON I
 - fullname: LISA ARJES
   tx_amount: 5000.0
   tx_date: '2026-08-10'
@@ -2592,6 +2642,13 @@ late_contributions:
   recipient_fid: '1487005'
   recipient_nid: '215573474'
   recipient_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+- fullname: DEAN PRESTON
+  tx_amount: 7500.0
+  tx_date: '2026-08-10'
+  contributor_fid: ''
+  recipient_fid: '1490845'
+  recipient_nid: '216747316'
+  recipient_name: FAIR HOUSING, YES ON I
 - fullname: ANDREW CASTEEL
   tx_amount: 1000.0
   tx_date: '2026-08-10'

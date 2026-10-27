@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 513523.15
+    expenses: 520723.15
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:

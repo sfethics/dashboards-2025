@@ -35,7 +35,7 @@ committees:
   filer_nid: '216747316'
   filer_id: '1490845'
   committee_name: FAIR HOUSING, YES ON I
-  funds: 684907.25
+  funds: 687297.25
   expenses: 541110.46
   ies: ''
 - position: SUPPORT

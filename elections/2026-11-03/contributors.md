@@ -199,7 +199,7 @@ contributors:
 - tx_lastname: SAIKAT CHAKRABARTI
   tx_entitycode: Individual
   tx_cmteid: ''
-  tx_amount: 351000.0
+  tx_amount: 376000.0
   transactions:
   - cmte_fppcid: '1487291'
     cmte_name: RE-ELECT MANO RAJU FOR PUBLIC DEFENDER 2026
@@ -209,7 +209,7 @@ contributors:
     tx_amount: 150000.0
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 150000.0
+    tx_amount: 175000.0
   - cmte_fppcid: '1493873'
     cmte_name: TAX FORECLOSURES, YES ON J
     tx_amount: 50000.0
@@ -1338,6 +1338,14 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 25000.0
+- tx_lastname: CALIFORNIA ALLIANCE OF FAMILY OWNED BUSINESSES PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1465611'
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 25000.0
 - tx_lastname: CALIFORNIA BUSINESS PROPERTIES ASSOCIATION ISSUES PAC
   tx_entitycode: Committee
   tx_cmteid: '1244001'
@@ -1400,6 +1408,15 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 25000.0
+- tx_lastname: GUZMAN CONSTRUCTION GROUP, INC.
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
     tx_amount: 25000.0
 - tx_lastname: HANSON BRIDGETT LLP
   tx_entitycode: Other
@@ -2242,6 +2259,14 @@ contributors:
   - cmte_fppcid: '1493786'
     cmte_name: MONROE LACE FOR CITY COLLEGE 2026
     tx_amount: 500.0
+- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 5950.0
+  transactions:
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 5950.0
 - tx_lastname: LISA ARJES
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2579,14 +2604,6 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 4900.0
-- tx_lastname: SAN FRANCISCO PUBLIC BANK COALITION
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 4830.0
-  transactions:
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 4830.0
 - tx_lastname: ALISON PINCUS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2877,6 +2894,14 @@ contributors:
   - cmte_fppcid: '1493505'
     cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 500.0
+- tx_lastname: SPRINKLER FITTERS & APPRENTICES LOCAL 483
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 3000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 3000.0
 - tx_lastname: TIFFANY LOEWENBERG
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3279,6 +3304,14 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 2100.0
+- tx_lastname: SAN FRANCISCO LEAGUE OF PISSED OFF VOTERS
+  tx_entitycode: Committee
+  tx_cmteid: '1374879'
+  tx_amount: 2390.0
+  transactions:
+  - cmte_fppcid: '1490845'
+    cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 2390.0
 - tx_lastname: MYRNA MELGAR
   tx_entitycode: Individual
   tx_cmteid: ''
