@@ -180,6 +180,9 @@ committees:
   cmte_fppcid: '1393126'
   cmte_nid: '217033530'
 - cmte_name: Fair Access No on D
+  cmte_fppcid: '1494110'
+  cmte_nid: '217019367'
+- cmte_name: Fair Access No on D
   cmte_fppcid: '1494100'
   cmte_nid: '217019367'
 - cmte_name: Fair Housing, Yes on I
@@ -447,14 +450,14 @@ committees:
 - cmte_name: District 2 Democractic Club Smo
   cmte_fppcid: '1466947'
   cmte_nid: unknown
+- cmte_name: District 2 Democratic Club 2022 Slate Mailer Organization
+  cmte_fppcid: '1448527'
+  cmte_nid: unknown
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club Voter Guide
   cmte_fppcid: '1342711'
   cmte_nid: unknown
 - cmte_name: Equality California Political Action Committee
   cmte_fppcid: '1254010'
-  cmte_nid: unknown
-- cmte_name: Fair Access No on D
-  cmte_fppcid: '1494110'
   cmte_nid: unknown
 - cmte_name: Friends of Sarah Mcbride
   cmte_fppcid: '01004707'

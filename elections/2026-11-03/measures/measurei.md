@@ -29,8 +29,8 @@ committees:
   committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
     Development Corp.
   funds: ''
-  expenses: 4261.29
-  ies: 4261.29
+  expenses: 5261.29
+  ies: 5261.29
 - position: SUPPORT
   filer_nid: '216747316'
   filer_id: '1490845'
@@ -52,7 +52,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2622999.0
+  funds: 2677749.0
   expenses: 1462414.45
 contributors:
 - - Saikat Chakrabarti

@@ -1044,6 +1044,17 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: 'MISSION ROCK PARCEL A OWNER, LLC AND AFFILIATED ENTITIES(RESPONSIBLE
+    OFFICER: MICHAEL BENNER)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 50000.0
 - tx_lastname: NISHA BIRLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1171,6 +1182,19 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 35000.0
+- tx_lastname: HOTEL COUNCIL OF SAN FRANCISCO PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1381090'
+  tx_amount: 35000.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 10000.0
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 25000.0
 - tx_lastname: OPERATING ENGINEERS LOCAL UNION NO. 3 ISSUES ADVOCACY/BALLOT INITIATIVE
     PAC
   tx_entitycode: Committee
@@ -1224,17 +1248,6 @@ contributors:
       AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 30000.0
 - tx_lastname: BUILD GROUP INC
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 30000.0
-  transactions:
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
-    tx_amount: 30000.0
-- tx_lastname: 'MISSION ROCK PARCEL A OWNER, LLC AND AFFILIATED ENTITIES(RESPONSIBLE
-    OFFICER: MICHAEL BENNER)'
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 30000.0
@@ -1653,19 +1666,6 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 125.0
-- tx_lastname: HOTEL COUNCIL OF SAN FRANCISCO PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1381090'
-  tx_amount: 15000.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-    tx_amount: 10000.0
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
-    tx_amount: 5000.0
 - tx_lastname: IAN STORM TAYLOR
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1906,6 +1906,15 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 10000.0
+- tx_lastname: CHINATOWN COMMUNITY DEVELOPMENT CENTER
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 10000.0
 - tx_lastname: DEMOCRATIC SOCIALISTS OF AMERICA, SAN FRANCISCO CHAPTER
   tx_entitycode: Other
   tx_cmteid: ''
@@ -1913,6 +1922,14 @@ contributors:
   transactions:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
+    tx_amount: 10000.0
+- tx_lastname: DIANE WILSEY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 10000.0
 - tx_lastname: JOE GREEN
   tx_entitycode: Individual
@@ -2003,6 +2020,14 @@ contributors:
 - tx_lastname: TEAMSTERS JOINT COUNCIL NO. 7
   tx_entitycode: Other
   tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 10000.0
+- tx_lastname: TEAMSTERS LOCAL NO. 853 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1250157'
   tx_amount: 10000.0
   transactions:
   - cmte_fppcid: '1479782'
@@ -2560,14 +2585,6 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 5000.0
-- tx_lastname: TEAMSTERS LOCAL NO. 853 PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1250157'
-  tx_amount: 5000.0
-  transactions:
-  - cmte_fppcid: '1479782'
-    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-    tx_amount: 5000.0
 - tx_lastname: UNITED EDUCATORS OF SAN FRANCISCO COPE
   tx_entitycode: Committee
   tx_cmteid: '822448'
@@ -2773,6 +2790,20 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1492919'
     cmte_name: ELIJAH I. BALL
+    tx_amount: 100.0
+- tx_lastname: ROBERT HOLGATE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 3600.0
+  transactions:
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 1000.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 2500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
     tx_amount: 100.0
 - tx_lastname: ALEXANDRA CONRAD
   tx_entitycode: Individual
@@ -3106,6 +3137,16 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: CHRIS BANKE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 2500.0
 - tx_lastname: CHRISTIN NICOLE EVANS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3187,6 +3228,16 @@ contributors:
   - cmte_fppcid: '1488530'
     cmte_name: YES ON B, OUR CITY OUR BANK
     tx_amount: 2500.0
+- tx_lastname: LOUIS STERVINOU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 2500.0
 - tx_lastname: LOUISE PATTERSON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3204,6 +3255,16 @@ contributors:
   - cmte_fppcid: '1493505'
     cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
     tx_amount: 1000.0
+- tx_lastname: MARK PENROD
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 2500.0
 - tx_lastname: MICHAEL R GLASER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3249,6 +3310,16 @@ contributors:
     cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
       ACTION FUND
     tx_amount: 2500.0
+- tx_lastname: QUYNH LE
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 2500.0
 - tx_lastname: RIMA BHUMBLA
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3272,6 +3343,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1493867'
     cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 2500.0
+- tx_lastname: WILL PURCELL
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2500.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 2500.0
 - tx_lastname: ZACK ROSEN
   tx_entitycode: Individual
@@ -5299,6 +5380,16 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: GINA WEHMUELLER
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1250.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 1250.0
 - tx_lastname: GUSTAF ALSTROMER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -5814,17 +5905,6 @@ contributors:
     tx_amount: 250.0
   - cmte_fppcid: '1492919'
     cmte_name: ELIJAH I. BALL
-    tx_amount: 100.0
-- tx_lastname: ROBERT HOLGATE
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 1100.0
-  transactions:
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 1000.0
-  - cmte_fppcid: '1493786'
-    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
     tx_amount: 100.0
 - tx_lastname: SAM MOGANNAM
   tx_entitycode: Individual
@@ -6349,6 +6429,14 @@ contributors:
   - cmte_fppcid: '1484091'
     cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: DAN ZHU
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 1000.0
 - tx_lastname: DANIEL ANDERSON
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -7749,6 +7837,17 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: 'SWIFT 260 CALIFORNIA INVESTORS (OFFICE) LLC(RESPONSIBLE OFFICER: RICK
+    BUZIAK)'
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 1000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 1000.0
 - tx_lastname: TAYA CROMLEY
   tx_entitycode: Individual
   tx_cmteid: ''

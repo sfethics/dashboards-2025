@@ -15,8 +15,8 @@ committees:
   committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
     Development Corp.
   funds: ''
-  expenses: 4261.29
-  ies: 4261.29
+  expenses: 5261.29
+  ies: 5261.29
 - position: SUPPORT
   filer_nid: '201619433'
   filer_id: '1433436'
@@ -29,7 +29,7 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 1194673.01
+  funds: 1204673.01
   expenses: 601038.01
   ies: ''
 - position: SUPPORT
@@ -53,7 +53,7 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2622999.0
+  funds: 2677749.0
   expenses: 1462414.45
 contributors:
 - - Nph Action Fund Political Issues Committee
@@ -75,8 +75,8 @@ contributors:
 - - Tenants and Owners Development Corporation and Its Affiliated Entity Yerba Buena
     Neighborhood Consortium LLC
   - 25000.0
-- - David Baker, An Architectural Corporation
-  - 5000.0
+- - Chinatown Community Development Center
+  - 10000.0
 
 ---
 

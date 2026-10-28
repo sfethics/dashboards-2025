@@ -10,6 +10,14 @@ breadcrumbs:
   - elections/2026-11-03/measures/measurej
 committees:
 - position: SUPPORT
+  filer_nid: '161155640'
+  filer_id: '1388285'
+  committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
+    Development Corp.
+  funds: ''
+  expenses: 1000.0
+  ies: 1000.0
+- position: SUPPORT
   filer_nid: '217091337'
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J

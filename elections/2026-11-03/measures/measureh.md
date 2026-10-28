@@ -27,7 +27,7 @@ committees:
   filer_nid: '214099226'
   filer_id: '1479782'
   committee_name: MAYOR LURIE'S YES ON H COMMITTEE
-  funds: 5139524.23
+  funds: 5144524.23
   expenses: 4247915.59
   ies: ''
 - position: SUPPORT
