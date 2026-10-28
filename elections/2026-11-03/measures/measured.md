@@ -15,8 +15,8 @@ committees:
   committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
     Development Corp.
   funds: ''
-  expenses: 6960.04
-  ies: 6960.04
+  expenses: 17960.04
+  ies: 17960.04
 - position: OPPOSE
   filer_nid: '211792942'
   filer_id: '1471862'
@@ -26,10 +26,17 @@ committees:
   ies: 2400.0
 - position: OPPOSE
   filer_nid: '217019367'
+  filer_id: '1494110'
+  committee_name: FAIR ACCESS NO ON D
+  funds: 412570.0
+  expenses: 436508.4
+  ies: ''
+- position: OPPOSE
+  filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 206285.0
-  expenses: 218254.2
+  funds: 412570.0
+  expenses: 436508.4
   ies: ''
 - position: OPPOSE
   filer_nid: '217661076'

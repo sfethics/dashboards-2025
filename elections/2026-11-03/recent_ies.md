@@ -5,6 +5,20 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 11714.87
+  tx_date: '2026-10-27'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217829711?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Alliance of Family Owned Businesses PAC
+  cmte_fppcid: '1465611'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 6595.54
+  tx_date: '2026-10-27'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217829711?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -12,6 +26,22 @@ recent_ies:
   tx_amount: 7200.0
   tx_date: '2026-10-26'
   attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 5000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 4000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -26,6 +56,55 @@ recent_ies:
   tx_amount: 2400.0
   tx_date: '2026-10-26'
   attachment_url: ''
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'I: Changes to Real Property Transfer Tax'
+  position: SUPPORT
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837081?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_I
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'C: Contributions to the Housing Fund'
+  position: SUPPORT
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837123?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_C
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'J: Removal of Foreclosure Exemption for Real Property Transfer
+    Tax'
+  position: SUPPORT
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837091?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_J
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
+  position: SUPPORT
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837111?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._SUPPORTING_MEASURE_B
+- cmte_name: Build Affordable Faster California, sponsored by Tenants and Owners Development
+    Corp.
+  cmte_fppcid: '1388285'
+  ie_description: 'D: Changes to Ballot Measure Process'
+  position: OPPOSE
+  tx_amount: 1000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'

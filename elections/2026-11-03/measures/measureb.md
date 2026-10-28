@@ -24,10 +24,18 @@ committees:
   expenses: 5822.64
   ies: 5822.64
 - position: SUPPORT
+  filer_nid: '161155640'
+  filer_id: '1388285'
+  committee_name: Build Affordable Faster California, sponsored by Tenants and Owners
+    Development Corp.
+  funds: ''
+  expenses: 1000.0
+  ies: 1000.0
+- position: SUPPORT
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 333685.55
+  funds: 336185.55
   expenses: 139244.11
   ies: ''
 - position: SUPPORT
@@ -53,12 +61,12 @@ contributors:
   - 3000.0
 - - Christin Nicole Evans
   - 2500.0
+- - Robert Holgate
+  - 2500.0
 - - Jeff May
   - 2500.0
 - - Amy Zheng
   - 1750.0
-- - Social Good Fund
-  - 1120.0
 
 ---
 

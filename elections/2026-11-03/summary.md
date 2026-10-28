@@ -91,7 +91,7 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 625794.3
+  expenses: 644104.71
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -132,33 +132,33 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 4283218.41
-  funds: 5139524.23
+  funds: 5144524.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 579714.86
+  expenses: 580714.86
   funds: 687297.25
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
   expenses: 1188920.99
-  funds: 1759761.32
+  funds: 1770761.32
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
-  expenses: 666837.12
-  funds: 1194673.01
+  expenses: 667837.12
+  funds: 1204673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 229847.95
-  funds: 206285.0
+  expenses: 459102.15
+  funds: 412570.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
-  expenses: 168180.11
-  funds: 333685.55
+  expenses: 169180.11
+  funds: 336185.55
 - contest_nid: '217062208'
   contest_name: 'F: Changes to Executive Branch Management'
   contest_link: measuref
@@ -172,7 +172,7 @@ measures:
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
-  expenses: 165257.34
+  expenses: 166257.34
   funds: 207957.45
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
@@ -183,7 +183,7 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 1462414.45
-  funds: 2622999.0
+  funds: 2677749.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
@@ -193,7 +193,7 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Jeremy Stoppelman
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -226,7 +226,7 @@ top_cand_spends:
 - cmte_nid: '216701453'
   cmte_fppcid: '1465611'
   cmte_name: California Alliance of Family Owned Businesses PAC
-  total_expense: 269421.26
+  total_expense: 287731.67
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'

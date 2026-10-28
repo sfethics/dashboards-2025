@@ -37,7 +37,7 @@ committees:
   cmte_fppcid: '1388285'
   cmte_nid: '161155640'
   committee_type: General Purpose
-  total_expense: 28882.62
+  total_expense: 43882.62
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
@@ -48,7 +48,7 @@ committees:
   cmte_fppcid: '1433587'
   cmte_nid: '162062420'
   committee_type: Major Donor
-  total_expense: 125000.0
+  total_expense: 130000.0
 - cmte_name: The Swig Company, LLC
   cmte_fppcid: unknown
   cmte_nid: '171851239'
@@ -105,7 +105,7 @@ committees:
   cmte_fppcid: '1478129'
   cmte_nid: '209507341'
   committee_type: Major Donor
-  total_expense: 350000.0
+  total_expense: 375000.0
 - cmte_name: Enrique Landa
   cmte_fppcid: '1454305'
   cmte_nid: '210576256'
@@ -265,7 +265,7 @@ committees:
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
   committee_type: General Purpose
-  total_expense: 269421.26
+  total_expense: 287731.67
 - cmte_name: Laurene Powell Jobs; Including Emerson Collective, LLC
   cmte_fppcid: '1225686'
   cmte_nid: '216724533'
