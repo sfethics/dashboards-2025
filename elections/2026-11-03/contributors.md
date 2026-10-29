@@ -400,6 +400,14 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 150000.0
+- tx_lastname: SERVICE EMPLOYEE INTERNATION UNION LOCAL 2015
+  tx_entitycode: Other
+  tx_cmteid: '1378400'
+  tx_amount: 150000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 150000.0
 - tx_lastname: SF BELIEVES
   tx_entitycode: Committee
   tx_cmteid: '1487286'
@@ -669,6 +677,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 100000.0
+- tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 91000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 91000.0
 - tx_lastname: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 CANDIDATE PAC
   tx_entitycode: Other
   tx_cmteid: '1296948'
@@ -679,14 +695,6 @@ contributors:
       AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
       AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
     tx_amount: 90000.0
-- tx_lastname: TENANTS AND OWNERS DEVELOPMENT CORPORATION
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 80000.0
-  transactions:
-  - cmte_fppcid: '1494100'
-    cmte_name: FAIR ACCESS NO ON D
-    tx_amount: 80000.0
 - tx_lastname: 'CORE URBAN HOLDINGS LLC AND AFFILIATED ENTITIES((RESPONSIBLE OFFICER:
     KEVIN VERDI) )'
   tx_entitycode: Other
@@ -1044,6 +1052,14 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
+- tx_lastname: META PLATFORMS, INC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 50000.0
 - tx_lastname: 'MISSION ROCK PARCEL A OWNER, LLC AND AFFILIATED ENTITIES(RESPONSIBLE
     OFFICER: MICHAEL BENNER)'
   tx_entitycode: Other
@@ -1174,6 +1190,16 @@ contributors:
   - cmte_fppcid: '1486185'
     cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 1500.0
+- tx_lastname: BXP, INC
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 35000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
+    tx_amount: 35000.0
 - tx_lastname: DONALD J EDWARDS
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -1438,6 +1464,16 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 25000.0
+- tx_lastname: HUDSON PACIFIC PROPERTIES AND AFFILIATED ENTITIES
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 25000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 25000.0
 - tx_lastname: INTERNATIONAL FEDERATION PROFESSIONAL TECHNICAL ENGINEERS
   tx_entitycode: Committee
@@ -1888,16 +1924,6 @@ contributors:
     tx_amount: 10000.0
 - tx_lastname: ANTON N. NATSIS
   tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 10000.0
-  transactions:
-  - cmte_fppcid: '1495424'
-    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
-      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
-      CHAMBER OF COMMERCE
-    tx_amount: 10000.0
-- tx_lastname: BXP, INC
-  tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 10000.0
   transactions:
@@ -2543,6 +2569,14 @@ contributors:
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 500.0
+- tx_lastname: ROSE PAK DEMOCRATIC CLUB
+  tx_entitycode: Committee
+  tx_cmteid: '1391291'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1494100'
+    cmte_name: FAIR ACCESS NO ON D
+    tx_amount: 5000.0
 - tx_lastname: SAN FRANCISCO BROADWAY SHOWGIRLS CLUB MANAGEMENT LLC(JOSEPH CAROUBA)
   tx_entitycode: Other
   tx_cmteid: ''
@@ -4801,6 +4835,20 @@ contributors:
   - cmte_fppcid: '1490845'
     cmte_name: FAIR HOUSING, YES ON I
     tx_amount: 350.0
+- tx_lastname: MATT HANEY FOR ASSEMBLY 2026
+  tx_entitycode: Committee
+  tx_cmteid: '1476944'
+  tx_amount: 1500.0
+  transactions:
+  - cmte_fppcid: '1481892'
+    cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1484091'
+    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
+    tx_amount: 500.0
 - tx_lastname: MATTHEW GOUDEAU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -7289,17 +7337,6 @@ contributors:
   - cmte_fppcid: '1471154'
     cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
     tx_amount: 1000.0
-- tx_lastname: MATT HANEY FOR ASSEMBLY 2026
-  tx_entitycode: Committee
-  tx_cmteid: '1476944'
-  tx_amount: 1000.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1484091'
-    cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
-    tx_amount: 500.0
 - tx_lastname: MATTHEW GOLDMAN
   tx_entitycode: Individual
   tx_cmteid: ''

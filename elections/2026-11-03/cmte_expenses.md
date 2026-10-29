@@ -22,6 +22,11 @@ committees:
   cmte_nid: '126511772'
   committee_type: Major Donor
   total_expense: 5000.0
+- cmte_name: Chinatown Community Development Center
+  cmte_fppcid: '1373053'
+  cmte_nid: '135620582'
+  committee_type: Major Donor
+  total_expense: 10000.0
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -145,7 +150,7 @@ committees:
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
   committee_type: Candidate Controlled
-  total_expense: 162683.91
+  total_expense: 162711.91
 - cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
   cmte_fppcid: '1482707'
   cmte_nid: '214577156'
@@ -240,7 +245,7 @@ committees:
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
-  total_expense: 10278764.51
+  total_expense: 10308764.51
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
@@ -351,7 +356,7 @@ committees:
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
   committee_type: Primarily Formed Measure
-  total_expense: 261685.73
+  total_expense: 260185.73
 - cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
   cmte_fppcid: '1494389'
   cmte_nid: '217090483'
