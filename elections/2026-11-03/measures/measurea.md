@@ -21,7 +21,7 @@ committees:
   filer_id: '1493867'
   committee_name: CLEAN UP THE CHARTER - YES ON A
   funds: 452505.0
-  expenses: 261685.73
+  expenses: 260185.73
   ies: ''
 - position: SUPPORT
   filer_nid: '217609977'

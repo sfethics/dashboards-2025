@@ -14,7 +14,7 @@ candidates:
   committee_name: DJ BROOKTER FOR SUPERVISOR 2026
   candidate_name: DION-JAY (DJ) BROOKTER
   funds: 197522.11
-  expenses: 162683.91
+  expenses: 162711.91
 - filer_nid: '214577156'
   filer_id: '1482707'
   committee_name: J.R. EPPLER FOR SUPERVISOR 2026

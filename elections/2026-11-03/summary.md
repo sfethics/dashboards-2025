@@ -33,13 +33,13 @@ candidate_pf:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 881239.32
-  expenses: 546740.04
+  expenses: 546768.04
   ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1562820.14
+  funds: 1603986.14
   expenses: 943128.47
   ies: ''
 - committee_type: candidate
@@ -132,7 +132,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 4283218.41
-  funds: 5144524.23
+  funds: 5194524.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -153,7 +153,7 @@ measures:
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
   expenses: 459102.15
-  funds: 412570.0
+  funds: 744570.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
@@ -167,7 +167,7 @@ measures:
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
-  expenses: 285648.08
+  expenses: 284148.08
   funds: 452505.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
@@ -183,17 +183,17 @@ measures:
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 1462414.45
-  funds: 2677749.0
+  funds: 2727749.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
 - - Christian Larsen
   - 1587500.0
-- - Lyna Lam
-  - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - Lyna Lam
+  - 1000000.0
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
@@ -231,7 +231,7 @@ top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
   cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  total_expense: 10278764.51
+  total_expense: 10308764.51
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
