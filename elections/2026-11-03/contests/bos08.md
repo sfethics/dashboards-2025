@@ -31,7 +31,7 @@ candidates:
   filer_id: '1488280'
   committee_name: DARSHINI PATEL FOR SUPERVISOR 2026
   candidate_name: DARSHINI PATEL
-  funds: 180797.5
+  funds: 187565.5
   expenses: 111358.73
 ie_candidates:
 - candidate_name: GARY MCCOY
@@ -48,7 +48,7 @@ ie_candidates:
     filer_id: '1471862'
     committee_name: Building a Working SF Sponsored by Labor Organizations
     funds: 0.0
-    expenses: 520723.15
+    expenses: 531079.38
 - candidate_name: EMANUEL YEKUTIEL
   filer_id: '1483804'
   committees:

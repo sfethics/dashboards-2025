@@ -510,6 +510,9 @@ committees:
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '1056662'
   cmte_nid: unknown
+- cmte_name: International Fe
+  cmte_fppcid: REQUESTED
+  cmte_nid: unknown
 - cmte_name: International Federation Professional Technical Engineers
   cmte_fppcid: '1362080'
   cmte_nid: unknown

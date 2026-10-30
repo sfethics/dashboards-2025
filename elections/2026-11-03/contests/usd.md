@@ -84,7 +84,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 9852.17
+    expenses: 22097.29
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -123,7 +123,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 9852.17
+    expenses: 22097.29
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'
@@ -141,7 +141,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 9852.17
+    expenses: 22097.29
   - position: SUPPORT
     filer_nid: '6685673'
     filer_id: '1311218'

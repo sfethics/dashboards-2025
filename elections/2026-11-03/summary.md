@@ -39,7 +39,7 @@ candidate_pf:
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1603986.14
+  funds: 1610754.14
   expenses: 943128.47
   ies: ''
 - committee_type: candidate
@@ -60,15 +60,15 @@ candidate_pf:
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 108928.53
-  expenses: 81621.13
+  funds: 109490.57
+  expenses: 82290.68
   ies: ''
 - committee_type: candidate
   contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
-  funds: 138667.88
-  expenses: 76968.0
+  funds: 140042.88
+  expenses: 85368.0
   ies: ''
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
@@ -86,7 +86,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 468751.12
+  expenses: 505486.48
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
@@ -96,7 +96,7 @@ candidate_ie:
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 824362.5399999999
+  expenses: 834718.77
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -116,11 +116,11 @@ candidate_ie:
   contest_name: Community College Board
   contest_link: ccb
   funds: 0.0
-  expenses: 25931.9
+  expenses: 50422.149999999994
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
-  funds: 154000.0
+  funds: 161500.0
   expenses: 0.0
 measures:
 - contest_nid: '216006007'
@@ -143,7 +143,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 1188920.99
-  funds: 1770761.32
+  funds: 1771761.32
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -218,7 +218,7 @@ top_cand_spends:
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 596375.1
+  total_expense: 606731.33
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
@@ -235,7 +235,7 @@ top_bm_spends:
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 4354665.59
+  total_expense: 4402623.28
 - cmte_nid: '217233128'
   cmte_fppcid: '1495424'
   cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
