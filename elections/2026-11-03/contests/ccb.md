@@ -13,8 +13,8 @@ candidates:
   filer_id: '1492919'
   committee_name: ELIJAH I. BALL
   candidate_name: ELIJAH BALL
-  funds: 34014.72
-  expenses: 24838.68
+  funds: 34714.72
+  expenses: 27638.68
 - filer_nid: '217060161'
   filer_id: '1493829'
   committee_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
@@ -31,14 +31,14 @@ candidates:
   filer_id: '1494389'
   committee_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
   candidate_name: ERWIN TAM
-  funds: 32844.72
-  expenses: 24238.68
+  funds: 32919.72
+  expenses: 26738.68
 - filer_nid: '217090585'
   filer_id: '1493786'
   committee_name: MONROE LACE FOR CITY COLLEGE 2026
   candidate_name: MONROE LACE
-  funds: 24026.7
-  expenses: 12238.68
+  funds: 24626.7
+  expenses: 15338.68
 - filer_nid: '217168240'
   filer_id: '1494600'
   committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
@@ -69,7 +69,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 9968.23
+    expenses: 22213.36
 - candidate_name: ELIJAH BALL
   filer_id: '1492919'
   committees:

@@ -2181,6 +2181,16 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 2500.0
+- tx_lastname: INTERNATIONAL FE
+  tx_entitycode: Committee
+  tx_cmteid: REQUESTED
+  tx_amount: 7500.0
+  transactions:
+  - cmte_fppcid: '1496601'
+    cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+      AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+      AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+    tx_amount: 7500.0
 - tx_lastname: JEFFREY WEBER
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2672,6 +2682,26 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 3500.0
+- tx_lastname: SARA BARZ
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 4750.0
+  transactions:
+  - cmte_fppcid: '1471154'
+    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
+    tx_amount: 3500.0
+  - cmte_fppcid: '1482285'
+    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 150.0
+  - cmte_fppcid: '1491849'
+    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1492919'
+    cmte_name: ELIJAH I. BALL
+    tx_amount: 100.0
 - tx_lastname: GOVERN FOR CALIFORNIA COURAGE COMMITTEE
   tx_entitycode: Committee
   tx_cmteid: '1392639'
@@ -2805,26 +2835,6 @@ contributors:
   - cmte_fppcid: '1487005'
     cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
     tx_amount: 3800.0
-- tx_lastname: SARA BARZ
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 3750.0
-  transactions:
-  - cmte_fppcid: '1471154'
-    cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-    tx_amount: 2500.0
-  - cmte_fppcid: '1482285'
-    cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 150.0
-  - cmte_fppcid: '1491849'
-    cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1492919'
-    cmte_name: ELIJAH I. BALL
-    tx_amount: 100.0
 - tx_lastname: ROBERT HOLGATE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -3012,6 +3022,29 @@ contributors:
     tx_amount: 500.0
   - cmte_fppcid: '1489126'
     cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+- tx_lastname: HEATHER MCCARTY
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 2750.0
+  transactions:
+  - cmte_fppcid: '1483651'
+    cmte_name: KIM FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 250.0
+  - cmte_fppcid: '1484080'
+    cmte_name: GARY MC COY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493786'
+    cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1494600'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
     tx_amount: 500.0
 - tx_lastname: BRUCE AGID
   tx_entitycode: Individual
@@ -3524,26 +3557,6 @@ contributors:
     tx_amount: 200.0
   - cmte_fppcid: '1495068'
     cmte_name: BUNNY FOR CITY COLLEGE BOARD 2026
-    tx_amount: 500.0
-- tx_lastname: HEATHER MCCARTY
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 2250.0
-  transactions:
-  - cmte_fppcid: '1483651'
-    cmte_name: KIM FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 250.0
-  - cmte_fppcid: '1484080'
-    cmte_name: GARY MC COY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1494600'
-    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
     tx_amount: 500.0
 - tx_lastname: PATRICK WOLFF
   tx_entitycode: Individual
@@ -6878,16 +6891,16 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: JAMES MCCRSTY
+- tx_lastname: JAMES MCCARTY
   tx_entitycode: Individual
   tx_cmteid: ''
   tx_amount: 1000.0
   transactions:
-  - cmte_fppcid: '1492919'
-    cmte_name: ELIJAH I. BALL
-    tx_amount: 500.0
   - cmte_fppcid: '1493786'
     cmte_name: MONROE LACE FOR CITY COLLEGE 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1494600'
+    cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
     tx_amount: 500.0
 - tx_lastname: JAMES MESSINA
   tx_entitycode: Individual

@@ -130,7 +130,7 @@ committees:
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 602310.27
+  total_expense: 612666.5
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -145,7 +145,7 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 4354665.59
+  total_expense: 4402623.28
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
@@ -285,7 +285,7 @@ committees:
   cmte_fppcid: '1491969'
   cmte_nid: '216781160'
   committee_type: Candidate Controlled
-  total_expense: 4861.25
+  total_expense: 5030.8
 - cmte_name: RYAN HAZELTON FOR SAN FRANCISCO BOARD OF EDUCATION 2026
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
@@ -305,7 +305,7 @@ committees:
   cmte_fppcid: '1492163'
   cmte_nid: '216878122'
   committee_type: Candidate Controlled
-  total_expense: 500.0
+  total_expense: 1000.0
 - cmte_name: ALEX BEHREND FOR ALL - SUPERVISOR 2026
   cmte_fppcid: '1493283'
   cmte_nid: '216883068'
@@ -331,7 +331,7 @@ committees:
   cmte_fppcid: '1492919'
   cmte_nid: '216963991'
   committee_type: Candidate Controlled
-  total_expense: 24838.68
+  total_expense: 27638.68
 - cmte_name: FAIR ACCESS NO ON D
   cmte_fppcid: '1494100'
   cmte_nid: '217019367'
@@ -361,12 +361,12 @@ committees:
   cmte_fppcid: '1494389'
   cmte_nid: '217090483'
   committee_type: Candidate Controlled
-  total_expense: 24238.68
+  total_expense: 26738.68
 - cmte_name: MONROE LACE FOR CITY COLLEGE 2026
   cmte_fppcid: '1493786'
   cmte_nid: '217090585'
   committee_type: Candidate Controlled
-  total_expense: 12238.68
+  total_expense: 15338.68
 - cmte_name: TAX FORECLOSURES, YES ON J
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
@@ -437,7 +437,7 @@ committees:
   cmte_fppcid: '1496601'
   cmte_nid: '217420279'
   committee_type: Primarily Formed Candidate
-  total_expense: 7550.0
+  total_expense: 81020.73
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'

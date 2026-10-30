@@ -25,14 +25,14 @@ candidates:
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
   candidate_name: JEREMY GRECO
-  funds: 5055.0
-  expenses: 4861.25
+  funds: 5117.04
+  expenses: 5030.8
 - filer_nid: '216878122'
   filer_id: '1492163'
   committee_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
   candidate_name: ALBERT CHOW
-  funds: 500.0
-  expenses: 500.0
+  funds: 1000.0
+  expenses: 1000.0
 ie_candidates:
 - candidate_name: ALAN WONG
   filer_id: '1489126'

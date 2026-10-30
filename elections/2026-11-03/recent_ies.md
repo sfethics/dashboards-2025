@@ -5,6 +5,20 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 10193.1
+  tx_date: '2026-10-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851709?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 163.13
+  tx_date: '2026-10-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851709?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -193,16 +207,7 @@ recent_ies:
     AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1496601'
-  ie_description: 'Board of Education: REINA LOLI-TELLO'
-  position: SUPPORT
-  tx_amount: 1250.0
-  tx_date: '2026-10-21'
-  attachment_url: ''
-- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
-    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
-    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
-  cmte_fppcid: '1496601'
-  ie_description: 'Board of Education: RYAN HAZELTON'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
   position: SUPPORT
   tx_amount: 1250.0
   tx_date: '2026-10-21'
@@ -215,16 +220,25 @@ recent_ies:
   position: SUPPORT
   tx_amount: 1250.0
   tx_date: '2026-10-21'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853366?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_LEAH%20LACROIX
 - cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
     AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
   cmte_fppcid: '1496601'
-  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
   position: SUPPORT
   tx_amount: 1250.0
   tx_date: '2026-10-21'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853353?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 1250.0
+  tx_date: '2026-10-21'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853332?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_RYAN%20HAZELTON
 - cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
     AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
@@ -233,7 +247,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 1250.0
   tx_date: '2026-10-21'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853389?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_JEREMY%20LEE
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D08: DARSHINI PATEL'
@@ -248,6 +262,51 @@ recent_ies:
   tx_amount: 14077.56
   tx_date: '2026-10-20'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217674467?aid=SFO&name=GrowSF%20Voter%20Guide_SUPPORTING_DARSHINI%20PATEL
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: JEREMY LEE'
+  position: SUPPORT
+  tx_amount: 12245.13
+  tx_date: '2026-10-20'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853389?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_JEREMY%20LEE
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: REINA LOLI-TELLO'
+  position: SUPPORT
+  tx_amount: 12245.12
+  tx_date: '2026-10-20'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853353?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_REINA%20LOLI-TELLO
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Community College Board: LEAH LACROIX'
+  position: SUPPORT
+  tx_amount: 12245.12
+  tx_date: '2026-10-20'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853366?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_LEAH%20LACROIX
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: RYAN HAZELTON'
+  position: SUPPORT
+  tx_amount: 12245.12
+  tx_date: '2026-10-20'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853332?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_RYAN%20HAZELTON
+- cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
+    AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
+    AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
+  cmte_fppcid: '1496601'
+  ie_description: 'Board of Education: VIRGINIA CHEUNG'
+  position: SUPPORT
+  tx_amount: 12245.12
+  tx_date: '2026-10-20'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
