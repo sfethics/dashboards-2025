@@ -20,14 +20,14 @@ electionnav: true
 {%- endif -%}
 {%- endif -%}
 
-<div class="border-bottom border-1 border-tertiary-subtle">
+<div class="page-title-area">
   <div class="container">
     <div class="row">
       <div class="d-flex flex-column flex-md-row align-items-md-end justify-content-between gap-3 mb-3 mt-3">
         <div class="flex-grow-1">
           <h1 class="mt-3 mt-md-0 mb-1">
             {% if page.filer_name.size > 30 %}
-            <span class="fs-2">{{ page.filer_name }}</span>
+            <span>{{ page.filer_name }}</span>
             {% else %}
             <span>{{ page.filer_name }}</span>
             {% endif %}
@@ -146,12 +146,12 @@ electionnav: true
     </div>
     {% else %}
     <div class="col-12">
-        <div class="alert alert-dark mb-0">
+        <p class="mb-0">
             This committee has no financial activity reported during the <span>{{page.election | date: "%B%e, %Y" }}</span> election cycle.<br>
             <a href="#" data-bs-toggle="offcanvas" data-bs-target="#summary-totalsTT">
               <span>Why is contribution or expenditure data not available?</span>
             </a>
-        </div>
+        </p>
      </div>
     {% endif %}
   </div>
