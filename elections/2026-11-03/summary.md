@@ -11,64 +11,64 @@ candidate_pf:
   contest_nid: '206022015'
   contest_name: Public Defender
   contest_link: pdr
-  funds: 25742.0
-  expenses: 16722.2
+  funds: 25992.0
+  expenses: 16747.89
   ies: ''
 - committee_type: candidate
   contest_nid: '211490600'
   contest_name: Board of Supervisors D02
   contest_link: bos02
-  funds: 234150.92
-  expenses: 187607.83
+  funds: 242550.92
+  expenses: 216576.62
   ies: ''
 - committee_type: candidate
   contest_nid: '212794907'
   contest_name: Board of Education
   contest_link: usd
-  funds: 192354.66
-  expenses: 107552.44
+  funds: 206348.16
+  expenses: 160829.98
   ies: ''
 - committee_type: candidate
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 881239.32
-  expenses: 546768.04
+  funds: 885604.7
+  expenses: 623113.53
   ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1610754.14
-  expenses: 943128.47
+  funds: 1638568.14
+  expenses: 1255906.31
   ies: ''
 - committee_type: candidate
   contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
-  funds: 125232.0
-  expenses: 95867.7
+  funds: 134657.0
+  expenses: 112761.03
   ies: ''
 - committee_type: candidate
   contest_nid: '215593808'
   contest_name: Assessor-Recorder
   contest_link: asr
-  funds: 76008.0
-  expenses: 36861.88
+  funds: 79458.0
+  expenses: 46545.46
   ies: ''
 - committee_type: candidate
   contest_nid: '216135653'
   contest_name: Board of Supervisors D04
   contest_link: bos04
-  funds: 109490.57
-  expenses: 82290.68
+  funds: 118795.57
+  expenses: 83608.25
   ies: ''
 - committee_type: candidate
   contest_nid: '216963967'
   contest_name: Community College Board
   contest_link: ccb
-  funds: 140042.88
-  expenses: 85368.0
+  funds: 140462.88
+  expenses: 98128.42
   ies: ''
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
@@ -86,17 +86,17 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 505486.48
+  expenses: 510034.17999999993
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 644104.71
+  expenses: 646604.71
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
   funds: 114000.0
-  expenses: 834718.77
+  expenses: 838336.19
 - contest_nid: '215579014'
   contest_name: Board of Supervisors D06
   contest_link: bos06
@@ -131,34 +131,34 @@ measures:
 - contest_nid: '216284732'
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
-  expenses: 4283218.41
-  funds: 5194524.23
+  expenses: 5112188.4
+  funds: 5246894.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
-  expenses: 580714.86
-  funds: 687297.25
+  expenses: 693989.2
+  funds: 696292.0
 - contest_nid: '216779916'
   contest_name: 'G: Allowing Private Vehicles on the Great Highway in Sunset Dunes
     Park'
   contest_link: measureg
-  expenses: 1188920.99
-  funds: 1771761.32
+  expenses: 1451254.62
+  funds: 1778694.32
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
-  expenses: 667837.12
-  funds: 1204673.01
+  expenses: 884550.34
+  funds: 1254673.01
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 459102.15
-  funds: 744570.0
+  expenses: 819574.91
+  funds: 924670.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
-  expenses: 169180.11
-  funds: 336185.55
+  expenses: 302740.74
+  funds: 392270.17
 - contest_nid: '217062208'
   contest_name: 'F: Changes to Executive Branch Management'
   contest_link: measuref
@@ -167,23 +167,23 @@ measures:
 - contest_nid: '217079148'
   contest_name: 'A: Charter Changes Affecting Various City Departments and Commissions'
   contest_link: measurea
-  expenses: 284148.08
+  expenses: 424788.6
   funds: 452505.0
 - contest_nid: '217168072'
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
-  expenses: 166257.34
+  expenses: 209838.84
   funds: 207957.45
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
-  expenses: 10278764.51
-  funds: 13790128.94
+  expenses: 11963214.63
+  funds: 13790678.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
-  expenses: 1462414.45
-  funds: 2727749.0
+  expenses: 2507994.83
+  funds: 2787748.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
@@ -214,38 +214,39 @@ top_cand_spends:
 - cmte_nid: '201619433'
   cmte_fppcid: '1433436'
   cmte_name: GrowSF Voter Guide
-  total_expense: 749573.83
+  total_expense: 764612.09
 - cmte_nid: '211792942'
   cmte_fppcid: '1471862'
   cmte_name: Building a Working SF Sponsored by Labor Organizations
-  total_expense: 606731.33
+  total_expense: 615589.29
 - cmte_nid: '214772801'
   cmte_fppcid: '1483804'
   cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-  total_expense: 412058.26
-- cmte_nid: '216701453'
-  cmte_fppcid: '1465611'
-  cmte_name: California Alliance of Family Owned Businesses PAC
-  total_expense: 287731.67
+  total_expense: 612740.37
+- cmte_nid: '217267598'
+  cmte_fppcid: '1495589'
+  cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  total_expense: 486001.95
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
   cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  total_expense: 10308764.51
+  total_expense: 11963214.63
 - cmte_nid: '214099226'
   cmte_fppcid: '1479782'
   cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
-  total_expense: 4402623.28
+  total_expense: 5076885.58
 - cmte_nid: '217233128'
   cmte_fppcid: '1495424'
   cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
     SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO CHAMBER
     OF COMMERCE
-  total_expense: 1462414.45
+  total_expense: 2507994.83
 - cmte_nid: '211776936'
   cmte_fppcid: '1471154'
   cmte_name: NO ON G, SAVE SUNSET DUNES SPONSORED BY FRIENDS OF SUNSET DUNES
-  total_expense: 1103191.71
+  total_expense: 1326006.45
 - cmte_nid: '193427405'
   cmte_fppcid: '1431167'
   cmte_name: Neighbors For A Better San Francisco Advocacy

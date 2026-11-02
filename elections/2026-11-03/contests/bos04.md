@@ -19,8 +19,8 @@ candidates:
   filer_id: '1489126'
   committee_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
   candidate_name: ALAN WONG
-  funds: 96163.38
-  expenses: 69162.85
+  funds: 105468.38
+  expenses: 70480.42
 - filer_nid: '216781160'
   filer_id: '1491969'
   committee_name: GRECO FOR SUPERVISOR 2026
@@ -62,6 +62,8 @@ contributors:
   - 1000.0
 - - Esther Marks
   - 1000.0
+- - Douglas Marschke
+  - 1000.0
 - - Steven Lee
   - 967.5
 - - Lisa Arjes
@@ -73,8 +75,6 @@ contributors:
 - - Daniel Anderson
   - 500.0
 - - James Ausman
-  - 500.0
-- - Gary Bengier
   - 500.0
 
 ---

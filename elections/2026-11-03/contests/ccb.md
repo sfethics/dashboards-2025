@@ -43,20 +43,20 @@ candidates:
   filer_id: '1494600'
   committee_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
   candidate_name: RUTH FERGUSON
-  funds: 14340.72
-  expenses: 462.49
+  funds: 12360.72
+  expenses: 6067.47
 - filer_nid: '217230804'
   filer_id: '1495068'
   committee_name: BUNNY FOR CITY COLLEGE BOARD 2026
   candidate_name: BUNNY MCFADDEN
-  funds: 17881.83
-  expenses: 6940.86
+  funds: 18981.83
+  expenses: 10645.46
 - filer_nid: '217234321'
   filer_id: '1495277'
   committee_name: JEREMY LEE FOR CITY COLLEGE BOARD 2026
   candidate_name: JEREMY LEE
-  funds: 14128.54
-  expenses: 6999.11
+  funds: 15428.54
+  expenses: 10449.95
 ie_candidates:
 - candidate_name: JEREMY LEE
   filer_id: '1495277'
@@ -100,24 +100,24 @@ ie_candidates:
 contributors:
 - - Erwin Tam
   - 10500.0
-- - Gfc Courage Committee - East Bay Chapter
-  - 2000.0
-- - Gfc Courage Committee - Housing for California Chapter
-  - 2000.0
-- - Gfc Courage Committee - San Francisco Chapter
-  - 2000.0
-- - Gfc Courage Committee - SF Public Schools
-  - 2000.0
 - - Mark Perry
   - 2000.0
 - - Susan Pritzker
   - 2000.0
-- - Govern for California Courage Committee
+- - Gfc Courage Committee - East Bay Chapter
+  - 1500.0
+- - Gfc Courage Committee - Housing for California Chapter
+  - 1500.0
+- - Gfc Courage Committee - San Francisco Chapter
+  - 1500.0
+- - Gfc Courage Committee - SF Public Schools
   - 1500.0
 - - David Thornton
   - 1500.0
 - - Anita Martinez
   - 1249.5
+- - Bobak Esfandiari
+  - 1050.0
 
 ---
 

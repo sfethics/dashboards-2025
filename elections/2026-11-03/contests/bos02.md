@@ -13,8 +13,8 @@ candidates:
   filer_id: '1482285'
   committee_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   candidate_name: STEPHEN SHERRILL
-  funds: 223460.91
-  expenses: 176463.46
+  funds: 231860.91
+  expenses: 205411.95
 - filer_nid: '216289152'
   filer_id: '1484332'
   committee_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
@@ -26,7 +26,7 @@ candidates:
   committee_name: NICK BERG FOR SUPERVISOR 2026
   candidate_name: NICHOLAS BERG
   funds: 6605.01
-  expenses: 6559.37
+  expenses: 6579.67
 ie_candidates:
 - candidate_name: STEPHEN SHERRILL
   filer_id: '1482285'
@@ -44,6 +44,8 @@ ie_candidates:
     funds: ''
     expenses: 2500.0
 contributors:
+- - Nancy Abbey
+  - 1000.0
 - - Catherine Brisbin
   - 1000.0
 - - Charles Mcgettigan
@@ -51,8 +53,6 @@ contributors:
 - - Sheeva Hamidieh
   - 750.0
 - - Doug Abbey
-  - 500.0
-- - Nancy Abbey
   - 500.0
 - - Jim Abrams
   - 500.0

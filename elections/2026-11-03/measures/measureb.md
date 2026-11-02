@@ -35,8 +35,8 @@ committees:
   filer_nid: '217045555'
   filer_id: '1488530'
   committee_name: YES ON B, OUR CITY OUR BANK
-  funds: 336185.55
-  expenses: 139244.11
+  funds: 392270.17
+  expenses: 272804.74
   ies: ''
 - position: SUPPORT
   filer_nid: '217661076'
@@ -51,22 +51,22 @@ contributors:
   - 175000.0
 - - the San Francisco Foundation
   - 125000.0
+- - Service Employees International Union - Seiu Local 2015 Issues PAC
+  - 50000.0
 - - San Francisco Public Bank Coalition
   - 5950.0
 - - Dylan J Hirsch-shell
   - 5000.0
 - - Nick Novitski
   - 3500.0
+- - Jefferson Lee
+  - 3000.0
 - - Jason Prado
   - 3000.0
+- - San Francisco League of Pissed Off Voters
+  - 2811.87
 - - Christin Nicole Evans
   - 2500.0
-- - Robert Holgate
-  - 2500.0
-- - Jeff May
-  - 2500.0
-- - Amy Zheng
-  - 1750.0
 
 ---
 

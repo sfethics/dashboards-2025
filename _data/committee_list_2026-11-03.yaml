@@ -259,12 +259,6 @@ committees:
 - cmte_name: California Federation of Teachers Cope
   cmte_fppcid: '741857'
   cmte_nid: '212294989'
-- cmte_name: California Nurses Association Political Action Committee
-  cmte_fppcid: '780657'
-  cmte_nid: '6673059'
-- cmte_name: California Professional Firefighters PAC
-  cmte_fppcid: '744058'
-  cmte_nid: '6673076'
 - cmte_name: Chinese American Democratic Club Political Action Committee (Cadcpac)
   cmte_fppcid: '881296'
   cmte_nid: '6673097'
@@ -275,12 +269,18 @@ committees:
     International Union Local 1021
   cmte_fppcid: '1433122'
   cmte_nid: '194054997'
+- cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
+  cmte_fppcid: '1380710'
+  cmte_nid: '157084268'
 - cmte_name: Committee for Jobs and the Economy, Sponsored by Energy Companies
   cmte_fppcid: '1454340'
   cmte_nid: '217610473'
 - cmte_name: Dignity Ca Seiu Local 2015
   cmte_fppcid: '1357256'
   cmte_nid: '161836779'
+- cmte_name: District 2 Democratic Club
+  cmte_fppcid: '1421207'
+  cmte_nid: '183877488'
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club PAC
   cmte_fppcid: '931558'
   cmte_nid: '6667750'
@@ -434,6 +434,9 @@ committees:
     Association
   cmte_fppcid: '1425528'
   cmte_nid: unknown
+- cmte_name: California Machinists Non Partisan Political League
+  cmte_fppcid: '761035'
+  cmte_nid: unknown
 - cmte_name: Canepa for Assessor-county Clerk-recorder 2026
   cmte_fppcid: '1486383'
   cmte_nid: unknown
@@ -447,11 +450,11 @@ committees:
 - cmte_name: Connect Bay Area Transit
   cmte_fppcid: '1483907'
   cmte_nid: unknown
-- cmte_name: District 2 Democractic Club Smo
-  cmte_fppcid: '1466947'
-  cmte_nid: unknown
 - cmte_name: District 2 Democratic Club 2022 Slate Mailer Organization
   cmte_fppcid: '1448527'
+  cmte_nid: unknown
+- cmte_name: District 2 Democratic Club Smo
+  cmte_fppcid: '1466947'
   cmte_nid: unknown
 - cmte_name: Edwin M. Lee Asian Pacific Democratic Club Voter Guide
   cmte_fppcid: '1342711'
@@ -510,9 +513,6 @@ committees:
 - cmte_name: Ibew Local 6 Political Account
   cmte_fppcid: '1056662'
   cmte_nid: unknown
-- cmte_name: International Fe
-  cmte_fppcid: REQUESTED
-  cmte_nid: unknown
 - cmte_name: International Federation Professional Technical Engineers
   cmte_fppcid: '1362080'
   cmte_nid: unknown
@@ -534,6 +534,9 @@ committees:
   cmte_nid: unknown
 - cmte_name: Lee - California General Purpose Committee
   cmte_fppcid: '1346788'
+  cmte_nid: unknown
+- cmte_name: Lgbtq Victory Fund Ca PAC
+  cmte_fppcid: '1446174'
   cmte_nid: unknown
 - cmte_name: Matt Haney for Assembly 2026
   cmte_fppcid: '1476944'
@@ -558,20 +561,11 @@ committees:
 - cmte_name: Our Kids Our Future PAC
   cmte_fppcid: PENDING
   cmte_nid: unknown
-- cmte_name: Pace of California School Employees Association
-  cmte_fppcid: '761128'
-  cmte_nid: unknown
 - cmte_name: Patrick Ahrens for Assembly 2026
   cmte_fppcid: '1476866'
   cmte_nid: unknown
-- cmte_name: Personal Insurance Federation of Ca Agents and Employees PAC
-  cmte_fppcid: '1338487'
-  cmte_nid: unknown
 - cmte_name: Phil Ting for Treasurer 2026
   cmte_fppcid: '1444108'
-  cmte_nid: unknown
-- cmte_name: Professional Engineers in California Government PAC
-  cmte_fppcid: '822501'
   cmte_nid: unknown
 - cmte_name: Re-elect Rick Chavez Zbur for Assembly 2026
   cmte_fppcid: '1477252'
@@ -579,7 +573,7 @@ committees:
 - cmte_name: Re-elect Scott Wiener for State Senate 2024
   cmte_fppcid: '1434666'
   cmte_nid: unknown
-- cmte_name: Rose Pak Democratic Club
+- cmte_name: Rose Pak Asian American Club Slate Mailer Organization
   cmte_fppcid: '1391291'
   cmte_nid: unknown
 - cmte_name: San Francisco Bay Area Planning & Urban Research Association
@@ -629,7 +623,7 @@ committees:
 - cmte_name: Union of American Physicians and Dentists Small Contributor Committee
   cmte_fppcid: '1356185'
   cmte_nid: unknown
-- cmte_name: United Democratic Club Slate Mailer Organization
+- cmte_name: United Democratic Club Smo
   cmte_fppcid: '1385852'
   cmte_nid: unknown
 - cmte_name: United Educators of San Francisco Candidate PAC
@@ -729,7 +723,7 @@ committees:
 - cmte_name: Nisha Birla
   cmte_fppcid: unknown
   cmte_nid: '217548545'
-- cmte_name: Service Employee Internation Union Local 2015
+- cmte_name: Service Employees International Union - Seiu Local 2015 Issues PAC
   cmte_fppcid: '1378400'
   cmte_nid: '182511724'
 - cmte_name: Sfrf Gp, LLC
@@ -781,6 +775,9 @@ committees:
 - cmte_name: San Francisco Laborer's Local 261 PAC
   cmte_fppcid: '981076'
   cmte_nid: '6673776'
+- cmte_name: San Francisco Association of Realtors
+  cmte_fppcid: '1250247'
+  cmte_nid: '6672249'
 - cmte_name: Kevin Mullin for Congress
   cmte_fppcid: FEC_C00795005
   cmte_nid: unknown

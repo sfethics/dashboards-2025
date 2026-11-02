@@ -13,8 +13,8 @@ candidates:
   filer_id: '1487412'
   committee_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
   candidate_name: JOAQUIN TORRES
-  funds: 76008.0
-  expenses: 36861.88
+  funds: 79458.0
+  expenses: 46545.46
 ie_candidates:
 - candidate_name: JOAQUIN TORRES
   filer_id: '1487412'
@@ -32,6 +32,8 @@ contributors:
   - 750.0
 - - Howard Ngo
   - 700.0
+- - Deborah Cullinan
+  - 600.0
 - - Julia Adams
   - 500.0
 - - Eric Andresen
@@ -43,8 +45,6 @@ contributors:
 - - William Barnaby
   - 500.0
 - - Drew Becher
-  - 500.0
-- - Gregory Blaine
   - 500.0
 
 ---

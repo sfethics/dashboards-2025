@@ -20,8 +20,8 @@ committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2727749.0
-  expenses: 1462414.45
+  funds: 2787748.0
+  expenses: 2507994.83
   ies: ''
 multi_committees: []
 contributors:

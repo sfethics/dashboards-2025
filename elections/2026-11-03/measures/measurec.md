@@ -29,8 +29,8 @@ committees:
   filer_id: '1492671'
   committee_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE
     NPH ACTION FUND
-  funds: 1204673.01
-  expenses: 601038.01
+  funds: 1254673.01
+  expenses: 817751.23
   ies: ''
 - position: SUPPORT
   filer_nid: '217609977'
@@ -53,13 +53,15 @@ multi_committees:
   committee_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY
     THE SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
     CHAMBER OF COMMERCE
-  funds: 2727749.0
-  expenses: 1462414.45
+  funds: 2787748.0
+  expenses: 2507994.83
 contributors:
 - - Nph Action Fund Political Issues Committee
   - 719673.01
 - - Openai Opco, Llc(ann O'leary)
   - 250000.0
+- - Enrique Landa
+  - 50000.0
 - - the San Francisco Foundation
   - 50000.0
 - - Yes on D - Stand Up for SF Sponsored by Labor Organizations
@@ -75,8 +77,6 @@ contributors:
 - - Tenants and Owners Development Corporation and Its Affiliated Entity Yerba Buena
     Neighborhood Consortium LLC
   - 25000.0
-- - Chinatown Community Development Center
-  - 10000.0
 
 ---
 

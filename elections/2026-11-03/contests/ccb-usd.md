@@ -38,7 +38,8 @@ contributors:
   - 24000.0
 - - San Francisco Labor Council Labor and Neighbor PAC
   - 10000.0
-- - International Fe
+- - International Federation of Professional and Technical Engineers Local 21 Tj Anthony
+    PAC Fund
   - 7500.0
 
 ---
