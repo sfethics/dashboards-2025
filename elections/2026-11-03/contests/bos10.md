@@ -13,26 +13,26 @@ candidates:
   filer_id: '1481892'
   committee_name: DJ BROOKTER FOR SUPERVISOR 2026
   candidate_name: DION-JAY (DJ) BROOKTER
-  funds: 197522.11
-  expenses: 162711.91
+  funds: 199627.11
+  expenses: 174768.21
 - filer_nid: '214577156'
   filer_id: '1482707'
   committee_name: J.R. EPPLER FOR SUPERVISOR 2026
   candidate_name: J.R. EPPLER
-  funds: 187799.0
-  expenses: 122012.24
+  funds: 189264.0
+  expenses: 157660.44
 - filer_nid: '214611048'
   filer_id: '1481624'
   committee_name: P.J BASTIANY FOR SUPERVISOR 2026
   candidate_name: PEARCI BASTIANY
-  funds: 1196.5
-  expenses: 465.44
+  funds: 1491.88
+  expenses: 1348.06
 - filer_nid: '214808596'
   filer_id: '1484091'
   committee_name: THEO ELLINGTON FOR SUPERVISOR 2026
   candidate_name: THEO ELLINGTON
-  funds: 494721.71
-  expenses: 261578.45
+  funds: 495221.71
+  expenses: 289336.82
 ie_candidates:
 - candidate_name: THEO ELLINGTON
   filer_id: '1484091'
@@ -55,7 +55,7 @@ ie_candidates:
     committee_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON
       FOR SUPERVISOR 2026
     funds: 550000.0
-    expenses: 243053.74
+    expenses: 245553.74
   - position: SUPPORT
     filer_nid: '217610473'
     filer_id: '1454340'

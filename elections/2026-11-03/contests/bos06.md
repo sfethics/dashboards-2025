@@ -13,14 +13,14 @@ candidates:
   filer_id: '1487329'
   committee_name: MATT DORSEY FOR SUPERVISOR 2026
   candidate_name: MATT DORSEY
-  funds: 121403.0
-  expenses: 95036.96
+  funds: 130628.0
+  expenses: 110923.29
 - filer_nid: '216883068'
   filer_id: '1493283'
   committee_name: ALEX BEHREND FOR ALL - SUPERVISOR 2026
   candidate_name: ALEX BEHREND
-  funds: 3829.0
-  expenses: 830.74
+  funds: 4029.0
+  expenses: 1837.74
 ie_candidates:
 - candidate_name: MATT DORSEY
   filer_id: '1487329'

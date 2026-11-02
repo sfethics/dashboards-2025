@@ -22,7 +22,7 @@ committees:
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J
   funds: 207957.45
-  expenses: 151934.7
+  expenses: 195516.2
   ies: ''
 - position: SUPPORT
   filer_nid: '217609977'

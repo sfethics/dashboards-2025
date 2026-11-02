@@ -5,6 +5,29 @@ breadcrumbs:
 - - Recent Independent Expenditures
 title: Recent Independent Expenditures
 recent_ies:
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217858054?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-30'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217858054?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 1751.29
+  tx_date: '2026-10-30'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -12,6 +35,13 @@ recent_ies:
   tx_amount: 10193.1
   tx_date: '2026-10-28'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851709?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 366.13
+  tx_date: '2026-10-28'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -126,13 +156,27 @@ recent_ies:
   tx_amount: 20655.77
   tx_date: '2026-10-23'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217737975?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: ALIDA FISHER'
+  position: SUPPORT
+  tx_amount: 2273.85
+  tx_date: '2026-10-23'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217864709?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_ALIDA%20FISHER
+- cmte_name: SAN FRANCISCO PARENT ACTION PAC
+  cmte_fppcid: '1442994'
+  ie_description: 'Board of Education: AUTUMN BROWN GARIBAY'
+  position: SUPPORT
+  tx_amount: 2273.85
+  tx_date: '2026-10-23'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217865016?aid=SFO&name=SAN%20FRANCISCO%20PARENT%20ACTION%20PAC_SUPPORTING_AUTUMN%20BROWN%20GARIBAY
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D04: ALAN WONG'
   position: SUPPORT
   tx_amount: 11500.0
   tx_date: '2026-10-22'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217733474?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_ALAN%20WONG
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -154,6 +198,13 @@ recent_ies:
   tx_amount: 4119.26
   tx_date: '2026-10-22'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217722622?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: Building a Working SF Sponsored by Labor Organizations
+  cmte_fppcid: '1471862'
+  ie_description: 'Board of Supervisors D08: GARY MCCOY'
+  position: SUPPORT
+  tx_amount: 1500.0
+  tx_date: '2026-10-22'
+  attachment_url: ''
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -211,7 +262,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 1250.0
   tx_date: '2026-10-21'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853321?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
     AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
@@ -306,7 +357,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 12245.12
   tx_date: '2026-10-20'
-  attachment_url: ''
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217853321?aid=SFO&name=San%20Franciscans%20for%20Strong%20Public%20Education%20supporting%20LaCroix%2C%20Lee%2C%20and%20McFadden%20for%20San%20Francisco%20Community%20College%20Board%202026%20and%20Tello%2C%20Hazelton%20and%20Cheung%20for%20San%20Francisco%20Board%20of%20Education%202_SUPPORTING_VIRGINIA%20CHEUNG
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -740,14 +791,6 @@ recent_ies:
   tx_amount: 10000.0
   tx_date: '2026-10-16'
   attachment_url: ''
-- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
-    2026
-  cmte_fppcid: '1495589'
-  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
-  position: SUPPORT
-  tx_amount: 5000.0
-  tx_date: '2026-10-16'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217665317?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: SAN FRANCISCO ELECTRICAL CONTRACTORS ASSOCIATION PAC
   cmte_fppcid: '1492319'
   ie_description: 'Board of Supervisors D06: MATT DORSEY'
@@ -769,6 +812,14 @@ recent_ies:
   tx_amount: 2500.0
   tx_date: '2026-10-16'
   attachment_url: ''
+- cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
+    2026
+  cmte_fppcid: '1495589'
+  ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
+  position: SUPPORT
+  tx_amount: 2500.0
+  tx_date: '2026-10-16'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217858236?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -848,7 +899,7 @@ recent_ies:
   position: SUPPORT
   tx_amount: 947.05
   tx_date: '2026-10-16'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217665317?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217858236?aid=SFO&name=FROM%20THE%20NEIGHBORHOOD%2C%20FOR%20THE%20CITY%2C%20SUPPORTING%20THEO%20ELLINGTON%20FOR%20SUPERVISOR%202026_SUPPORTING_THEO%20ELLINGTON
 - cmte_name: GrowSF Voter Guide
   cmte_fppcid: '1433436'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -2707,14 +2758,14 @@ recent_ies:
   position: SUPPORT
   tx_amount: 4495.89
   tx_date: '2026-09-14'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217429972?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217717063?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
   position: SUPPORT
   tx_amount: 15000.0
   tx_date: '2026-09-12'
-  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217429972?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217717063?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'

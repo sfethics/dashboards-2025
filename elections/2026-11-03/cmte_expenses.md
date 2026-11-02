@@ -27,6 +27,11 @@ committees:
   cmte_nid: '135620582'
   committee_type: Major Donor
   total_expense: 10000.0
+- cmte_name: Chinese Progressive Association, Nonprofit 501 (c)3
+  cmte_fppcid: '1380710'
+  cmte_nid: '157084268'
+  committee_type: General Purpose
+  total_expense: 12082.13
 - cmte_name: San Francisco League of Pissed Off Voters
   cmte_fppcid: '1374879'
   cmte_nid: '157471084'
@@ -42,7 +47,7 @@ committees:
   cmte_fppcid: '1388285'
   cmte_nid: '161155640'
   committee_type: General Purpose
-  total_expense: 43882.62
+  total_expense: 43982.62
 - cmte_name: Wilson Meany LLC
   cmte_fppcid: '1276250'
   cmte_nid: '161844508'
@@ -73,12 +78,12 @@ committees:
   cmte_fppcid: '1433436'
   cmte_nid: '201619433'
   committee_type: General Purpose
-  total_expense: 894087.0399999999
+  total_expense: 909125.2999999999
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   cmte_nid: '201848961'
   committee_type: Primarily Formed Measure
-  total_expense: 76576.06999999999
+  total_expense: 84854.7
 - cmte_name: Benjamin Spero
   cmte_fppcid: unknown
   cmte_nid: '204547209'
@@ -115,7 +120,7 @@ committees:
   cmte_fppcid: '1454305'
   cmte_nid: '210576256'
   committee_type: Major Donor
-  total_expense: 50000.0
+  total_expense: 100000.0
 - cmte_name: Sameer Gandhi
   cmte_fppcid: unknown
   cmte_nid: '211729834'
@@ -125,12 +130,12 @@ committees:
   cmte_fppcid: '1471154'
   cmte_nid: '211776936'
   committee_type: Primarily Formed Measure
-  total_expense: 1103191.71
+  total_expense: 1326006.45
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   cmte_nid: '211792942'
   committee_type: General Purpose
-  total_expense: 612666.5
+  total_expense: 621524.4600000001
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -145,27 +150,27 @@ committees:
   cmte_fppcid: '1479782'
   cmte_nid: '214099226'
   committee_type: Primarily Formed Measure
-  total_expense: 4402623.28
+  total_expense: 5076885.58
 - cmte_name: DJ BROOKTER FOR SUPERVISOR 2026
   cmte_fppcid: '1481892'
   cmte_nid: '214443884'
   committee_type: Candidate Controlled
-  total_expense: 162711.91
+  total_expense: 174768.21
 - cmte_name: J.R. EPPLER FOR SUPERVISOR 2026
   cmte_fppcid: '1482707'
   cmte_nid: '214577156'
   committee_type: Candidate Controlled
-  total_expense: 122012.24
+  total_expense: 157660.44
 - cmte_name: P.J BASTIANY FOR SUPERVISOR 2026
   cmte_fppcid: '1481624'
   cmte_nid: '214611048'
   committee_type: Candidate Controlled
-  total_expense: 465.44
+  total_expense: 1348.06
 - cmte_name: STEPHEN SHERRILL FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1482285'
   cmte_nid: '214620516'
   committee_type: Candidate Controlled
-  total_expense: 176463.46
+  total_expense: 205411.95
 - cmte_name: Joseph Pritzker
   cmte_fppcid: '1369110'
   cmte_nid: '214726634'
@@ -175,27 +180,27 @@ committees:
   cmte_fppcid: '1483651'
   cmte_nid: '214769397'
   committee_type: Candidate Controlled
-  total_expense: 29206.66
+  total_expense: 33409.2
 - cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1483804'
   cmte_nid: '214772801'
   committee_type: Candidate Controlled
-  total_expense: 412058.26
+  total_expense: 612740.37
 - cmte_name: GARY MC COY FOR SUPERVISOR 2026
   cmte_fppcid: '1484080'
   cmte_nid: '214783692'
   committee_type: Candidate Controlled
-  total_expense: 252235.73
+  total_expense: 302468.76
 - cmte_name: THEO ELLINGTON FOR SUPERVISOR 2026
   cmte_fppcid: '1484091'
   cmte_nid: '214808596'
   committee_type: Candidate Controlled
-  total_expense: 261578.45
+  total_expense: 289336.82
 - cmte_name: MICHAEL NGUYEN FOR SUPERVISOR 2026
   cmte_fppcid: '1484606'
   cmte_nid: '214884831'
   committee_type: Candidate Controlled
-  total_expense: 167475.75
+  total_expense: 195967.55
 - cmte_name: JEREMY GRECO FOR SUPERVISOR 2026
   cmte_fppcid: '1485253'
   cmte_nid: '214951144'
@@ -210,22 +215,22 @@ committees:
   cmte_fppcid: '1487291'
   cmte_nid: '215424978'
   committee_type: Candidate Controlled
-  total_expense: 16722.2
+  total_expense: 16747.89
 - cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
   cmte_fppcid: '1487005'
   cmte_nid: '215573474'
   committee_type: Primarily Formed Measure
-  total_expense: 69022.82
+  total_expense: 108541.71
 - cmte_name: MATT DORSEY FOR SUPERVISOR 2026
   cmte_fppcid: '1487329'
   cmte_nid: '215579031'
   committee_type: Candidate Controlled
-  total_expense: 95036.96
+  total_expense: 110923.29
 - cmte_name: JOAQUIN TORRES FOR ASSESSOR-RECORDER 2026
   cmte_fppcid: '1487412'
   cmte_nid: '215593851'
   committee_type: Candidate Controlled
-  total_expense: 36861.88
+  total_expense: 46545.46
 - cmte_name: SF Believes
   cmte_fppcid: '1487286'
   cmte_nid: '215606983'
@@ -235,17 +240,17 @@ committees:
   cmte_fppcid: '1488280'
   cmte_nid: '215728828'
   committee_type: Candidate Controlled
-  total_expense: 111358.73
+  total_expense: 144729.63
 - cmte_name: LAURANCE LEE FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1487911'
   cmte_nid: '215729166'
   committee_type: Candidate Controlled
-  total_expense: 7661.59
+  total_expense: 8297.34
 - cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
   cmte_fppcid: '1489257'
   cmte_nid: '216006060'
   committee_type: Primarily Formed Measure
-  total_expense: 10308764.51
+  total_expense: 11963214.63
 - cmte_name: GEE FOR SUPERVISOR 2026
   cmte_fppcid: '1490199'
   cmte_nid: '216135683'
@@ -255,7 +260,7 @@ committees:
   cmte_fppcid: '1489126'
   cmte_nid: '216198377'
   committee_type: Candidate Controlled
-  total_expense: 69162.85
+  total_expense: 70480.42
 - cmte_name: LORI BROOKE FOR SUPERVISOR 2026 GENERAL
   cmte_fppcid: '1484332'
   cmte_nid: '216289152'
@@ -265,7 +270,7 @@ committees:
   cmte_fppcid: '1490256'
   cmte_nid: '216584147'
   committee_type: Candidate Controlled
-  total_expense: 10793.89
+  total_expense: 29620.85
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   cmte_nid: '216701453'
@@ -280,7 +285,7 @@ committees:
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'
   committee_type: Primarily Formed Measure
-  total_expense: 541110.46
+  total_expense: 654384.8
 - cmte_name: GRECO FOR SUPERVISOR 2026
   cmte_fppcid: '1491969'
   cmte_nid: '216781160'
@@ -290,17 +295,17 @@ committees:
   cmte_fppcid: '1491734'
   cmte_nid: '216824591'
   committee_type: Candidate Controlled
-  total_expense: 19328.99
+  total_expense: 26379.79
 - cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1491849'
   cmte_nid: '216837806'
   committee_type: Candidate Controlled
-  total_expense: 15287.3
+  total_expense: 34785.2
 - cmte_name: NICK BERG FOR SUPERVISOR 2026
   cmte_fppcid: '1492180'
   cmte_nid: '216871542'
   committee_type: Candidate Controlled
-  total_expense: 6559.37
+  total_expense: 6579.67
 - cmte_name: ALBERT CHOW FOR SUPERVISOR - GENERAL 2026
   cmte_fppcid: '1492163'
   cmte_nid: '216878122'
@@ -310,7 +315,7 @@ committees:
   cmte_fppcid: '1493283'
   cmte_nid: '216883068'
   committee_type: Candidate Controlled
-  total_expense: 830.74
+  total_expense: 1837.74
 - cmte_name: Shorenstein Company LLC
   cmte_fppcid: unknown
   cmte_nid: '216904563'
@@ -321,12 +326,12 @@ committees:
   cmte_fppcid: '1492671'
   cmte_nid: '216956820'
   committee_type: Primarily Formed Measure
-  total_expense: 601038.01
+  total_expense: 817751.23
 - cmte_name: ALIDA FISHER FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1492843'
   cmte_nid: '216963896'
   committee_type: Candidate Controlled
-  total_expense: 5295.59
+  total_expense: 5315.36
 - cmte_name: ELIJAH I. BALL
   cmte_fppcid: '1492919'
   cmte_nid: '216963991'
@@ -336,17 +341,17 @@ committees:
   cmte_fppcid: '1494100'
   cmte_nid: '217019367'
   committee_type: Primarily Formed Measure
-  total_expense: 218254.2
+  total_expense: 398490.58
 - cmte_name: YES ON B, OUR CITY OUR BANK
   cmte_fppcid: '1488530'
   cmte_nid: '217045555'
   committee_type: Primarily Formed Measure
-  total_expense: 139244.11
+  total_expense: 272804.74
 - cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
   cmte_fppcid: '1493505'
   cmte_nid: '217052017'
   committee_type: Candidate Controlled
-  total_expense: 10606.37
+  total_expense: 12106.62
 - cmte_name: MARTINEZ FOR COLLEGE BOARD 2026; ANITA
   cmte_fppcid: '1493829'
   cmte_nid: '217060161'
@@ -356,7 +361,7 @@ committees:
   cmte_fppcid: '1493867'
   cmte_nid: '217079174'
   committee_type: Primarily Formed Measure
-  total_expense: 260185.73
+  total_expense: 400826.25
 - cmte_name: ERWIN TAM FOR COMMUNITY COLLEGE BOARD 2026
   cmte_fppcid: '1494389'
   cmte_nid: '217090483'
@@ -371,22 +376,22 @@ committees:
   cmte_fppcid: '1493873'
   cmte_nid: '217091337'
   committee_type: Primarily Formed Measure
-  total_expense: 151934.7
+  total_expense: 195516.2
 - cmte_name: TEAM MANNY, MANNY YEKUTIEL FOR SUPERVISOR 2026
   cmte_fppcid: '1486185'
   cmte_nid: '217128861'
   committee_type: Primarily Formed Candidate
-  total_expense: 65168.96
+  total_expense: 114000.0
 - cmte_name: RUTH FERGUSON FOR CITY COLLEGE BOARD 2026
   cmte_fppcid: '1494600'
   cmte_nid: '217168240'
   committee_type: Candidate Controlled
-  total_expense: 462.49
+  total_expense: 6067.47
 - cmte_name: BUNNY FOR CITY COLLEGE BOARD 2026
   cmte_fppcid: '1495068'
   cmte_nid: '217230804'
   committee_type: Candidate Controlled
-  total_expense: 6940.86
+  total_expense: 10645.46
 - cmte_name: Dylan Hirsch-Shell
   cmte_fppcid: unknown
   cmte_nid: '217230896'
@@ -398,12 +403,12 @@ committees:
   cmte_fppcid: '1495424'
   cmte_nid: '217233128'
   committee_type: Primarily Formed Measure
-  total_expense: 1462414.45
+  total_expense: 2507994.83
 - cmte_name: JEREMY LEE FOR CITY COLLEGE BOARD 2026
   cmte_fppcid: '1495277'
   cmte_nid: '217234321'
   committee_type: Candidate Controlled
-  total_expense: 6999.11
+  total_expense: 10449.95
 - cmte_name: San Francisco DSA (nonprofit 501(c)(4)), Primarily Formed to Support
     Fair Housing
   cmte_fppcid: '1496058'
@@ -415,12 +420,12 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 218501.95
+  total_expense: 486001.95
 - cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   cmte_fppcid: '1493854'
   cmte_nid: '217292166'
   committee_type: Candidate Controlled
-  total_expense: 3192.4
+  total_expense: 4735.97
 - cmte_name: Core Urban Holdings LLC
   cmte_fppcid: unknown
   cmte_nid: '217413116'
@@ -437,7 +442,7 @@ committees:
   cmte_fppcid: '1496601'
   cmte_nid: '217420279'
   committee_type: Primarily Formed Candidate
-  total_expense: 81020.73
+  total_expense: 61573.05
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'
@@ -554,7 +559,7 @@ committees:
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
   committee_type: General Purpose
-  total_expense: 1500.0
+  total_expense: 2500.0
 - cmte_name: San Francisco Labor Council Labor & Neighbor Independent Expenditure
     Political Action Committee
   cmte_fppcid: '991525'
@@ -586,7 +591,7 @@ committees:
   cmte_fppcid: '1311218'
   cmte_nid: '6685673'
   committee_type: General Purpose
-  total_expense: 258652.32
+  total_expense: 257907.29
 - cmte_name: SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 1021 PAC
   cmte_fppcid: '1296947'
   cmte_nid: '6685874'

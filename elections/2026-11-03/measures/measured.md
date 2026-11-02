@@ -28,15 +28,15 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494110'
   committee_name: FAIR ACCESS NO ON D
-  funds: 744570.0
-  expenses: 436508.4
+  funds: 924670.0
+  expenses: 796981.16
   ies: ''
 - position: OPPOSE
   filer_nid: '217019367'
   filer_id: '1494100'
   committee_name: FAIR ACCESS NO ON D
-  funds: 744570.0
-  expenses: 436508.4
+  funds: 924670.0
+  expenses: 796981.16
   ies: ''
 - position: OPPOSE
   filer_nid: '217661076'
@@ -50,15 +50,15 @@ multi_committees:
   filer_nid: '216006060'
   filer_id: '1489257'
   committee_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-  funds: 13790128.94
-  expenses: 10308764.51
+  funds: 13790678.94
+  expenses: 11963214.63
 contributors:
 - - Service Employee Internation Union Local 2015
   - 150000.0
-- - Tenants and Owners Development Corporation
-  - 91000.0
 - - Service Employees International Union Local 1021 PAC
-  - 75075.0
+  - 150000.0
+- - Tenants and Owners Development Corporation
+  - 106000.0
 - - International Federation Professional Technical Engineers
   - 25000.0
 - - San Francisco Labor Council

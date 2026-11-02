@@ -27,8 +27,8 @@ committees:
   filer_nid: '214099226'
   filer_id: '1479782'
   committee_name: MAYOR LURIE'S YES ON H COMMITTEE
-  funds: 5194524.23
-  expenses: 4247915.59
+  funds: 5246894.23
+  expenses: 5076885.58
   ies: ''
 - position: SUPPORT
   filer_nid: '217636104'
@@ -55,9 +55,9 @@ contributors:
   - 350000.0
 - - Emerson Collective Llc(diedra Nelson)
   - 200000.0
+- - Transport Workers Union of America
+  - 104000.0
 - - Another Planet Entertainment Llc(gregg Perloff)
-  - 100000.0
-- - Chime Financial
   - 100000.0
 
 ---
