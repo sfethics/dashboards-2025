@@ -420,7 +420,7 @@ committees:
   cmte_fppcid: '1495589'
   cmte_nid: '217267598'
   committee_type: Primarily Formed Candidate
-  total_expense: 486001.95
+  total_expense: 496932.35
 - cmte_name: VIRGINIA CHEUNG FOR SF BOARD OF EDUCATION 2026
   cmte_fppcid: '1493854'
   cmte_nid: '217292166'
@@ -442,7 +442,7 @@ committees:
   cmte_fppcid: '1496601'
   cmte_nid: '217420279'
   committee_type: Primarily Formed Candidate
-  total_expense: 61573.05
+  total_expense: 70900.45
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'

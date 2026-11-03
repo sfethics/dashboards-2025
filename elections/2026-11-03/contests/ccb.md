@@ -69,7 +69,7 @@ ie_candidates:
       HAZELTON AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY
       LABOR ORGANIZATIONS
     funds: ''
-    expenses: 22213.36
+    expenses: 23767.93
 - candidate_name: ELIJAH BALL
   filer_id: '1492919'
   committees:
