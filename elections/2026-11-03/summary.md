@@ -86,12 +86,12 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 510034.17999999993
+  expenses: 514697.87
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 646604.71
+  expenses: 657535.11
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -116,7 +116,7 @@ candidate_ie:
   contest_name: Community College Board
   contest_link: ccb
   funds: 0.0
-  expenses: 50422.149999999994
+  expenses: 53531.28999999999
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
@@ -227,7 +227,7 @@ top_cand_spends:
   cmte_fppcid: '1495589'
   cmte_name: FROM THE NEIGHBORHOOD, FOR THE CITY, SUPPORTING THEO ELLINGTON FOR SUPERVISOR
     2026
-  total_expense: 486001.95
+  total_expense: 496932.35
 top_bm_spends:
 - cmte_nid: '216006060'
   cmte_fppcid: '1489257'
