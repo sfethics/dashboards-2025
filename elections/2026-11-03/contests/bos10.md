@@ -71,6 +71,16 @@ ie_candidates:
     committee_name: GrowSF Voter Guide
     funds: 0.0
     expenses: 3200.0
+- candidate_name: DION-JAY (DJ) BROOKTER
+  filer_id: '1481892'
+  committees:
+  - position: SUPPORT
+    filer_nid: '194054997'
+    filer_id: '1433122'
+    committee_name: California Workers' Justice Coalition sponsored by Service Employees
+      International Union Local 1021
+    funds: 0.0
+    expenses: 43615.84
 contributors:
 - - Christian Larsen
   - 540000.0

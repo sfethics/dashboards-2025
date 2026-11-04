@@ -182,9 +182,6 @@ committees:
 - cmte_name: Fair Access No on D
   cmte_fppcid: '1494110'
   cmte_nid: '217019367'
-- cmte_name: Fair Access No on D
-  cmte_fppcid: '1494100'
-  cmte_nid: '217019367'
 - cmte_name: Fair Housing, Yes on I
   cmte_fppcid: '1490845'
   cmte_nid: '216747316'

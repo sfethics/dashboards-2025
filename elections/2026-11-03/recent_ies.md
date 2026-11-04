@@ -157,6 +157,14 @@ recent_ies:
   tx_amount: 10193.1
   tx_date: '2026-10-28'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851709?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 2586.0
+  tx_date: '2026-10-28'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217845891?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -178,6 +186,14 @@ recent_ies:
   tx_amount: 11714.87
   tx_date: '2026-10-27'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217829711?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 7000.0
+  tx_date: '2026-10-27'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217845891?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: California Alliance of Family Owned Businesses PAC
   cmte_fppcid: '1465611'
   ie_description: 'Board of Supervisors D10: THEO ELLINGTON'
@@ -185,6 +201,22 @@ recent_ies:
   tx_amount: 6595.54
   tx_date: '2026-10-27'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217829711?aid=SFO&name=California%20Alliance%20of%20Family%20Owned%20Businesses%20PAC_SUPPORTING_THEO%20ELLINGTON
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 1548.0
+  tx_date: '2026-10-27'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217836167?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 10000.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217836167?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'Board of Supervisors D08: GARY MCCOY'
@@ -208,6 +240,14 @@ recent_ies:
   tx_amount: 4000.0
   tx_date: '2026-10-26'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 2494.0
+  tx_date: '2026-10-26'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217836167?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: Building a Working SF Sponsored by Labor Organizations
   cmte_fppcid: '1471862'
   ie_description: 'H: Parcel Tax to Fund Public Muni Operations'
@@ -271,6 +311,22 @@ recent_ies:
   tx_amount: 1000.0
   tx_date: '2026-10-26'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217837065?aid=SFO&name=Build%20Affordable%20Faster%20California%2C%20sponsored%20by%20Tenants%20and%20Owners%20Development%20Corp._OPPOSING_MEASURE_D
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 14000.0
+  tx_date: '2026-10-24'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851846?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 2787.84
+  tx_date: '2026-10-24'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851846?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: SAN FRANCISCANS FOR STRONG PUBLIC EDUCATION SUPPORTING LACROIX, LEE,
     AND MCFADDEN FOR SAN FRANCISCO COMMUNITY COLLEGE BOARD 2026 AND TELLO, HAZELTON
     AND CHEUNG FOR SAN FRANCISCO BOARD OF EDUCATION 2026 - SPONSORED BY LABOR ORGANIZATIONS
@@ -296,6 +352,14 @@ recent_ies:
   tx_amount: 20655.77
   tx_date: '2026-10-23'
   attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217737975?aid=SFO&name=Building%20a%20Working%20SF%20Sponsored%20by%20Labor%20Organizations_SUPPORTING_GARY%20MCCOY
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  ie_description: 'Board of Supervisors D10: DION-JAY (DJ) BROOKTER'
+  position: SUPPORT
+  tx_amount: 3200.0
+  tx_date: '2026-10-23'
+  attachment_url: https://netfile.com/api/public/sites/api/CampaignDocuments/attachment/217851846?aid=SFO&name=California%20Workers%27%20Justice%20Coalition%20sponsored%20by%20Service%20Employees%20International%20Union%20Local%201021_SUPPORTING_DION-JAY%20%28DJ%29%20BROOKTER
 - cmte_name: SAN FRANCISCO PARENT ACTION PAC
   cmte_fppcid: '1442994'
   ie_description: 'Board of Education: ALIDA FISHER'

@@ -28,15 +28,8 @@ committees:
   filer_nid: '217019367'
   filer_id: '1494110'
   committee_name: FAIR ACCESS NO ON D
-  funds: 924670.0
-  expenses: 796981.16
-  ies: ''
-- position: OPPOSE
-  filer_nid: '217019367'
-  filer_id: '1494100'
-  committee_name: FAIR ACCESS NO ON D
-  funds: 924670.0
-  expenses: 796981.16
+  funds: 462335.0
+  expenses: 398490.58
   ies: ''
 - position: OPPOSE
   filer_nid: '217661076'

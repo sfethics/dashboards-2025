@@ -91,7 +91,7 @@ candidate_ie:
   contest_name: Board of Supervisors D10
   contest_link: bos10
   funds: 550000.0
-  expenses: 657535.11
+  expenses: 701150.95
 - contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
@@ -152,8 +152,8 @@ measures:
 - contest_nid: '217019352'
   contest_name: 'D: Changes to Ballot Measure Process'
   contest_link: measured
-  expenses: 819574.91
-  funds: 924670.0
+  expenses: 421084.33
+  funds: 462335.0
 - contest_nid: '217045518'
   contest_name: 'B: Establishing a Municipal Finance Corporation and a Public Bank'
   contest_link: measureb
