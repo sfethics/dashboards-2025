@@ -86,7 +86,7 @@ candidate_ie:
   contest_name: Board of Education
   contest_link: usd
   funds: 0.0
-  expenses: 514697.87
+  expenses: 517701.5
 - contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
@@ -116,7 +116,7 @@ candidate_ie:
   contest_name: Community College Board
   contest_link: ccb
   funds: 0.0
-  expenses: 53531.28999999999
+  expenses: 59570.95
 - contest_nid: MCC-1
   contest_name: Community College Board and Board of Education
   contest_link: ccb-usd
@@ -132,7 +132,7 @@ measures:
   contest_name: 'H: Parcel Tax to Fund Public Muni Operations'
   contest_link: measureh
   expenses: 5112188.4
-  funds: 5246894.23
+  funds: 5301894.23
 - contest_nid: '216747293'
   contest_name: 'I: Changes to Real Property Transfer Tax'
   contest_link: measurei
@@ -173,27 +173,27 @@ measures:
   contest_name: 'J: Removal of Foreclosure Exemption for Real Property Transfer Tax'
   contest_link: measurej
   expenses: 209838.84
-  funds: 207957.45
+  funds: 237957.45
 - contest_nid: MULTI-1
   contest_name: 'D,E,F: Measures D, E, and F'
   contest_link: measuredef
   expenses: 11963214.63
-  funds: 13790678.94
+  funds: 13800678.94
 - contest_nid: MULTI-2
   contest_name: 'C,I: Measures C and I'
   contest_link: measureci
   expenses: 2507994.83
-  funds: 2787748.0
+  funds: 2792748.0
 contributors_bm:
 - - Michael Moritz
   - 3468095.78
 - - Christian Larsen
   - 1587500.0
-- - John Pritzker
-  - 1000000.0
 - - Lyna Lam
   - 1000000.0
-- - Jeremy Stoppelman
+- - John Pritzker
+  - 1000000.0
+- - Emerson Collective Llc(diedra Nelson)
   - 750000.0
 contributors_cand:
 - - Christian Larsen
