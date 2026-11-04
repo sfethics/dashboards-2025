@@ -421,6 +421,10 @@ committees:
 - cmte_name: Bay Area Jewish Action PAC (Bajapac)
   cmte_fppcid: '1484825'
   cmte_nid: unknown
+- cmte_name: Boma California Issues Political Action Committee, Sponsored by Building
+    Owners & Managers Association of California
+  cmte_fppcid: '1273122'
+  cmte_nid: unknown
 - cmte_name: California Alliance for Jobs - Rebuild California Committee
   cmte_fppcid: '1241892'
   cmte_nid: unknown
@@ -741,6 +745,9 @@ committees:
 - cmte_name: San Francisco Community Land Trust
   cmte_fppcid: unknown
   cmte_nid: '217652652'
+- cmte_name: Scott Feeney
+  cmte_fppcid: unknown
+  cmte_nid: '211836608'
 - cmte_name: Shorenstein Company LLC
   cmte_fppcid: unknown
   cmte_nid: '216904563'

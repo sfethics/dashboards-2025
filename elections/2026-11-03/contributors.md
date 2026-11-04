@@ -321,6 +321,32 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 185000.0
+- tx_lastname: THE SAN FRANCISCO FOUNDATION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 205000.0
+  transactions:
+  - cmte_fppcid: '1492671'
+    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
+      ACTION FUND
+    tx_amount: 50000.0
+  - cmte_fppcid: '1488530'
+    cmte_name: YES ON B, OUR CITY OUR BANK
+    tx_amount: 125000.0
+  - cmte_fppcid: '1493873'
+    cmte_name: TAX FORECLOSURES, YES ON J
+    tx_amount: 30000.0
+- tx_lastname: SAMEER GANDHI
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 200500.0
+  transactions:
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 200000.0
+  - cmte_fppcid: '1493505'
+    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
+    tx_amount: 500.0
 - tx_lastname: DAVID ROBERT HALE
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -357,18 +383,6 @@ contributors:
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
     tx_amount: 191000.0
-- tx_lastname: THE SAN FRANCISCO FOUNDATION
-  tx_entitycode: Other
-  tx_cmteid: ''
-  tx_amount: 175000.0
-  transactions:
-  - cmte_fppcid: '1492671'
-    cmte_name: YES ON C - SAN FRANCISCANS FOR AFFORDABLE HOMES, SPONSORED BY THE NPH
-      ACTION FUND
-    tx_amount: 50000.0
-  - cmte_fppcid: '1488530'
-    cmte_name: YES ON B, OUR CITY OUR BANK
-    tx_amount: 125000.0
 - tx_lastname: ELECTRICAL INDUSTRY SERVICE BUREAU, INC.
   tx_entitycode: Other
   tx_cmteid: ''
@@ -572,17 +586,6 @@ contributors:
   - cmte_fppcid: '1489257'
     cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 100000.0
-- tx_lastname: SAMEER GANDHI
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 100500.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-    tx_amount: 100000.0
-  - cmte_fppcid: '1493505'
-    cmte_name: TIM TUNG FOR SCHOOL BOARD 2026
-    tx_amount: 500.0
 - tx_lastname: '555-575 MARKET OWNER, LLC(RESPONSIBLE OFFICER: GREG FLYNN)'
   tx_entitycode: Other
   tx_cmteid: ''
@@ -645,14 +648,6 @@ contributors:
     tx_amount: 100000.0
 - tx_lastname: MEYER MALKA
   tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 100000.0
-  transactions:
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
-    tx_amount: 100000.0
-- tx_lastname: POTOMAC TRUST
-  tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 100000.0
   transactions:
@@ -819,6 +814,17 @@ contributors:
   - cmte_fppcid: '1487329'
     cmte_name: MATT DORSEY FOR SUPERVISOR 2026
     tx_amount: 500.0
+- tx_lastname: BRIAN SINGERMAN
+  tx_entitycode: Individual
+  tx_cmteid: ''
+  tx_amount: 60500.0
+  transactions:
+  - cmte_fppcid: '1483804'
+    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489257'
+    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
+    tx_amount: 60000.0
 - tx_lastname: MARCO HELLMAN
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -889,17 +895,6 @@ contributors:
     cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
       SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
       CHAMBER OF COMMERCE
-    tx_amount: 50000.0
-- tx_lastname: BRIAN SINGERMAN
-  tx_entitycode: Individual
-  tx_cmteid: ''
-  tx_amount: 50500.0
-  transactions:
-  - cmte_fppcid: '1483804'
-    cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489257'
-    cmte_name: MAYOR LURIE'S YES ON D, E & F COMMITTEE
     tx_amount: 50000.0
 - tx_lastname: DAVID LAMOND
   tx_entitycode: Individual
@@ -1157,6 +1152,14 @@ contributors:
       CHAMBER OF COMMERCE
     tx_amount: 50000.0
 - tx_lastname: SUTTER HEALTH
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 50000.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 50000.0
+- tx_lastname: THE SAN FRANCSICO FOUNDATION
   tx_entitycode: Other
   tx_cmteid: ''
   tx_amount: 50000.0
@@ -2171,6 +2174,23 @@ contributors:
   - cmte_fppcid: '1491849'
     cmte_name: AUTUMN BROWN GARIBAY FOR BOARD OF EDUCATION 2026
     tx_amount: 100.0
+- tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
+  tx_entitycode: Committee
+  tx_cmteid: '1406838'
+  tx_amount: 8500.0
+  transactions:
+  - cmte_fppcid: '1479782'
+    cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 5000.0
+  - cmte_fppcid: '1487329'
+    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
+    tx_amount: 500.0
+  - cmte_fppcid: '1489126'
+    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
+    tx_amount: 500.0
+  - cmte_fppcid: '1493867'
+    cmte_name: CLEAN UP THE CHARTER - YES ON A
+    tx_amount: 2500.0
 - tx_lastname: AUDREY KUEN LIU
   tx_entitycode: Individual
   tx_cmteid: ''
@@ -2533,6 +2553,17 @@ contributors:
   transactions:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
+    tx_amount: 5000.0
+- tx_lastname: BOMA CALIFORNIA ISSUES POLITICAL ACTION COMMITTEE, SPONSORED BY BUILDING
+    OWNERS & MANAGERS ASSOCIATION OF CALIFORNIA
+  tx_entitycode: Committee
+  tx_cmteid: '1273122'
+  tx_amount: 5000.0
+  transactions:
+  - cmte_fppcid: '1495424'
+    cmte_name: YES ON C, NO ON I, SF FOR ACCOUNTABILITY IN HOUSING SPONSORED BY THE
+      SAN FRANCISCO BUILDING AND CONSTRUCTION TRADES COUNCIL AND THE SAN FRANCISCO
+      CHAMBER OF COMMERCE
     tx_amount: 5000.0
 - tx_lastname: BORA OZTURK
   tx_entitycode: Individual
@@ -3037,20 +3068,6 @@ contributors:
   - cmte_fppcid: '1483804'
     cmte_name: MANNY YEKUTIEL FOR SUPERVISOR 2026
     tx_amount: 500.0
-- tx_lastname: TEAMSTERS LOCAL UNION 350 PAC
-  tx_entitycode: Committee
-  tx_cmteid: '1406838'
-  tx_amount: 3500.0
-  transactions:
-  - cmte_fppcid: '1487329'
-    cmte_name: MATT DORSEY FOR SUPERVISOR 2026
-    tx_amount: 500.0
-  - cmte_fppcid: '1489126'
-    cmte_name: ALAN WONG FOR SUPERVISOR 2026 GENERAL
-    tx_amount: 500.0
-  - cmte_fppcid: '1493867'
-    cmte_name: CLEAN UP THE CHARTER - YES ON A
-    tx_amount: 2500.0
 - tx_lastname: TOMASITA MEDAL
   tx_entitycode: Individual
   tx_cmteid: ''

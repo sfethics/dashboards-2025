@@ -142,6 +142,11 @@ committees:
   cmte_nid: '211792942'
   committee_type: General Purpose
   total_expense: 621524.4600000001
+- cmte_name: Scott Feeney
+  cmte_fppcid: unknown
+  cmte_nid: '211836608'
+  committee_type: Major Donor
+  total_expense: 4190.0
 - cmte_name: JOHN JERSIN FOR BOARD OF EDUCATION 2026
   cmte_fppcid: '1477601'
   cmte_nid: '212794940'
@@ -448,7 +453,7 @@ committees:
   cmte_fppcid: '1496601'
   cmte_nid: '217420279'
   committee_type: Primarily Formed Candidate
-  total_expense: 70900.45
+  total_expense: 76907.69
 - cmte_name: Lea Dudum
   cmte_fppcid: unknown
   cmte_nid: '217441115'

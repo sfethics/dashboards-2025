@@ -21,7 +21,7 @@ committees:
   filer_nid: '217091337'
   filer_id: '1493873'
   committee_name: TAX FORECLOSURES, YES ON J
-  funds: 207957.45
+  funds: 237957.45
   expenses: 195516.2
   ies: ''
 - position: SUPPORT
@@ -39,6 +39,8 @@ contributors:
   - 50000.0
 - - Service Employees International Union Local 1021 Issues PAC
   - 50000.0
+- - the San Francisco Foundation
+  - 30000.0
 - - Michael Moritz
   - 25000.0
 - - SF Forward Sponsored by San Francisco Chamber of Commerce
