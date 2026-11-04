@@ -69,6 +69,12 @@ committees:
   cmte_nid: '193427405'
   committee_type: General Purpose
   total_expense: 875000.0
+- cmte_name: California Workers' Justice Coalition sponsored by Service Employees
+    International Union Local 1021
+  cmte_fppcid: '1433122'
+  cmte_nid: '194054997'
+  committee_type: General Purpose
+  total_expense: 43615.84
 - cmte_name: NAIOP SAN FRANCISCO BAY AREA ISSUES PAC
   cmte_fppcid: '1441128'
   cmte_nid: '201112724'
@@ -338,7 +344,7 @@ committees:
   committee_type: Candidate Controlled
   total_expense: 27638.68
 - cmte_name: FAIR ACCESS NO ON D
-  cmte_fppcid: '1494100'
+  cmte_fppcid: '1494110'
   cmte_nid: '217019367'
   committee_type: Primarily Formed Measure
   total_expense: 398490.58
@@ -554,7 +560,7 @@ committees:
   cmte_fppcid: '941856'
   cmte_nid: '6673384'
   committee_type: General Purpose
-  total_expense: 2300.0
+  total_expense: 2600.0
 - cmte_name: San Francisco Deputy Sheriffs' Association Political Action Committee
   cmte_fppcid: '991828'
   cmte_nid: '6673394'
