@@ -2114,6 +2114,14 @@ contributors:
   - cmte_fppcid: '1479782'
     cmte_name: MAYOR LURIE'S YES ON H COMMITTEE
     tx_amount: 10000.0
+- tx_lastname: UNITED CHINESE AMERICANS ACTION
+  tx_entitycode: Other
+  tx_cmteid: ''
+  tx_amount: 10000.0
+  transactions:
+  - cmte_fppcid: '1487005'
+    cmte_name: YES ON G, GREAT HIGHWAY FOR EVERYONE
+    tx_amount: 10000.0
 - tx_lastname: 'REEF 101 POLK LLC(RESPONSIBLE OFFICER: TRACEY VOLL)'
   tx_entitycode: Other
   tx_cmteid: ''
