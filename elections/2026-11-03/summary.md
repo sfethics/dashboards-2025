@@ -143,7 +143,7 @@ measures:
     Park'
   contest_link: measureg
   expenses: 1451254.62
-  funds: 1778694.32
+  funds: 1788694.32
 - contest_nid: '216965957'
   contest_name: 'C: Contributions to the Housing Fund'
   contest_link: measurec
@@ -193,7 +193,7 @@ contributors_bm:
   - 1000000.0
 - - John Pritzker
   - 1000000.0
-- - Emerson Collective Llc(diedra Nelson)
+- - Jeremy Stoppelman
   - 750000.0
 contributors_cand:
 - - Christian Larsen
