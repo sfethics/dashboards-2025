@@ -19,7 +19,33 @@ so that we can add $tertiary colors along with bg-color utility
 $font-family-sans-serif: "Roboto Flex", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-serif: "Roboto Slab", Georgia, Cambria, "Times New Roman", Times, serif !default;
 
-$primary: #004A80;
+// SF.gov palette (Digital Services styling report, Oct 2026)
+$sf-primary-50: #E9F1FE;
+$sf-primary-100: #DFEBFD;
+$sf-primary-200: #AFCCF7;
+$sf-primary-500: #2A60AF;
+$sf-primary-600: #1B519E;
+$sf-primary-700: #043578;
+$sf-primary-800: #001D4E;
+$sf-primary-900: #000925;
+$sf-black: #0B0C0C;
+$sf-white: #FCFCFC;
+$sf-page-bg: #F7F8F8;
+$sf-neutral-1: #F0F0F0;
+$sf-neutral-2: #E3E4E4; // not in report; between Neutral 1 and Neutral 3
+$sf-neutral-3: #C9CACA;
+$sf-neutral-6: #6E7070;
+$sf-neutral-7: #383939;
+
+$primary: $sf-primary-600;
+$body-color: $sf-black;
+$headings-color: $sf-black;
+$link-hover-color: $sf-primary-800;
+$border-radius: 4px;
+$btn-font-weight: 500;
+$focus-ring-color: $sf-primary-500;
+$focus-ring-width: 3px;
+$focus-ring-opacity: 1;
 // $secondary: #005A56;
 // $tertiary: #3D408B;
 $tertiary: #005A56;
@@ -30,11 +56,11 @@ $tertiary: #005A56;
 $contributions: #2E7D32;
 $expenditures: #D1031B;
 $thirdparty: #3D408B;
-$tableheadcolor: #edf1f4;
+$tableheadcolor: $sf-neutral-1;
 $tablerowcolor: #fefeff;
 
-$gray: #F8FAFC;
-$dark: #212529;
+$gray: $sf-page-bg;
+$dark: $sf-primary-900;
 $red: #771a1a;
 $contributions-subtle: tint-color($contributions, 90%);
 $expenditures-subtle: tint-color($expenditures, 90%);
@@ -141,30 +167,34 @@ $utilities: map-merge(
 // body {
 //     background-color: mix(white, $primary, 90%);
 // }
-html, body {
+/* Clip on body only: an overflow value on <html> stops Bootstrap's offcanvas
+   overflow:hidden from hiding the viewport scrollbar, so its padding-right
+   compensation shifted the page left. To revert, restore `html, body` below. */
+body {
   overflow-x: clip; /* preferred */
   /* overflow-x: hidden;  fallback if clip isn't supported */
 }
 
-h1, h2 {
+/* Type scale per SF.gov styling report (desktop / mobile under 1024px) */
+h1, .h1, h2, .h2 {
     font-family: $font-family-serif;
+    font-weight: 600;
 }
-h6 {
-    font-style: italic;
+h1, .h1 { font-size: 46px; line-height: 56px; }
+h2, .h2 { font-size: 32px; line-height: 44px; }
+h3, .h3, h4, .h4 { font-size: 24px; line-height: 32px; font-weight: 600; }
+h5, .h5 { font-size: 20px; line-height: 28px; font-weight: 700; }
+h6, .h6 { font-size: 16px; line-height: 24px; font-weight: 800; text-transform: uppercase; }
+h1 span, h1 .formatted-date { font: inherit; }
+body { font-size: 16px; line-height: 24px; }
+small, .small { font-size: 14px; line-height: 20px; }
+@media (max-width: 1023.98px) {
+    h1, .h1 { font-size: 32px; line-height: 40px; }
+    h2, .h2 { font-size: 24px; line-height: 32px; }
+    h3, .h3, h4, .h4 { font-size: 20px; line-height: 28px; }
+    h5, .h5 { font-size: 16px; line-height: 24px; }
 }
 @media (min-width: 1200px) {
-    h2 {
-        font-size: 1.75rem;
-    }
-    h3 {
-        font-size: 1.35rem; 
-    }
-    h4 {
-        font-size: 1.25rem;
-    }
-    h5 {
-        font-size: 1rem;
-    }
     .cm-contributors.search-box .dt-container, .cm-expenditures.search-box .dt-container {
         //targets the dt table search box
         margin-top: -4.25rem;
@@ -223,14 +253,17 @@ h6 {
     text-decoration: none;
 }
 .breadcrumb-item+.breadcrumb-item::before {
-    color: rgb(100, 116, 139);
+    color: $sf-neutral-6;
 }
 .breadcrumb-item a {
-    color: rgb(100, 116, 139);
+    color: $sf-primary-600;
+}
+.breadcrumb-item a:hover {
+    color: $sf-primary-800;
 }
 .breadcrumb-item.active {
-    color: rgb(100, 116, 139);
-    font-weight: bold;
+    color: $sf-neutral-6;
+    font-weight: 600;
 }
 .breadcrumb {
   --bs-breadcrumb-divider: "\203A"; /* › character */
@@ -250,10 +283,10 @@ table {
     overflow-x: auto;
 }
 div.dt-container .dt-paging .dt-paging-button {
-  background: rgba(0, 74, 128, 0.25);
+  background: $sf-primary-50;
 }
 div.dt-container .dt-paging .dt-paging-button.disabled, div.dt-container .dt-paging .dt-paging-button.disabled:hover, div.dt-container .dt-paging .dt-paging-button.disabled:active {
-  background: #edf1f4;
+  background: $sf-neutral-1;
 }
 .table-row {
     row-gap: 1rem;
@@ -313,34 +346,12 @@ caption.visually-hidden {
     z-index: 2;
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3);
 }
+// SF.gov cards: no glow; 1px Neutral 3 outline with a 4px category-color bar on top
 @mixin hover-glow($color) {
-  position: relative;
-
-  &::before,
-  &::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-    pointer-events: none;
-    transition: opacity 0.4s ease-in-out;
-  }
-
-  // base shadow
-  &::before {
-    box-shadow: 0 0 0.15rem $color;
-    opacity: 1;
-  }
-
-  // hover glow
-  &::after {
-    box-shadow: 0 0 0.25rem $color;
-    opacity: 0;
-  }
-
-  &:hover::after {
-    opacity: 1;
-  }
+  border: 1px solid $sf-neutral-3 !important;
+  border-top: 4px solid $color !important;
+  border-radius: 4px !important;
+  background-color: $sf-white;
 }
 .box-shadow-contributions {
   @include hover-glow($contributions);
@@ -414,23 +425,24 @@ thead th:last-child, tfoot th:last-child {
 }
 
 .navbar-brand .sf-top {
-    font-size: 1rem;          /* slightly larger */
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.35em;      /* wider tracking */
+    font-family: $font-family-sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    color: $sf-primary-100;
     display: block;              /* full line, but content-sized */
     white-space: nowrap;         /* prevents wrapping */
-    line-height: 1;
-    font-family: 'Roboto Slab';
 }
 
 .navbar-brand .sf-bottom {
-    font-size: 1.15rem;
+    font-family: $font-family-serif;
+    font-size: 20px;
+    line-height: 26px;
     font-weight: 700;
+    color: $sf-white;
     display: inline-block;
     width: 100%;
     text-align: left;
-    font-family: 'Roboto Slab';
 }
 
 .custom-card-header {
@@ -458,14 +470,11 @@ thead th:last-child, tfoot th:last-child {
 .link-subtle {
     color: tint-color($dark, 80%);
 }
-// Slightly lighter than $primary for hover/active pill
-$nav-pill-bg: tint-color($primary, 20%); // adjust % to taste
+// Global nav hover/current item (SF.gov primary-800 on primary-700 nav)
+$nav-pill-bg: $sf-primary-800;
 
-// Slightly lighter pill background on hover
-$nav-pill-bg: tint-color($primary, 20%);
-
-// Accessible inactive text color on dark primary background
-$nav-inactive-text: rgba(255, 255, 255, 0.85);
+// Nav link text on dark nav background
+$nav-inactive-text: $sf-white;
 
 //Nav Pill Background
 #main-nav .nav-link {
@@ -575,11 +584,10 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 
 
 
-/* Optional: improve text readability */
+/* Hero panel text: black on primary-50 panel */
 .campaign-hero h1,
 .campaign-hero h2 {
-    color: #ffffff;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
+    color: $sf-black;
 }
 
 /* Optional: subtle overlay if needed */
@@ -609,7 +617,10 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 
 /* Label text: "Select an election" */
 .campaign-hero h2 {
-  font-size: clamp(1.4rem, 2.2vw, 1.9rem);
+  font-family: $font-family-sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
 }
 
 /* Dropdown + button */
@@ -629,9 +640,10 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 .hero-panel {
   display: inline-block;
   padding: 1.25rem 1.5rem;
-  border-radius: 0.75rem;
-  background: rgba(0, 0, 0, 0.35);
-  backdrop-filter: blur(2px);
+  border-radius: 4px;
+  background: $sf-primary-50;
+  border: 1px solid $sf-primary-200;
+  color: $sf-black;
   width: fit-content;
   max-width: 90ch;
 }
@@ -726,15 +738,17 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
     .home-learn-card,
     .home-links-card {
         border: 0;
-        border-radius: 0.75rem;
+        border-radius: 4px;
+        box-shadow: none !important;
+        background-color: $sf-white;
         overflow: hidden;
         height: 100%;
     }
 
     .home-card-header {
-        background: #f8f9fa;
+        background: $sf-white;
         padding: 1.25rem 1.5rem;
-        border-bottom: 6px solid #198754; /* matches Bootstrap success */
+        border-bottom: 1px solid $sf-neutral-3;
     }
 
     /* List styling (learn list) */
@@ -767,23 +781,14 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
     }
 
     .home-links-desc {
-        color: #6c757d; /* Bootstrap secondary text */
+        color: $sf-neutral-6; /* secondary text */
         font-size: 0.95rem;
         margin-top: 0.15rem;
     }
 
-    /* Make the green button stand out a bit more */
+    /* Homepage "View" button: standard primary button */
     #openElection {
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
-        border: 2px solid rgba(255, 255, 255, 0.6);
         padding: 0.5rem 0.9rem;
-        transition: transform 0.15s ease, box-shadow 0.15s ease;
-    }
-
-    #openElection:hover,
-    #openElection:focus {
-        transform: translateY(-1px);
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     }
 /* =========================
    FACTOIDS SCROLLER CSS
@@ -874,39 +879,7 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
   /* Responsive width */
 
 
-  /* ---------- Header ---------- */
-  .offcanvas-header {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.75rem;
-    padding: 1rem 1rem 0.9rem;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-  }
-
-  .icon-badge {
-    width: 2.25rem;
-    height: 2.25rem;
-    border-radius: 0.65rem;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background: tint-color($primary, 88%);
-    color: $primary;
-    flex-shrink: 0;
-  }
-
-  .offcanvas-title {
-    font-family: $font-family-serif;
-    font-size: 1.1rem;
-    line-height: 1.25;
-    margin: 0;
-  }
-
-  .offcanvas-subtitle {
-    font-size: 0.9rem;
-    color: rgba(0, 0, 0, 0.6);
-    margin-top: 0.15rem;
-  }
+  /* Header styles are shared by all slideovers; see "Slideover headers" below */
 
   /* ---------- Body layout ---------- */
   .offcanvas-body {
@@ -1220,7 +1193,7 @@ $nav-inactive-text: rgba(255, 255, 255, 0.85);
 
 @media (max-width: 767.98px) {
   body.bg-gray {
-    background-color: $primary !important;
+    background-color: $sf-primary-700 !important;
   }
 
   /* keep your content area white */
@@ -1354,4 +1327,265 @@ table.dt-bars td:nth-child(5) .dt-bar-value {
   .align-right-desktop {
     text-align: right;
   }
+}
+/* =========================================================
+   SF.gov alignment (Digital Services styling report, Oct 2026)
+   Overrides only; colors/type tokens are set at the top of this file.
+========================================================= */
+
+/* ---------- Links ---------- */
+a {
+  color: $sf-primary-600;
+  text-decoration: underline;
+}
+a:hover {
+  color: $sf-primary-800;
+}
+a:focus-visible {
+  outline: 3px solid $sf-primary-500;
+  outline-offset: 4px;
+  box-shadow: none;
+}
+/* Utility links ("All contests", "Search committees"): underline label, not icon */
+.election-util-link {
+  text-decoration: none;
+}
+.election-util-link span {
+  text-decoration: underline;
+}
+
+/* ---------- Global nav ---------- */
+#main-nav.bg-primary {
+  background-color: $sf-primary-700 !important;
+}
+#main-nav .nav-link:hover,
+#main-nav .nav-link:focus,
+#main-nav .nav-link.active,
+#main-nav .nav-link.show {
+  box-shadow: none;
+}
+
+/* ---------- Page title area ---------- */
+.page-title-area > .container,
+.page-title-area > .container-md {
+  border-bottom: 1px solid $sf-neutral-3;
+}
+.page-title-area .badge {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  --bs-btn-border-radius: 4px;
+  --bs-btn-font-size: 14px;
+  --bs-btn-line-height: 20px;
+  --bs-btn-font-weight: 500;
+}
+.btn-primary {
+  --bs-btn-bg: #{$sf-primary-600};
+  --bs-btn-border-color: #{$sf-primary-600};
+  --bs-btn-color: #{$sf-white};
+  --bs-btn-hover-bg: #{$sf-primary-800};
+  --bs-btn-hover-border-color: #{$sf-primary-800};
+  --bs-btn-hover-color: #{$sf-white};
+  --bs-btn-active-bg: #{$sf-primary-800};
+  --bs-btn-active-border-color: #{$sf-primary-800};
+  --bs-btn-active-color: #{$sf-white};
+}
+/* Tertiary: every outline button, whatever its data category */
+.btn-outline-primary,
+.btn-outline-secondary,
+.btn-outline-tertiary,
+.btn-outline-contributions,
+.btn-outline-expenditures,
+.btn-outline-thirdparty {
+  --bs-btn-color: #{$sf-primary-600};
+  --bs-btn-bg: transparent;
+  --bs-btn-border-color: #{$sf-primary-600};
+  --bs-btn-hover-color: #{$sf-primary-600};
+  --bs-btn-hover-bg: #{$sf-primary-50};
+  --bs-btn-hover-border-color: #{$sf-primary-600};
+  --bs-btn-active-color: #{$sf-primary-600};
+  --bs-btn-active-bg: #{$sf-primary-50};
+  --bs-btn-active-border-color: #{$sf-primary-600};
+}
+.card-action-btn {
+  border-radius: 4px;
+  color: $sf-primary-600;
+}
+.btn:focus-visible,
+.btn-check:focus-visible + .btn {
+  box-shadow: none;
+  outline: 3px solid $sf-primary-500;
+  outline-offset: 3px;
+}
+.btn-outline-primary:focus-visible,
+.btn-outline-secondary:focus-visible,
+.btn-outline-tertiary:focus-visible,
+.btn-outline-contributions:focus-visible,
+.btn-outline-expenditures:focus-visible,
+.btn-outline-thirdparty:focus-visible {
+  background-color: $sf-primary-50;
+  color: $sf-primary-600;
+}
+
+/* ---------- Cards ---------- */
+.card.shadow-sm,
+.money-card {
+  box-shadow: none !important;
+  border: 1px solid $sf-neutral-3 !important;
+}
+.card.rounded-4,
+.money-card {
+  border-radius: 4px !important;
+}
+.card .card-header.custom-card-header {
+  border-radius: 0;
+}
+
+/* ---------- Money totals ---------- */
+.currency.display-6,
+.money-card .card-text,
+.factoid-text {
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 600;
+}
+@media (max-width: 1023.98px) {
+  .currency.display-6,
+  .money-card .card-text,
+  .factoid-text {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+/* ---------- Tables ---------- */
+table th {
+  color: $sf-black;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+.table > :not(caption) > * > * {
+  border-bottom-color: $sf-neutral-2;
+}
+
+/* ---------- Accordions ---------- */
+.accordion {
+  --bs-accordion-border-color: #{$sf-neutral-3};
+  --bs-accordion-border-radius: 4px;
+  --bs-accordion-inner-border-radius: 3px;
+  --bs-accordion-btn-color: #{$sf-black};
+  --bs-accordion-active-color: #{$sf-black};
+  --bs-accordion-active-bg: #{$sf-primary-50};
+  --bs-accordion-btn-focus-box-shadow: 0 0 0 3px #{$sf-primary-500};
+  --bs-accordion-bg: #{$sf-white};
+  --bs-accordion-btn-bg: #{$sf-white};
+}
+/* Info accordions on the table pages carry `border border-dark` in the template;
+   give the closed state the same Neutral 3 outline and 4px corners */
+.accordion-flush.border-dark {
+  border-color: $sf-neutral-3 !important;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.accordion-button {
+  font-family: $font-family-sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.accordion-button:not(.collapsed) {
+  box-shadow: none;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  padding-block: 40px;
+}
+@media (max-width: 1023.98px) {
+  .site-footer {
+    padding-block: 28px;
+  }
+}
+.site-footer a {
+  color: $sf-white;
+  text-decoration: underline;
+}
+.site-footer a:hover {
+  color: $sf-white;
+}
+.site-footer a:focus-visible {
+  outline-color: $sf-white;
+}
+.footer-logo {
+  height: 3rem;
+  width: auto;
+}
+.footer-lockup {
+  display: flex;
+  flex-direction: column;
+}
+.footer-lockup-top {
+  color: $sf-primary-100;
+  font-size: 14px;
+  line-height: 20px;
+}
+.footer-lockup-bottom {
+  font-family: $font-family-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 700;
+  color: $sf-white;
+}
+
+/* ---------- Slideover headers (all offcanvas panels) ---------- */
+.offcanvas-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-bottom: 1px solid $sf-neutral-3;
+}
+.offcanvas-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  min-width: 0;
+}
+.offcanvas-header .icon-badge {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: $sf-primary-50;
+  border: 1px solid $sf-primary-200;
+  color: $sf-primary-600;
+  font-size: 1.125rem;
+  flex-shrink: 0;
+}
+.offcanvas-header .offcanvas-title {
+  font-family: $font-family-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+  color: $sf-black;
+  margin: 0;
+  padding-top: 0.375rem; /* center a one-line title against the 40px badge */
+}
+.offcanvas-header .offcanvas-subtitle {
+  font-size: 14px;
+  line-height: 20px;
+  color: $sf-neutral-6;
+  margin-top: 0.125rem;
+}
+.offcanvas-header .btn-close {
+  flex-shrink: 0;
+  margin: 0.25rem 0 0 0;
 }

@@ -4,7 +4,7 @@
      aria-labelledby="allContestsLabel">
 
   <div class="offcanvas-header">
-    <div class="d-flex align-items-start gap-2">
+    <div class="offcanvas-heading">
       <div class="icon-badge" aria-hidden="true">
         <i class="fa-regular fa-list-ul" aria-hidden="true"></i>
       </div>
@@ -64,8 +64,12 @@
 {% if page.committee_type == 'candidate' %}
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-candidateTT" aria-labelledby="about-candidateTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="about-candidateTTLabel"><i class="fa-regular fa-sidebar-flip me-2"></i>Candidate
-            Controlled Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="about-candidateTTLabel">Candidate Controlled Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -170,9 +174,11 @@
 {% else %}
 <div class="offcanvas offcanvas-start" tabindex="-1" id="about-committeeTT" aria-labelledby="about-committeeTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="about-committeeTTLabel"><i class="fa-regular fa-sidebar-flip me-2"
-                aria-hidden="true"></i>
-            {% if page.committee_type == 'candidate ie' %}
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="about-committeeTTLabel">{% if page.committee_type == 'candidate ie' %}
             Primarily Formed Candidate Committee
             {% elsif page.committee_type == 'ballot measure' %}
             Ballot Measure Committee
@@ -186,8 +192,8 @@
             Slate Mailer Committee
             {% else %}
             Committee
-            {% endif %}
-        </h2>
+            {% endif %}</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -370,7 +376,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totalsTT" aria-labelledby="summary-totalsTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="summary-totalsTTLabel">Summary Totals</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="summary-totalsTTLabel">Summary Totals</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -408,7 +419,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="summary-totals-bmcTT" aria-labelledby="summary-totals-bmcTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="summary-totals-bmcTTLabel">Summary Totals for {{ page.title }}</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="summary-totals-bmcTTLabel">Summary Totals for {{ page.title }}</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -440,7 +456,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="contributorsTT" aria-labelledby="contributorsTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="contributorsTTLabel">About the contributors table</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="contributorsTTLabel">About the contributors table</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -457,7 +478,12 @@
 </div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="expendituresTT" aria-labelledby="expendituresTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="expendituresTTLabel">About the expenditures table</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="expendituresTTLabel">About the expenditures table</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -471,7 +497,12 @@
 </div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="loansTT" aria-labelledby="loansTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="loansTTLabel">About the loans table</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="loansTTLabel">About the loans table</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -485,7 +516,12 @@
 </div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="unpaidBillsTT" aria-labelledby="unpaidBillsTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="unpaidBillsTTLabel">About the unpaid bills table</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="unpaidBillsTTLabel">About the unpaid bills table</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -501,7 +537,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="contributionsOverviewTT"
     aria-labelledby="contributions-overviewTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="contributions-overviewTTLabel">Contributions Overview</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="contributions-overviewTTLabel">Contributions Overview</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -523,7 +564,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="candidate-committeesTT"
     aria-labelledby="candidate-committeesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="candidate-committeesTTLabel">Candidate Controlled Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="candidate-committeesTTLabel">Candidate Controlled Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -550,7 +596,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="candidate-ie-summaryTT"
     aria-labelledby="candidate-ie-summaryTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="candidate-ie-summaryTTLabel">Candidate Contests</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="candidate-ie-summaryTTLabel">Candidate Contests</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -587,7 +638,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ballot-measure-committeesTT"
     aria-labelledby="ballot-measure-committeesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ballot-measure-committeesTTLabel">Ballot Measure Contests</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ballot-measure-committeesTTLabel">Ballot Measure Contests</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -613,7 +669,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ballot-measure-activesTT"
     aria-labelledby="ballot-measure-activesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ballot-measure-activesTTLabel">Active Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ballot-measure-activesTTLabel">Active Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -641,7 +702,12 @@
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ballot-measure-multicommitteesTT"
     aria-labelledby="ballot-measure-multicommitteesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ballot-measure-multicommitteesTTLabel">Multi-Ballot Measure Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ballot-measure-multicommitteesTTLabel">Multi-Ballot Measure Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -663,7 +729,12 @@
 </div>
 <div class="offcanvas offcanvas-start" tabindex="-1" id="top-contributorsTT" aria-labelledby="top-contributorsTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="top-contributorsTTLabel">Top Contributors</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="top-contributorsTTLabel">Top Contributors</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -692,7 +763,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="top-spending-committeesTT" aria-labelledby="top-spending-committeesTTLabel" data-bs-scroll="true">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="top-spending-committeesTTLabel">Top Spending Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="top-spending-committeesTTLabel">Top Spending Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -708,7 +784,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-supportTT" aria-labelledby="ie-supportTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ie-supportTTLabel">Third-Party Support</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ie-supportTTLabel">Third-Party Support</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -729,7 +810,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-opposeTT" aria-labelledby="ie-opposeTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ie-opposeTTLabel">Third-Party Opposition</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ie-opposeTTLabel">Third-Party Opposition</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -750,7 +836,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-committeesTT" aria-labelledby="ie-committeesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ie-committeesTTLabel">Third Party Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ie-committeesTTLabel">Third Party Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -775,7 +866,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-measuresTT" aria-labelledby="ie-measuresTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ie-measuresTTLabel">Independent Expenditures Supporting/Opposing Ballot Measures</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ie-measuresTTLabel">Independent Expenditures Supporting/Opposing Ballot Measures</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -796,7 +892,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="ie-candidatesTT" aria-labelledby="ie-candidatesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="ie-candidatesTTLabel">Independent Expenditures Supporting/Opposing Candidates</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="ie-candidatesTTLabel">Independent Expenditures Supporting/Opposing Candidates</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -817,7 +918,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="f497p2TT" aria-labelledby="f497p2TTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="f497p2TTLabel">Late Period Contributions Made</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="f497p2TTLabel">Late Period Contributions Made</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
@@ -831,8 +937,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="schedule-dTT" aria-labelledby="schedule-dTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="schedule-dTTLabel">Expenditures Supporting/Opposing Candidates, Measures
-            and Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="schedule-dTTLabel">Expenditures Supporting/Opposing Candidates, Measures and Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">
@@ -856,7 +966,12 @@
 
 <div class="offcanvas offcanvas-start" tabindex="-1" id="third-party-committeesTT" aria-labelledby="third-party-committeesTTLabel">
     <div class="offcanvas-header">
-        <h2 class="offcanvas-title fs-5" id="third-party-committeesTTLabel">Third Party Committees</h2>
+        <div class="offcanvas-heading">
+            <div class="icon-badge" aria-hidden="true">
+                <i class="fa-regular fa-circle-info" aria-hidden="true"></i>
+            </div>
+            <h2 class="offcanvas-title" id="third-party-committeesTTLabel">Third Party Committees</h2>
+        </div>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body text-secondary">

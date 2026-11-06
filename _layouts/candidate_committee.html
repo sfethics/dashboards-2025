@@ -2,7 +2,7 @@
 layout: default
 electionnav: true
 ---
-<div class="border-bottom border-1 border-tertiary-subtle">
+<div class="page-title-area">
     <div class="container">
         <div class="row">
             <div class="d-flex flex-column flex-md-row align-items-md-end justify-content-between gap-3 mb-3 mt-3">
@@ -132,9 +132,9 @@ electionnav: true
         {%- endif -%}
         {% else %}
         <div class="col-12">
-            <div class="alert alert-dark mb-0">
+            <p class="mb-0">
                 This committee has no financial activity reported during the <span>{{page.election | date: "%B%e, %Y" }}</span> election cycle.
-            </div>
+            </p>
         </div>
         {% endif %}
     </div>
