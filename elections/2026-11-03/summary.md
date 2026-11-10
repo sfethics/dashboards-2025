@@ -32,14 +32,14 @@ candidate_pf:
   contest_nid: '214443849'
   contest_name: Board of Supervisors D10
   contest_link: bos10
-  funds: 885604.7
+  funds: 901444.7
   expenses: 623113.53
   ies: ''
 - committee_type: candidate
   contest_nid: '214772786'
   contest_name: Board of Supervisors D08
   contest_link: bos08
-  funds: 1638568.14
+  funds: 1651618.14
   expenses: 1255906.31
   ies: ''
 - committee_type: candidate
