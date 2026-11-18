@@ -126,33 +126,11 @@
                     {%- endif -%}
                     <p>
                         {%- assign base_url =
-                        "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Transactions/pitq-e56w/explore/query/"
+                        "https://data.sf.gov/City-Management-and-Ethics/Campaign-Finance-Transactions/pitq-e56w/explore/query/"
                         -%}
 
                         {%- capture sql_query -%}
-                        SELECT
-                        `filing_id_number`,
-                        `filing_date`,
-                        `start_date`,
-                        `end_date`,
-                        `fppc_id`,
-                        `filer_name`,
-                        `filer_type`,
-                        `calculated_amount`,
-                        `calculated_date`,
-                        `form_type`,
-                        `transaction_id`,
-                        `transaction_first_name`,
-                        `transaction_last_name`,
-                        `transaction_amount_1`,
-                        `transaction_amount_2`,
-                        `transaction_date`,
-                        `transaction_description`,
-                        `transaction_city`,
-                        `transaction_state`,
-                        `transaction_zip`,
-                        `transaction_occupation`,
-                        `transaction_employer`
+                        SELECT `filing_id_number`,`filing_date`,`start_date`,`end_date`,`fppc_id`,`filer_name`,`filer_type`,`calculated_amount`,`calculated_date`,`form_type`,`transaction_id`,`transaction_first_name`,`transaction_last_name`,`transaction_amount_1`,`transaction_amount_2`,`transaction_date`,`transaction_description`,`transaction_city`,`transaction_state`,`transaction_zip`,`transaction_occupation`,`transaction_employer`
                         WHERE caseless_one_of(`fppc_id`, "{{ page.filer_id }}")
                         ORDER BY `filing_date` DESC NULL FIRST
                         {%- endcapture -%}
@@ -327,33 +305,11 @@
                     {%- endif -%}
                     <p>
                         {%- assign base_url =
-                        "https://data.sfgov.org/City-Management-and-Ethics/Campaign-Finance-Transactions/pitq-e56w/explore/query/"
+                        "https://data.sf.gov/City-Management-and-Ethics/Campaign-Finance-Transactions/pitq-e56w/explore/query/"
                         -%}
 
                         {%- capture sql_query -%}
-                        SELECT
-                        `filing_id_number`,
-                        `filing_date`,
-                        `start_date`,
-                        `end_date`,
-                        `fppc_id`,
-                        `filer_name`,
-                        `filer_type`,
-                        `calculated_amount`,
-                        `calculated_date`,
-                        `form_type`,
-                        `transaction_id`,
-                        `transaction_first_name`,
-                        `transaction_last_name`,
-                        `transaction_amount_1`,
-                        `transaction_amount_2`,
-                        `transaction_date`,
-                        `transaction_description`,
-                        `transaction_city`,
-                        `transaction_state`,
-                        `transaction_zip`,
-                        `transaction_occupation`,
-                        `transaction_employer`
+                        SELECT `filing_id_number`,`filing_date`,`start_date`,`end_date`,`fppc_id`,`filer_name`,`filer_type`,`calculated_amount`,`calculated_date`,`form_type`,`transaction_id`,`transaction_first_name`,`transaction_last_name`,`transaction_amount_1`,`transaction_amount_2`,`transaction_date`,`transaction_description`,`transaction_city`,`transaction_state`,`transaction_zip`,`transaction_occupation`,`transaction_employer`
                         WHERE caseless_one_of(`fppc_id`, "{{ page.filer_id }}")
                         ORDER BY `filing_date` DESC NULL FIRST
                         {%- endcapture -%}

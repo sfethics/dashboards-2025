@@ -25,7 +25,7 @@ electionnav: true
                         </span>
                         {%- if page.pubfi.participant == 'True' -%}
                         {% assign col-class-totals = "col-lg-4" %}
-                        <span class="badge rounded-pill bg-dark border border-dark">
+                        <span class="badge rounded-pill bg-dark border border-dark px-3 py-1">
                             Publicly Financed Candidate
                         </span>
                         {%- else -%}
@@ -33,7 +33,7 @@ electionnav: true
                         {%- endif -%}
                         {% assign incumbent_filer_ids = site.data.measure_candidate_data[page.election].incumbent_filer_ids %}
                         {% if incumbent_filer_ids != empty and incumbent_filer_ids contains page.filer_id %}
-                        <span class="badge rounded-pill bg-primary border border-primary">
+                        <span class="badge rounded-pill bg-primary border border-primary px-3 py-1">
                             Incumbent Candidate
                         </span>
                         {% endif %}
